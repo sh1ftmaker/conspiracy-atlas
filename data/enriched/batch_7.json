@@ -1,0 +1,402 @@
+[
+  {
+    "id": "third-secret-fatima",
+    "name": "Third Secret of Fatima",
+    "aliases": ["Fatima secret conspiracy", "Vatican suppression of Fatima"],
+    "genre": "religion-occult",
+    "year": 1960,
+    "truth": 45,
+    "impact": 35,
+    "notoriety": 48,
+    "summary": "Catholic tradition holds that a child visionary wrote down three secrets revealed by the Virgin Mary in 1917, with the third secret sealed in an envelope not to be opened until 1960. In 1960, Pope John XXIII chose not to release it. A written text was eventually published by Pope John Paul II in 2000, but some contend the full secret was never revealed or that Vatican distorted it.",
+    "evidence_for": [
+      "The Vatican's decision in 1960 to suppress the secret was unusual and never fully explained at the time",
+      "The 2000 text released by the Vatican is disputed by some as incomplete; critics note it was originally a vision, not a letter as Lúcia described writing it",
+      "Historical Catholic bishops and cardinals debated the secret's contents for decades",
+      "Unequivocal Vatican secrecy around religious matters has historical precedent"
+    ],
+    "evidence_against": [
+      "Pope John XXIII's private secretary, Archbishop Capovilla, testified in 2007 that the released text matched what he read in 1959",
+      "The 2000 official text describes a vision of papal suffering, consistent with John Paul II's theology and relatively mundane",
+      "Multiple Vatican officials have repeatedly confirmed no fourth secret exists",
+      "The suppression delay itself is explained as prudence during Cold War tensions, not evidence of falsification"
+    ],
+    "related": ["religion-occult"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Three_Secrets_of_F%C3%A1tima"
+  },
+  {
+    "id": "jesus-bloodline",
+    "name": "Holy Blood, Holy Grail / Jesus Bloodline Theory",
+    "aliases": ["Jesus married Mary Magdalene", "Merovingian bloodline conspiracy", "Sacred bloodline"],
+    "genre": "religion-occult",
+    "year": 1982,
+    "truth": 8,
+    "impact": 85,
+    "notoriety": 72,
+    "summary": "The 1982 book 'Holy Blood, Holy Grail' proposed that Jesus married Mary Magdalene, fathered children, and those descendants married into the Merovingian dynasty of southern France, forming a 'sacred bloodline' protected by secret societies. The authors claimed the Holy Grail is both Mary Magdalene's womb and this royal line. The theory became the basis for Dan Brown's 'The Da Vinci Code.'",
+    "evidence_for": [
+      "The historical Merovingian dynasty was a real dynasty ruling Frankish kingdoms",
+      "Mary Magdalene was a prominent figure in Gospel accounts and early Christian tradition",
+      "Medieval Grail legends do refer to bloodline symbolism alongside cup symbolism",
+      "The authors amassed historical circumstantial evidence linking medieval French families and secret groups"
+    ],
+    "evidence_against": [
+      "No historical evidence that Jesus married or had children exists in early Christian documents",
+      "The Merovingian connection is constructed from unverified speculation and imaginative genealogy",
+      "Multiple independent investigations (60 Minutes, BBC, Discovery Channel, historians) concluded the book's central claims are pseudohistorical",
+      "A court ruled in 2006 that Brown did not plagiarize from the authors, and the claims themselves are not factual"
+    ],
+    "related": ["religion-occult"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Holy_Blood_and_the_Holy_Grail"
+  },
+  {
+    "id": "shakespeare-authorship",
+    "name": "Shakespeare Authorship Question",
+    "aliases": ["Edward de Vere authorship", "Oxfordian theory", "Anti-Stratfordian"],
+    "genre": "alt-history",
+    "year": 1857,
+    "truth": 42,
+    "impact": 28,
+    "notoriety": 45,
+    "summary": "The authorship of Shakespeare's plays and sonnets is contested by some scholars who argue William Shakespeare of Stratford-upon-Avon was not the author. The most popular alternative theory proposes Edward de Vere, 17th Earl of Oxford, wrote them. The question emerged formally in 1857 with Delia Bacon's work, which proposed group authorship.",
+    "evidence_for": [
+      "Delia Bacon's 1857 philosophical work documented genuine parallels between Shakespeare's works and Oxford's life experiences",
+      "The Oxfordian theory notes Oxford's access to royal courts, his education abroad, and courtly references in the plays",
+      "Oxford died in 1604, before all plays were publicly attributed to Shakespeare, raising timing questions",
+      "Scholars note that Stratford-upon-Avon records of Shakespeare himself are sparse and inconclusive"
+    ],
+    "evidence_against": [
+      "The folio published by Shakespeare's contemporaries in 1623 explicitly credits William Shakespeare",
+      "Hundreds of records document William Shakespeare's activities as an actor and playwright in London's theater scene",
+      "Oxford's contemporaries, including Cecil, never attributed the plays to him; he was known for other writings",
+      "Mainstream literary scholarship and the scholarly consensus overwhelmingly support Shakespeare authorship based on documentary evidence"
+    ],
+    "related": ["alt-history"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Shakespeare_authorship_question"
+  },
+  {
+    "id": "warming-pause-climategate",
+    "name": "Global Warming Pause / Climategate Conspiracy",
+    "aliases": ["Climategate hoax", "climate fraud conspiracy"],
+    "genre": "science-tech",
+    "year": 2009,
+    "truth": 5,
+    "impact": 68,
+    "notoriety": 62,
+    "summary": "In November 2009, hackers stole thousands of emails from the Climatic Research Unit at University of East Anglia. Climate skeptics claimed the emails proved a conspiracy to manipulate climate data and hide a 'global warming pause,' and that scientists were fraudulently inflating warming trends.",
+    "evidence_for": [
+      "The emails were genuine and were stolen; one email referred to 'hiding the decline'",
+      "There was real debate among scientists about data interpretation methods",
+      "The Climatic Research Unit scientists did sometimes use unguarded language in private correspondence",
+      "A small segment of skeptics cited specific emails as evidence of improper methods"
+    ],
+    "evidence_against": [
+      "Nine independent investigations cleared the scientists of wrongdoing; six official reviews supported their honesty and integrity",
+      "The 'hide the decline' email refers to a technical problem with tree-ring data post-1960, not an actual temperature decline",
+      "Global temperatures in the 2000s did NOT pause; the 2000-2009 decade was the warmest on record at the time",
+      "The myth of a 'pause' conflates short-term variability with long-term warming trend; climate data continues to show warming"
+    ],
+    "related": ["science-tech"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy"
+  },
+  {
+    "id": "fake-snow",
+    "name": "Fake Snow / 'Government Snow' Conspiracy",
+    "aliases": ["fake snow hoax", "Bill Gates snow"],
+    "genre": "science-tech",
+    "year": 2021,
+    "truth": 2,
+    "impact": 32,
+    "notoriety": 48,
+    "summary": "In February 2021, viral TikTok videos claimed that snow in Texas was 'fake' or man-made, with conspiracists setting snowballs on fire with lighters as 'proof.' Claims blamed the government, Bill Gates, or chemtrails for the supposed artificial snow.",
+    "evidence_for": [
+      "Real snow does show unusual properties when filmed with lighters due to soot and incomplete combustion",
+      "There are genuine military and scientific cloud-seeding and weather-modification research programs",
+      "Some people genuinely observed what they perceived as anomalous snow behavior"
+    ],
+    "evidence_against": [
+      "When compressed snow is heated by a lighter, soot (black carbon from incomplete butane combustion) accumulates; this is ordinary chemistry, not proof of fake snow",
+      "The snow's initial resistance to melting is explained by porosity and water absorption in compressed crystals",
+      "Snopes had already debunked the identical claim in 2014; no new evidence of fake snow has ever emerged",
+      "Atmospheric scientists unanimously reject the claim; no mechanism for large-scale artificial snow exists"
+    ],
+    "related": ["science-tech"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Fake_snow_conspiracy_theory"
+  },
+  {
+    "id": "mh370-diego-garcia",
+    "name": "MH370 Diego Garcia Landing Theory",
+    "aliases": ["Malaysia Airlines MH370 Diego Garcia"],
+    "genre": "government",
+    "year": 2014,
+    "truth": 6,
+    "impact": 52,
+    "notoriety": 68,
+    "summary": "After Malaysia Airlines Flight 370 disappeared on March 8, 2014, conspiracy theorists claimed the aircraft landed at Diego Garcia, a secretive U.S. Naval base in the Indian Ocean. Theories alleged the U.S. military captured the plane and hidden its fate, possibly to prevent disclosure of sensitive information or personnel aboard.",
+    "evidence_for": [
+      "Diego Garcia is a real, highly secretive U.S. military facility with a long runway capable of landing large aircraft",
+      "Initial investigations did not immediately locate the aircraft, creating uncertainty and speculation",
+      "The disappearance occurred near the Maldives, in the general direction of Diego Garcia",
+      "Media initially reported some simulators found in the pilot's home showed Diego Garcia runway data"
+    ],
+    "evidence_against": [
+      "Satellite handshake data definitively shows MH370 flying south across the Indian Ocean, not northwest toward Diego Garcia",
+      "Debris confirmed from MH370 (wing parts, fuselage sections) washed up on shores consistent with a southern crash, not Diego Garcia",
+      "Oceanographic modeling of ocean currents precisely matches the debris drift from a southern crash point",
+      "The FBI investigated the simulator claims and found them 'unsubstantiated and unsourced'",
+      "The U.S. military and CIA both denied the claim; no credible radar or tracking evidence supports Diego Garcia"
+    ],
+    "related": ["government"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370_disappearance_theories"
+  },
+  {
+    "id": "amelia-earhart-japan",
+    "name": "Amelia Earhart Japanese Capture Theory",
+    "aliases": ["Earhart captured by Japan", "Earhart Saipan theory"],
+    "genre": "deaths",
+    "year": 1943,
+    "truth": 32,
+    "impact": 35,
+    "notoriety": 52,
+    "summary": "The theory proposes that aviator Amelia Earhart, missing since 1937, was captured by Japanese soldiers during World War II and either interrogated, imprisoned, or executed. Some versions claim she survived on a Pacific island. Purported evidence has surfaced repeatedly, including photographs allegedly showing her alive in Japanese custody.",
+    "evidence_for": [
+      "Earhart disappeared in 1937 near territories under Japanese control in the Pacific",
+      "Japan's knowledge of U.S. aviation capabilities may have motivated capture of a prominent pilot",
+      "Some eyewitness accounts from Pacific islanders claim to have seen a foreign woman matching Earhart's description during WWII",
+      "The long suppression of some U.S. and Japanese wartime records fueled speculation"
+    ],
+    "evidence_against": [
+      "The 2017 History Channel documentary's main evidence—a photograph allegedly showing Earhart—was proven to have been published in 1935, two years before her disappearance",
+      "The Japanese government officially investigated and concluded 'there appears no basis whatsoever to the allegations' and Earhart was never on Saipan",
+      "Geographic and aeronautical evidence rules out a flight path to the Marshall Islands; the plane's fuel and range would not allow it",
+      "No credible physical evidence (remains, documents, witnesses with verifiable proximity) has ever been produced"
+    ],
+    "related": ["deaths"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Disappearance_of_Amelia_Earhart"
+  },
+  {
+    "id": "roswell-alien-autopsy",
+    "name": "Roswell Alien Autopsy Film",
+    "aliases": ["1995 autopsy film", "Ray Santilli alien footage"],
+    "genre": "extraterrestrial",
+    "year": 1995,
+    "truth": 3,
+    "impact": 60,
+    "notoriety": 68,
+    "summary": "In 1995, British producer Ray Santilli released a pseudo-documentary containing grainy black-and-white footage purporting to show an alien autopsy conducted after the 1947 Roswell incident. Fox Television broadcast it to high ratings on August 28, 1995, titled 'Alien Autopsy: Fact or Fiction.' The footage was claimed to have been recovered by Santilli from a cameraman who filmed the original autopsy.",
+    "evidence_for": [
+      "The footage was visually compelling and presented with pseudo-documentary authenticity",
+      "Santilli initially claimed he had traced an original cameraman to obtain the film",
+      "The high television ratings showed public interest and uncertainty about its authenticity",
+      "The grainy, black-and-white quality made detailed analysis difficult initially"
+    ],
+    "evidence_against": [
+      "Santilli later admitted the footage was a hoax he created in a London flat",
+      "Physicians noted the 'surgeons' held instruments incorrectly and did not perform real surgical procedures",
+      "Special-effects experts identified the 'alien' body as rubber, the 'blood' as jam, and the 'intestines' as chicken parts",
+      "The film reels labeled 'Department of Defense' used anachronistic terminology (the agency wasn't named that until 1949, not 1947)",
+      "Sculptor John Humphreys confirmed he fabricated the alien body per Santilli's specifications"
+    ],
+    "related": ["extraterrestrial", "roswell", "ufo-coverup"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alien_Autopsy_(1995_film)"
+  },
+  {
+    "id": "men-in-black",
+    "name": "Men in Black",
+    "aliases": ["MIB UFO intimidation", "mysterious visitors"],
+    "genre": "extraterrestrial",
+    "year": 1953,
+    "truth": 28,
+    "impact": 45,
+    "notoriety": 62,
+    "summary": "UFO folklore claims that mysterious men in dark suits visit UFO witnesses and researchers to intimidate them into silence about extraterrestrial contact. The concept was popularized by ufologist Albert K. Bender in the mid-1950s and has become a cultural archetype. Claims range from government agents to alien entities to interdimensional beings.",
+    "evidence_for": [
+      "Albert K. Bender's 1953-1955 accounts of visits by men in dark suits are documented in UFO literature",
+      "Harold Dahl claimed a man in a dark suit warned him in 1947 not to discuss his Maury Island UFO sighting",
+      "Some government agencies have indeed contacted researchers about classified programs",
+      "The pattern has been reported by enough witnesses to create a persistent cultural narrative"
+    ],
+    "evidence_against": [
+      "Bender offered no verifiable evidence of the supposed visits; he recanted his claims",
+      "The Maury Island incident was investigated by the U.S. government and deemed a hoax; Dahl and Crisman later admitted fabricating it",
+      "Jerome Clark and ufologists note that MIB encounters 'don't seem to have occurred in the world of consensus reality'",
+      "No physical evidence, photographs, or verifiable witness testimony has ever been produced",
+      "The narrative parallels folklore and psychological patterns more closely than documented events"
+    ],
+    "related": ["extraterrestrial", "ufo-coverup"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Men_in_black"
+  },
+  {
+    "id": "disclosure-project",
+    "name": "Disclosure Project",
+    "aliases": ["Steven Greer disclosure", "National Press Club hearing"],
+    "genre": "extraterrestrial",
+    "year": 2001,
+    "truth": 48,
+    "impact": 72,
+    "notoriety": 68,
+    "summary": "In 2001, Dr. Steven Greer founded the Disclosure Project, coordinating hundreds of government, military, and corporate witnesses claiming firsthand knowledge of UFOs and extraterrestrial evidence. A National Press Club conference in Washington on May 9, 2001, featured over 20 such witnesses publicly testifying, reaching an estimated one billion viewers worldwide and credited with launching modern UAP disclosure efforts.",
+    "evidence_for": [
+      "The May 9, 2001, National Press Club conference was a real event with genuine military and government figures in attendance",
+      "Greer documented over 800 purported whistleblowers willing to testify under oath",
+      "Some witnesses (e.g., former U.S. Navy pilots) held credible positions with access to classified information",
+      "The event preceded and may have contributed to official government acknowledgment of UAP phenomena in later years",
+      "Congressional hearings on UAP occurred in 2023, validating some of the disclosure narrative"
+    ],
+    "evidence_against": [
+      "No physical alien artifacts or definitive evidence has been produced by the Disclosure Project despite decades of claims",
+      "Many witness testimonies remain anecdotal and unverifiable; some have been disputed or debunked",
+      "The project blurs the line between documented government UAP interest (confirmed) and claims of alien technology (unproven)",
+      "Greer has made additional claims about energy suppression and extraterrestrial contact that remain unverified",
+      "The 2001 press conference did not result in immediate government disclosure; official acknowledgment came slowly and from independent investigations"
+    ],
+    "related": ["extraterrestrial", "ufo-coverup", "pentagon-uap-disclosure"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Steven_M._Greer"
+  },
+  {
+    "id": "pentagon-uap-disclosure",
+    "name": "Pentagon UAP Disclosure / 2017-2023 UAP Videos",
+    "aliases": ["Navy UAP videos", "Nimitz encounter footage", "official UFO videos"],
+    "genre": "extraterrestrial",
+    "year": 2017,
+    "truth": 65,
+    "impact": 78,
+    "notoriety": 80,
+    "summary": "Between 2017 and 2023, the U.S. Pentagon and Navy officially released and authenticated multiple videos showing unidentified aerial phenomena (UAP) recorded by military pilots and drone systems. The videos show fast-moving objects with unexplained flight characteristics. The Pentagon established an official UAP task force and later the All-domain Anomaly Resolution Office (AARO), confirming that the government investigates these phenomena as a national security concern.",
+    "evidence_for": [
+      "The Pentagon officially authenticated three Navy videos from 2004 and 2015 in 2020 and 2021 statements",
+      "Pilots, including Cmdr. David Fravor, have testified under oath about their encounters with these objects",
+      "The objects displayed flight characteristics (acceleration, maneuverability) unexplained by known physics or aircraft",
+      "The U.S. government established the UAP Task Force (2020) and AARO (2022), confirming official investigation",
+      "Congressional hearings in 2023 featured military witnesses and former Pentagon officials discussing UAP as real phenomena"
+    ],
+    "evidence_against": [
+      "Identification as definitively 'extraterrestrial' remains unproven; UAP means unidentified, not alien",
+      "Many sightings have conventional explanations: classified aircraft, advanced drones, sensor artifacts, balloons, or misidentification",
+      "The Pentagon has not produced physical alien evidence despite decades of UAP investigations",
+      "Recent AARO reports (2024) suggest most UAP have earthly explanations; the 'mystery' persists mainly among unexplained cases, not confirmed alien contact"
+    ],
+    "related": ["extraterrestrial", "ufo-coverup", "disclosure-project"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pentagon_UFO_videos"
+  },
+  {
+    "id": "wow-signal",
+    "name": "Wow! Signal Alien Contact",
+    "aliases": ["Wow signal", "Chi Sagittarii signal", "Ohio State radio signal"],
+    "genre": "extraterrestrial",
+    "year": 1977,
+    "truth": 48,
+    "impact": 75,
+    "notoriety": 60,
+    "summary": "On August 15, 1977, astronomer Jerry Ehman detected a strong, narrowband radio signal at Ohio State University's Big Ear radio telescope while searching for extraterrestrial intelligence. The signal appeared to come from Sagittarius, exhibited hallmarks consistent with intentional transmission, and has never been convincingly explained or repeated, earning the designation 'Wow!' after Ehman's notation. Some argue it was evidence of alien contact; others propose natural or terrestrial explanations.",
+    "evidence_for": [
+      "The Wow! signal was a genuine, strong narrowband signal detected at approximately 1420.456 MHz (the hydrogen line, a region considered optimal for ET communication)",
+      "The signal exhibited a high signal-to-noise ratio (30:1) and lasted for the full 72-second observation window",
+      "No known terrestrial source at that strength could be identified at the time",
+      "The signal's characteristics (narrowband, sustained, appropriate frequency) matched predictions for intentional extraterrestrial transmission",
+      "Decades of follow-up observations have not located a repeat signal from the same location"
+    ],
+    "evidence_against": [
+      "The signal was detected only once in decades of observation; no repeat detection or confirmation",
+      "Recent research (2020-2024) has proposed that cometary hydrogen clouds at the signal location could produce similar emissions, offering a natural explanation",
+      "No follow-up survey by other observatories has corroborated the signal",
+      "The signal remains unidentified but 'unidentified' does not equal 'extraterrestrial'; natural astrophysical phenomena, terrestrial interference, or instrumental error remain possible"
+    ],
+    "related": ["extraterrestrial", "ufo-coverup"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Wow!_signal"
+  },
+  {
+    "id": "hollow-moon",
+    "name": "Moon Is Hollow / Artificial Moon Theory",
+    "aliases": ["Spaceship moon", "artificial moon", "hollow moon hypothesis"],
+    "genre": "extraterrestrial",
+    "year": 1970,
+    "truth": 6,
+    "impact": 85,
+    "notoriety": 55,
+    "summary": "The theory claims that Earth's Moon is hollow or artificially constructed by an advanced alien civilization, not a natural celestial body. The hypothesis relies on the Moon's density (lower than Earth's), Apollo moonquake data, and speculative reinterpretations of lunar science. The theory gained traction after 1970 when Soviet writers Vasin and Shcherbakov published a speculative paper suggesting the Moon could be an artificial structure.",
+    "evidence_for": [
+      "The Moon's mean density (3.3 g/cm³) is lower than Earth's (5.5 g/cm³), which believers cite as evidence of hollowness",
+      "Apollo 12 astronauts deliberately crashed the Lunar Module, and NASA reported the Moon 'rang like a bell' for almost an hour",
+      "The Moon's size relative to Earth and its orbit are geometrically unusual compared to other planetary moons",
+      "The Vasin-Shcherbakov 1970 paper offered a speculative hypothesis with the appearance of scientific reasoning"
+    ],
+    "evidence_against": [
+      "The Moon's density is explained by its composition and formation; it is compositionally different from Earth, making direct density comparison misleading",
+      "The 'ringing' of the Moon was a minor seismic resonance, not evidence of hollowness; solid bodies ring when struck",
+      "Seismic data from Apollo missions and subsequent lunar orbiters definitively show the Moon has a differentiated interior: crust, mantle, and a smaller, dense core",
+      "No physical evidence of artificial construction or internal voids exists",
+      "The theory is unfalsifiable and contradicted by well-established lunar science"
+    ],
+    "related": ["extraterrestrial"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hollow_Moon"
+  },
+  {
+    "id": "antarctica-hidden",
+    "name": "Antarctica Hidden Truth Theories",
+    "aliases": ["Antarctica mysteries", "Antarctic secrets", "Antarctica discoveries"],
+    "genre": "alt-history",
+    "year": 2016,
+    "truth": 18,
+    "impact": 65,
+    "notoriety": 58,
+    "summary": "A broad category of conspiracy theories claim Antarctica harbors hidden truths: ancient advanced civilizations, Nazi bases, lost technology, portals to a hollow Earth, or alien installations. Theories intensified around 2016 after Google Earth imagery showed pyramid-shaped mountains. Proponents cite Antarctic remoteness, restricted access, and historical secrecy to justify their claims.",
+    "evidence_for": [
+      "Antarctica's extreme remoteness and harsh conditions limit civilian access and investigation",
+      "Pyramid-shaped mountain in Antarctica (Mount Jackson) has unusual geometric symmetry that visually resembles artificial structures to some observers",
+      "Nazi Germany did establish a Antarctic research base in 1938-1939, giving historical precedent to secret operations there",
+      "The Piri Reis Map (1513) shows unusual precision regarding unknown coastlines, feeding speculation about pre-modern advanced knowledge",
+      "Limited scientific publication and access to some Antarctic data creates genuine information gaps"
+    ],
+    "evidence_against": [
+      "The pyramid mountain's geometry is explained by natural glacial erosion and freeze-thaw processes, confirmed by geological analysis",
+      "Antarctica is visited by thousands of tourists and scientists yearly; no evidence of hidden structures or civilizations has emerged",
+      "The Piri Reis Map's accuracy is disputed; modern analysis shows it relies on known 16th-century sources, not lost ancient maps",
+      "Nazi base in Antarctica was a modest whaling station and research facility, documented and ordinary for its time",
+      "Scientific stations in Antarctica operate transparently; international treaties and multinational presence prevent secret projects"
+    ],
+    "related": ["alt-history", "extraterrestrial"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Antarctica"
+  },
+  {
+    "id": "flat-earth-ice-wall",
+    "name": "Flat Earth Ice Wall / Antarctica Guard Theory",
+    "aliases": ["flat earth Antarctica", "ice wall conspiracy", "Operation Fishbowl"],
+    "genre": "science-tech",
+    "year": 2015,
+    "truth": 1,
+    "impact": 90,
+    "notoriety": 75,
+    "summary": "Modern flat-Earth theory proposes that Earth is an infinite flat plane with Antarctica as a massive ice wall ringing the edge, preventing people from falling off or discovering what lies beyond. Proponents claim NASA and world governments secretly guard the ice wall to hide the 'true' nature of Earth. The theory gained widespread online presence around 2015.",
+    "evidence_for": [
+      "The everyday visual horizon appears flat to human observers",
+      "Antarctica is remote and restricted in some areas, which believers cite as evidence of a guard operation",
+      "Historical maps show various depictions of unknown lands beyond known geography, fueling speculation about hidden areas",
+      "Distrust of government and space agencies provides motivational ground for the theory"
+    ],
+    "evidence_against": [
+      "Satellite imagery from NASA, SpaceX, and independent companies from multiple countries all confirm Earth is spherical",
+      "Thousands of private citizens visit Antarctica yearly; no one has reported an ice wall or barrier",
+      "The spherical Earth has been confirmed by ancient observation (Eratosthenes ~240 BCE), physics, circumnavigation, and direct photography",
+      "A flat-Earth expedition in 2024 to Antarctica explicitly aimed to test the theory; a prominent flat-Earth advocate acknowledged witnessing the midnight sun, which disproves flat Earth",
+      "The conspiracy would require impossible coordination among rival nations, private companies, and independent scientists globally"
+    ],
+    "related": ["science-tech"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Modern_flat_Earth_beliefs"
+  }
+]

@@ -1,0 +1,597 @@
+[
+  {
+    "id": "cointelpro-black-panther",
+    "name": "COINTELPRO: Black Panther Targeting",
+    "aliases": ["FBI Black Panther counterintelligence program", "Fred Hampton assassination COINTELPRO"],
+    "genre": "espionage",
+    "year": 1969,
+    "truth": 97,
+    "impact": 55,
+    "notoriety": 55,
+    "summary": "Beginning in 1968–1969, the FBI's COINTELPRO program specifically targeted the Black Panther Party — which J. Edgar Hoover called 'the greatest threat to the internal security of the country' — with infiltration, forged letters meant to incite deadly rivalries, and close coordination with local police that culminated in the December 1969 killing of Chicago chapter leader Fred Hampton during a police raid built on floor-plan intelligence supplied by an FBI informant.",
+    "evidence_for": [
+      "Files stolen from the FBI's Media, Pennsylvania office in 1971 documented explicit COINTELPRO directives against the BPP",
+      "Church Committee testimony (1975-76) confirmed forged-letter and agent-provocateur tactics used to incite Panther infighting",
+      "FBI informant William O'Neal supplied a detailed floor plan of Fred Hampton's apartment to Chicago police before the December 4, 1969 raid that killed him",
+      "A 1982 federal civil settlement found the FBI, Chicago police, and Cook County jointly liable for Hampton's death"
+    ],
+    "evidence_against": [
+      "None credible — the program's existence, its specific tactics, and the Hampton case are established historical and legal fact",
+      "The main residual debate among historians is how far up the chain of command explicit approval for lethal outcomes reached, not whether the program targeted the Panthers"
+    ],
+    "related": ["cointelpro", "mlk-assassination", "deep-state", "church-committee"],
+    "depends_on": ["cointelpro"],
+    "wikipedia": "https://en.wikipedia.org/wiki/COINTELPRO#Black_Panther_Party"
+  },
+  {
+    "id": "church-committee",
+    "name": "Church Committee Revelations",
+    "aliases": ["Senate Select Committee to Study Governmental Operations", "Frank Church Committee"],
+    "genre": "government",
+    "year": 1975,
+    "truth": 99,
+    "impact": 66,
+    "notoriety": 50,
+    "summary": "A 1975–1976 U.S. Senate committee chaired by Frank Church investigated decades of intelligence-agency abuses, confirming CIA assassination plots against foreign leaders, the FBI's COINTELPRO operations, the CIA's MKUltra mind-control program, NSA mail and cable interception, and IRS political targeting — findings that led directly to FISA and permanent congressional intelligence oversight.",
+    "evidence_for": [
+      "The committee's 14-volume final report and interim reports are public congressional record",
+      "CIA Director William Colby's 'Family Jewels' disclosures corroborated the committee's findings",
+      "Directly produced the Foreign Intelligence Surveillance Act (1978) and standing House/Senate intelligence oversight committees",
+      "Confirmed programs the relevant agencies had previously denied or concealed, including MKUltra and assassination planning against Castro, Lumumba, and others"
+    ],
+    "evidence_against": [
+      "None — a proven, government-acknowledged historical record",
+      "Some critics argue the committee's reforms were incomplete and agencies later found workarounds (e.g., post-9/11 surveillance expansion), but this doesn't undercut the historical findings themselves"
+    ],
+    "related": ["mkultra", "cointelpro", "operation-mockingbird", "deep-state", "operation-gladio", "cointelpro-black-panther"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Church_Committee"
+  },
+  {
+    "id": "jonestown-mkultra",
+    "name": "Jonestown MKUltra Theory",
+    "aliases": ["Jonestown CIA experiment theory", "Peoples Temple mind-control theory"],
+    "genre": "government",
+    "year": 1985,
+    "truth": 12,
+    "impact": 48,
+    "notoriety": 34,
+    "summary": "Popularized chiefly by researcher John Judge's 1985 essay 'The Black Hole of Guyana,' this theory holds that the November 1978 deaths of over 900 Peoples Temple members in Jonestown, Guyana were not a cult mass murder-suicide but the deliberate culmination of a CIA mind-control experiment continuing MKUltra research under cover of a religious commune.",
+    "evidence_for": [
+      "MKUltra was real, and the CIA is documented to have used religious and social organizations as unwitting research cover in some subprojects",
+      "Peoples Temple leader Jim Jones had contacts with U.S. officials and the commune was monitored by American diplomats in Guyana",
+      "A U.S. embassy-linked official, Richard Dwyer, was present at Jonestown on the day of the deaths",
+      "Rep. Leo Ryan, killed investigating the commune, had pushed for intelligence-community oversight reforms shortly before his death"
+    ],
+    "evidence_against": [
+      "No declassified document, whistleblower, or forensic finding links MKUltra or any CIA program to Jonestown's internal operations",
+      "Extensive survivor testimony, State Department cables, and the FBI investigation describe a coercive cult dynamic under Jones's personal, documented paranoia and drug abuse — not an external research program",
+      "Dwyer's presence is explained by his ordinary consular duties in Guyana, not covert direction of the commune",
+      "MKUltra had already been shut down and exposed publicly in 1975, three years before Jonestown, making a secret continuation requiring implausible, undetected concealment"
+    ],
+    "related": ["mkultra", "deep-state", "cointelpro", "church-committee"],
+    "depends_on": ["mkultra"],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonestown"
+  },
+  {
+    "id": "fema-camps",
+    "name": "FEMA Camps",
+    "aliases": ["FEMA concentration camps", "FEMA detention centers", "Rex 84 camps"],
+    "genre": "government",
+    "year": 2009,
+    "truth": 4,
+    "impact": 58,
+    "notoriety": 48,
+    "summary": "This theory holds that FEMA has secretly built or designated a nationwide network of camps to intern American citizens en masse once martial law is declared. The claim traces back to a 1982 Posse Comitatus newsletter but reached mass popularity during the Obama era of 2009, notably via Alex Jones, often conflating it with the real but much narrower 1984 Rex 84 contingency plan.",
+    "evidence_for": [
+      "Rex 84, a real 1984 federal contingency plan partly drafted by Oliver North, outlined procedures for detaining large numbers of people (originally framed around undocumented immigrants) during a national emergency",
+      "The historical precedent of Japanese American internment during WWII shows the U.S. government has carried out mass civilian detention before",
+      "FEMA does hold statutory emergency powers and maintains lists of federal facilities that could theoretically be repurposed",
+      "Photographs of ordinary fenced facilities (fairgrounds, rail yards, empty prisons) have circulated widely as purported 'evidence'"
+    ],
+    "evidence_against": [
+      "Every specific site identified as a 'FEMA camp' by researchers, journalists, and even the sites' owners has been shown to be a mundane facility — none contained detention infrastructure for citizens",
+      "Rex 84 addressed a hypothetical immigration/civil-disorder scenario, not a plan to imprison the general citizenry, and was never activated",
+      "No leaked document, contractor, or whistleblower has ever substantiated the alleged camp network despite the theory circulating for over 40 years",
+      "The claim requires perfect, permanent secrecy around a supposedly vast logistical operation — the kind of large-scale secret-keeping that reliably fails elsewhere (Watergate, Snowden)"
+    ],
+    "related": ["deep-state", "new-world-order", "agenda-21", "mass-govt-secrecy"],
+    "depends_on": ["mass-govt-secrecy"],
+    "wikipedia": "https://en.wikipedia.org/wiki/FEMA_camps_conspiracy_theory"
+  },
+  {
+    "id": "agenda-21",
+    "name": "Agenda 21",
+    "aliases": ["UN Agenda 21", "Agenda 21 depopulation plot", "Agenda 2030 conspiracy"],
+    "genre": "new-world-order",
+    "year": 1992,
+    "truth": 6,
+    "impact": 65,
+    "notoriety": 46,
+    "summary": "Agenda 21 was a genuine non-binding UN sustainable-development action plan adopted by 178 governments at the 1992 Rio Earth Summit; the conspiracy theory, propagated heavily by groups like the John Birch Society, reinterprets it as a coercive blueprint for a one-world government that will abolish private property, herd populations into monitored cities, and drastically cut world population.",
+    "evidence_for": [
+      "Agenda 21 is a genuine, publicly available UN document covering land use, consumption, and population issues",
+      "It calls for coordinated international action and behavioral change on sustainability, language critics read as globalist overreach",
+      "Some local governments did adopt 'smart growth' and sustainability plans citing Agenda 21 by name, giving the theory a tangible local hook",
+      "Successor UN frameworks (Agenda 2030 / Sustainable Development Goals) use similar language, feeding the sense of an ongoing, expanding plan"
+    ],
+    "evidence_against": [
+      "Agenda 21 is explicitly non-binding and creates no enforcement mechanism or legal authority over any nation",
+      "The text's actual content focuses on voluntary poverty reduction and environmental planning, not confiscation of property or population reduction",
+      "Municipalities that adopted Agenda 21-inspired plans did so through normal, public local government processes, with no loss of sovereignty or coercion involved",
+      "Three decades after adoption, none of the theory's predicted outcomes (forced urbanization, abolished property rights, population culls) have materialized"
+    ],
+    "related": ["new-world-order", "great-reset", "fema-camps", "climate-lockdown"],
+    "depends_on": ["new-world-order"],
+    "wikipedia": "https://en.wikipedia.org/wiki/Agenda_21"
+  },
+  {
+    "id": "denver-airport-conspiracy",
+    "name": "Denver International Airport Conspiracy Theories",
+    "aliases": ["DIA conspiracy", "Denver airport New World Order theory", "DIA murals conspiracy"],
+    "genre": "new-world-order",
+    "year": 1995,
+    "truth": 4,
+    "impact": 40,
+    "notoriety": 48,
+    "summary": "Denver International Airport, which opened in 1995 after huge cost overruns and delays, is claimed by conspiracy theorists to be a secret New World Order headquarters or elite bunker, citing its unsettling Leo Tanguma murals, a capstone referencing the defunct 'New World Airport Commission,' Masonic symbolism, and extensive underground tunnels.",
+    "evidence_for": [
+      "The Tanguma murals genuinely depict apocalyptic imagery — armed figures, dead children, environmental destruction — that reads as disturbing out of context",
+      "A real dedication capstone bears a Masonic (compass-and-square) symbol and the phrase 'New World Airport Commission'",
+      "The airport's construction was billions over budget and years delayed, fueling suspicion something else was being built",
+      "The airport does have extensive underground infrastructure — a real automated baggage-handling tunnel system"
+    ],
+    "evidence_against": [
+      "Artist Leo Tanguma has publicly stated the murals depict humanity overcoming war and environmental destruction toward peace — the opposite of a sinister blueprint",
+      "The 'New World Airport Commission' was a real but temporary local promotional group formed for the airport's opening ceremonies, not a global cabal",
+      "The 'secret tunnels' are the documented, publicly toured automated baggage system, which notoriously malfunctioned and was partly abandoned — explaining both its existence and the delays",
+      "The airport itself now leans into the joke, publishing tongue-in-cheek content about being a secret base"
+    ],
+    "related": ["new-world-order", "illuminati", "freemasons", "georgia-guidestones"],
+    "depends_on": ["new-world-order"],
+    "wikipedia": "https://en.wikipedia.org/wiki/Denver_International_Airport#Conspiracy_theories"
+  },
+  {
+    "id": "cultural-marxism",
+    "name": "Cultural Marxism",
+    "aliases": ["Frankfurt School conspiracy", "cultural Bolshevism", "Gramscian conspiracy"],
+    "genre": "new-world-order",
+    "year": 1998,
+    "truth": 5,
+    "impact": 58,
+    "notoriety": 45,
+    "summary": "The theory holds that Frankfurt School critical theorists — many of them Jewish emigres who fled Nazi Germany — deliberately engineered a decades-long plan to subvert Western culture, family structures, and Christianity through academia and media, paving the way for a globalist or communist takeover. The term was popularized in U.S. right-wing circles from the late 1990s by paleoconservative writer William S. Lind, gaining further traction at a 2002 speech Lind gave at a Holocaust-denial conference.",
+    "evidence_for": [
+      "Frankfurt School theorists (Adorno, Horkheimer, Marcuse) genuinely wrote extensively critiquing capitalist mass culture, authority, and traditional social structures",
+      "Antonio Gramsci's concept of cultural hegemony describes how ideas and institutions, not just economic control, shape political power — a real strand of Marxist theory",
+      "Critical theory did spread widely through Western humanities departments starting in the mid-20th century",
+      "Real, large-scale cultural shifts in family structure, religiosity, and social attitudes since the 1960s are documented and roughly track a rise in critical-theory-influenced academic disciplines"
+    ],
+    "evidence_against": [
+      "Historians and philosophers who study the Frankfurt School directly find no evidence of any coordinated plan to 'destroy' Western culture — the theorists published openly and disagreed sharply among themselves",
+      "The term 'Cultural Marxism' was coined and weaponized by its opponents (Lind, the Free Congress Foundation), not used by the Frankfurt School itself, and mischaracterizes their actual arguments",
+      "The theory is functionally a repackaging of the Nazi-era antisemitic 'cultural Bolshevism' trope, substituting 'Frankfurt School' for 'international Jewry' while retaining the same conspiratorial structure",
+      "It was directly cited in Anders Breivik's 2011 manifesto justifying his mass killings in Norway",
+      "Large-scale cultural change has many well-documented drivers (economic growth, contraception, mass media, urbanization); attributing it to a single small academic school is empirically unsupported"
+    ],
+    "related": ["new-world-order", "great-replacement", "soros-puppet-master", "protocols-elders-zion"],
+    "depends_on": ["new-world-order"],
+    "wikipedia": "https://en.wikipedia.org/wiki/Cultural_Marxism_conspiracy_theory"
+  },
+  {
+    "id": "eurabia",
+    "name": "Eurabia",
+    "aliases": ["Euro-Arab Axis theory", "Eurabia conspiracy"],
+    "genre": "ethnic-religious",
+    "year": 2005,
+    "truth": 3,
+    "impact": 65,
+    "notoriety": 34,
+    "summary": "Coined by writer Bat Ye'or (Gisèle Littman) and detailed in her 2005 book 'Eurabia: The Euro-Arab Axis,' this theory claims that European elites, in a secret 1970s pact trading Middle Eastern oil access for anti-Israel policies, deliberately opened Europe to mass Muslim immigration in order to Islamize and 'Arabize' the continent, replacing its culture and severing its alliance with the U.S. and Israel.",
+    "evidence_for": [
+      "The real Euro-Arab Dialogue, a series of official EEC-Arab League diplomatic and economic talks, began in the mid-1970s following the 1973 oil crisis",
+      "European immigration from North Africa and the Middle East did increase substantially in the postwar decades, a real demographic trend",
+      "European governments genuinely sought closer ties with Arab oil-producing states after the 1973 embargo, which is documented diplomatic history",
+      "Some European officials have made public remarks about accommodating Muslim immigrant populations that critics cite as corroboration"
+    ],
+    "evidence_against": [
+      "The Euro-Arab Dialogue was an open, publicly documented diplomatic and trade forum, not a secret pact to engineer immigration or cultural replacement",
+      "Immigration to Europe resulted from decolonization, labor shortages, guest-worker programs, and asylum law, not a coordinated demographic plot",
+      "No credible historian has found evidence of any elite agreement to trade Israel policy for engineered Islamization",
+      "The theory has been criticized by scholars as structurally identical to the antisemitic 'Protocols of the Elders of Zion' template, substituting 'Arab/Muslim elites' for 'Jewish elites'",
+      "It has been cited approvingly in the manifesto of Anders Breivik, the 2011 Norway mass murderer, underscoring its real-world violence linkage"
+    ],
+    "related": ["great-replacement", "cultural-marxism", "new-world-order"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Eurabia_conspiracy_theory"
+  },
+  {
+    "id": "love-jihad",
+    "name": "Love Jihad",
+    "aliases": ["Romeo Jihad", "Love Jihad conspiracy theory"],
+    "genre": "ethnic-religious",
+    "year": 2009,
+    "truth": 4,
+    "impact": 38,
+    "notoriety": 34,
+    "summary": "Originating among Hindu nationalist and Christian groups in Kerala around 2009, this theory claims that Muslim men systematically feign romantic interest in Hindu and Christian women as an organized strategy to convert them to Islam and shift India's religious demographics; it has since spread across India and inspired state-level 'anti-conversion' legislation.",
+    "evidence_for": [
+      "Individual interfaith relationships and religious conversions following marriage genuinely occur in India, as anywhere",
+      "The Kerala Catholic Bishops' Council publicly claimed thousands of Christian women had been targeted, giving the narrative institutional backing",
+      "A handful of individual criminal cases involving deception in interfaith relationships have been prosecuted and are cited as proof",
+      "Several Indian states have passed 'anti-love-jihad' or unlawful-conversion laws, which proponents cite as validation"
+    ],
+    "evidence_against": [
+      "Indian police investigations — including a formal 2009 Kerala inquiry and a 2017-18 National Investigation Agency probe into the high-profile Hadiya case — found no evidence of any organized conversion conspiracy",
+      "Kerala police stated outright in 2012 there was 'no substance' to the love jihad claims after investigating dozens of alleged cases",
+      "Academic studies of interfaith marriage statistics show no unusual pattern consistent with an organized campaign",
+      "The theory functions as a moral panic that researchers say has been used to justify vigilante violence and restrictions on women's autonomy",
+      "The Hadiya case, held up as its most prominent 'proof,' ended with the Supreme Court of India upholding the marriage as the free choice of a consenting adult"
+    ],
+    "related": ["great-replacement", "eurabia"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Love_jihad_conspiracy_theory"
+  },
+  {
+    "id": "zog",
+    "name": "Zionist Occupation Government (ZOG)",
+    "aliases": ["ZOG", "Zionist Occupied Government"],
+    "genre": "ethnic-religious",
+    "year": 1976,
+    "truth": 1,
+    "impact": 80,
+    "notoriety": 40,
+    "summary": "First coined in a 1976 article by neo-Nazi Eric Thomson, 'ZOG' claims that the U.S. and other Western governments are secretly controlled behind the scenes by a coordinated Jewish cabal, with elected officials serving merely as public-facing puppets. The term was adopted by white-supremacist groups including the Order and Posse Comitatus and remains current in neo-Nazi and Christian Identity circles. (Catalogued to document a violent, foundational antisemitic canard, not to endorse it.)",
+    "evidence_for": [
+      "Jewish individuals, like members of many other groups, hold prominent positions in Western finance, media, and politics — a fact ZOG proponents distort into evidence of coordinated ethnic control",
+      "Proponents cite texts like the 'Protocols of the Elders of Zion' as if they were authentic evidence, despite the Protocols being a proven forgery"
+    ],
+    "evidence_against": [
+      "No credible evidence of any coordinated Jewish control of any Western government exists; the claim requires treating the ordinary presence of Jewish individuals in public life as proof of ethnic conspiracy, a logical fallacy",
+      "The 'Protocols of the Elders of Zion,' frequently cited as source material, was proven a forgery by the Times of London in 1921, plagiarized from an 1864 political satire unrelated to Jews",
+      "The theory directly motivated real terrorist violence, including the 1984 assassination of Denver radio host Alan Berg by members of the neo-Nazi group the Order, and continues to appear in mass-shooter manifestos",
+      "Western governments are demonstrably fractious and often act against policies any single ethnic lobby would prefer, contradicting the premise of unified covert control",
+      "Mainstream historians classify ZOG as a direct descendant of medieval and modern antisemitic conspiracy myths with no basis in verifiable fact"
+    ],
+    "related": ["protocols-elders-zion", "rothschild-banking", "new-world-order"],
+    "depends_on": ["protocols-elders-zion"],
+    "wikipedia": "https://en.wikipedia.org/wiki/Zionist_Occupation_Government_conspiracy_theory"
+  },
+  {
+    "id": "holocaust-denial",
+    "name": "Holocaust Denial",
+    "aliases": ["Holocaust revisionism", "Holocaust distortion"],
+    "genre": "ethnic-religious",
+    "year": 1978,
+    "truth": 1,
+    "impact": 80,
+    "notoriety": 60,
+    "summary": "Holocaust denial claims that the systematic genocide of six million European Jews by Nazi Germany either did not occur, was greatly exaggerated, lacked centralized extermination intent, or has been fabricated by Jewish groups for political gain. Early individual deniers such as Paul Rassinier emerged in the late 1940s, and the movement was institutionalized with the 1978 founding of the Institute for Historical Review. (Catalogued solely to document and refute a hateful, historically false ideology; not an endorsement.)",
+    "evidence_for": [
+      "Deniers cite disputed post-war forensic reports and the destruction of some camp records by retreating Germans as grounds to claim uncertainty about death-camp mechanics",
+      "Deniers point to genuine early revisions in death-toll estimates for specific camps (which historians themselves refined with better records over time) and misrepresent normal historical refinement as proof of fabrication",
+      "Deniers cite the absence of a single written Hitler order for total extermination — historians attribute this to verbal orders and euphemistic bureaucratic language, well documented via other means — to claim lack of top-down intent"
+    ],
+    "evidence_against": [
+      "The Holocaust is among the most thoroughly documented events in history: Nazi Germany's own administrative records, deportation lists, camp blueprints, and the minutes of the 1942 Wannsee Conference explicitly describe the genocidal program",
+      "Physical evidence at Auschwitz-Birkenau, Treblinka, and other camps — including gas chamber remains, crematoria, and mass graves — has been forensically documented by multiple independent international investigations since 1945",
+      "Tens of thousands of survivor testimonies, perpetrator confessions (including at the Nuremberg and Eichmann trials), and Allied liberation footage corroborate the same account across independent sources",
+      "Death-toll estimate refinements reflect normal historiographic progress with more complete records, not fabrication — the consensus figure of roughly 6 million Jewish victims (out of about 11 million total Nazi victims) has been stable in serious scholarship for decades",
+      "Prominent deniers, notably David Irving in the 2000 Irving v. Lipstadt libel trial, have had their claims examined in court and were found to be deliberate distortions of the historical record",
+      "Holocaust denial is criminalized in numerous countries specifically because of its demonstrated role in inciting antisemitic violence and Nazi rehabilitation"
+    ],
+    "related": ["jewish-bolshevism", "protocols-elders-zion"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Holocaust_denial"
+  },
+  {
+    "id": "blood-libel",
+    "name": "Blood Libel",
+    "aliases": ["Ritual murder accusation", "William of Norwich blood libel"],
+    "genre": "ethnic-religious",
+    "year": 1144,
+    "truth": 0,
+    "impact": 78,
+    "notoriety": 55,
+    "summary": "Beginning with the 1144 death of a boy, William, in Norwich, England, the blood libel is the false medieval and modern accusation that Jews ritually murder Christian (or other non-Jewish) children to use their blood in religious rites, especially around Passover. Monk Thomas of Monmouth popularized the Norwich accusation years after the unsolved death, and the trope recurred across Europe for centuries, repeatedly triggering pogroms. (Catalogued to document a historically lethal antisemitic myth, not to endorse it.)",
+    "evidence_for": [
+      "Proponents historically pointed to unexplained child deaths occurring near Jewish communities and to coerced confessions extracted under torture as 'proof'",
+      "Some later hagiographic accounts (e.g., Thomas of Monmouth's narrative of William of Norwich) were treated as authoritative religious texts for centuries, lending the myth institutional credibility"
+    ],
+    "evidence_against": [
+      "No case of ritual child murder by Jews has ever been substantiated by physical evidence in nearly 900 years of recurring accusations",
+      "William of Norwich's death in 1144 had no evidence linking Jews to it at the time; the accusation was invented four years later by Thomas of Monmouth with no eyewitness or forensic basis",
+      "Jewish religious law explicitly and historically prohibits consuming blood in any form, directly contradicting the premise of the myth",
+      "Numerous confessions used to 'confirm' the libel were extracted under torture, a method known to produce false statements matching whatever narrative the torturer suggests",
+      "Multiple Popes, including Innocent IV in 1247, issued formal declarations rejecting the blood libel as false even in the medieval period",
+      "The myth directly caused the killing of Jewish communities across Europe for centuries and was later revived by the Nazis in propaganda like Der Stürmer"
+    ],
+    "related": ["well-poisoning-black-death", "protocols-elders-zion"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Blood_libel"
+  },
+  {
+    "id": "well-poisoning-black-death",
+    "name": "Well Poisoning / Black Death Jewish Conspiracy",
+    "aliases": ["Black Death well-poisoning accusation", "Jewish plague conspiracy of 1348"],
+    "genre": "ethnic-religious",
+    "year": 1348,
+    "truth": 0,
+    "impact": 82,
+    "notoriety": 42,
+    "summary": "During the Black Death, a rumor arose in Switzerland in autumn 1348 claiming that Jews had conspired internationally to poison Christian wells and cause the plague; confessions extracted under torture from Jews near Lake Geneva spread the accusation down the Rhine, triggering massacres of Jewish communities across dozens of towns, including the annihilation of the entire Jewish populations of Basel and Strasbourg in early 1349. (Catalogued to document a historically genocidal antisemitic myth, not to endorse it.)",
+    "evidence_for": [
+      "Proponents at the time pointed to confessions obtained from arrested Jews as 'proof' the conspiracy was real",
+      "The rapid, terrifying, and poorly understood spread of plague created genuine public panic and a demand for an explanatory scapegoat that authorities and mobs found in existing antisemitic tropes"
+    ],
+    "evidence_against": [
+      "Pope Clement VI issued formal bulls in 1348 declaring the well-poisoning accusation false, noting that Jews were dying of the plague in the same proportions as Christians — clear evidence against a Jewish immunity or conspiracy",
+      "The confessions used as 'proof' were extracted under judicial torture, a method documented even at the time to produce false statements",
+      "Modern epidemiology confirms the Black Death was caused by the bacterium Yersinia pestis, spread primarily via fleas on rodents, with no possible causal link to well contamination",
+      "The scale claimed — a coordinated, continent-wide poisoning campaign by scattered, mutually unconnected small communities — is logistically implausible, and no physical evidence of poisoning was ever produced",
+      "The accusation directly caused the massacre of thousands of Jews in over 200 towns, including the burning alive of the entire Jewish communities of Basel and Strasbourg in 1349 — a documented historical atrocity"
+    ],
+    "related": ["blood-libel", "jewish-bolshevism"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Persecution_of_Jews_during_the_Black_Death"
+  },
+  {
+    "id": "jewish-bolshevism",
+    "name": "Jewish Bolshevism",
+    "aliases": ["Judeo-Bolshevism", "Jewish Communism conspiracy"],
+    "genre": "ethnic-religious",
+    "year": 1917,
+    "truth": 2,
+    "impact": 85,
+    "notoriety": 48,
+    "summary": "Emerging around the 1917 Russian Revolution and heavily promoted by Nazi ideologues like Alfred Rosenberg, this theory claims that Communism was fundamentally a Jewish plot to destroy Christian civilization and seize world power, pointing to the ethnicity of some prominent early Bolsheviks such as Leon Trotsky. The myth was central to Nazi propaganda and used to justify the mass murder of Jews across Eastern Europe during World War II. (Catalogued to document a genocidal historical trope, not to endorse it.)",
+    "evidence_for": [
+      "Some individual Bolshevik and early Soviet figures, including Trotsky (born Lev Bronstein), were of Jewish descent, a real fact conspiracists inflate into evidence of ethnic coordination",
+      "Jewish communities, subject to Tsarist pogroms and legal discrimination, were disproportionately represented in revolutionary and socialist movements generally, which proponents misconstrue as proof of an organized ethnic plot rather than a response to persecution"
+    ],
+    "evidence_against": [
+      "The overwhelming majority of Bolshevik leadership, including Lenin and Stalin, were not Jewish, and Jewish communities were themselves major victims of Soviet repression, purges, and later Stalinist antisemitic campaigns (e.g., the 1952 Night of the Murdered Poets, the 'Doctors' Plot')",
+      "Historians attribute Jewish participation in revolutionary movements to specific socio-political conditions — Tsarist-era pogroms, the Pale of Settlement, exclusion from mainstream institutions — not ethnic coordination",
+      "The theory was fabricated and weaponized primarily by Nazi ideologues (Alfred Rosenberg) to justify the Holocaust, and historians universally regard it as propaganda rather than analysis",
+      "Communism took root and was independently embraced across dozens of countries with negligible Jewish populations (China, Vietnam, Cuba), directly contradicting a coordinated Jewish origin",
+      "The myth is a direct descendant of, and frequently cross-referenced with, the fabricated 'Protocols of the Elders of Zion'"
+    ],
+    "related": ["protocols-elders-zion", "zog", "rothschild-banking"],
+    "depends_on": ["protocols-elders-zion"],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jewish_Bolshevism"
+  },
+  {
+    "id": "khazarian-mafia",
+    "name": "Khazarian Mafia",
+    "aliases": ["Khazarian conspiracy", "Fake Jews theory"],
+    "genre": "ethnic-religious",
+    "year": 2010,
+    "truth": 1,
+    "impact": 76,
+    "notoriety": 28,
+    "summary": "A modern online conspiracy theory claiming that a secret cabal descended from the medieval Khazar Khaganate — falsely framed as 'not real Jews' — controls global banking, media, and politics; it draws on a distorted version of the historical Khazar conversion narrative popularized by Arthur Koestler's 1976 book 'The Thirteenth Tribe' and crystallized on fringe outlets like Veterans Today around 2010, later amplified during the 2022 Russia-Ukraine war.",
+    "evidence_for": [
+      "The Khazar Khaganate was a real medieval Turkic state whose ruling elite, according to several medieval sources, adopted Judaism — a genuine and debated historical episode conspiracists distort into their modern claim",
+      "Arthur Koestler's 1976 popular book speculated (controversially, and since largely discredited by genetic and historical scholarship) that many Ashkenazi Jews descend from Khazar converts, giving the theory a veneer of scholarly origin"
+    ],
+    "evidence_against": [
+      "Modern genetic studies of Ashkenazi Jewish populations show predominantly Middle Eastern ancestry with limited evidence of significant Khazar admixture, contradicting the Khazar-descent premise itself",
+      "Historians note the scale, and even the basic historicity, of a full Khazar elite conversion is contested and, regardless, provides no basis for claims about the ancestry or coordination of any group today",
+      "No evidence supports the existence of any 'Khazarian Mafia' controlling global finance, media, or politics; the claim functions as a rebranding of the older Rothschild/ZOG banking-control canards using invented pseudo-genetic language",
+      "The theory has been weaponized in Russian state-aligned propaganda to delegitimize Ukrainian sovereignty and to malign both Jews and Ukrainians simultaneously, per multiple hate-monitoring organizations",
+      "Its primary promotional outlets (e.g., Veterans Today) have been repeatedly identified by researchers and journalists as unreliable fringe publications with no vetted sourcing"
+    ],
+    "related": ["rothschild-banking", "protocols-elders-zion", "zog"],
+    "depends_on": ["rothschild-banking"],
+    "wikipedia": "https://en.wikipedia.org/wiki/Khazarian_Mafia"
+  },
+  {
+    "id": "obama-birther",
+    "name": "Barack Obama Birther Theory",
+    "aliases": ["Birtherism", "Obama Kenya birth conspiracy"],
+    "genre": "government",
+    "year": 2008,
+    "truth": 1,
+    "impact": 48,
+    "notoriety": 72,
+    "summary": "The birther theory claimed Barack Obama was not born in the United States (usually alleging Kenya) and was therefore constitutionally ineligible to serve as president; it began circulating via anonymous 2008 chain emails, was amplified by figures including Donald Trump from 2011, and persisted despite Hawaii's release of both a short-form certification and, in 2011, the full long-form birth certificate.",
+    "evidence_for": [
+      "Obama's father was Kenyan, and Obama spent part of his childhood in Indonesia and had international family ties, which proponents pointed to as suspicious",
+      "The document released in 2008 was initially a 'Certification of Live Birth' (a short-form abstract), which proponents argued was insufficient proof, fueling calls for the original long-form document",
+      "Some early promotional biographical materials (e.g., a 1991 literary agency booklet) erroneously described Obama as 'born in Kenya,' which proponents seized on as an admission"
+    ],
+    "evidence_against": [
+      "The Hawaii Department of Health confirmed contemporaneous 1961 birth records, and Hawaii officials of both parties repeatedly verified Obama was born in Honolulu",
+      "Two Honolulu newspapers published birth announcements for Obama in August 1961, based on official state birth notifications — records that could not have been fabricated decades later for a future presidential candidacy",
+      "Obama released the full long-form birth certificate in April 2011, which independent forensic document examiners found consistent with genuine Hawaii records of that era",
+      "The 1991 literary-booklet error was confirmed by the agency to be an unauthorized promotional simplification, not sourced from Obama himself",
+      "No court, election board, or investigative body that examined birther claims — including numerous state-level lawsuits — found any merit to them"
+    ],
+    "related": ["obama-secret-muslim", "deep-state"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Barack_Obama_citizenship_conspiracy_theories"
+  },
+  {
+    "id": "obama-secret-muslim",
+    "name": "Obama Secret Muslim Theory",
+    "aliases": ["Obama madrassa theory", "Obama crypto-Muslim conspiracy"],
+    "genre": "government",
+    "year": 2008,
+    "truth": 2,
+    "impact": 28,
+    "notoriety": 55,
+    "summary": "This theory claims Barack Obama secretly practices or sympathizes with Islam and concealed this from voters, citing his middle name Hussein, his Indonesian childhood schooling, and his father's and stepfather's nominal Muslim backgrounds. It spread via chain emails from at least 2004, was amplified by a false, unsourced 2007 Insight Magazine 'madrassa' story, and persisted throughout his presidency despite his lifelong public Christian affiliation.",
+    "evidence_for": [
+      "Obama's father and stepfather were both raised at least nominally Muslim, and Obama's middle name (Hussein) and years living in Muslim-majority Indonesia as a child are real biographical facts proponents cite",
+      "Obama attended a public elementary school in Jakarta for several years, which some early reports mischaracterized as an Islamic religious school"
+    ],
+    "evidence_against": [
+      "CNN and other outlets sent reporters to the Jakarta school Obama attended and confirmed it was a secular public school, not a madrassa, contradicting the central claim of the 2007 Insight Magazine story",
+      "The Insight Magazine report was published without a single named source and without independent verification, and was subsequently discredited by The Washington Post, LA Times, and Chicago Tribune reporting",
+      "Obama has been a practicing Christian throughout his adult public life, was married in a Christian church, and attended Trinity United Church of Christ in Chicago for two decades",
+      "A person's family religious background or childhood schooling does not determine their own adult religious identity, which Obama has consistently and publicly stated is Christian",
+      "Pew Research polling documented the belief was strongly correlated with partisan opposition rather than with any new factual evidence, indicating a politically motivated rather than evidence-driven claim"
+    ],
+    "related": ["obama-birther"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Barack_Obama_religion_conspiracy_theories"
+  },
+  {
+    "id": "clinton-body-count",
+    "name": "Clinton Body Count",
+    "aliases": ["Clinton Death List", "The Clinton Chronicles"],
+    "genre": "deaths",
+    "year": 1993,
+    "truth": 3,
+    "impact": 55,
+    "notoriety": 52,
+    "summary": "This theory alleges that Bill and/or Hillary Clinton ordered or orchestrated the deaths of dozens of associates, aides, and witnesses — most prominently deputy White House counsel Vince Foster — to cover up crimes ranging from Arkansas-era financial dealings to later scandals. It originated with a 1993 list compiled by activist Linda Thompson and was circulated in Congress in 1994 by Rep. William Dannemeyer, later amplified by the 'Clinton Chronicles' video and repeatedly revived (e.g., around Jeffrey Epstein's 2019 death).",
+    "evidence_for": [
+      "Vince Foster, a deputy White House counsel and close Clinton friend, was found dead of a gunshot wound in July 1993 amid the Whitewater investigation, a genuinely tragic and politically fraught death",
+      "Several people on various circulated 'body count' lists did have some real, documented connection to the Clintons, which proponents present as suspicious in aggregate",
+      "Real political scandals surrounding the Clintons (Whitewater, campaign finance issues) created a genuine backdrop of scrutiny that lent circumstantial plausibility to some observers"
+    ],
+    "evidence_against": [
+      "Five separate official investigations, including two independent counsel inquiries, concluded Vince Foster's death was a suicide linked to documented depression and workplace stress, with forensic evidence consistent with that finding",
+      "List compiler Linda Thompson herself admitted she had no direct evidence connecting the Clintons to any of the listed deaths",
+      "Many names on various circulating lists include people who died of natural causes, accidents, or illness with no plausible link to the Clintons at all, and some entries have been shown to be misattributed or still living",
+      "No physical evidence, credible witness, or successful prosecution has ever connected the Clintons to any of the alleged deaths",
+      "The theory has persisted for three decades specifically because it is unfalsifiable — any death of anyone tangentially connected to the Clintons gets retroactively added to the list regardless of documented cause"
+    ],
+    "related": ["seth-rich-murder", "epstein-killed"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Clinton_body_count_conspiracy_theory"
+  },
+  {
+    "id": "seth-rich-murder",
+    "name": "Seth Rich Murder Conspiracy",
+    "aliases": ["Seth Rich DNC leak theory", "Seth Rich WikiLeaks theory"],
+    "genre": "deaths",
+    "year": 2016,
+    "truth": 3,
+    "impact": 58,
+    "notoriety": 58,
+    "summary": "This theory claims that DNC staffer Seth Rich, killed in a July 2016 Washington D.C. robbery-homicide, was actually murdered in retaliation for leaking internal DNC emails to WikiLeaks — implying the 2016 email leak was an inside job rather than the confirmed Russian government hack, and that Rich's death was a political assassination and cover-up rather than a botched robbery.",
+    "evidence_for": [
+      "Rich did work at the DNC during the period the emails were stolen, and his unsolved murder occurred shortly before WikiLeaks began publishing the leaked emails, a real temporal coincidence that fueled speculation",
+      "Police were initially unable to identify a robbery motive since Rich's belongings (wallet, watch, phone) were left on his body, an unusual detail for a robbery that proponents cite as suspicious",
+      "WikiLeaks founder Julian Assange made public comments implying, without confirming, that Rich could have been a source, which lent the theory an air of insider credibility"
+    ],
+    "evidence_against": [
+      "The July 2018 U.S. indictment of 12 Russian GRU intelligence officers, based on detailed forensic and signals evidence, documents the DNC hack as a Russian state operation, and the U.S. intelligence community independently reached the same conclusion",
+      "Rich's colleagues and supervisors confirmed he did not have access to the specific DNC servers and email archives that were breached, and had no background as a hacker",
+      "Washington D.C. police and the FBI investigated and found no evidence linking Rich's death to the DNC leak; the case remains consistent with an unsolved local robbery-homicide, of which interrupted robberies are not unusual",
+      "Multiple purveyors of the theory — including Fox News, commentator Ed Butowsky, and journalist Matt Couch — retracted their claims and issued formal apologies or paid settlements to the Rich family (2020-2021) after admitting the reporting was false",
+      "Assange never definitively confirmed Rich as a source, and WikiLeaks' vague statements were widely noted by fact-checkers as consistent with protecting real sources' anonymity rather than confirming Rich's involvement"
+    ],
+    "related": ["clinton-body-count", "deep-state"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Murder_of_Seth_Rich"
+  },
+  {
+    "id": "stop-the-steal",
+    "name": "2020 Stolen Election (\"Stop the Steal\")",
+    "aliases": ["Stop the Steal", "2020 election fraud theory", "Trump won 2020"],
+    "genre": "government",
+    "year": 2020,
+    "truth": 2,
+    "impact": 68,
+    "notoriety": 88,
+    "summary": "This theory holds that the 2020 U.S. presidential election was stolen from Donald Trump through coordinated mass voter fraud, rigged voting machines, and illegal ballot manipulation across multiple swing states. Promoted under the banner 'Stop the Steal' (a name Roger Stone had used since 2016), it drove over 60 lawsuits, state audits and recounts, and ultimately the January 6, 2021 Capitol attack.",
+    "evidence_for": [
+      "Pandemic-driven expansion of mail-in voting in 2020 created genuinely new procedures in many states, which proponents argued increased fraud opportunity even though officials had implemented safeguards",
+      "Isolated, individually prosecuted instances of voter fraud did occur in the 2020 election, as in essentially every U.S. election, and were cited by proponents as evidence of a broader pattern",
+      "Statistical anomalies and vote-counting pauses on election night — a product of different states' differing mail-ballot counting timelines — appeared suspicious to observers unfamiliar with those procedures",
+      "Some local officials and poll watchers raised procedural concerns or filed affidavits alleging irregularities, which proponents treated as substantiating evidence"
+    ],
+    "evidence_against": [
+      "More than 60 lawsuits filed by Trump and allies were rejected by courts, including by numerous Trump-appointed judges, for lack of evidence",
+      "Georgia conducted a full hand recount of every ballot, and Arizona's Maricopa County underwent a Trump-ally-commissioned 'audit' (the Cyber Ninjas review); both confirmed Biden's win",
+      "Trump's own Justice Department (under AG Bill Barr) and CISA (the federal cybersecurity agency) stated they found no evidence of fraud sufficient to change the outcome, with CISA calling it 'the most secure election in American history'",
+      "Individually prosecuted fraud cases numbered only in the dozens nationwide, several orders of magnitude too few to have affected a result decided by tens of thousands of votes in each contested state",
+      "Forensic reviews of voting machines (including Dominion systems) found no evidence of vote manipulation or foreign interference; defamation lawsuits over false machine-fraud claims resulted in a $787 million settlement paid by Fox News to Dominion in 2023",
+      "The theory directly motivated the January 6, 2021 Capitol attack, for which several hundred participants have since been criminally convicted"
+    ],
+    "related": ["january-6-false-flag", "blueanon", "deep-state"],
+    "depends_on": ["deep-state"],
+    "wikipedia": "https://en.wikipedia.org/wiki/Attempts_to_overturn_the_2020_United_States_presidential_election"
+  },
+  {
+    "id": "january-6-false-flag",
+    "name": "January 6 False Flag Theory",
+    "aliases": ["Jan 6 false flag", "FBI incited Capitol riot theory", "Fedsurrection"],
+    "genre": "government",
+    "year": 2021,
+    "truth": 3,
+    "impact": 55,
+    "notoriety": 55,
+    "summary": "This theory holds that the January 6, 2021 Capitol riot was secretly orchestrated or incited by federal law enforcement — most often the FBI — using undercover agents or informants posing as Trump supporters (commonly naming Arizona man Ray Epps) in order to entrap and discredit the broader Trump movement, rather than being a genuine, organic riot by Trump supporters contesting the election.",
+    "evidence_for": [
+      "Ray Epps was filmed on January 5-6, 2021 encouraging people to enter the Capitol, then was seen at the perimeter fence, behavior proponents argued resembled an agitator role",
+      "Epps briefly appeared on the FBI's most-wanted list for the riot and was later quietly removed without being charged for months, which fed suspicion of special treatment",
+      "The FBI is documented to use informants and undercover employees in extremist investigations generally, a real and acknowledged law-enforcement practice cited as a plausibility anchor",
+      "Prominent media figures (Tucker Carlson) and members of Congress gave the theory a platform, lending it an appearance of credibility to their audiences"
+    ],
+    "evidence_against": [
+      "The FBI has stated directly, and Epps has testified under oath to the House January 6 Committee, that he was never an FBI informant, agent, or asset before, during, or after the events",
+      "Epps was eventually criminally charged and pleaded guilty in 2023 to a misdemeanor for his conduct on January 6 — behavior inconsistent with someone protected as a government operative",
+      "Video and documentary evidence show the vast majority of the roughly 1,500 people later charged for January 6 were unaffiliated private citizens motivated by belief in the stolen-election claim, not federal operatives",
+      "No document, whistleblower, or piece of forensic evidence has substantiated any FBI role in inciting or orchestrating the riot",
+      "The theory caused severe real-world harm to Epps and his family, including death threats that forced them to sell their home and relocate — harm inflicted on a private citizen based on an unsubstantiated claim"
+    ],
+    "related": ["stop-the-steal", "deep-state", "crisis-actors"],
+    "depends_on": ["deep-state", "stop-the-steal"],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ray_Epps"
+  },
+  {
+    "id": "blueanon",
+    "name": "BlueAnon",
+    "aliases": ["Blue Anon", "left-wing QAnon"],
+    "genre": "government",
+    "year": 2020,
+    "truth": 14,
+    "impact": 40,
+    "notoriety": 34,
+    "summary": "BlueAnon is a pejorative umbrella term, coined by conservative commentators as a rhetorical mirror of 'QAnon,' for a loose collection of conspiracy-tinged beliefs held by some on the political left — including claims that Donald Trump is a knowing Russian intelligence asset, that his 2024 assassination attempt was staged, or that Republican officials are secretly controlled by shadowy funders — gaining wide use after the 2016 Trump-Russia controversy and again around the 2024 election cycle.",
+    "evidence_for": [
+      "Some underlying concerns have real, documented substance — the U.S. intelligence community did confirm Russian government interference in the 2016 election (though not proven coordination by the Trump campaign), giving surface plausibility to broader claims",
+      "Individual instances of politically motivated misinformation or exaggeration from left-leaning social media accounts and commentators are real and documented, which the term uses as its evidentiary base",
+      "The term highlights a genuine phenomenon: partisan communities across the spectrum are susceptible to unfalsifiable, motivated reasoning about opposing political figures"
+    ],
+    "evidence_against": [
+      "Unlike QAnon, 'BlueAnon' is not a single coherent belief system with a defined narrative or leader — it is a retroactive label applied by critics to a scattered grab-bag of unrelated claims of varying truth-value that share no common authorship or structure",
+      "Specific flagship claims under the BlueAnon umbrella — such as the 2024 Trump assassination attempt being staged — have been directly contradicted by law enforcement investigations, video evidence, and the shooter's independently confirmed death",
+      "The 2019 Mueller Report did not establish a criminal conspiracy between the Trump campaign and Russia, undercutting the strongest version of the 'Trump is a Russian asset' claim, even though it documented extensive contacts and confirmed Russian interference",
+      "Commentators note the QAnon comparison is largely rhetorical whataboutism — QAnon involved millions of adherents organized around a single anonymous prophetic figure with specific, repeatedly falsified predictions, a scale and structure 'BlueAnon' does not match"
+    ],
+    "related": ["qanon", "deep-state", "stop-the-steal"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/BlueAnon"
+  },
+  {
+    "id": "crisis-actors",
+    "name": "Crisis Actors Theory",
+    "aliases": ["Crisis actor conspiracy", "staged shooting theory"],
+    "genre": "government",
+    "year": 2012,
+    "truth": 1,
+    "impact": 48,
+    "notoriety": 52,
+    "summary": "This theory claims that mass-casualty events, most often school shootings and terrorist attacks, are partly or wholly staged using paid 'crisis actors' — professionals who legitimately role-play in emergency-response training drills — to manufacture public support for gun control or other policy goals. It originated with a 2012 blog post by James Tracy about the Sandy Hook Elementary School shooting and was later applied to the 2013 Boston Marathon bombing and numerous subsequent tragedies.",
+    "evidence_for": [
+      "'Crisis actor' is a real job/role: trained actors are genuinely hired by emergency-management agencies to simulate victims during first-responder training drills, giving the term surface legitimacy",
+      "A real firm, Visionbox, did offer dramatic training in portraying disaster victims, which proponents pointed to as a literal 'agency' supposedly supplying shooting-scene performers",
+      "Public grief, media interviews, and minor factual inconsistencies in early, chaotic breaking-news coverage of any large tragedy are real phenomena that proponents misinterpret as evidence of scripting"
+    ],
+    "evidence_against": [
+      "No physical, financial, or documentary evidence has ever substantiated that any actual mass-casualty event (Sandy Hook, Boston Marathon, or any other cited case) used paid actors instead of real victims",
+      "Twenty real children and six adult staff members were killed at Sandy Hook Elementary in December 2012, confirmed by autopsies, funerals, death certificates, and extensive independent journalism and law-enforcement investigation",
+      "Alex Jones, the theory's most prominent promoter, admitted under oath during 2022 defamation trials that the Sandy Hook shooting was '100% real' after years of promoting the crisis-actor theory, and was found liable for roughly $1.5 billion in damages to victims' families",
+      "Grieving families targeted by the theory have been subjected to years of harassment, death threats, and stalking by believers, a well-documented real-world harm stemming directly from the false claim",
+      "The apparent 'inconsistencies' cited as proof are the normal artifacts of chaotic breaking-news reporting (misattributed photos, early wrong details later corrected) rather than evidence of a scripted event"
+    ],
+    "related": ["sandy-hook-hoax", "january-6-false-flag"],
+    "depends_on": ["sandy-hook-hoax"],
+    "wikipedia": "https://en.wikipedia.org/wiki/Crisis_actor"
+  }
+]

@@ -1,0 +1,513 @@
+[
+  {
+    "id": "predictive-programming",
+    "name": "Predictive Programming",
+    "aliases": ["Predictive Programming Theory", "Hollywood predictive programming"],
+    "genre": "media-surveillance",
+    "year": 2001,
+    "truth": 12,
+    "impact": 55,
+    "notoriety": 42,
+    "summary": "The theory holds that films, television, and other mass media are used by elite planners to pre-condition the public to accept future societal changes or staged events, so that when they occur audiences respond with passive acceptance rather than resistance. Popularized by broadcaster Alan Watt in the early 2000s, it has since been applied retroactively to almost any film or show that seems to 'predict' a later real-world tragedy.",
+    "evidence_for": [
+      "Some media genuinely foreshadows real events by coincidence or informed extrapolation (e.g., disaster films drawing on real epidemiological modeling), which proponents read as evidence of insider knowledge",
+      "Documented historical psy-ops (Operation Mockingbird, wartime propaganda films) show that governments have in fact used entertainment media to shape public opinion, lending surface plausibility to the broader claim",
+      "The sheer volume of media produced guarantees some works will appear to anticipate later events, and proponents catalogue these matches as a pattern worth investigating"
+    ],
+    "evidence_against": [
+      "No leaked document, whistleblower, or declassified program has ever described a coordinated 'predictive programming' initiative directed at conditioning the public for planned events",
+      "The theory is unfalsifiable and relies entirely on post-hoc pattern-matching (apophenia) between fictional works and unrelated later news stories",
+      "Media scholars note that fiction routinely explores plausible near-future scenarios for dramatic reasons, which produces coincidental hits without any coordinating conspiracy",
+      "The most-cited examples (e.g., cartoons 'predicting' events) rely on cherry-picked, often misremembered or digitally altered clips"
+    ],
+    "related": ["operation-mockingbird"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Predictive_programming"
+  },
+  {
+    "id": "targeted-individuals",
+    "name": "Targeted Individuals / Gang Stalking",
+    "aliases": ["Gang stalking", "TI community", "organized stalking"],
+    "genre": "media-surveillance",
+    "year": 2003,
+    "truth": 9,
+    "impact": 58,
+    "notoriety": 38,
+    "summary": "Self-described 'Targeted Individuals' (TIs) believe they are subjected to a coordinated, long-term campaign of harassment, surveillance, and 'electronic torture' by a diffuse network of neighbors, police, and government agents acting in concert, with no single identifiable stalker. The community coalesced on internet forums in the early 2000s and has since built an extensive shared vocabulary of alleged tactics ('gang stalking,' 'voice-to-skull,' 'street theater').",
+    "evidence_for": [
+      "Real historical precedents exist for coordinated, multi-agency harassment of civilians — COINTELPRO's FBI campaigns against activists genuinely used neighbors, informants, and staged 'street theater' to destabilize targets",
+      "Some documented individual stalking and workplace-mobbing cases share surface features with TI accounts (multiple people coordinating harassment), making the broader claim feel plausible to those affected",
+      "A 2020 clinical study found TIs report serious, measurable psychological and social harm regardless of the objective cause, suggesting the distress itself is real even where the attribution is contested"
+    ],
+    "evidence_against": [
+      "Clinical research comparing TI reports to documented stalking cases found the pattern (diffuse, unfalsifiable, escalating in scope, no physical evidence) matches a recognized delusional syndrome; one study found all 128 'gang stalking' claimants examined met criteria for delusional disorder versus only 5 among individually-stalked victims",
+      "No investigation, leak, or whistleblower has ever produced operational documents for a mass, cross-agency civilian harassment program matching TI descriptions",
+      "The alleged tactics (radio-frequency 'voice to skull' harassment, neighborhood-wide coordination) are not supported by any known technology or logistics at the claimed scale",
+      "Online TI communities show clear contagion effects, with narratives and terminology spreading and standardizing across unrelated individuals via shared forums"
+    ],
+    "related": ["cointelpro", "mkultra"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gang_stalking"
+  },
+  {
+    "id": "rfid-mark-of-the-beast",
+    "name": "RFID Chip Implantation ('Mark of the Beast')",
+    "aliases": ["Mark of the Beast microchip theory", "VeriChip conspiracy", "implantable ID chip conspiracy"],
+    "genre": "media-surveillance",
+    "year": 1999,
+    "truth": 9,
+    "impact": 72,
+    "notoriety": 48,
+    "summary": "This theory holds that governments and corporations intend to make implantable RFID microchips mandatory for identification, payment, and tracking, fulfilling the Book of Revelation's prophecy of a 'mark' required to buy or sell. It grew out of 1990s fears about barcodes and national ID cards and intensified after companies like Applied Digital Solutions began marketing implantable VeriChips in the early 2000s.",
+    "evidence_for": [
+      "Applied Digital Solutions did in fact develop and win FDA clearance for an implantable human RFID chip (VeriChip, cleared 2004) and marketed it for medical-record and payment access, showing the underlying technology and corporate intent are real",
+      "Some employers (e.g., a Wisconsin company in 2017) have offered or implemented voluntary employee RFID implants for building access and payment, demonstrating incremental real-world adoption of exactly the mechanism feared",
+      "Revelation 13:16-17 explicitly describes a hand/forehead mark required for commerce, giving the theory a textual anchor that predates and is independent of the technology itself"
+    ],
+    "evidence_against": [
+      "VeriChip and similar implants have always been opt-in and failed commercially — Applied Digital Solutions discontinued its human-implant business in 2010 for lack of demand, not because of any suppression",
+      "No government has proposed or enacted mandatory implantable identification tied to financial transactions; existing 'digital ID' and payment systems (chip cards, phones) remain external, not subdermal",
+      "The prophetic reading of Revelation 13 is a theological interpretation, not a verifiable historical or technological claim, and mainstream biblical scholarship disputes the literal 'RFID' reading",
+      "The passive RFID tags used in implants have short read ranges and no GPS capability, making them useless for the mass real-time tracking proponents describe"
+    ],
+    "related": ["new-world-order", "great-reset"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Microchip_implant_(human)"
+  },
+  {
+    "id": "smartphones-listening-ads",
+    "name": "Smartphones Are Secretly Listening for Ad Targeting",
+    "aliases": ["Facebook is listening", "phone eavesdropping ads theory"],
+    "genre": "media-surveillance",
+    "year": 2016,
+    "truth": 33,
+    "impact": 58,
+    "notoriety": 70,
+    "summary": "Widely held belief that smartphones covertly activate their microphones to listen to everyday conversations and feed keywords to advertising platforms like Facebook and Google, producing uncannily targeted ads. Roughly half of Americans report believing this and say they have received ads matching things they only spoke about aloud.",
+    "evidence_for": [
+      "Cox Media Group circulated marketing materials describing an 'Active Listening' ad product that claimed to use device microphones to inform targeting, later pulled after backlash — showing at least one real ad-tech vendor pitched exactly this capability to clients",
+      "Facebook and other platforms hold patents describing methods for using ambient audio signals for content or ad delivery, indicating the underlying capability has been seriously explored internally",
+      "Millions of users report anecdotally specific, well-timed ad matches to spoken-but-not-typed/searched topics, a pattern consistent enough across unrelated users to demand explanation",
+      "App-permission audits have repeatedly found some apps requesting microphone access with vague justifications, and permission misuse for other data types has previously been confirmed (e.g., unauthorized background location tracking)"
+    ],
+    "evidence_against": [
+      "A 2018 Northeastern University study analyzed network traffic from over 17,000 Android apps and found none secretly transmitting audio without explicit user-triggered activation",
+      "Continuous audio streaming at scale would require roughly 130MB/day per user — an amount of covert bandwidth and server storage that would be both detectable by outside network researchers and prohibitively expensive across billions of devices",
+      "Facebook, Google, and Apple have all formally denied microphone-based ad targeting, and no forensic network analysis by outside security researchers has ever caught it happening",
+      "The 'coincidence' is well explained by the ordinary ad-tech ecosystem: cross-app tracking, location data, purchase histories, social-graph inference, and confirmation bias (people forget the many non-matching ads) account for the perceived accuracy"
+    ],
+    "related": ["nsa-mass-surveillance"],
+    "depends_on": []
+  },
+  {
+    "id": "dead-internet-theory",
+    "name": "Dead Internet Theory",
+    "aliases": ["Dead Internet"],
+    "genre": "media-surveillance",
+    "year": 2021,
+    "truth": 24,
+    "impact": 65,
+    "notoriety": 60,
+    "summary": "The theory claims that since around 2016, most of the internet's traffic, content, and even social-media 'users' have been replaced by bots and AI-generated material, as part of a deliberate effort by governments and corporations to manipulate public perception and commerce. It originated in obscure imageboard posts (Wizardchan, 2019) and was popularized in a 2021 Agora Road's Macintosh Cafe forum post before spreading to mainstream tech coverage.",
+    "evidence_for": [
+      "Independent bot-traffic reports (e.g., Imperva's annual 'Bad Bot Report') have repeatedly found automated traffic constitutes roughly half of all internet traffic in recent years, a real and measurable phenomenon",
+      "The rapid, verifiable rise of generative AI since 2022 means a large and growing share of new text, images, and even social posts genuinely is machine-generated, lending new teeth to a theory first floated before generative AI existed",
+      "Documented state and commercial astroturfing operations (troll farms, bot networks used in elections and marketing) confirm that inauthentic coordinated activity at scale is a real, if narrower, phenomenon"
+    ],
+    "evidence_against": [
+      "The strong version of the theory — a centrally coordinated program to fake most human activity online — has no supporting leak, whistleblower, or document; the bot traffic that does exist is fragmented across many uncoordinated commercial and criminal actors, not a single conspiracy",
+      "Platforms publish (and outside auditors can partially verify) real human engagement metrics and ad-revenue-driven incentives to prove real audiences, and take enforcement action against bot networks, all of which cut against a hidden mass-replacement narrative",
+      "Much of the 'evidence' cited is subjective — a feeling that content feels formulaic or repetitive — which is also explained by algorithmic content optimization and platform homogenization rather than fakery",
+      "The theory's own originators on Wizardchan and Agora Road described it as speculative pattern-noticing rather than a documented finding"
+    ],
+    "related": ["nsa-mass-surveillance"],
+    "depends_on": []
+  },
+  {
+    "id": "bitcoin-government-creation",
+    "name": "Bitcoin Was Created by a Government Agency",
+    "aliases": ["Bitcoin NSA/CIA creation theory", "Satoshi Nakamoto is the NSA"],
+    "genre": "finance",
+    "year": 2013,
+    "truth": 7,
+    "impact": 62,
+    "notoriety": 32,
+    "summary": "This theory holds that Bitcoin was not created by an independent pseudonymous programmer but was secretly designed and released by the NSA or CIA to eventually monitor, control, or replace global financial flows under the guise of decentralization. It draws on the fact that Bitcoin's SHA-256 hash function was designed by the NSA and that a 1996 NSA-affiliated paper discussed anonymous electronic cash.",
+    "evidence_for": [
+      "The SHA-256 algorithm used in Bitcoin mining was indeed designed and published by the NSA in 2001, a genuine and documented technical link",
+      "A 1996 paper titled 'How to Make a Mint: The Cryptography of Anonymous Electronic Cash,' co-authored by NSA-linked researchers, predates Bitcoin by over a decade and discusses similar cryptographic e-cash concepts",
+      "Satoshi Nakamoto's true identity has never been conclusively established despite extensive investigative efforts, leaving a real evidentiary vacuum that invites speculation",
+      "Intelligence agencies have a documented history of covertly funding or steering supposedly independent technologies (e.g., Tor originated with U.S. Naval Research Laboratory funding), showing the general pattern is not unprecedented"
+    ],
+    "evidence_against": [
+      "SHA-256 is a public, widely audited cryptographic standard used across banking, government, and consumer software; using it implies nothing about who built any particular application, including Bitcoin",
+      "The 1996 'anonymous electronic cash' paper describes a centralized, bank-issued digital cash system fundamentally different from Bitcoin's decentralized, permissionless blockchain architecture — the technical lineage does not actually connect",
+      "No leaked document, whistleblower, or forensic analysis has ever tied Nakamoto's original code commits, writing style, or wallet activity to any intelligence agency",
+      "Bitcoin's early adoption was driven by cypherpunk and libertarian communities explicitly hostile to government monetary control, an odd outcome for an intelligence-agency product"
+    ],
+    "related": ["federal-reserve-cabal"],
+    "depends_on": []
+  },
+  {
+    "id": "gold-standard-suppression",
+    "name": "Gold Price / Gold Standard Suppression",
+    "aliases": ["Gold price manipulation theory", "GATA thesis"],
+    "genre": "finance",
+    "year": 1999,
+    "truth": 38,
+    "impact": 68,
+    "notoriety": 36,
+    "summary": "This theory holds that central banks and major bullion banks have systematically suppressed the market price of gold — through gold leasing, derivatives, and coordinated sales — to conceal the weakness of fiat currencies since the US left the gold standard in 1971. It was formalized by the Gold Anti-Trust Action Committee (GATA), founded in 1999 by Bill Murphy and Chris Powell.",
+    "evidence_for": [
+      "The London Gold Pool (1961-1968), in which Western central banks jointly intervened to hold gold at $35/oz, was a real, documented, and eventually failed coordinated gold-price-suppression scheme, establishing clear historical precedent",
+      "In 2020, JPMorgan paid a record $920 million to the DOJ, CFTC, and SEC after being found to have run an eight-year spoofing scheme manipulating gold and silver futures prices, with several individual traders criminally convicted — proof that precious-metals price manipulation by major banks is not merely theoretical",
+      "Central banks openly engage in large-scale gold leasing and swaps whose aggregate scale and purpose are not fully disclosed, which GATA argues creates a 'paper gold' overhang that suppresses the price signal",
+      "Multiple former regulators and bullion-market insiders cited by GATA have alleged coordinated below-market gold sales tied to defending currency credibility"
+    ],
+    "evidence_against": [
+      "The proven JPMorgan and other bank cases involved profit-driven trader-level spoofing schemes, not evidence of a coordinated central-bank conspiracy to suppress gold for monetary-system reasons",
+      "Mainstream economists attribute gold's price behavior to ordinary supply, demand, interest-rate, and currency-strength dynamics, and gold has in fact risen dramatically over the long run since 1971 (from $35 to well over $2,000/oz), undercutting claims of sustained successful suppression",
+      "GATA's specific claims about hidden central-bank gold reserves and leasing volumes have never been substantiated by an independent audit or leak",
+      "No systemic 'suppression' conspiracy has been confirmed by any regulator, despite the aggressive scrutiny that followed the JPMorgan prosecutions"
+    ],
+    "related": ["federal-reserve-cabal"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gold_Anti-Trust_Action_Committee"
+  },
+  {
+    "id": "diana-assassination",
+    "name": "Death of Diana, Princess of Wales — Assassination Theory",
+    "aliases": ["Diana was murdered", "MI6 killed Diana"],
+    "genre": "deaths",
+    "year": 1997,
+    "truth": 4,
+    "impact": 50,
+    "notoriety": 88,
+    "summary": "This theory holds that Diana, Princess of Wales, was assassinated in the August 1997 Paris car crash — most prominently by British intelligence acting on behalf of the royal family — to prevent her marrying Dodi Fayed or exposing royal secrets, rather than dying in a genuine accident. It was chiefly promoted by Dodi's father, Mohamed Al-Fayed.",
+    "evidence_for": [
+      "Diana herself reportedly told friends and wrote notes months before her death expressing fear that she would be killed in a staged car accident, a documented statement predating the crash",
+      "The driver, Henri Paul, had blood-alcohol levels far exceeding French legal limits despite witnesses describing him as sober shortly before departure, an unresolved discrepancy that fueled suspicion of a cover story",
+      "A mysterious bright flash reported by some witnesses and a still-unidentified white Fiat Uno that fled the scene were never definitively traced, leaving a genuine loose end in the physical reconstruction",
+      "The British royal family's historical secrecy and Diana's own adversarial relationship with the Palace gave the theory a plausible-sounding motive"
+    ],
+    "evidence_against": [
+      "Operation Paget, the multi-year Metropolitan Police investigation (2004-2006) that examined 175 separate conspiracy allegations across an 832-page report, concluded every one was unfounded and the deaths resulted from an accident",
+      "The 2008 British inquest jury returned a verdict of unlawful killing due to the 'gross negligence' of the driver (drunk, speeding) and pursuing paparazzi — not murder",
+      "Forensic testing on blood found at the scene showed no hCG hormone, ruling out the widely repeated claim that Diana was pregnant at the time",
+      "No credible evidence has ever linked Henri Paul to MI6, and toxicology and eyewitness accounts of his heavy drinking that night are well corroborated"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Conspiracy_theories_about_the_death_of_Diana,_Princess_of_Wales"
+  },
+  {
+    "id": "elvis-faked-death",
+    "name": "Elvis Presley Faked His Death",
+    "aliases": ["Elvis is alive"],
+    "genre": "deaths",
+    "year": 1977,
+    "truth": 3,
+    "impact": 12,
+    "notoriety": 75,
+    "summary": "This theory holds that Elvis Presley did not die of heart failure in August 1977 but staged his death to escape the pressures of fame, possibly entering witness protection after aiding an FBI investigation. It spawned decades of purported sightings and a bestselling 1988 book by Gail Brewer-Giorgio.",
+    "evidence_for": [
+      "Presley's full autopsy report was sealed by his family for 50 years (until 2027), which proponents read as concealment of anomalous findings rather than ordinary privacy protection",
+      "Some funeral attendees described the body in the casket as looking 'wax-like,' and Presley's middle name is spelled differently on his grave marker than on his birth certificate, both cited as tangible physical inconsistencies",
+      "Presley was known to have cooperated informally with federal drug-enforcement efforts in his final years, giving a kernel of truth to claims connecting him to FBI activity",
+      "Numerous self-reported sightings across decades created a large, self-reinforcing body of anecdotal 'evidence' that proponents treat cumulatively as significant"
+    ],
+    "evidence_against": [
+      "A formal autopsy was performed by multiple physicians immediately after death, and the official cause (cardiac arrhythmia linked to years of polypharmacy) is well documented in the released portions of the medical record",
+      "The grave-spelling discrepancy is fully explained: Presley used both 'Elvis Aaron' and 'Elvis Aron' interchangeably throughout his life, including on his own marriage license",
+      "A 1997 Gallup poll found only 4% of Americans believed Presley was alive, versus 93% certain he had died, reflecting the near-total absence of the theory even in the era it was most actively promoted",
+      "No verified sighting, DNA sample, or fingerprint match has ever substantiated any specific claim of Presley's survival in the 45+ years since his death"
+    ],
+    "related": ["paul-is-dead"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Elvis_Presley_death_conspiracy_theories"
+  },
+  {
+    "id": "hitler-survived-argentina",
+    "name": "Hitler Survived and Escaped to Argentina",
+    "aliases": ["Hitler in Argentina", "Hitler escape theory"],
+    "genre": "alt-history",
+    "year": 1945,
+    "truth": 4,
+    "impact": 55,
+    "notoriety": 55,
+    "summary": "This theory holds that Adolf Hitler did not die in his Berlin bunker in April 1945 but escaped, likely by U-boat, to Argentina, where he lived out his life under Peronist protection. It began as Soviet disinformation within weeks of the war's end and has persisted through purported FBI files and disputed forensic claims.",
+    "evidence_for": [
+      "Stalin publicly floated the idea that Hitler had escaped as early as July 1945, and the surrender of German U-boats U-530 and U-977 in Argentina that same year gave the theory a superficially plausible escape route",
+      "The FBI and CIA did investigate numerous reported Hitler sightings in South America for years after the war, producing hundreds of pages of documents that proponents cite as evidence the agencies took the possibility seriously",
+      "Argentina was a well-documented postwar haven for numerous actual Nazi war criminals (Eichmann, Mengele), establishing that the escape infrastructure and network genuinely existed for others",
+      "Soviet forces, who first controlled the bunker site, gave inconsistent public statements about the remains for years, feeding suspicion about what had really been found"
+    ],
+    "evidence_against": [
+      "Forensic analysis of a skull fragment and jawbone recovered from the bunker site — the only surviving remains — was matched in 2017 by a French forensic team to Hitler's known dental X-rays with, in the lead pathologist's words, 'no possible doubt'",
+      "FBI Director J. Edgar Hoover concluded as early as September 1945 that there was 'no serious indication' Hitler was in Argentina, despite continuing to log unverified sighting reports as a matter of routine",
+      "Numerous eyewitnesses in the bunker, including Hitler's secretary and bodyguards, gave consistent, detailed accounts of his suicide and the immediate cremation of his body",
+      "No physical evidence — fingerprint, verified photograph, or corroborated firsthand account — has ever been produced placing Hitler in Argentina after 1945"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Conspiracy_theories_about_Adolf_Hitler%27s_death"
+  },
+  {
+    "id": "tupac-shakur-alive",
+    "name": "Tupac Shakur Is Alive",
+    "aliases": ["Tupac faked his death", "2Pac is alive"],
+    "genre": "deaths",
+    "year": 1996,
+    "truth": 4,
+    "impact": 12,
+    "notoriety": 55,
+    "summary": "This theory holds that rapper Tupac Shakur did not die from gunshot wounds sustained in a September 1996 Las Vegas drive-by shooting, but faked his death and now lives in hiding, often said to be in Cuba. Proponents point to numerology in the title and lyrics of his final album, released posthumously under the alias 'Makaveli.'",
+    "evidence_for": [
+      "Shakur released his final album under the pseudonym Makaveli, an explicit reference to Niccolò Machiavelli, who reputedly advised feigning death to defeat one's enemies — a genuine and deliberate artistic choice by Shakur himself",
+      "Rearranging the letters of 'Makaveli' can spell out phrases some read as 'Am Alive K,' wordplay proponents treat as an intentional coded message",
+      "Shakur's shooter went unprosecuted for over 25 years, and the case's slow resolution (an arrest finally came in 2023) left a long institutional vacuum that fueled speculation",
+      "Persistent claimed sightings and a general reluctance among some in the hip-hop community to discuss details of that night kept the theory alive across generations"
+    ],
+    "evidence_against": [
+      "A formal autopsy was performed by the Clark County coroner, and death certificates and hospital records document his death six days after the shooting from respiratory failure and cardiac arrest",
+      "Shakur's family, associates, and the Las Vegas Metropolitan Police Department have all consistently confirmed his death, with no dissenting firsthand account from anyone present",
+      "The 2023 arrest and prosecution of Duane 'Keffe D' Davis for orchestrating the shooting further anchored the case in documented, adversarial criminal proceedings inconsistent with a staged death",
+      "No verified photograph, fingerprint, or DNA sample has ever surfaced supporting Shakur's survival in the nearly three decades since"
+    ],
+    "related": ["paul-is-dead"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"
+  },
+  {
+    "id": "avril-lavigne-replacement",
+    "name": "Avril Lavigne Was Replaced by a Body Double ('Melissa')",
+    "aliases": ["Avril is dead", "Melissa Vandella theory"],
+    "genre": "deaths",
+    "year": 2011,
+    "truth": 2,
+    "impact": 8,
+    "notoriety": 45,
+    "summary": "This theory claims singer Avril Lavigne died by suicide in 2003 after her grandfather's death and the pressures of fame, and was secretly replaced by a body double named 'Melissa Vandella' who has performed as her ever since. It originated as an explicitly self-described hoax on a 2011 Brazilian blog before being taken literally by later internet audiences.",
+    "evidence_for": [
+      "Proponents point to claimed differences in facial features, moles, and singing style between 'early' and 'later' Avril Lavigne as physical evidence of a substitution",
+      "Lavigne's simpler, more polished pop image in later albums versus her original pop-punk styling is cited as evidence of a discontinuity in identity",
+      "A 2017 Twitter thread reviving the theory was retweeted over 250,000 times, showing the pattern-matching (photo comparisons, lyric analysis) that drove the theory felt persuasive to a wide, non-specialist audience"
+    ],
+    "evidence_against": [
+      "The original 2011 blog post that started the theory, 'Avril Está Morta,' explicitly stated in its opening line that it was created 'to show how conspiracy theories can look true' — the theory's own originator has confirmed it as a deliberate hoax",
+      "Lavigne has repeatedly and publicly denied the theory, including addressing it directly in interviews and calling it 'dumb,' and has continued to appear in person, tour, and be photographed continuously for over two decades",
+      "No missing-persons report, death certificate, obituary, or family statement regarding a 2003 death has ever surfaced, despite the claim requiring a concealment that would need cooperation from her entire family, label, and management",
+      "Claimed physical differences are consistent with normal aging, weight changes, cosmetic choices, and photo/lighting variation documented in countless other public figures over a 20-year career"
+    ],
+    "related": ["paul-is-dead"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Avril_Lavigne_replacement_conspiracy_theory"
+  },
+  {
+    "id": "kurt-cobain-murder",
+    "name": "Kurt Cobain Was Murdered",
+    "aliases": ["Cobain murder theory", "Who Killed Kurt Cobain"],
+    "genre": "deaths",
+    "year": 1994,
+    "truth": 32,
+    "impact": 22,
+    "notoriety": 62,
+    "summary": "This theory holds that Nirvana frontman Kurt Cobain did not die by suicide in April 1994 but was murdered, with his wife Courtney Love most commonly implicated by proponents, and that Seattle police conducted a substandard investigation. It was chiefly advanced by private investigator Tom Grant, whom Love had hired to find Cobain shortly before his body was found.",
+    "evidence_for": [
+      "Cobain's blood contained roughly 225 mg/L of morphine (from heroin), a level some medical experts consider high enough to have left him incapacitated and unable to then load and fire the shotgun himself",
+      "The shotgun's ejected shell casing was found positioned inconsistently with the gun's resting position on Cobain's chest, a physical detail that has never been fully reconciled by investigators",
+      "The shotgun was not forensically examined for a full month after the death, and when tested showed only smudged, unidentifiable fingerprints, consistent with (though not proof of) the weapon having been wiped down",
+      "Tom Grant, a licensed investigator with direct, contemporaneous access to the case, has maintained detailed and consistent objections to the official finding for three decades, and the FBI's own released file on Cobain documents that such theories were formally submitted to and reviewed by the agency"
+    ],
+    "evidence_against": [
+      "Seattle Police's 2014 re-examination of the case, including newly released photos of the death scene, reaffirmed the original finding of suicide, and detectives noted Cobain purchased the shotgun shells only one to two days before his death, consistent with premeditated suicide rather than an unplanned killing",
+      "Cobain had a well-documented history of prior suicide attempts, chronic depression, and heroin addiction, plus a handwritten note found at the scene that forensic document examiners and those close to him have accepted as genuine",
+      "High tolerance from long-term heavy heroin use means addicts can function, including performing complex motor tasks, at blood-morphine levels that would incapacitate an opioid-naive person, undercutting the 'too high to shoot himself' argument",
+      "No physical evidence (a second person's fingerprints, DNA, forced entry, or witness) has ever placed another person at the scene at the time of death"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Suicide_of_Kurt_Cobain"
+  },
+  {
+    "id": "john-lennon-assassination-conspiracy",
+    "name": "John Lennon Assassination Conspiracy (CIA/MKUltra Theory)",
+    "aliases": ["Mark David Chapman was CIA-programmed", "Lennon was silenced"],
+    "genre": "deaths",
+    "year": 1989,
+    "truth": 11,
+    "impact": 48,
+    "notoriety": 50,
+    "summary": "This theory holds that Lennon's killer, Mark David Chapman, was not acting alone as a delusional fan but had been drugged, hypnotized, and programmed by the CIA's MKUltra program — possibly while doing aid work in Beirut — to assassinate Lennon because of his antiwar activism and FBI surveillance file. It was most prominently argued by journalist Fenton Bresler in his 1989 book Who Killed John Lennon?.",
+    "evidence_for": [
+      "Lennon was genuinely and extensively surveilled by the FBI in the early 1970s over his antiwar and anti-Nixon political activity, documented in his own declassified FBI file obtained via FOIA lawsuits — establishing a real, documented government interest in and hostility toward him",
+      "MKUltra itself is a confirmed, admitted CIA program that experimented with using drugs and psychological conditioning on unwitting subjects, giving the 'programmed assassin' claim a real technological and institutional precedent to draw on",
+      "Chapman's own account of his mental state, travels, and motivations shifted across interviews over the years, leaving room for alternate interpretations of an otherwise self-described lone gunman",
+      "Some researchers note the hotel doorman who spoke with Chapman just before the shooting, Jose Sanjenis Perdomo, had a documented past association with CIA-linked Cuban exile operations, a genuine biographical coincidence proponents treat as significant"
+    ],
+    "evidence_against": [
+      "Chapman has consistently, across decades of interviews (including with Larry King), taken sole personal responsibility for the murder and explicitly dismissed the CIA-programming theory as 'hogwash'",
+      "Extensive psychiatric evaluation at the time found Chapman suffered from a documented history of mental illness, obsessive fixation on Lennon and The Catcher in the Rye, and a clear personal motive rooted in delusion rather than any evidence of external control",
+      "No document, whistleblower, or declassified file has ever linked MKUltra or any CIA program specifically to Chapman by name",
+      "The theory's key claims (Beirut drugging, doorman's CIA ties) rely on circumstantial coincidence and secondary sourcing rather than any primary evidence directly connecting Chapman to an intelligence operation"
+    ],
+    "related": ["mkultra", "cointelpro"],
+    "depends_on": ["mkultra"],
+    "wikipedia": "https://en.wikipedia.org/wiki/Murder_of_John_Lennon"
+  },
+  {
+    "id": "pope-john-paul-i-murder",
+    "name": "Pope John Paul I Murder Theory",
+    "aliases": ["Murder of Pope John Paul I", "Vatican Bank assassination theory"],
+    "genre": "deaths",
+    "year": 1984,
+    "truth": 33,
+    "impact": 50,
+    "notoriety": 58,
+    "summary": "This theory holds that Pope John Paul I, who died suddenly just 33 days into his papacy in September 1978, was poisoned by a network of Vatican Bank officials and organized-crime associates he threatened to expose, rather than dying naturally as the Vatican claimed. It was popularized by journalist David Yallop's bestselling 1984 book In God's Name, which named specific alleged conspirators.",
+    "evidence_for": [
+      "The Vatican gave demonstrably inconsistent and later-corrected public statements about basic facts — who found the body, what he was reading, and the time of death — fueling legitimate suspicion about what was being concealed",
+      "The Vatican refused to permit an autopsy, citing tradition, a genuine and unusual departure from normal practice for the sudden, unexplained death of a serving head of state",
+      "John Paul I had reportedly been preparing significant personnel changes affecting Vatican Bank leadership (including Archbishop Marcinkus) amid the real and later-confirmed Banco Ambrosiano financial scandal, giving a documented, non-speculative motive",
+      "The subsequent Banco Ambrosiano collapse and the suspicious 1982 death of banker Roberto Calvi (found hanged under Blackfriars Bridge in London, initially ruled suicide, later reclassified after a second inquest as an open verdict) demonstrate that the milieu Yallop implicated was genuinely capable of lethal corruption"
+    ],
+    "evidence_against": [
+      "No toxicology testing was ever performed (precisely because no autopsy occurred), meaning there is no physical evidence of poisoning to weigh against natural causes — the theory rests entirely on circumstantial and narrative inference",
+      "John Cornwell's independent 1989 investigation, A Thief in the Night, concluded the pope died of a pulmonary embolism, plausibly worsened by overwork, poor self-care, and inadequate medical monitoring by Vatican staff",
+      "The Catholic Church and independent reviewers have dismissed Yallop's book as relying on speculative inference and unverified claims about the named individuals rather than documentary or physical proof",
+      "Elderly popes with pre-existing cardiovascular risk factors dying suddenly is not medically unusual, and several other pontiffs have had similarly abrupt health crises without any suspicion of foul play"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pope_John_Paul_I_conspiracy_theories"
+  },
+  {
+    "id": "olof-palme-assassination",
+    "name": "Olof Palme Assassination Conspiracy",
+    "aliases": ["Who killed Olof Palme", "Palme murder mystery"],
+    "genre": "deaths",
+    "year": 1986,
+    "truth": 40,
+    "impact": 55,
+    "notoriety": 55,
+    "summary": "Swedish Prime Minister Olof Palme was shot dead walking home from a cinema in Stockholm in February 1986 without bodyguards, and who ordered or carried out the killing remains formally unresolved. Theories range from a lone deranged gunman to state-sponsored assassination by South Africa's apartheid-era intelligence services (angered by Palme's anti-apartheid activism) or Swedish/NATO intelligence factions.",
+    "evidence_for": [
+      "Former apartheid-era South African police colonel Eugene de Kock testified that an agent connected to South African intelligence carried out the killing in retaliation for Palme's prominent, material support for the ANC and sanctions against South Africa, a specific, on-the-record allegation from an insider",
+      "A Swedish diplomat's independent investigation uncovered additional circumstantial links between apartheid-era security operatives and individuals present in Stockholm around the time of the killing",
+      "The lead 2020 suspect named by Swedish prosecutors, Stig Engström, was walked back as recently as December 2025, and prosecutors themselves acknowledged their case was only circumstantial and would not have secured a conviction at trial, underscoring that even the 'official' resolution remains genuinely unsettled",
+      "The case involved well-documented investigative bungling in the initial hours (the murder weapon was never recovered, an early suspect was released, and evidence handling was heavily criticized), which is independently confirmed and lends some credibility to broader cover-up suspicions even without proving one"
+    ],
+    "evidence_against": [
+      "The 34-year formal investigation, one of the largest in Swedish history, explicitly examined organized-conspiracy theories (South African, Kurdish PKK, Swedish far-right police factions) and the lead prosecutor stated in 2020 he found no supporting evidence for any conspiracy",
+      "The 2020 case closure concluded Engström, a graphic designer who was at the crime scene and had access to a similar weapon, was the most likely lone perpetrator, motivated by personal grievance rather than state orders",
+      "The apartheid-intelligence theory relies substantially on secondhand testimony (de Kock) rather than direct documentary or forensic evidence tying a specific shooter to Pretoria",
+      "No physical evidence — the murder weapon, forensic trace, or corroborated eyewitness identification — has ever definitively linked any specific individual or state actor to the shooting"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Assassination_of_Olof_Palme"
+  },
+  {
+    "id": "david-kelly-death",
+    "name": "Death of David Kelly",
+    "aliases": ["David Kelly murder theory", "Dr. David Kelly conspiracy"],
+    "genre": "deaths",
+    "year": 2003,
+    "truth": 38,
+    "impact": 55,
+    "notoriety": 46,
+    "summary": "UN weapons inspector Dr. David Kelly was found dead in July 2003 days after being publicly named as the source for a BBC report questioning the British government's Iraq WMD dossier; the official Hutton Inquiry ruled his death a suicide by wrist-cutting and overdose, but doctors, MPs, and journalists have long disputed the finding, citing procedural irregularities in the investigation itself.",
+    "evidence_for": [
+      "A group of doctors petitioned in 2009-2010 arguing the stated cause of death (blood loss from a severed ulnar artery, a comparatively minor vessel) was medically implausible as a sole cause, given the limited blood found at the scene",
+      "Lord Hutton took the unusual step of ordering that all post-mortem and toxicological records be sealed from public view for 70 years, an irregularity that fuels legitimate suspicion regardless of the underlying cause of death",
+      "No suicide note was found, and witnesses gave inconsistent accounts of Kelly's demeanor and the search efforts in the hours before his body was discovered",
+      "Kelly was under enormous, well-documented political pressure — publicly named, grilled by a parliamentary committee, and caught between the government and BBC in the run-up to his death — establishing a real and unusually acute stressor whose precise psychological impact cannot be fully reconstructed"
+    ],
+    "evidence_against": [
+      "The Hutton Inquiry, a full judicial inquiry with subpoena power, heard extensive medical, forensic, and witness testimony and concluded death was self-inflicted, and a subsequent 2010-2011 review by the Attorney General of the suppressed material found nothing to justify a further inquest",
+      "Forensic pathologists who examined the case noted that ulnar-artery bleeding combined with the overdose of painkillers found in his system is a recognized and sufficient mechanism of death, particularly given his known coronary artery disease",
+      "The 70-year sealing order applied to routine medical records as a privacy measure common in UK inquests of the era, not uniquely to this case, and the underlying autopsy findings were in fact presented in full during the public Hutton hearings",
+      "No forensic evidence of a struggle, third-party involvement, or alternate cause of death has ever been produced despite extensive scrutiny by journalists, MPs, and independent doctors over two decades"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Death_of_David_Kelly"
+  },
+  {
+    "id": "zachary-taylor-poisoning",
+    "name": "Zachary Taylor Poisoning Theory",
+    "aliases": ["Taylor arsenic poisoning theory"],
+    "genre": "deaths",
+    "year": 1850,
+    "truth": 5,
+    "impact": 45,
+    "notoriety": 22,
+    "summary": "This theory holds that President Zachary Taylor, who died suddenly in July 1850 after a brief gastrointestinal illness, was deliberately poisoned with arsenic by pro-slavery political enemies opposed to his stance in the Compromise of 1850 debates, rather than dying of natural illness as officially recorded. Persistent rumors led historian Clara Rising to campaign for exhumation, which finally occurred in 1991.",
+    "evidence_for": [
+      "Taylor died suddenly, within five days, after falling ill at a Fourth of July event, a genuinely abrupt decline for a sitting president that naturally invited suspicion at the time",
+      "Taylor's political position — opposing extension of slavery into new territories and threatening to veto parts of the Compromise of 1850 — gave pro-slavery Southern politicians a documented, real motive that has never been in dispute",
+      "1850s medical diagnosis and record-keeping were rudimentary, and his physicians' contemporaneous notes are vague enough to leave genuine ambiguity about the precise clinical picture"
+    ],
+    "evidence_against": [
+      "The 1991 exhumation and forensic toxicology, using neutron activation analysis, found arsenic levels in Taylor's remains of only 1.6-2.0 micrograms — hundreds of times below what would be expected from fatal poisoning",
+      "Kentucky's chief medical examiner concluded the physical evidence was consistent with acute gastroenteritis (likely a foodborne or waterborne illness such as cholera morbus), matching contemporaneous accounts of a Washington, D.C. affected by poor sanitation and disease outbreaks in summer 1850",
+      "Tests for other common poisons (mercury, lead) were also negative, further supporting a natural-illness explanation",
+      "No credible historical account, letter, or deathbed confession from any alleged conspirator has ever surfaced in over 170 years"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Death_of_Zachary_Taylor"
+  },
+  {
+    "id": "lincoln-assassination-broader-conspiracy",
+    "name": "Lincoln Assassination — Broader Conspiracy",
+    "aliases": ["Lincoln conspiracy trial", "Confederate-authorized assassination plot"],
+    "genre": "deaths",
+    "year": 1865,
+    "truth": 90,
+    "impact": 58,
+    "notoriety": 85,
+    "summary": "Beyond John Wilkes Booth acting alone, a documented conspiracy of at least eight co-conspirators planned and simultaneously carried out coordinated attacks on President Lincoln, Secretary of State Seward, and Vice President Johnson on the night of April 14, 1865, intending to decapitate the US government. A military tribunal convicted all eight defendants; four were hanged. The extent to which the plot was directly authorized by the Confederate government in Richmond remains a genuinely debated historical question.",
+    "evidence_for": [
+      "The core conspiracy is not speculative: Lewis Powell did in fact break into Secretary of State Seward's home and nearly killed him with a knife that same night, while George Atzerodt was assigned to kill Vice President Johnson (he lost his nerve) — independently corroborating that a coordinated, multi-target plot was real and simultaneously executed, not a lone gunman's improvisation",
+      "Eight conspirators (Powell, Herold, Atzerodt, Mary Surratt, Samuel Mudd, Michael O'Laughlen, Samuel Arnold, and Edman Spangler) were tried before a nine-member military commission hearing 347 witnesses over seven weeks, with four convicted and hanged and others imprisoned — a fully documented, adjudicated conspiracy, not an unproven allegation",
+      "Testimony at trial from witnesses linked to the Confederate Secret Service described a Richmond-approved objective to 'leave the government entirely without a head' by killing Lincoln, Johnson, Seward, Secretary of War Stanton, and General Grant together",
+      "Recent historical scholarship has strengthened the case that Confederate President Jefferson Davis personally authorized the earlier Booth kidnapping plot (which evolved into the assassination plan), citing Confederate troop movements in Northern Virginia in March 1865 consistent with a planned prisoner-transport route"
+    ],
+    "evidence_against": [
+      "While the multi-conspirator plot to kill Lincoln, Seward, and Johnson simultaneously is proven beyond dispute (trial verdicts, executions, and corroborating attacks all actually occurred), no surviving document or confession directly proves Jefferson Davis or the full Confederate Cabinet formally ordered the assassination specifically, as opposed to the earlier, separate kidnapping scheme",
+      "The military tribunal itself was controversial even at the time — civilians were tried by military commission rather than civil court, using a lowered evidentiary threshold (a simple majority for guilt), which some contemporary and modern legal scholars argue makes the trial's specific findings about Confederate high-command complicity less than fully reliable",
+      "Mary Surratt's guilt and execution in particular remains disputed by historians who argue the evidence against her was comparatively weak relative to the other conspirators",
+      "Some conspiracy elements alleged at trial (direct Confederate Cabinet sign-off on assassination specifically, rather than the earlier capture plan) were argued more than conclusively documented"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln"
+  },
+  {
+    "id": "subhas-chandra-bose-survival",
+    "name": "Subhas Chandra Bose Survival Theory",
+    "aliases": ["Netaji survived", "Gumnami Baba theory", "Bose escape to USSR theory"],
+    "genre": "deaths",
+    "year": 1946,
+    "truth": 33,
+    "impact": 50,
+    "notoriety": 55,
+    "summary": "Indian independence leader Subhas Chandra Bose was officially reported to have died on August 18, 1945, from burns suffered in a Japanese military plane crash in Taiwan, but the absence of a recovered body and decades of shifting official accounts fueled enduring theories that he survived — either escaping to the Soviet Union and dying in a gulag, or living in disguise in India as the ascetic 'Gumnami Baba' until 1985. Three separate Indian government inquiries reached different conclusions.",
+    "evidence_for": [
+      "No verified remains of Bose were ever recovered or repatriated to India; ashes said to be his are still kept at Tokyo's Renkoji Temple but have never been forensically confirmed as his through DNA testing, which the Bose family has repeatedly requested and been refused",
+      "The 2005 Justice Mukherjee Commission — the most recent and thorough of the three official Indian inquiries, which reviewed files from Japan, Russia, and Taiwan — explicitly rejected the plane-crash account as unproven and concluded the 'evidence' of a crash was a cover story, though it could not confirm Bose's presence in the USSR either",
+      "The mysterious 'Gumnami Baba,' a reclusive ascetic who lived in Faizabad from the late 1950s until his 1985 death, possessed personal items and displayed knowledge that many of Bose's family members and former associates found strikingly consistent with Bose himself",
+      "Contemporary witness and diplomatic accounts of the 1945 crash were inconsistent on basic details (which aircraft, exact injuries, and burial location), and wartime Japanese records were incomplete, leaving genuine documentary gaps that three separate commissions across 60 years were unable to fully close"
+    ],
+    "evidence_against": [
+      "The 1956 Shah Nawaz Committee and the 1970 Justice Khosla Commission — including one member who was Bose's own brother — both independently traveled to Japan and Taiwan, interviewed surviving witnesses, and concluded Bose died in the crash",
+      "A Japanese government report declassified in 2016 reaffirmed, based on Japanese military and hospital records, that Bose died from crash-related burns in a Taiwanese hospital on August 18, 1945",
+      "DNA testing on Gumnami Baba's teeth conducted at the Central Forensic Science Laboratory in Kolkata found the sample did not match Bose's known relatives, and an official commission concluded his identity as Bose could not be established",
+      "No credible, independently verified sighting, photograph, or communication from Bose has ever surfaced from any point after August 1945, despite it being one of the most actively investigated disappearances in Indian history"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Death_of_Subhas_Chandra_Bose"
+  }
+]

@@ -1,0 +1,521 @@
+[
+  {
+    "id": "mh370-disappearance",
+    "name": "Malaysia Airlines MH370 Disappearance Conspiracy Theories",
+    "aliases": ["MH370 coverup", "MH370 government conspiracy", "Malaysia Airlines Flight 370"],
+    "genre": "government",
+    "year": 2014,
+    "truth": 18,
+    "impact": 65,
+    "notoriety": 88,
+    "summary": "Theories allege that the March 2014 disappearance of Malaysia Airlines Flight 370 with 239 people aboard was a government coverup rather than an accident, with claims ranging from deliberate shootdown to military involvement to diversion to a secret island. The official investigation concluded the aircraft likely crashed in the southern Indian Ocean, though the wreck's location was not definitively established.",
+    "evidence_for": [
+      "Military radar data suggests the aircraft was deliberately diverted off course and tracked by Malaysian military radar",
+      "Satcom handshake pings were only released months later, raising questions about initial transparency",
+      "The southern Indian Ocean search area is remote and difficult to access, hindering independent verification",
+      "Early reports of suspicious passengers and potential ties to militant groups were not fully resolved publicly",
+      "Some recovered debris (Mozambique, Tanzania) required years to be officially confirmed as from MH370"
+    ],
+    "evidence_against": [
+      "The final investigation report concluded the aircraft's ACARS system was deliberately disabled, consistent with a deliberate act by someone on the flight deck, not a government conspiracy",
+      "The diversion would require sophisticated knowledge of aircraft systems available to trained pilots, not necessarily evidence of government involvement",
+      "Multiple independent searches by Australia, Malaysia, China, and private entities found no evidence of military shootdown",
+      "Crash physics and satellite data analysis support an accidental flight path ending in the southern Indian Ocean",
+      "No credible evidence has emerged linking any government to the disappearance despite extensive investigation"
+    ],
+    "related": ["mh17-coverup"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370"
+  },
+  {
+    "id": "mh17-coverup",
+    "name": "Malaysia Airlines MH17 Cover-up",
+    "aliases": ["MH17 conspiracy", "MH17 Buk missile", "Malaysia Airlines Flight 17"],
+    "genre": "government",
+    "year": 2014,
+    "truth": 25,
+    "impact": 68,
+    "notoriety": 72,
+    "summary": "Theories claim that the July 2014 shootdown of Malaysia Airlines Flight 17 over Ukraine was either not caused by a Russian Buk missile as established, or that the incident was a false-flag operation by Ukrainian forces. An international investigation concluded a Buk missile fired from a Russian-controlled area killed all 298 people aboard.",
+    "evidence_for": [
+      "The exact launch location and Russian involvement were not verified by independent observers on the ground",
+      "Initial Russian statements were inconsistent and later changed multiple times",
+      "The Ukrainian government's security protocols and air traffic warnings were questioned",
+      "Some technical analysts claimed certain radar signatures could indicate alternative trajectories",
+      "The Russia-Ukraine conflict context created political incentives for both sides to control the narrative"
+    ],
+    "evidence_against": [
+      "The Dutch-led international investigation (JIT) conducted a multi-year forensic analysis and concluded a Russian Buk missile was fired from rebel-held territory",
+      "Multiple independent weapons experts confirmed the missile fragment and warhead signatures matched Russian Buk systems",
+      "Satellite imagery, radar data, and communications intercepts corroborated the Russian origin of the missile",
+      "Ukrainian aircraft could not have reached the 33,000-foot cruising altitude with available weapons",
+      "Criminal charges were filed against Russian military officers by the international court"
+    ],
+    "related": ["mh370-disappearance"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_17"
+  },
+  {
+    "id": "kol-007-shootdown",
+    "name": "Korean Air Lines Flight 007 Shootdown Conspiracy",
+    "aliases": ["KAL 007 coverup", "Korean Air Lines 007", "Flight 007 spy plane"],
+    "genre": "espionage",
+    "year": 1983,
+    "truth": 45,
+    "impact": 72,
+    "notoriety": 68,
+    "summary": "Theories claim that Korean Air Lines Flight 007, shot down by Soviet fighters on September 1, 1983, killing all 269 aboard, was an intentional espionage mission, a CIA reconnaissance flight, or deliberately guided into Soviet airspace by US intelligence. Official investigations concluded it was shot down after violating Soviet airspace due to navigational error.",
+    "evidence_for": [
+      "The aircraft did violate Soviet airspace over the sensitive Sakhalin Island military installations",
+      "The flight was on a transponder code briefly shared with military aircraft, raising questions about tracking",
+      "The timing coincided with heightened Cold War tensions and US surveillance activities in the region",
+      "Declassified records show the CIA had used civilian aircraft for reconnaissance missions",
+      "Some former US and Soviet officials have speculated about possible intelligence connections"
+    ],
+    "evidence_against": [
+      "The official Soviet and international investigations concluded the shootdown was a tragic error due to misidentification and navigation failure",
+      "Navigation records showed the aircraft's inertial navigation systems had accumulated drift errors leading to the northern deviation",
+      "No credible evidence has emerged from declassified documents linking the flight to a US intelligence operation",
+      "The USSR's own internal investigations, later revealed, attributed it to pilot error and poor communication",
+      "Cockpit voice recordings, when analyzed, showed no evidence of unusual circumstances beyond navigation confusion"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Korean_Air_Lines_Flight_007"
+  },
+  {
+    "id": "nibiru-planet-x",
+    "name": "Nibiru / Planet X Cataclysm",
+    "aliases": ["Nibiru collision", "Planet X apocalypse", "Nibiru 2012", "tenth planet"],
+    "genre": "extraterrestrial",
+    "year": 1995,
+    "truth": 3,
+    "impact": 92,
+    "notoriety": 58,
+    "summary": "The theory claims that a massive undiscovered planet (Nibiru or Planet X) exists in the outer solar system and will eventually collide with or cause catastrophic gravitational effects on Earth, destroying civilization. Initial claims predicted collision in 2003, then shifted to 2012 after the first date passed.",
+    "evidence_for": [
+      "Legitimate astronomical surveys have searched for undiscovered large objects in the solar system",
+      "Anomalies in the orbits of outer planets were historically attributed to unknown gravitational influences",
+      "Ancient Sumerian texts (misinterpreted by proponents) were claimed to describe Nibiru",
+      "Some amateur astronomers reported unusual astronomical observations interpreted as Nibiru sightings"
+    ],
+    "evidence_against": [
+      "Modern astronomical surveys (WISE, Pan-STARRS, etc.) have definitively ruled out any planet-sized object approaching Earth in the near term",
+      "A planet on a collision course would be easily visible to telescopes decades before impact; none has been found",
+      "Gravitational effects of such a planet would have been detected in orbital perturbations of known planets and comets",
+      "No Sumerian text mentions a planet called Nibiru; ancient astronomical records contain no such reference",
+      "NASA, ESA, and international astronomy communities have repeatedly confirmed no such threat exists"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Nibiru_cataclysm"
+  },
+  {
+    "id": "hollow-earth",
+    "name": "Hollow Earth Theory",
+    "aliases": ["Earth is hollow", "interior sun", "subterranean civilizations", "Agartha"],
+    "genre": "alt-history",
+    "year": 1818,
+    "truth": 2,
+    "impact": 88,
+    "notoriety": 42,
+    "summary": "The theory claims Earth is a hollow sphere with an interior sun, breathable atmosphere, and hidden civilizations living inside. Proposed by John Cleves Symmes Jr. in 1818, the idea persists in modern pseudoscientific and esoteric circles despite overwhelming scientific evidence that Earth has a solid inner core and liquid outer core.",
+    "evidence_for": [
+      "Early proponents cited aurora phenomena as light from the interior sun",
+      "Gravity anomalies in certain regions were interpreted as evidence of hollow structure",
+      "Historical accounts of polar expeditions and navigation anomalies were misinterpreted as evidence of polar openings",
+      "Some esoteric and mystical traditions contain references to underworld realms that believers link to the hollow earth"
+    ],
+    "evidence_against": [
+      "Seismic wave analysis from earthquakes definitively proves Earth has a solid inner core and liquid outer core",
+      "Gravitational measurements and density calculations are inconsistent with a hollow structure",
+      "The mass and density of Earth derived from orbital mechanics and tidal data prove the interior is solid matter",
+      "No apertures or evidence of habitable polar openings has been found despite extensive polar exploration",
+      "Magnetic field generation requires a liquid iron core, which a hollow earth could not produce"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hollow_Earth"
+  },
+  {
+    "id": "black-knight-satellite",
+    "name": "Black Knight Satellite",
+    "aliases": ["Black Knight spacecraft", "ancient space probe", "13,000-year-old satellite"],
+    "genre": "extraterrestrial",
+    "year": 1954,
+    "truth": 12,
+    "impact": 48,
+    "notoriety": 52,
+    "summary": "The theory claims that an ancient artificial satellite, dubbed the 'Black Knight,' orbits Earth and may be an extraterrestrial probe that has been present for thousands of years. NASA allegedly detected it in the 1950s but suppressed the information. Modern versions link it to various real astronomical observations misidentified as the alleged satellite.",
+    "evidence_for": [
+      "In 1954, newspapers reported that astronomers detected two satellites orbiting Earth (later confirmed as one real satellite, Explorer 1)",
+      "Various unusual radar signals and astronomical observations in the 1950s-60s were cited as evidence",
+      "Some historical astronomical records were reinterpreted as observations of the Black Knight",
+      "Proponents cite declassified CIA documents mentioning unknown objects in orbit as evidence of suppression"
+    ],
+    "evidence_against": [
+      "All satellites and debris in Earth orbit have been catalogued; no unidentified object matches the Black Knight description",
+      "Modern space surveillance can track objects as small as a marble in orbit; nothing resembling the Black Knight exists",
+      "The 1954 newspaper story was about the detection of Explorer 1, a known US satellite, not an alien probe",
+      "CIA documents cited were about routine surveillance of Soviet space capabilities, not alien satellites",
+      "No physical evidence, photographs, or spectroscopic analysis has ever substantiated the Black Knight's existence"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Knight_satellite_conspiracy_theory"
+  },
+  {
+    "id": "bermuda-triangle",
+    "name": "Bermuda Triangle",
+    "aliases": ["Devil's Triangle", "Sargasso Sea mystery", "Atlantic anomaly zone"],
+    "genre": "science-tech",
+    "year": 1964,
+    "truth": 16,
+    "impact": 42,
+    "notoriety": 76,
+    "summary": "The theory claims that an undefined region of the western Atlantic Ocean (the 'Bermuda Triangle') between Miami, Bermuda, and Puerto Rico is a zone of anomalous disappearances of ships and aircraft, suggesting extraterrestrial, magnetic, or other unexplained forces at work. The concept was popularized in 1964 by writer Vincent Gaddis.",
+    "evidence_for": [
+      "Several notable disappearances and incidents have occurred in the general region (USS Cyclops 1918, Flight 19 1945, etc.)",
+      "The region does contain unusual geological features including underwater methane vents and trenches",
+      "Magnetic anomalies in the area are real, though not unique to the Bermuda Triangle",
+      "Historical accounts of strange atmospheric and sea phenomena in the region have been documented"
+    ],
+    "evidence_against": [
+      "Statistical analysis shows the Bermuda Triangle has no higher rate of disappearances than any other ocean region of similar size and traffic",
+      "All documented disappearances in the region have conventional explanations: storms, navigation errors, mechanical failure, or human error",
+      "Insurance companies do not charge higher premiums for the Bermuda Triangle, indicating no recognized hazard",
+      "Modern navigation and communication technology have not reduced incidents in the area (as would be expected if anomalies were real)",
+      "Investigators have traced many famous 'Bermuda Triangle' incidents to fabrication or misrepresentation of facts by proponents"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bermuda_Triangle"
+  },
+  {
+    "id": "mars-face-cydonia",
+    "name": "Mars Face at Cydonia",
+    "aliases": ["Cydonia face", "Martian sphinx", "Cydonia pyramids"],
+    "genre": "extraterrestrial",
+    "year": 1976,
+    "truth": 5,
+    "impact": 56,
+    "notoriety": 62,
+    "summary": "The theory claims that a formation in the Cydonia region of Mars resembles a humanoid face and was created by an ancient Martian civilization. The 'face' was first photographed by Viking 1 in 1976 and sparked decades of speculation about artificial Martian structures despite scientific consensus that it is a natural mesa.",
+    "evidence_for": [
+      "The 1976 Viking 1 photograph does show a formation that resembles a face when viewed from one angle",
+      "Other nearby formations (pyramids, D&M Pyramid) were interpreted by proponents as supporting a constructed complex",
+      "The image was taken in shadow, which accentuated facial features, raising questions about interpretation",
+      "Some proponents cite mathematical ratios in the formations as evidence of artificial construction"
+    ],
+    "evidence_against": [
+      "Higher-resolution photographs from Mars Reconnaissance Orbiter and Mars Express clearly show the 'face' is a natural mesa with irregular ridges",
+      "Geological analysis confirms the formations are consistent with natural erosion patterns and mesa structures common on Mars",
+      "Pareidolia (pattern recognition bias) explains why observers perceive facial features in irregular rocks and shadows",
+      "No evidence of any artificial construction, tool marks, or non-natural material has been found in the formation",
+      "Many similar 'face-like' formations exist on Earth and Mars, all explained by natural geological processes"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Cydonia_(Mars)#The_'Face_on_Mars'"
+  },
+  {
+    "id": "nazca-lines-aliens",
+    "name": "Nazca Lines Alien Runways Theory",
+    "aliases": ["Nazca lines extraterrestrials", "Nazca airfield", "ancient astronauts Nazca"],
+    "genre": "extraterrestrial",
+    "year": 1968,
+    "truth": 14,
+    "impact": 38,
+    "notoriety": 54,
+    "summary": "The theory claims that the Nazca Lines geoglyphs in Peru were created by or for extraterrestrials as landing runways or directional markers for spacecraft. Swiss author Erich von Däniken popularized the 'ancient astronaut' interpretation in his 1968 book 'Chariots of the Gods,' though the lines date to 500 BCE–500 CE and were created by the Nazca culture.",
+    "evidence_for": [
+      "The Nazca Lines are only fully visible from the air, raising questions about how they were designed and used",
+      "Some lines are extraordinarily long and precise, suggesting advanced knowledge or technology",
+      "The purpose of the geoglyphs was not definitively known to early modern explorers",
+      "The sheer scale and labor involved prompted speculation about non-human creation"
+    ],
+    "evidence_against": [
+      "Archaeologists have documented the Nazca culture's gradual development of geoglyph-making over centuries, visible in earlier, cruder examples",
+      "The lines can be walked and viewed from ground level using natural elevation changes; aerial visibility is not required for their construction",
+      "Pottery, tools, and artifacts from the Nazca culture definitively tie the lines to human creation",
+      "The lines were created using simple stone removal and earthwork techniques available to the pre-Columbian Nazca people",
+      "Astronomical and ritualistic purposes have been established through archaeological analysis and ethnographic comparison"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Nazca_Lines"
+  },
+  {
+    "id": "majestic-12",
+    "name": "Majestic 12",
+    "aliases": ["MJ-12", "Majestic Twelve", "blue team", "UFO research committee"],
+    "genre": "extraterrestrial",
+    "year": 1984,
+    "truth": 8,
+    "impact": 72,
+    "notoriety": 64,
+    "summary": "The theory claims that a secret government committee called Majestic 12 (MJ-12) was established in 1947 to research UFOs and maintain secrecy about recovered extraterrestrial technology and bodies. The theory was 'documented' by anonymous leaked government memos beginning in 1984 that UFO researchers have since established as forged.",
+    "evidence_for": [
+      "A series of memos appeared beginning in 1984 purporting to be from the National Security Council about UFO research",
+      "The memos contained specific names, dates, and technical details that seemed plausible to UFO researchers",
+      "Declassified documents confirmed that US government did conduct classified UFO research (BLUE BOOK project)",
+      "Some researchers cite coincidences between the MJ-12 memos and later declassified information as supporting evidence"
+    ],
+    "evidence_against": [
+      "Forensic analysis of the leaked memos by document experts concluded they are forgeries, with typos and formatting inconsistent with 1940s government documents",
+      "The paper and typewriter used in the memos post-date the claimed creation dates",
+      "No credible whistleblower has ever confirmed the existence of MJ-12",
+      "FOIA requests have found no official government records mentioning Majestic 12",
+      "The original source of the memos has never been verified or authenticated"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Majestic_12"
+  },
+  {
+    "id": "technology-suppression",
+    "name": "Technology Suppression",
+    "aliases": ["suppressed technology", "GM EV1 suppression", "Phoebus cartel", "lightbulb conspiracy"],
+    "genre": "science-tech",
+    "year": 1924,
+    "truth": 52,
+    "impact": 62,
+    "notoriety": 58,
+    "summary": "Theories claim that major technologies (electric vehicles, efficient lightbulbs, perpetual-motion devices, and others) have been deliberately suppressed by corporate or government conspiracies to maintain profitable industries. The Phoebus cartel's historical suppression of long-life lightbulbs and GM's EV1 cancellation are cited as documented examples, though the broader 'suppression' narrative remains contested.",
+    "evidence_for": [
+      "The Phoebus cartel (1924-1939) is historically documented as deliberately limiting incandescent bulb lifespans to maintain profit margins",
+      "General Motors developed the EV1 electric car in the 1990s but controversially recalled and destroyed all units, citing lack of consumer demand",
+      "Patents for alternative technologies (magnetic motors, hydrogen conversion) have been filed and abandoned without commercial development",
+      "Standard Oil, DuPont, and other major corporations have histories of suppressing competing technologies to protect market position"
+    ],
+    "evidence_against": [
+      "Modern electric vehicles (Tesla, Nissan Leaf) were commercially viable once battery technology advanced sufficiently; no suppression prevented their modern success",
+      "LED bulbs, which are more efficient than any lightbulb in history, became widely available despite profit incentives to suppress them",
+      "Perpetual-motion machines are suppressed by laws of thermodynamics, not corporate conspiracy",
+      "Suppression of profitable technologies would require unprecedented coordination among competing companies globally, with zero authenticated evidence of such organization",
+      "Market economics and consumer demand better explain technology adoption than suppression conspiracies"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Phoebus_cartel"
+  },
+  {
+    "id": "jonbenet-ramsey-coverup",
+    "name": "JonBenét Ramsey Cover-up Theories",
+    "aliases": ["JonBenet murder", "Ramsey coverup", "intruder theory", "grand jury indictment"],
+    "genre": "deaths",
+    "year": 1996,
+    "truth": 48,
+    "impact": 42,
+    "notoriety": 72,
+    "summary": "Theories allege that the 1996 death of child pageant competitor JonBenét Ramsey was covered up by her family (who have been alternately accused and cleared) or by corrupt law enforcement. A 1999 grand jury voted to indict 'unknown subjects' on charges related to her death but no charges were filed. The case remains officially unsolved despite extensive investigation.",
+    "evidence_for": [
+      "A grand jury voted 10-3 to indict someone for 'unlawful restraint' and 'assault' (suggesting cover-up), though the DA did not prosecute",
+      "Contaminated crime scene evidence and evolving investigative theories suggest investigative errors",
+      "An unidentified DNA profile from the crime scene has never been matched, raising questions about the investigation's completeness",
+      "Ransom note details and crime scene staging suggest possible inside knowledge of the family's routines",
+      "Some legal experts argue the evidence was insufficient to charge the known suspects but too suggestive to clear them entirely"
+    ],
+    "evidence_against": [
+      "Modern DNA evidence clears the Ramsey family of direct involvement; the unidentified DNA likely belongs to the killer",
+      "Years of reinvestigation by experienced detectives have found no credible evidence of a family cover-up",
+      "The intruder theory is supported by the unidentified DNA and has become the prevailing law enforcement view",
+      "The grand jury's indictment vote was sealed and its reasoning never publicly explained; speculation about cover-up exceeds documented fact",
+      "The case's complexity and lack of closure reflect investigative difficulty, not necessarily a cover-up"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Murder_of_JonBenét_Ramsey"
+  },
+  {
+    "id": "tsunami-bomb-2004",
+    "name": "Tsunami Bomb / 2004 Indian Ocean Tsunami Weapon Theory",
+    "aliases": ["tsunami weapon 2004", "earthquake bomb", "HAARP tsunami"],
+    "genre": "science-tech",
+    "year": 2005,
+    "truth": 6,
+    "impact": 72,
+    "notoriety": 48,
+    "summary": "Theories claim that the December 2004 Indian Ocean tsunami, which killed approximately 230,000 people, was triggered artificially by a nuclear weapon, earthquake weapon, or secret technology, with various governments allegedly responsible. The scientific consensus attributes the tsunami to a magnitude 9.1 earthquake in the Sunda Strait, the largest in recorded history.",
+    "evidence_for": [
+      "The tsunami occurred in a geopolitically significant region, raising questions about motivation for a weapon",
+      "Declassified documents confirm governments have researched earthquake-triggering technology (Project Seal, HAARP)",
+      "Some eyewitness accounts describe unusual phenomena before the tsunami struck",
+      "The scale of the event (>230,000 deaths) seemed to some observers to require artificial causation"
+    ],
+    "evidence_against": [
+      "Seismic records show a normal subduction-zone earthquake mechanism, not artificial seismic signatures",
+      "Tsunami waves, run-up heights, and arrival times are entirely consistent with an earthquake-generated tsunami from the documented epicenter",
+      "No technology capable of triggering a 9.1 magnitude earthquake has ever been demonstrated, and the thermodynamic requirements make it physically implausible",
+      "Hundreds of independent seismologists and oceanographers have analyzed the tsunami; none have identified artificial causation",
+      "Creating such a weapon would require energy equivalent to thousands of nuclear bombs, with no conceivable delivery mechanism"
+    ],
+    "related": ["haiti-earthquake-weapon", "project-cumulus"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami"
+  },
+  {
+    "id": "haiti-earthquake-weapon",
+    "name": "Haiti Earthquake Weapon Theory (2010)",
+    "aliases": ["HAARP Haiti earthquake", "earthquake weapon 2010", "secret earthquake technology"],
+    "genre": "science-tech",
+    "year": 2010,
+    "truth": 5,
+    "impact": 68,
+    "notoriety": 44,
+    "summary": "Theories claim that the January 2010 Haiti earthquake (magnitude 7.0, killing approximately 230,000 people) was triggered by HAARP (High-frequency Active Auroral Research Program), a US military ionospheric research facility, or other secret earthquake-inducing technology. Seismic analysis conclusively shows it was a natural earthquake on the Enriquillo Fault.",
+    "evidence_for": [
+      "HAARP is a real US military research facility conducting ionospheric research",
+      "The earthquake occurred in a geopolitically sensitive region, raising questions for some observers",
+      "Some proponents claimed HAARP testing data showed unusual activity before the earthquake",
+      "Declassified documents confirm interest in earthquake research (Project Seal)"
+    ],
+    "evidence_against": [
+      "Seismic analysis shows the earthquake resulted from normal fault mechanics on the Enriquillo-Plantain Garden Fault Zone, which had been building stress for centuries",
+      "HAARP operates at frequencies that cannot interact with crustal rocks to trigger earthquakes; the physical mechanism does not exist",
+      "The earthquake's focal mechanism is entirely consistent with natural tectonic processes",
+      "Dozens of independent seismic experts have confirmed the natural origin; no credible seismologist supports the weapon theory",
+      "The energy required to trigger a 7.0 earthquake would exceed anything HAARP could generate by orders of magnitude"
+    ],
+    "related": ["tsunami-bomb-2004", "project-cumulus"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/2010_Haiti_earthquake"
+  },
+  {
+    "id": "project-cumulus",
+    "name": "Project Cumulus / 1952 Lynmouth Flood Theory",
+    "aliases": ["Lynmouth disaster", "weather weapon 1952", "cloud seeding Lynmouth"],
+    "genre": "science-tech",
+    "year": 1952,
+    "truth": 62,
+    "impact": 48,
+    "notoriety": 52,
+    "summary": "Theories claim that a catastrophic flash flood in Lynmouth, Devon, England on August 16, 1952 (killing 34 people) was triggered by Project Cumulus, a secret cloud-seeding weather modification experiment by the UK military and RAF. The UK government did conduct cloud-seeding trials in the region; whether they contributed to the flood is contested.",
+    "evidence_for": [
+      "Project Cumulus was a real, documented RAF cloud-seeding research program (1949-1955)",
+      "Cloud-seeding trials were demonstrably conducted in the southwest England region in summer 1952",
+      "The flood occurred in an area where cloud-seeding operations were active, raising questions about causation",
+      "Meteorological records show unusual rainfall patterns that day, consistent with seeding effects",
+      "A UK government inquiry into Lynmouth (1952) did not definitively rule out seeding contribution"
+    ],
+    "evidence_against": [
+      "The August 1952 weather pattern was part of a broader low-pressure system affecting southwest England; meteorological analysis attributes the flood to natural atmospheric conditions",
+      "Cloud seeding increases precipitation, but the scale needed to cause a catastrophic flood would be enormous and is not attributed to the modest seeding operations",
+      "UK meteorologists and hydrologists have concluded that natural rainfall (over 200mm in 24 hours) was sufficient to cause the flood without modification",
+      "Modern cloud-seeding research shows effects are marginal and localized; scaling to catastrophic flood is implausible",
+      "The UK government declassified Project Cumulus files in 2001; while confirming the trials, they concluded seeding did not trigger the Lynmouth flood"
+    ],
+    "related": ["tsunami-bomb-2004", "haiti-earthquake-weapon"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Lynmouth_disaster"
+  },
+  {
+    "id": "weather-modification",
+    "name": "Weather Modification / Cloud Seeding Programs",
+    "aliases": ["chemtrails weather control", "HAARP weather modification", "geoengineering secrecy"],
+    "genre": "science-tech",
+    "year": 1947,
+    "truth": 78,
+    "impact": 54,
+    "notoriety": 68,
+    "summary": "Weather modification via cloud seeding is a real, documented technology used since the 1940s by governments worldwide (US, China, UAE, Russia, etc.) to enhance precipitation and disperse hail. The conspiracy angle claims these programs are far more extensive and secrecy-laden than officially admitted, and are being used for covert weather control and population manipulation.",
+    "evidence_for": [
+      "Cloud seeding is scientifically established and is publicly conducted by many governments",
+      "The US, China, UAE, Russia, and other nations conduct extensive operational cloud-seeding programs",
+      "Some seeding operations were conducted with limited public transparency or disclosure, especially during the Cold War",
+      "The scope and effectiveness of programs may be intentionally downplayed by governments for operational security",
+      "Peer-reviewed research shows cloud seeding can modestly increase precipitation under favorable conditions"
+    ],
+    "evidence_against": [
+      "Modern cloud seeding has documented, published outcomes: modest precipitation increases (5-15%) under ideal conditions, not weather control",
+      "The energy requirements for large-scale weather manipulation far exceed any demonstrated capability",
+      "Intentional global weather manipulation would require unprecedented international coordination that has no credible evidence",
+      "Scientific consensus on geoengineering acknowledges substantial technical and governance challenges that prevent current implementation at scale",
+      "Transparency about cloud-seeding programs has increased in recent decades; results are peer-reviewed and generally confirm modest, localized effects"
+    ],
+    "related": ["project-cumulus"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Cloud_seeding"
+  },
+  {
+    "id": "anti-fluoridation-communist",
+    "name": "Anti-Fluoridation Communist Plot",
+    "aliases": ["fluoridation communist conspiracy", "fluoride mind control", "water fluoridation plot"],
+    "genre": "health",
+    "year": 1955,
+    "truth": 4,
+    "impact": 38,
+    "notoriety": 48,
+    "summary": "Theories claim that water fluoridation, introduced as a public health measure to prevent tooth decay, is actually a communist mind-control plot or a scheme by pharmaceutical companies to poison populations. The theory gained prominence in the 1950s and persists despite extensive scientific validation of fluoridation's safety and effectiveness.",
+    "evidence_for": [
+      "Fluoridation was introduced without individual consent, raising legitimate privacy and autonomy concerns for some",
+      "Some naturally fluoridated water sources have caused health issues at very high concentrations (dental and skeletal fluorosis)",
+      "A few early proponents of fluoridation made concerning statements about mass medication",
+      "Declassified documents show governments researched fluorine compounds for mind control (never successfully weaponized)"
+    ],
+    "evidence_against": [
+      "Decades of epidemiological research conclusively show water fluoridation at recommended levels (0.7 ppm) is safe and effective at preventing tooth decay",
+      "The World Health Organization, CDC, and dental organizations worldwide endorse water fluoridation as a public health success",
+      "Naturally occurring fluoride in water at similar levels shows no health harm from the fluoride itself",
+      "No communist origin or orchestration of fluoridation has been documented; the practice was developed independently by multiple countries",
+      "Over 70 years of monitoring has shown no cognitive, neurological, or systemic health effects at optimal fluoridation levels"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Water_fluoridation_controversy"
+  },
+  {
+    "id": "titanic-olympic-switch",
+    "name": "Titanic / Olympic Switch Theory",
+    "aliases": ["Titanic insurance fraud", "Olympic sank not Titanic", "White Star Line conspiracy"],
+    "genre": "alt-history",
+    "year": 1995,
+    "truth": 2,
+    "impact": 32,
+    "notoriety": 48,
+    "summary": "The theory claims that the White Star Line deliberately sank the RMS Olympic (damaged in a collision) and fraudulently claimed it was the Titanic to collect insurance, killing over 1,500 people. The theory was popularized in 1995 by Robin Gardiner's book 'Titanic: The Ship That Never Sank,' though it contradicts overwhelming documentary and forensic evidence.",
+    "evidence_for": [
+      "The Olympic was damaged in an earlier collision and underwent repairs",
+      "The insurance payout would have been substantial, providing financial motive",
+      "Some visual details of the two ships were similar, and ship switching has occurred in rare maritime fraud cases",
+      "A few witness accounts were later reinterpreted by proponents as supporting the switch theory"
+    ],
+    "evidence_against": [
+      "The Titanic's wreck, discovered in 1985, bears its official yard/construction number (401, versus Olympic's 400) stamped into recovered components, along with china, nameplates, and other artifacts bearing the Titanic's name",
+      "Contemporary records document the Titanic and Olympic separately in multiple ports and locations simultaneously",
+      "Thousands of passengers and crew members had detailed knowledge of each ship; a switch would have required sealing thousands of mouths",
+      "The Titanic's identifiable features (hull number, engine specifications, internal layout) were documented before sinking and match the wreck",
+      "Insurance investigators were thorough, and no evidence of fraud was ever substantiated"
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/RMS_Titanic#Conspiracy_theories"
+  },
+  {
+    "id": "denver-airport-blucifer",
+    "name": "Denver Airport Blue Mustang \"Blucifer\" Statue Conspiracy Theories",
+    "aliases": ["Denver Blue Mustang conspiracy", "DIA demon horse", "Blucifer apocalypse"],
+    "genre": "new-world-order",
+    "year": 2008,
+    "truth": 9,
+    "impact": 18,
+    "notoriety": 62,
+    "summary": "Theories claim that the striking 32-foot tall fiberglass sculpture of a glowing blue horse with red eyes (nicknamed 'Blucifer' by Denver residents), installed at Denver International Airport in 2013, is a harbinger of apocalypse, a New World Order symbol, or a depiction of a demonic entity. The statue was created by sculptor Luis Jiménez to represent the wild mustangs of the Colorado plains and the frontier spirit.",
+    "evidence_for": [
+      "The statue's demonic appearance and red glowing eyes are genuinely unsettling and unusual for a public monument",
+      "Denver Airport has been the subject of New World Order and Illuminati conspiracy theories since its opening in 1995",
+      "The artist, Luis Jiménez, was killed in his studio in 2006 when a section of the sculpture broke loose and severed an artery in his leg — a fact some proponents cite as an omen or curse tied directly to the artwork",
+      "The statue's intense gaze and muscular frame do evoke mythological underworld creatures"
+    ],
+    "evidence_against": [
+      "Artist Luis Jiménez explicitly stated the statue represents Colorado's wild horses and the pioneer spirit, a natural symbol for the Rocky Mountain region",
+      "The 'red eyes' are artistic lighting effects designed to make the sculpture visible and striking at night; many public sculptures use illumination",
+      "Jiménez's death was a documented, mundane workplace accident — a crane-suspended fiberglass section fell and pinned him against a steel support, a recognized industrial hazard of large-scale sculpture fabrication, not a supernatural event",
+      "The airport authorities have leaned into the tongue-in-cheek conspiracy narrative, selling t-shirts and jokingly referring to it as a 'demonic horse'",
+      "No occult symbolism or hidden meaning has been discovered in the statue's construction or inscription"
+    ],
+    "related": ["denver-airport-conspiracy"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Denver_International_Airport#Conspiracy_theories"
+  }
+]
