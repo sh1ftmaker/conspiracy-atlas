@@ -1,0 +1,375 @@
+[
+  {
+    "id": "realpage-yieldstar-rent-fixing",
+    "name": "RealPage/YieldStar Algorithmic Rent-Fixing",
+    "aliases": ["YieldStar rent cartel", "algorithmic rent collusion", "RealPage price-fixing conspiracy"],
+    "genre": "finance",
+    "year": 2022,
+    "truth": 80,
+    "impact": 82,
+    "notoriety": 60,
+    "summary": "Tenants, state attorneys general, and the DOJ allege that RealPage's YieldStar/AI Revenue Management software let competing landlords controlling roughly 70% of some multifamily markets pool nonpublic pricing, lease, and occupancy data, letting a shared algorithm recommend synchronized rent increases and even advise landlords to hold units vacant rather than compete on price. RealPage and its landlord clients (Greystar, Cortland, and others) deny wrongdoing; RealPage settled with the DOJ in November 2025 without admitting liability, agreeing to a compliance monitor and restrictions on using real-time competitor data.",
+    "evidence_for": [
+      {"text": "ProPublica's 2022 investigation found RealPage's software ingested competitors' confidential lease and pricing data to generate common rent recommendations across landlords.", "source": "https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent"},
+      {"text": "DOJ and eight states sued RealPage and major landlords (including Greystar) in August 2024 alleging an antitrust conspiracy covering 16 million units.", "source": "https://www.propublica.org/article/doj-backs-tenants-price-fixing-case-big-landlords-real-estate-tech"},
+      {"text": "The FBI executed an unannounced raid on Blackstone-linked landlord Cortland Management's Atlanta headquarters in May 2024 as part of a criminal antitrust probe.", "source": "https://www.multifamilydive.com/news/FBI-investigation-antitrust-suit-realpage-apartment-rents/718063/"},
+      {"text": "RealPage's own materials reportedly encouraged landlords to accept higher vacancy in exchange for higher per-unit rents rather than compete for occupancy.", "source": "https://truthout.org/articles/real-estate-software-aided-price-fixing-cartel-among-us-property-companies/"},
+      {"text": "RealPage settled with the DOJ in November 2025, agreeing to a three-year court-monitor and a ban on using real-time nonpublic competitor data in pricing recommendations.", "source": "https://www.propublica.org/article/doj-realpage-settlement-rental-price-fixing-case"}
+    ],
+    "evidence_against": [
+      {"text": "The DOJ settlement imposes no fine and RealPage admits no wrongdoing.", "source": "https://www.wsgr.com/en/insights/doj-settles-its-algorithmic-price-fixing-case-against-realpage.html"},
+      {"text": "State plaintiffs and many landlord defendants have not settled, and the underlying antitrust theory (that using a common vendor's software constitutes a per se price-fixing conspiracy) remains contested in ongoing litigation.", "source": "https://propmodo.com/the-realpage-settlement-wont-end-the-fight-over-revenue-management-software/"}
+    ],
+    "related": ["landlord-vacancy-warehousing", "blackstone-engineered-renter-class"],
+    "precedents": ["libor-scandal"],
+    "steelman": "RealPage's software functioned as a documented clearinghouse for competitively sensitive, nonpublic pricing data among landlords who collectively controlled a large share of local rental supply, which is close kin to how the Libor panel banks used a shared reporting mechanism to align rates — a real settlement, monitor, and criminal probe followed.",
+    "sources": [
+      {"title": "How a Secret Rent Algorithm Pushes Rents Higher", "url": "https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent", "type": "investigative", "stance": "supports"},
+      {"title": "DOJ Backs Tenants in Price-Fixing Case Against Big Landlords and Real Estate Tech Company", "url": "https://www.propublica.org/article/doj-backs-tenants-price-fixing-case-big-landlords-real-estate-tech", "type": "investigative", "stance": "documents"},
+      {"title": "DOJ and RealPage Agree to Settle Rental Price-Fixing Case", "url": "https://www.propublica.org/article/doj-realpage-settlement-rental-price-fixing-case", "type": "investigative", "stance": "documents"},
+      {"title": "FBI raids Cortland office", "url": "https://www.multifamilydive.com/news/FBI-investigation-antitrust-suit-realpage-apartment-rents/718063/", "type": "news", "stance": "documents"},
+      {"title": "DOJ Settles Its Algorithmic Price-Fixing Case Against RealPage", "url": "https://www.wsgr.com/en/insights/doj-settles-its-algorithmic-price-fixing-case-against-realpage.html", "type": "news", "stance": "contested"}
+    ],
+    "research_note": "Well-documented via a live DOJ antitrust case, a criminal FBI probe, and a court-filed settlement; scored below 91 because RealPage admits no liability and much litigation remains unresolved."
+  },
+  {
+    "id": "blackrock-buying-houses",
+    "name": "\"BlackRock Is Buying All the Houses\"",
+    "aliases": ["BlackRock housing conspiracy", "BlackRock/Blackstone confusion theory"],
+    "genre": "finance",
+    "year": 2021,
+    "truth": 5,
+    "impact": 45,
+    "notoriety": 68,
+    "summary": "A viral claim, repeated by figures across the political spectrum including Robert F. Kennedy Jr., holds that asset manager BlackRock is secretly buying up single-family homes en masse to lock ordinary Americans out of homeownership and force a \"nation of renters.\" The claim conflates BlackRock (which manages index funds and does not buy individual houses) with Blackstone, a separate private-equity firm whose vehicles (e.g., Invitation Homes) do own tens of thousands of single-family rentals.",
+    "evidence_for": [
+      {"text": "Blackstone, often confused with BlackRock, did lead large-scale single-family-rental acquisition after 2012 via Invitation Homes and backed a $6B deal for Home Partners of America in 2021.", "source": "https://en.wikipedia.org/wiki/BlackRock_house-buying_conspiracy_theory"},
+      {"text": "In March 2026 social media posts claimed BlackRock 'quietly filed' to acquire $22 billion in single-family homes across 14 states, framed as breaking news.", "source": "https://www.snopes.com/fact-check/blackrock-single-family-homes/"}
+    ],
+    "evidence_against": [
+      {"text": "BlackRock states directly that buying individual homes is not among its business lines; it manages capital for clients, including index and ETF funds that hold minority public shares in homebuilders and REITs, not direct home ownership.", "source": "https://bloustein.rutgers.edu/no-blackrock-isnt-buying-all-the-houses-heres-whats-really-driving-up-your-rent/"},
+      {"text": "Snopes found the specific March 2026 '$22 billion across 14 states' filing claim to be baseless and untraceable to any real SEC or regulatory filing.", "source": "https://www.snopes.com/fact-check/blackrock-single-family-homes/"},
+      {"text": "The Washington Post traced RFK Jr.'s and others' claims to a conflation of BlackRock with Blackstone, two entirely separate companies.", "source": "https://www.washingtonpost.com/politics/2023/11/30/black-hole-robert-f-kennedy-jrs-housing-conspiracy-theory/"}
+    ],
+    "related": ["blackstone-engineered-renter-class", "great-reset"],
+    "precedents": [],
+    "sources": [
+      {"title": "BlackRock house-buying conspiracy theory", "url": "https://en.wikipedia.org/wiki/BlackRock_house-buying_conspiracy_theory", "type": "wikipedia", "stance": "documents"},
+      {"title": "No, BlackRock Isn't Buying All the Houses", "url": "https://bloustein.rutgers.edu/no-blackrock-isnt-buying-all-the-houses-heres-whats-really-driving-up-your-rent/", "type": "academic", "stance": "debunks"},
+      {"title": "Don't buy claim BlackRock 'quietly filed' to acquire $22B in single-family homes", "url": "https://www.snopes.com/fact-check/blackrock-single-family-homes/", "type": "news", "stance": "debunks"},
+      {"title": "BlackRock, Blackstone: RFK Jr.'s housing conspiracy theory", "url": "https://www.washingtonpost.com/politics/2023/11/30/black-hole-robert-f-kennedy-jrs-housing-conspiracy-theory/", "type": "news", "stance": "debunks"}
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/BlackRock_house-buying_conspiracy_theory",
+    "research_note": "Has its own dedicated Wikipedia article documenting the claim's spread and repeated fact-checks; the underlying premise (BlackRock as a direct home-buyer) is specifically false, distinct from the substantiated Blackstone/Invitation Homes reality."
+  },
+  {
+    "id": "nar-realtor-commission-cartel",
+    "name": "NAR Realtor Commission Cartel (Sitzer/Burnett)",
+    "aliases": ["6% commission conspiracy", "realtor cartel", "NAR antitrust conspiracy"],
+    "genre": "finance",
+    "year": 2005,
+    "truth": 93,
+    "impact": 85,
+    "notoriety": 62,
+    "summary": "Consumer advocates and antitrust plaintiffs alleged the National Association of Realtors conspired with major brokerages to enforce a rule requiring sellers to pay a fixed ~6% commission split with buyer's agents, artificially inflating costs nationwide. A federal jury in the Sitzer/Burnett trial found in October 2023 that NAR and named brokerages had \"knowingly and voluntarily\" conspired to inflate commissions, awarding $1.8 billion in damages (trebled to $5.4B); NAR settled in March 2024 for $418 million and eliminated the cooperative-compensation rule.",
+    "evidence_for": [
+      {"text": "The DOJ investigated NAR's rules restricting MLS access and commission practices as early as 2005.", "source": "https://en.wikipedia.org/wiki/Burnett_v._National_Association_of_Realtors"},
+      {"text": "The October 2023 jury verdict found NAR and defendant brokerages liable for conspiring to inflate broker commission rates via NAR's cooperative-compensation rule.", "source": "https://therealdeal.com/national/2023/10/31/jury-finds-nar-brokerages-guilty-in-sitzer-commissions-suit/"},
+      {"text": "NAR agreed in March 2024 to pay $418 million over four years and eliminated the rule requiring sellers to set buyer-broker compensation on the MLS.", "source": "https://www.nar.realtor/magazine/real-estate-news/judge-approves-nar-settlement-in-sitzer-burnett-case"}
+    ],
+    "evidence_against": [
+      {"text": "NAR maintains the settlement is not an admission of liability and continues to appeal aspects of related rulings.", "source": "https://www.nar.realtor/magazine/real-estate-news/law-and-ethics/oral-arguments-in-sitzer-burnett-settlement-appeal-begin-wednesday"}
+    ],
+    "related": ["realpage-yieldstar-rent-fixing"],
+    "precedents": ["libor-scandal"],
+    "sources": [
+      {"title": "Burnett v. National Association of Realtors", "url": "https://en.wikipedia.org/wiki/Burnett_v._National_Association_of_Realtors", "type": "wikipedia", "stance": "documents"},
+      {"title": "Jury Finds NAR, Brokerages Guilty in Sitzer Commissions Suit", "url": "https://therealdeal.com/national/2023/10/31/jury-finds-nar-brokerages-guilty-in-sitzer-commissions-suit/", "type": "news", "stance": "documents"},
+      {"title": "Judge Approves NAR Settlement in Sitzer/Burnett Case", "url": "https://www.nar.realtor/magazine/real-estate-news/judge-approves-nar-settlement-in-sitzer-burnett-case", "type": "news", "stance": "documents"},
+      {"title": "Moehrl v. National Association of Realtors, et al.", "url": "https://www.cohenmilstein.com/case-study/moehrl-v-national-association-realtors-et-al/", "type": "court", "stance": "documents"}
+    ],
+    "research_note": "Court-confirmed: a jury verdict and a $418M settlement place this in the top truth tier alongside other proven price-fixing cartels."
+  },
+  {
+    "id": "blackstone-engineered-renter-class",
+    "name": "Private Equity Engineered Renter Class",
+    "aliases": ["Wall Street landlords theory", "you will own nothing housing", "nation of renters conspiracy"],
+    "genre": "finance",
+    "year": 2020,
+    "truth": 30,
+    "impact": 76,
+    "notoriety": 55,
+    "summary": "Tenant advocates and some commentators claim private-equity firms — especially Blackstone via Invitation Homes — deliberately bought up hundreds of thousands of single-family homes after 2008 and 2020 as part of a knowing, coordinated strategy to permanently convert American homebuyers into renters, sometimes tied to the WEF \"you will own nothing\" slogan. What is documented is that Blackstone pioneered institutional buy-to-rent at scale starting in 2012 and remains a dominant single-family-rental owner; what is not documented is any coordinated industry-wide plan to eliminate homeownership as opposed to ordinary profit-seeking business expansion.",
+    "evidence_for": [
+      {"text": "Blackstone founded Invitation Homes in 2012, buying distressed single-family homes at scale in Sunbelt metros like Atlanta, Phoenix, and Orlando, now a public company worth over $18 billion.", "source": "https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords"},
+      {"text": "The UN special rapporteur on housing criticized Blackstone for worsening the U.S. and global housing crisis through aggressive rent increases and evictions.", "source": "https://www.cbsnews.com/news/blackstone-group-is-making-u-s-housing-crisis-worse-the-un-says/"},
+      {"text": "Tenant advocacy groups cite corporate statements they characterize as explicit acknowledgment that many buyers are being permanently priced into renting.", "source": "https://pestakeholder.org/news/blackstone-groups-invitation-homes-criticized-for-evictions-aggressive-rent-hikes-in-new-report-2/"}
+    ],
+    "evidence_against": [
+      {"text": "Institutional investors (all types combined) own a small single-digit percentage of U.S. single-family homes nationally, far short of an ability to unilaterally 'engineer' national tenure patterns.", "source": "https://en.wikipedia.org/wiki/History_and_impact_of_institutional_investment_in_housing_in_the_United_States"},
+      {"text": "Blackstone has since 2016 offered some renters preferred-rate paths to buy the homes they rent, with roughly a quarter of exiting renters becoming owners, cutting against a 'trap renters forever' narrative.", "source": "https://www.cnbc.com/2023/02/21/how-wall-street-bought-single-family-homes-and-put-them-up-for-rent.html"},
+      {"text": "Critics note Blackstone's business model responds to post-2008 foreclosure gluts and investor demand for yield, a documented market opportunity rather than a secret plan requiring coordination across the industry.", "source": "https://www.city-journal.org/article/wesley-lepatner-murder-blackstone-housing-private-equity"}
+    ],
+    "related": ["blackrock-buying-houses", "realpage-yieldstar-rent-fixing", "great-reset"],
+    "precedents": [],
+    "steelman": "Blackstone genuinely pioneered and scaled the buy-to-rent model after the 2008 crash and again in 2020-2021, concentrating ownership in specific metro submarkets enough to draw UN criticism and match the 'renter class' framing rhetorically, even without proof of cross-firm coordination.",
+    "sources": [
+      {"title": "Here's what happens when private equity buys homes in your neighborhood", "url": "https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords", "type": "news", "stance": "contested"},
+      {"title": "U.N. blasts Blackstone Group for worsening the U.S. housing crisis", "url": "https://www.cbsnews.com/news/blackstone-group-is-making-u-s-housing-crisis-worse-the-un-says/", "type": "news", "stance": "supports"},
+      {"title": "History and impact of institutional investment in housing in the United States", "url": "https://en.wikipedia.org/wiki/History_and_impact_of_institutional_investment_in_housing_in_the_United_States", "type": "wikipedia", "stance": "documents"},
+      {"title": "Blackstone Doesn't Hurt the Housing Market—It Helps It", "url": "https://www.city-journal.org/article/wesley-lepatner-murder-blackstone-housing-private-equity", "type": "news", "stance": "debunks"}
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/History_and_impact_of_institutional_investment_in_housing_in_the_United_States"
+  },
+  {
+    "id": "homebuilder-land-banking-conspiracy",
+    "name": "Homebuilder Land-Banking Conspiracy",
+    "aliases": ["builders hoarding land theory", "deliberate under-building claim"],
+    "genre": "finance",
+    "year": 2021,
+    "truth": 15,
+    "impact": 40,
+    "notoriety": 28,
+    "summary": "A long-running claim, recirculated amid the 2021+ housing shortage, holds that large homebuilders deliberately withhold land with planning permission from development to keep housing scarce and prices high, rather than genuinely being constrained by labor, materials, financing, or permitting. Multiple official reviews (UK's Barker 2004, Callcutt 2007, OFT 2008, Lyons 2014) found no evidence of this specific practice, concluding builders' financial incentives favor building and selling as fast as feasible.",
+    "evidence_for": [
+      {"text": "Proponents point to persistently large 'stock of land with planning permission' figures as circumstantial evidence builders sit on buildable land.", "source": "https://www.building.co.uk/comment/land-banking-by-housebuilders-the-baseless-conspiracy-theory-that-refuses-to-go-away/5134965.article"}
+    ],
+    "evidence_against": [
+      {"text": "The UK Barker Review (2004), Callcutt Review (2007), Office of Fair Trading (2008), and Lyons Review (2014) each independently examined the claim and found no evidence of deliberate withholding to inflate prices.", "source": "https://www.building.co.uk/comment/land-banking-by-housebuilders-the-baseless-conspiracy-theory-that-refuses-to-go-away/5134965.article"},
+      {"text": "Homebuilder Federation analysis argues the economics run the opposite way: builders profit by recycling capital into new sites as fast as possible, disincentivizing hoarding.", "source": "https://www.hbf.co.uk/news/note-on-house-builders-and-land-banking/"},
+      {"text": "Much modern 'land banking' is actually third-party land bankers holding lots off builders' balance sheets for capital-efficiency reasons, not builders themselves withholding supply.", "source": "https://jbrec.com/insights/builders-investors-team-for-land-banking-deals-that-benefit-both/"}
+    ],
+    "related": ["homebuilder-cartel-consolidation"],
+    "precedents": [],
+    "sources": [
+      {"title": "Land banking by housebuilders: the baseless conspiracy theory that refuses to go away", "url": "https://www.building.co.uk/comment/land-banking-by-housebuilders-the-baseless-conspiracy-theory-that-refuses-to-go-away/5134965.article", "type": "news", "stance": "debunks"},
+      {"title": "The land banking myth housebuilders can't shake", "url": "https://www.bdonline.co.uk/opinion/the-land-banking-myth-housebuilders-cant-shake/5134993.article", "type": "news", "stance": "debunks"},
+      {"title": "Note on house builders and land banking", "url": "https://www.hbf.co.uk/news/note-on-house-builders-and-land-banking/", "type": "advocacy", "stance": "debunks"}
+    ],
+    "research_note": "This specific claim (builders sitting on permitted land purely to inflate prices) has been repeatedly, formally investigated and rejected; distinct from the more evidence-backed 'consolidation reduces output' critique recorded separately."
+  },
+  {
+    "id": "homebuilder-cartel-consolidation",
+    "name": "Homebuilder Cartel / Deliberate Under-Building",
+    "aliases": ["OPEC of housing theory", "builder monopoly claim", "It's the Land, Stupid"],
+    "genre": "finance",
+    "year": 2024,
+    "truth": 42,
+    "impact": 62,
+    "notoriety": 22,
+    "summary": "Journalist Matt Stoller and allied antitrust commentators argue that consolidation among large public homebuilders (the top 10 builders' market share roughly tripled from 1994 to 2018) has let a smaller number of firms control land and financing and hold vast inventories of empty entitled lots — an estimated 2 million — restricting output to protect prices and shareholder returns, likened to OPEC. Mainstream housing economists dispute that this consolidation, rather than zoning and interest rates, is the primary driver of the shortage, and no antitrust action has found illegal coordination among builders.",
+    "evidence_for": [
+      {"text": "Top-10 homebuilder market share rose from about 10% in 1994 to nearly a third by 2018, per antitrust analysis.", "source": "https://www.thebignewsletter.com/p/its-the-land-stupid-how-the-homebuilder"},
+      {"text": "Large public homebuilders are reported to be sitting on roughly 2 million empty entitled lots even amid a housing shortage.", "source": "https://www.thebignewsletter.com/p/its-the-land-stupid-how-the-homebuilder"},
+      {"text": "Large builders reportedly engage in joint ventures with each other on land acquisition, which critics argue can function to hold supply off the market ahead of smaller competitors.", "source": "https://www.thebignewsletter.com/p/its-the-land-stupid-how-the-homebuilder"}
+    ],
+    "evidence_against": [
+      {"text": "NAHB, the industry's own trade group, publicly attributes the housing shortage to regulatory costs, zoning, labor, lumber, and financing constraints ('the Five Ls'), and actively lobbies FOR zoning reform rather than against supply growth.", "source": "https://www.nahb.org/news-and-economics/press-releases/2025/03/5-key-supply-side-headwinds-hurt-housing-supply-nahb-tells-congress"},
+      {"text": "Economists writing in response to the 'cartel' framing argue zoning restrictions, not builder consolidation, are the dominant constraint on new supply.", "source": "https://thedailyeconomy.org/article/does-a-builders-cartel-explain-rising-rents/"}
+    ],
+    "related": ["homebuilder-land-banking-conspiracy", "nimby-astroturf-incumbent-owners"],
+    "precedents": [],
+    "sources": [
+      {"title": "It's the Land, Stupid: How the Homebuilder Cartel Drives High Housing Prices", "url": "https://www.thebignewsletter.com/p/its-the-land-stupid-how-the-homebuilder", "type": "advocacy", "stance": "supports"},
+      {"title": "Does a Construction Cartel Explain Rising Rents?", "url": "https://thedailyeconomy.org/article/does-a-builders-cartel-explain-rising-rents/", "type": "news", "stance": "contested"},
+      {"title": "5 Key Supply-Side Headwinds Hurt Housing Supply, NAHB Tells Congress", "url": "https://www.nahb.org/news-and-economics/press-releases/2025/03/5-key-supply-side-headwinds-hurt-housing-supply-nahb-tells-congress", "type": "advocacy", "stance": "debunks"},
+      {"title": "America's housing crisis isn't an accident — it's by design", "url": "https://www.ms.now/top-stories/latest/housing-affordability-crisis-trump-wall-street-mortgage-rcna244404", "type": "news", "stance": "supports"}
+    ],
+    "research_note": "Real consolidation and lot-banking data exist and are cited by name by a prominent antitrust journalist, but this is a contested market-structure critique, not a proven illegal-coordination case — scored as plausible/contested rather than confirmed."
+  },
+  {
+    "id": "nimby-astroturf-incumbent-owners",
+    "name": "NIMBY Zoning as Astroturfed Incumbent-Owner/Landlord Lobby",
+    "aliases": ["astroturf NIMBYism", "homeowner cartel zoning theory"],
+    "genre": "government",
+    "year": 2021,
+    "truth": 25,
+    "impact": 55,
+    "notoriety": 22,
+    "summary": "Housing-supply advocates claim that opposition to zoning reform and new development, presented as grassroots neighborhood concern, is actually coordinated or funded by incumbent homeowners and landlord-adjacent interests seeking to protect property values and constrain competing rental supply. Documented lobbying by homeowner associations and real-estate-linked donors to local officials is real; direct evidence of a secretly coordinated 'astroturf' campaign specifically orchestrated by landlords (as opposed to ordinary self-interested homeowner politics) is thin.",
+    "evidence_for": [
+      {"text": "Academic and advocacy accounts document that NIMBY opposition to affordable and dense housing is disproportionately organized by more affluent, incumbent homeowners with a direct financial interest in restricting new supply near them.", "source": "https://shelterforce.org/2021/11/17/what-is-nimbyism-and-how-do-affordable-housing-developers-respond-to-it/"},
+      {"text": "Commentary on grassroots organizing in Los Angeles describes specific instances of manufactured, funded opposition presented as organic neighborhood concern.", "source": "https://knock-la.com/nimby-vs-yimby-vs-phimby-astroturf-organizing-ff9ccbf2816d/"}
+    ],
+    "evidence_against": [
+      {"text": "A competing analysis argues NIMBY activism largely reflects genuine, decentralized homeowner self-interest rather than any organized landlord-funded campaign, and that development opposition varies too much locally to reflect central coordination.", "source": "https://www.independent.org/article/2025/08/26/not-in-anybodys-backyard-how-nimby-activism-worsens-californias-housing-crisis/"},
+      {"text": "Some commentators invert the astroturf charge entirely, alleging it is the pro-development YIMBY movement that is centrally funded by developer and tech money rather than NIMBYs being landlord-funded.", "source": "https://news.ycombinator.com/item?id=26155249"}
+    ],
+    "related": ["homebuilder-cartel-consolidation"],
+    "precedents": [],
+    "sources": [
+      {"title": "What Is NIMBYism? How Do Affordable Housing Developers Respond to It?", "url": "https://shelterforce.org/2021/11/17/what-is-nimbyism-and-how-do-affordable-housing-developers-respond-to-it/", "type": "advocacy", "stance": "contested"},
+      {"title": "Mow the Lawn! Stop Bad Grassroots Organizing in Los Angeles", "url": "https://knock-la.com/nimby-vs-yimby-vs-phimby-astroturf-organizing-ff9ccbf2816d/", "type": "advocacy", "stance": "supports"},
+      {"title": "Not in Anybody's Backyard: How NIMBY Activism Worsens California's Housing Crisis", "url": "https://www.independent.org/article/2025/08/26/not-in-anybodys-backyard-how-nimby-activism-worsens-californias-housing-crisis/", "type": "advocacy", "stance": "contested"}
+    ],
+    "research_note": "Both directions of the astroturf accusation (NIMBY-funded-by-landlords vs. YIMBY-funded-by-developers) circulate; recorded the direction specified in the research brief."
+  },
+  {
+    "id": "airbnb-housing-crisis-scapegoat",
+    "name": "Airbnb/Short-Term-Rental Investors Blamed for Housing Crisis",
+    "aliases": ["Airbnb housing conspiracy", "STR investor squeeze theory"],
+    "genre": "finance",
+    "year": 2022,
+    "truth": 40,
+    "impact": 50,
+    "notoriety": 60,
+    "summary": "Politicians (including AOC) and tenant advocates argue Airbnb and the investor-hosts who dominate the platform have knowingly pulled long-term housing, especially starter homes, out of local markets for short-term-rental profit, worsening affordability, while Airbnb lobbies against regulation it knows would return that supply. Airbnb counters that it is a scapegoat for zoning and construction shortfalls, citing cities like Barcelona where prices rose sharply despite falling listing counts.",
+    "evidence_for": [
+      {"text": "About one-quarter of Airbnb hosts control roughly two-thirds of listings, indicating investor concentration rather than casual home-sharing.", "source": "https://www.nasdaq.com/articles/4-reasons-airbnbs-are-partly-to-blame-for-the-housing-crisis"},
+      {"text": "In 2020, vacation-home purchases grew over 40% faster than overall existing-home sales, with buyers explicitly citing short-term-rental income potential.", "source": "https://www.archdaily.com/993666/is-airbnb-contributing-to-the-housing-crisis"},
+      {"text": "AOC has publicly linked Airbnb's Puerto Rico expansion to displacement and eviction pressure on long-term residents.", "source": "https://moneywise.com/news/real-estate-news/aoc-airbnb-evictions-housing-crisis-puerto-rico"}
+    ],
+    "evidence_against": [
+      {"text": "Airbnb CEO Brian Chesky notes Barcelona home prices rose 60% over a decade while Airbnb listings there fell, arguing the platform is 'a convenient scapegoat for a failed policy.'", "source": "https://ohkconsultants.com/how-airbnb-is-killing-cities"}
+    ],
+    "related": ["blackstone-engineered-renter-class"],
+    "precedents": [],
+    "sources": [
+      {"title": "4 Reasons Airbnbs Are Partly to Blame for the Housing Crisis", "url": "https://www.nasdaq.com/articles/4-reasons-airbnbs-are-partly-to-blame-for-the-housing-crisis", "type": "news", "stance": "supports"},
+      {"title": "Is Airbnb Contributing to the Housing Crisis?", "url": "https://www.archdaily.com/993666/is-airbnb-contributing-to-the-housing-crisis", "type": "news", "stance": "contested"},
+      {"title": "AOC takes aim at Airbnb over housing crisis", "url": "https://moneywise.com/news/real-estate-news/aoc-airbnb-evictions-housing-crisis-puerto-rico", "type": "news", "stance": "supports"},
+      {"title": "How Airbnb is Killing Cities", "url": "https://ohkconsultants.com/how-airbnb-is-killing-cities", "type": "advocacy", "stance": "contested"}
+    ],
+    "research_note": "Recorded as the blame-narrative version of a real, contested debate; the documented facts (investor concentration, lobbying spend) are real, while the 'knowing coordinated harm' framing is the conspiratorial layer."
+  },
+  {
+    "id": "immigration-inflate-housing-demand",
+    "name": "Immigration Policy Deliberately Used to Inflate Housing Demand",
+    "aliases": ["open-borders housing demand claim", "JD Vance housing-immigration claim"],
+    "genre": "government",
+    "year": 2024,
+    "truth": 12,
+    "impact": 50,
+    "notoriety": 50,
+    "summary": "Some political figures, notably JD Vance, have claimed that federal immigration policy was deliberately kept loose specifically to inflate housing demand and prices for the benefit of asset-holders, landlords, and homebuilders. Economists broadly agree immigration modestly raises housing demand but find the effect is tiny relative to interest rates and supply constraints, and no evidence supports demand-inflation as a deliberate policy objective rather than a side effect economists actually debate.",
+    "evidence_for": [
+      {"text": "Economists agree that increased immigration does increase aggregate housing demand to some degree.", "source": "https://www.nbcnews.com/business/real-estate/jd-vance-said-immigration-driving-housing-crisis-numbers-say-rcna173595"}
+    ],
+    "evidence_against": [
+      {"text": "FactCheck.org and PolitiFact both rated Vance's claims connecting illegal immigration to housing price surges as misleading, noting the magnitude is far smaller than he suggested.", "source": "https://www.factcheck.org/2025/12/vances-misleading-claims-on-housing-prices-and-illegal-immigration/"},
+      {"text": "One economist estimated unauthorized immigration's contribution to home price growth at under 1%, roughly 1/100th the impact of higher interest rates.", "source": "https://www.politifact.com/factchecks/2025/nov/20/jd-vance/housing-affordability-supply-illegal-immigrants/"},
+      {"text": "The National Low Income Housing Coalition's fact sheet with immigrant-family advocacy groups found no evidence for a deliberate demand-inflation policy motive.", "source": "https://nlihc.org/resource/nlihc-and-protecting-immigrant-families-coalition-release-new-fact-sheet-debunking-myths"}
+    ],
+    "related": ["great-replacement"],
+    "precedents": [],
+    "sources": [
+      {"title": "Vance's Misleading Claims on Housing Prices and Illegal Immigration", "url": "https://www.factcheck.org/2025/12/vances-misleading-claims-on-housing-prices-and-illegal-immigration/", "type": "news", "stance": "debunks"},
+      {"title": "PolitiFact | Vice President JD Vance misleads on immigrants' role in US housing crisis", "url": "https://www.politifact.com/factchecks/2025/nov/20/jd-vance/housing-affordability-supply-illegal-immigrants/", "type": "news", "stance": "debunks"},
+      {"title": "What economists say about JD Vance's claim that immigrants drive up housing costs", "url": "https://www.nbcnews.com/business/real-estate/jd-vance-said-immigration-driving-housing-crisis-numbers-say-rcna173595", "type": "news", "stance": "contested"}
+    ],
+    "research_note": "Distinguished from the ethnic-collective 'Great Replacement' theory (already in the atlas, truth 6): this entry records the narrower economic-policy version of the claim about deliberate demand engineering, which is separately unsubstantiated on the evidence of magnitude."
+  },
+  {
+    "id": "home-insurance-collusion-exit-states",
+    "name": "Home Insurers Secretly Colluding to Exit High-Risk States",
+    "aliases": ["insurance cartel climate-exit conspiracy", "FAIR Plan collusion claim"],
+    "genre": "finance",
+    "year": 2023,
+    "truth": 30,
+    "impact": 70,
+    "notoriety": 35,
+    "summary": "As major insurers pulled back from California, Florida, and other disaster-prone states, some policyholders and consumer advocates allege insurers used state-run 'insurer of last resort' plans like California's FAIR Plan to conceal coordinated price-fixing and coverage restriction, rather than genuinely repricing risk. The broader industry retreat is independently documented as driven by real, large climate-disaster losses and reinsurer reluctance, though specific California litigation (e.g., the Canzoneri/Ferrier cases) alleges insurers used the FAIR Plan pool to disguise collusive rate and coverage decisions.",
+    "evidence_for": [
+      {"text": "A California lawsuit alleges insurers used the FAIR Plan to conceal collusion, portraying it as a neutral consumer backstop while using it to fix prices and reduce coverage.", "source": "https://www.lexology.com/library/detail.aspx?g=27b844de-b021-43bc-afe6-690bf44360b4"},
+      {"text": "Consumer Watchdog has criticized insurers' wildfire catastrophe models as opaque 'black box' algorithms that let companies justify large rate increases without transparency.", "source": "https://www.insurancebusinessmag.com/us/news/catastrophe/fair-plan-growth-fuels-debate-over-california-insurance-reforms-562085.aspx"}
+    ],
+    "evidence_against": [
+      {"text": "Insurers lost money on homeowners coverage in 18 states in 2023 alone, and nationwide disaster payouts rose from $30.8B (2013) to $79.6B (2023), consistent with genuine loss-driven repricing rather than manufactured scarcity.", "source": "https://www.jec.senate.gov/public/index.cfm/democrats/2024/12/climate-risks-present-a-significant-threat-to-the-u-s-insurance-and-housing-markets"},
+      {"text": "Independent reinsurers (e.g., Swiss Re), who are not part of any alleged primary-insurer collusion, have also become measurably more reluctant to underwrite U.S. catastrophe risk.", "source": "https://stateline.org/2024/06/05/states-beg-insurers-not-to-drop-climate-threatened-homes/"}
+    ],
+    "related": ["insurance-ai-claims-denial-bias"],
+    "precedents": [],
+    "sources": [
+      {"title": "California Policyholders Say Fire Insurers Colluded to Raise Rates", "url": "https://www.lexology.com/library/detail.aspx?g=27b844de-b021-43bc-afe6-690bf44360b4", "type": "news", "stance": "supports"},
+      {"title": "California's 'last resort' property insurer seeks rate hike, ringing national alarm bells", "url": "https://stateline.org/2025/10/24/californias-last-resort-property-insurer-seeks-rate-hike-ringing-national-alarm-bells/", "type": "news", "stance": "contested"},
+      {"title": "Climate Risks Present a Significant Threat to the U.S. Insurance and Housing Markets", "url": "https://www.jec.senate.gov/public/index.cfm/democrats/2024/12/climate-risks-present-a-significant-threat-to-the-u-s-insurance-and-housing-markets", "type": "government", "stance": "debunks"},
+      {"title": "States beg insurers not to drop climate-threatened homes", "url": "https://stateline.org/2024/06/05/states-beg-insurers-not-to-drop-climate-threatened-homes/", "type": "news", "stance": "debunks"}
+    ]
+  },
+  {
+    "id": "insurance-ai-claims-denial-bias",
+    "name": "Insurance AI Claims-Denial Algorithms",
+    "aliases": ["AI claims-denial conspiracy", "deny-and-delay algorithm claim", "State Farm algorithm bias"],
+    "genre": "finance",
+    "year": 2022,
+    "truth": 58,
+    "impact": 68,
+    "notoriety": 28,
+    "summary": "Policyholders allege major home insurers (State Farm, Allstate) deploy automated claims-processing and machine-learning tools that systematically flag claims from Black homeowners for extra scrutiny and delay, functioning as a hidden mechanism to reduce payouts while insurers publicly deny discrimination. Lawsuits citing internal data have survived motions to dismiss and a court has allowed discovery specifically into an insurer's AI claims-handling systems.",
+    "evidence_for": [
+      {"text": "A State Farm lawsuit alleges its claims-processing algorithms disproportionately flag Black policyholders' claims for extra scrutiny, delaying repairs and payments; survey data cited shows white homeowners were nearly a third more likely to have claims processed in under a month.", "source": "https://www.insurancebusinessmag.com/us/news/claims/state-farm-hit-with-lawsuit-as-policyholders-claim-aidriven-discrimination-552156.aspx"},
+      {"text": "A court allowed discovery specifically into an insurer's use of AI systems to deny claims, rather than dismissing the theory outright.", "source": "https://www.hunton.com/hunton-insurance-recovery-blog/court-allows-discovery-into-insurers-use-of-ai-to-deny-claims"},
+      {"text": "Health insurers including Cigna, Humana, and UnitedHealthcare have separately faced lawsuits over 'batch-denial' algorithms alleged to instantly reject thousands of claims without meaningful human review, establishing a documented industry pattern of automated denial tooling.", "source": "https://www.propertyinsurancecoveragelaw.com/blog/wrongful-ai-in-claims-handling/"}
+    ],
+    "evidence_against": [
+      {"text": "The State Farm lawsuits remain allegations under active litigation; no court has yet issued a final liability finding on the discrimination claims.", "source": "https://sanfordheisler.com/case/discrimination-harassment/state-farm-algorithm-bias-lawsuit/"}
+    ],
+    "related": ["home-insurance-collusion-exit-states"],
+    "precedents": ["volkswagen-dieselgate"],
+    "steelman": "As with Dieselgate, the core allegation is that a company deployed opaque automated software specifically engineered to produce a systematically biased outcome (denials/delays) while publicly presenting its process as neutral — and unlike many finance conspiracy claims, a court has already approved discovery into the algorithm itself rather than dismissing the theory.",
+    "sources": [
+      {"title": "State Farm hit with lawsuit as policyholders claim AI-driven discrimination", "url": "https://www.insurancebusinessmag.com/us/news/claims/state-farm-hit-with-lawsuit-as-policyholders-claim-aidriven-discrimination-552156.aspx", "type": "news", "stance": "supports"},
+      {"title": "Court Allows Discovery Into Insurer's Use of AI to Deny Claims", "url": "https://www.hunton.com/hunton-insurance-recovery-blog/court-allows-discovery-into-insurers-use-of-ai-to-deny-claims", "type": "court", "stance": "documents"},
+      {"title": "Wrongful AI in Claims Handling", "url": "https://www.propertyinsurancecoveragelaw.com/blog/wrongful-ai-in-claims-handling/", "type": "news", "stance": "supports"},
+      {"title": "State Farm Algorithm Bias Lawsuit", "url": "https://sanfordheisler.com/case/discrimination-harassment/state-farm-algorithm-bias-lawsuit/", "type": "court", "stance": "documents"}
+    ],
+    "research_note": "Stronger evidentiary footing than most entries in this batch: active litigation with a discovery order specifically targeting the algorithm, though no final liability verdict yet exists."
+  },
+  {
+    "id": "property-tax-assessment-rigging",
+    "name": "Property Tax Assessment Rigging Claims",
+    "aliases": ["CAD algorithm property tax heist", "property tax assessment fraud conspiracy"],
+    "genre": "finance",
+    "year": 2018,
+    "truth": 33,
+    "impact": 50,
+    "notoriety": 15,
+    "summary": "Claims circulate that property-tax assessors use secret or gamed algorithmic mass-appraisal models to systematically overvalue ordinary homeowners' properties while undervaluing wealthy and commercially connected owners, sometimes framed as a nationwide 'algorithm heist' to hit government budget targets. The strongest real-world basis is Cook County, Illinois, where a ProPublica Illinois investigation ('The Tax Divide') documented Assessor Joseph Berrios's office produced regressive assessments that undervalued expensive properties and overvalued cheaper ones, tied to a system of politically connected tax attorneys; broader nationwide 'secret budget-target algorithm' claims lack comparable documentation.",
+    "evidence_for": [
+      {"text": "ProPublica Illinois found Cook County's residential assessments under Assessor Berrios were highly regressive, systematically undervaluing higher-priced homes and overvaluing lower-priced ones.", "source": "https://features.propublica.org/the-tax-divide/cook-county-commercial-and-industrial-property-tax-assessments/"},
+      {"text": "An independent study found the flawed assessments caused a property-tax burden shift exceeding $2 billion, hitting lower-income and minority homeowners hardest.", "source": "https://www.propublica.org/article/cook-county-property-tax-shift-regressive-assessments"},
+      {"text": "Commercial and industrial assessments in Cook County were found riddled with errors that undervalued downtown high-value buildings while overvaluing small businesses in poorer neighborhoods, tied to a lucrative practice of politically connected property-tax attorneys.", "source": "https://www.propublica.org/article/joseph-berrios-cook-county-assessor-property-tax-inequity"}
+    ],
+    "evidence_against": [
+      {"text": "The Cook County scandal is tied to one county's specific mass-appraisal model and one assessor's documented political ties to tax attorneys, not a proven nationwide coordinated scheme.", "source": "https://www.propublica.org/article/cook-county-residential-property-assessment-study-results"},
+      {"text": "Broader viral claims of a nationwide 'secret algorithm' rigging home values to a fixed budget target circulate mainly on fringe outlets without comparable documentation or named officials.", "source": "https://www.corruption.news/2026-06-11-property-tax-heist-cads-algorithms-steal-homes-equity.html"}
+    ],
+    "related": [],
+    "precedents": [],
+    "sources": [
+      {"title": "How the Cook County Assessor failed taxpayers", "url": "https://features.propublica.org/the-tax-divide/cook-county-commercial-and-industrial-property-tax-assessments/", "type": "investigative", "stance": "supports"},
+      {"title": "Flawed Assessments Caused $2 Billion Shift in Property Taxes, Study Finds", "url": "https://www.propublica.org/article/cook-county-property-tax-shift-regressive-assessments", "type": "investigative", "stance": "documents"},
+      {"title": "Cook County Assessor Faces Questions About Property Tax Inequity", "url": "https://www.propublica.org/article/joseph-berrios-cook-county-assessor-property-tax-inequity", "type": "investigative", "stance": "documents"},
+      {"title": "The Property Tax Heist: How Central Appraisal Districts are using secret algorithms to steal your home's equity", "url": "https://www.corruption.news/2026-06-11-property-tax-heist-cads-algorithms-steal-homes-equity.html", "type": "fringe", "stance": "supports"}
+    ],
+    "research_note": "Split score reflects a genuinely documented local scandal (Cook County) lending real evidence to the general grievance, versus an ungrounded fringe-amplified 'nationwide algorithm conspiracy' version with no comparable sourcing."
+  },
+  {
+    "id": "landlord-vacancy-warehousing",
+    "name": "Landlord Vacancy Warehousing Conspiracy",
+    "aliases": ["apartment warehousing", "rent-stabilized vacancy holding claim"],
+    "genre": "finance",
+    "year": 2022,
+    "truth": 42,
+    "impact": 55,
+    "notoriety": 22,
+    "summary": "Tenant advocates in New York City allege landlords deliberately keep thousands of rent-stabilized apartments vacant rather than re-rent them at regulated rates, both to pressure lawmakers into rolling back 2019 tenant-protection law and to hold out for future deregulation, rather than because units are genuinely uninhabitable. NYC Comptroller reports confirm a large, sustained rise in vacant-but-unavailable stabilized units and found no evidence that tenant protections (not landlord withholding) caused the vacancies, undercutting industry's stated rationale.",
+    "evidence_for": [
+      {"text": "A coalition report found roughly 26,000+ rent-stabilized apartments being warehoused by landlords, with the NYC Comptroller finding only about 11.5% too dilapidated to be habitable.", "source": "https://communitiesresist.org/press-release-new-report-reveals-26000-rent-stabilized-apartments-being-warehoused-by-landlords-apartment-warehousing-separating-myth-from-fact/"},
+      {"text": "NYC Comptroller Brad Lander's report found the vacancy rate among rent-stabilized units fell to 0.98% by 2023, below the citywide rental vacancy rate, while unavailable-vacant units remained elevated at over 26,000.", "source": "https://comptroller.nyc.gov/newsroom/rent-stabilized-vacancies-plummeted-over-last-2-years-including-for-units-in-need-of-repairs-new-nyc-comptroller-report-finds/"},
+      {"text": "Tenant advocates say landlords are holding vacant stabilized units for 'ransom' to lobby against the 2019 Housing Stability and Tenant Protection Act.", "source": "https://www.thecityreporter.nyc/2022/10/19/60000-rent-stabilized-apartments-vacant-warehousing-nyc-landlords-housing/"}
+    ],
+    "evidence_against": [
+      {"text": "The NYC Comptroller's report explicitly found no evidence that the 2019 tenant-protection law (HSTPA) caused increased vacancies, countering the landlord industry's own explanation, but that finding cuts against landlords' claimed rationale rather than proving an organized 'cartel'-style withholding scheme.", "source": "https://commercialobserver.com/2024/03/comptroller-report-vacant-rent-stabilized-apartments/"}
+    ],
+    "related": ["realpage-yieldstar-rent-fixing"],
+    "precedents": [],
+    "sources": [
+      {"title": "Rent-Stabilized Vacancies Plummeted Over Last 2 Years... New NYC Comptroller Report Finds", "url": "https://comptroller.nyc.gov/newsroom/rent-stabilized-vacancies-plummeted-over-last-2-years-including-for-units-in-need-of-repairs-new-nyc-comptroller-report-finds/", "type": "government", "stance": "documents"},
+      {"title": "More than 60,000 Rent-Stabilized Apartments Are Now Vacant — and Tenant Advocates Say Landlords Are Holding Them for 'Ransom'", "url": "https://www.thecityreporter.nyc/2022/10/19/60000-rent-stabilized-apartments-vacant-warehousing-nyc-landlords-housing/", "type": "news", "stance": "supports"},
+      {"title": "New Report Reveals 26,000+ Rent-Stabilized Apartments Being Warehoused by Landlords", "url": "https://communitiesresist.org/press-release-new-report-reveals-26000-rent-stabilized-apartments-being-warehoused-by-landlords-apartment-warehousing-separating-myth-from-fact/", "type": "advocacy", "stance": "supports"},
+      {"title": "Tenant Protections Not to Blame for Vacant Rent-Stabilized Units: NYC Comptroller", "url": "https://commercialobserver.com/2024/03/comptroller-report-vacant-rent-stabilized-apartments/", "type": "news", "stance": "contested"}
+    ],
+    "research_note": "Scoped to NYC where official comptroller data exists; framed as the vacancy-withholding companion to the RealPage algorithmic price-fixing entry, which documents a similar 'accept vacancy over lower rent' logic at the software level."
+  }
+]

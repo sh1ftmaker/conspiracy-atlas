@@ -1,0 +1,447 @@
+[
+  {
+    "id": "iran-strikes-damage-coverup",
+    "name": "Iran Strike 'Obliteration' Cover-Up",
+    "aliases": ["Operation Midnight Hammer Cover-Up", "Fordow BDA Leak", "Iran Battle Damage Cover-Up"],
+    "genre": "government",
+    "year": 2025,
+    "truth": 58,
+    "impact": 65,
+    "notoriety": 55,
+    "summary": "Claims that the Trump administration knew the June 2025 strikes on Fordow, Natanz, and Isfahan did not 'completely and totally obliterated' Iran's nuclear program as publicly declared, and moved to discredit and hunt down the leaker rather than release the underlying data once a Defense Intelligence Agency battle-damage assessment showing only a months-long setback (with centrifuges largely intact and enriched uranium reportedly relocated beforehand) became public. A later Pentagon assessment cited a longer one-to-two-year setback, but no fully reconciled public damage accounting has been released.",
+    "evidence_for": [
+      {"text": "A leaked preliminary DIA Battle Damage Assessment found Iran's program set back only a few months, with some centrifuges intact and Fordow's/Isfahan's lower structures assessed as not destroyed despite caved-in entrances.", "source": "https://www.cnn.com/2025/06/24/politics/intel-assessment-us-strikes-iran-nuclear-sites"},
+      {"text": "Intelligence reportedly shared with European governments indicated Iran's enriched uranium stockpile remained largely intact, since it had been moved prior to the strikes.", "source": "https://www.pbs.org/newshour/politics/new-u-s-intelligence-report-suggests-irans-nuclear-program-only-set-back-by-months-after-strikes"},
+      {"text": "White House press secretary called the leak 'a clear attempt to demean President Trump' rather than addressing the substance of the assessment, and an FBI leak investigation was opened instead of releasing full findings.", "source": "https://www.washingtonpost.com/national-security/2025/06/24/us-iran-bomb-assessment-nuclear-sites-not-destroyed/"},
+      {"text": "IAEA Director General Rafael Grossi said damage was difficult to fully evaluate from satellite imagery alone, while confirming centrifuges at Fordow were 'no longer operational' — a narrower claim than 'obliterated.'", "source": "https://abcnews.com/Politics/early-us-intel-assessment-finds-us-strikes-set/story?id=123169267"}
+    ],
+    "evidence_against": [
+      {"text": "Defense Secretary Hegseth said the leaked report was explicitly 'preliminary' and 'low confidence,' the normal caveat for early battle-damage assessments before all intelligence streams are integrated.", "source": "https://www.npr.org/2025/06/24/nx-s1-5444303/iran-nuclear-program-u-s-strikes-intelligence-assessment"},
+      {"text": "A subsequent July 2025 Pentagon assessment concluded the program was set back by roughly two years, materially higher than the initial leaked estimate.", "source": "https://nuclearnetwork.csis.org/disruption-or-dismantlement-diverging-assessments-of-iran-nuclear-strikes/"},
+      {"text": "CIA Director John Ratcliffe stated new intelligence found the sites 'severely damaged' and would take years to rebuild, directly countering the leaked DIA numbers.", "source": "https://www.cnbc.com/2025/06/25/trump-iran-intelligence-report-nato.html"}
+    ],
+    "related": ["iran-nuclear-weapon-intel-manufactured", "iran-regime-change-plan-hidden", "iraq-wmd-dossier"],
+    "precedents": ["iraq-wmd-dossier", "pentagon-military-analyst-program"],
+    "steelman": "A real, internally produced document assessing a months-long setback directly contradicted a superlative public claim of total destruction, and the administration's first move was to pursue the leaker rather than publish a full, reconciled damage accounting — a pattern consistent with prior instances where battle-damage claims outran the classified record.",
+    "wikipedia": "https://en.wikipedia.org/wiki/2025_United_States_strikes_on_Iranian_nuclear_sites",
+    "sources": [
+      {"title": "Exclusive: Early US intel assessment suggests strikes on Iran did not destroy nuclear sites", "url": "https://www.cnn.com/2025/06/24/politics/intel-assessment-us-strikes-iran-nuclear-sites", "type": "news", "stance": "documents"},
+      {"title": "U.S. damage report: Iran nuclear program set back by months, not obliterated", "url": "https://www.washingtonpost.com/national-security/2025/06/24/us-iran-bomb-assessment-nuclear-sites-not-destroyed/", "type": "investigative", "stance": "documents"},
+      {"title": "Disruption or Dismantlement: Diverging Assessments of Iran Nuclear Strikes", "url": "https://nuclearnetwork.csis.org/disruption-or-dismantlement-diverging-assessments-of-iran-nuclear-strikes/", "type": "academic", "stance": "contested"},
+      {"title": "2025 United States strikes on Iranian nuclear sites", "url": "https://en.wikipedia.org/wiki/2025_United_States_strikes_on_Iranian_nuclear_sites", "type": "wikipedia", "stance": "documents"}
+    ],
+    "research_note": "The underlying leak and dispute are well documented by mainstream outlets; the 'cover-up' framing (deliberate suppression vs. normal intelligence-cycle revision) is the contested conspiratorial layer."
+  },
+  {
+    "id": "iran-nuclear-weapon-intel-manufactured",
+    "name": "Manufactured Iran Nuclear Threat",
+    "aliases": ["Iran WMD 2.0", "Fabricated Imminent Threat"],
+    "genre": "government",
+    "year": 2025,
+    "truth": 34,
+    "impact": 70,
+    "notoriety": 45,
+    "summary": "Claims that the US and Israeli governments exaggerated or manufactured intelligence that Iran was on the imminent verge of building a nuclear weapon in order to justify the June 2025 strikes, noting that Director of National Intelligence Tulsi Gabbard had testified in March 2025 that the intelligence community assessed Iran was not actively building a weapon — an assessment reversed only weeks before the strikes without full public disclosure of the supposedly new evidence. IAEA inspectors likewise reported advancing enrichment capability but no confirmed active weaponization program.",
+    "evidence_for": [
+      {"text": "DNI Tulsi Gabbard testified to Congress in March 2025 that the IC assessed Iran was not currently building a nuclear weapon, a position reversed in official messaging by June.", "source": "https://www.justsecurity.org/115642/intelligence-implications-iran-midnight-hammer/"},
+      {"text": "IAEA statements emphasized uncertainty about weaponization intent even while confirming enrichment levels and site damage, a narrower claim than the 'imminent nuclear weapon' framing used publicly.", "source": "https://www.pbs.org/newshour/politics/fact-checking-statements-made-by-trump-to-justify-u-s-strikes-on-iran"},
+      {"text": "Independent fact-checks of Trump's public statements justifying the strikes found repeated exaggerations regarding Iran's weapons timeline.", "source": "https://www.factcheck.org/2026/04/factchecking-trumps-prime-time-address-on-iran/"}
+    ],
+    "evidence_against": [
+      {"text": "Iran's enrichment to 60% purity has no plausible civilian justification and had been repeatedly flagged by IAEA inspectors as inconsistent with peaceful use.", "source": "https://www.armscontrol.org/act/2026-03/focus/trumps-chaotic-and-reckless-iran-nuclear-policy"},
+      {"text": "Officials stated new intelligence streams emerged between March and June 2025 that updated the assessment; intelligence reassessment on a fast-moving program is not inherently evidence of fabrication.", "source": "https://www.cnbc.com/2025/06/25/trump-iran-intelligence-report-nato.html"}
+    ],
+    "related": ["iran-strikes-damage-coverup", "iran-regime-change-plan-hidden", "iraq-wmd-dossier"],
+    "precedents": ["iraq-wmd-dossier", "nayirah-testimony"],
+    "sources": [
+      {"title": "Intelligence Implications of the Shifting Iran Strike Narrative", "url": "https://www.justsecurity.org/115642/intelligence-implications-iran-midnight-hammer/", "type": "academic", "stance": "contested"},
+      {"title": "Fact-checking statements made by Trump to justify U.S. strikes on Iran", "url": "https://www.pbs.org/newshour/politics/fact-checking-statements-made-by-trump-to-justify-u-s-strikes-on-iran", "type": "news", "stance": "debunks"},
+      {"title": "FactChecking Trump's Prime-Time Address on Iran", "url": "https://www.factcheck.org/2026/04/factchecking-trumps-prime-time-address-on-iran/", "type": "news", "stance": "debunks"},
+      {"title": "Trump's Chaotic and Reckless Iran Nuclear Policy", "url": "https://www.armscontrol.org/act/2026-03/focus/trumps-chaotic-and-reckless-iran-nuclear-policy", "type": "advocacy", "stance": "contested"}
+    ]
+  },
+  {
+    "id": "netanyahu-iran-war-trial-distraction",
+    "name": "Netanyahu's Iran War as Trial Distraction",
+    "aliases": ["War to Dodge Jail", "Bibi's Endless War"],
+    "genre": "government",
+    "year": 2025,
+    "truth": 38,
+    "impact": 55,
+    "notoriety": 50,
+    "summary": "Claims that Netanyahu pushed for and prolonged the 2025–2026 conflicts with Iran, Hamas, and Hezbollah substantially to delay his own corruption trial and preserve his political survival, rather than purely for security reasons. Proponents point to his corruption trial's proceedings pausing during active conflict and his requests to delay testimony once a ceasefire took hold; Iranian officials made the same accusation publicly. Netanyahu denies any such motive and cites documented security threats as the sole driver.",
+    "evidence_for": [
+      {"text": "NYT columnist Thomas Friedman wrote that 'keeping Israel at war with Iran, Hamas and Hezbollah enables Netanyahu to drag out his corruption trial.'", "source": "https://www.commondreams.org/news/netanyahu-and-iran"},
+      {"text": "Netanyahu's criminal trial, covering bribery and fraud charges dating to 2019, was set to resume after the Iran ceasefire, and he requested a delay to his own testimony.", "source": "https://www.forbes.com/sites/alisondurkee/2026/04/10/netanyahu-criminal-trial-will-resume-after-iran-ceasefire-but-he-wants-to-delay-testimony/"},
+      {"text": "Iranian Foreign Minister Araghchi publicly speculated Israel and the US were drawing out the conflict specifically to keep Netanyahu out of court.", "source": "https://www.commondreams.org/news/netanyahu-and-iran"}
+    ],
+    "evidence_against": [
+      {"text": "Netanyahu faces documented, independently substantiated national security threats from Iran's nuclear and missile programs that predate his indictment by years.", "source": "https://thejewishindependent.com.au/operation-roaring-lion-analysis"},
+      {"text": "No direct evidence (memos, testimony) has surfaced showing war timing was coordinated with trial scheduling rather than battlefield conditions.", "source": "https://www.cbsnews.com/news/iran-war-trump-netanyahu-us-israel-united-then-divided/"}
+    ],
+    "related": ["iran-strikes-damage-coverup", "iran-regime-change-plan-hidden"],
+    "sources": [
+      {"title": "'The World Sees You, Netanyahu': Israel's Iran Strikes Seen as 'War of Distraction'", "url": "https://www.commondreams.org/news/netanyahu-and-iran", "type": "news", "stance": "supports"},
+      {"title": "Netanyahu Criminal Trial Will Resume After Iran Ceasefire—But He Wants To Delay Testimony", "url": "https://www.forbes.com/sites/alisondurkee/2026/04/10/netanyahu-criminal-trial-will-resume-after-iran-ceasefire-but-he-wants-to-delay-testimony/", "type": "news", "stance": "documents"},
+      {"title": "How the Iran war united, and then divided, Trump and Israel's Netanyahu", "url": "https://www.cbsnews.com/news/iran-war-trump-netanyahu-us-israel-united-then-divided/", "type": "news", "stance": "contested"}
+    ]
+  },
+  {
+    "id": "iran-regime-change-plan-hidden",
+    "name": "Hidden Iran Regime-Change War Plan",
+    "aliases": ["Secret Decapitation Plan", "Iran Uprising Blueprint"],
+    "genre": "espionage",
+    "year": 2025,
+    "truth": 76,
+    "impact": 90,
+    "notoriety": 40,
+    "summary": "Claims that emerged after the June 2025 strikes, when officials publicly insisted the goal was narrowly counter-proliferation, that the US and Israel actually possessed a far broader covert plan for regime change in Iran involving leadership decapitation and fomenting a popular uprising. Reporting later confirmed such a plan was presented to and adopted by Netanyahu, briefed to senior Trump officials by January 2026, and substantially executed when the US and Israel launched the February 28, 2026 war, which included the killing of Ali Khamenei and explicit regime-change calls to Iranian civilians.",
+    "evidence_for": [
+      {"text": "A regime-change plan involving galvanizing Iranian opposition through strikes and assassinations to trigger government collapse was presented to Netanyahu and adopted, then briefed to senior Trump officials in mid-January 2026.", "source": "https://en.wikipedia.org/wiki/Regime_change_efforts_in_the_2026_Iran_war"},
+      {"text": "Following the February 28, 2026 strikes and the assassination of Ali Khamenei, both Trump and Netanyahu publicly called on Iranian civilians to seize control once government institutions were crippled.", "source": "https://www.npr.org/2026/03/25/nx-s1-5759721/how-trumps-iran-war-objectives-have-shifted-over-time"}
+    ],
+    "evidence_against": [
+      {"text": "During the June 2025 strikes, top officials repeatedly denied regime change was a goal and framed objectives narrowly around nuclear, naval, and missile capabilities.", "source": "https://www.npr.org/2026/03/25/nx-s1-5759721/how-trumps-iran-war-objectives-have-shifted-over-time"},
+      {"text": "It remains unclear whether the 2026 plan was a continuation of concealed 2025-era planning or a distinct decision made later in response to changed battlefield conditions.", "source": "https://en.wikipedia.org/wiki/Regime_change_efforts_in_the_2026_Iran_war"}
+    ],
+    "related": ["iran-strikes-damage-coverup", "iran-nuclear-weapon-intel-manufactured", "hormuz-false-flag-warnings"],
+    "precedents": ["operation-ajax-1953", "iran-contra"],
+    "steelman": "Given that a documented decapitation/regime-change plan was in fact adopted and later executed, the 2025-era public denials of any such intent look, in hindsight, like they understated a real covert objective consistent with the precedent set by the 1953 Ajax coup.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Regime_change_efforts_in_the_2026_Iran_war",
+    "sources": [
+      {"title": "Regime change efforts in the 2026 Iran war", "url": "https://en.wikipedia.org/wiki/Regime_change_efforts_in_the_2026_Iran_war", "type": "wikipedia", "stance": "documents"},
+      {"title": "How Trump's Iran war objectives have shifted over time", "url": "https://www.npr.org/2026/03/25/nx-s1-5759721/how-trumps-iran-war-objectives-have-shifted-over-time", "type": "news", "stance": "documents"},
+      {"title": "Trump Is Potentially Leading the United States Into an Unnecessary War With Iran", "url": "https://www.americanprogress.org/article/trump-is-potentially-leading-the-united-states-into-an-unnecessary-war-with-iran/", "type": "advocacy", "stance": "contested"}
+    ],
+    "research_note": "Unusual case where the 'conspiracy theory' (a hidden broader war plan) was substantiated by subsequent events; scored high accordingly, though the 2025-vs-2026 planning timeline has gaps."
+  },
+  {
+    "id": "iran-war-petrodollar-motive",
+    "name": "Iran War as Petrodollar Defense",
+    "aliases": ["War for Dollar Dominance", "Petrodollar Preservation War"],
+    "genre": "finance",
+    "year": 2025,
+    "truth": 28,
+    "impact": 65,
+    "notoriety": 35,
+    "summary": "Claims that the real driver of US military involvement against Iran was defending the dollar's dominance in global oil trade rather than counter-proliferation, pointing to analyst warnings that the war exposed cracks in the US security guarantee underlying Gulf dollar-oil pricing and reports that Iran collected some wartime tolls in yuan, potentially accelerating a shift toward a 'petroyuan.' Mainstream economic data shows dollar oil pricing remains structurally dominant despite the conflict.",
+    "evidence_for": [
+      {"text": "Analysts warned the war challenges the US security umbrella for Gulf infrastructure that has underpinned dollar-denominated oil pricing since 1974, risking a shift toward the yuan.", "source": "https://fortune.com/2026/03/28/dollar-dominance-dedollarization-global-oil-trade-iran-war-petroyuan-us-security-shield/"},
+      {"text": "During the conflict Iran was reported to be collecting some tolls or payments in yuan rather than dollars.", "source": "https://www.npr.org/2026/04/22/nx-s1-5794608/the-iran-war-puts-the-petrodollar-regime-to-the-test"},
+      {"text": "Commentary ties the 1974 Saudi petrodollar arrangement directly to US willingness to guarantee Gulf security, framing military intervention as protecting that bargain.", "source": "https://thetricontinental.org/newsletterissue/a-primer-on-the-petrodollar/"}
+    ],
+    "evidence_against": [
+      {"text": "IMF analysis found roughly 92% of the mid-2025 decline in dollar reserve share was driven by exchange-rate movements, not active central-bank dumping of dollars.", "source": "https://www.cnbc.com/2026/04/16/us-dollar-dominance-reserve-currency-iran-war-oil-china.html"},
+      {"text": "Saudi Arabia continues to price the overwhelming majority of its oil in dollars, and global oil markets remain structurally dollar-denominated despite the conflict.", "source": "https://www.npr.org/2026/04/22/nx-s1-5794608/the-iran-war-puts-the-petrodollar-regime-to-the-test"}
+    ],
+    "related": ["petrodollar-agreement-expired-hoax", "opec-big-oil-price-collusion", "federal-reserve-cabal", "iran-regime-change-plan-hidden"],
+    "precedents": ["operation-ajax-1953"],
+    "sources": [
+      {"title": "Dollar dominance is reinforced by the global oil trade, but the Iran war could give rise to the 'petroyuan'", "url": "https://fortune.com/2026/03/28/dollar-dominance-dedollarization-global-oil-trade-iran-war-petroyuan-us-security-shield/", "type": "news", "stance": "contested"},
+      {"title": "The Iran war puts the petrodollar regime to the test", "url": "https://www.npr.org/2026/04/22/nx-s1-5794608/the-iran-war-puts-the-petrodollar-regime-to-the-test", "type": "news", "stance": "contested"},
+      {"title": "A Primer on the Petrodollar and the War on Iran", "url": "https://thetricontinental.org/newsletterissue/a-primer-on-the-petrodollar/", "type": "advocacy", "stance": "supports"},
+      {"title": "Iran, the $39 trillion national debt and dedollarization", "url": "https://fortune.com/2026/03/24/iran-hormuz-petrodollar-national-debt-trump/", "type": "news", "stance": "contested"}
+    ]
+  },
+  {
+    "id": "hormuz-false-flag-warnings",
+    "name": "Hormuz/Gulf False-Flag Warnings",
+    "aliases": ["Gulf Infrastructure False Flag", "Hormuz Tanker False Flag"],
+    "genre": "espionage",
+    "year": 2026,
+    "truth": 28,
+    "impact": 60,
+    "notoriety": 30,
+    "summary": "During the 2026 Iran war, Iranian officials and IRGC representatives repeatedly warned that Israel, possibly with US assistance, would stage attacks on energy infrastructure or shipping in Gulf Cooperation Council states and blame Iran, aiming to drag Gulf states into the war and force Iran to disperse its forces across more fronts. Iran separately denied responsibility for several wartime missile incidents (toward Diego Garcia and Turkey) by calling them Israeli false flags, echoing a similar false-flag dispute over 2019 Gulf tanker attacks.",
+    "evidence_for": [
+      {"text": "Iranian Foreign Ministry and IRGC officials warned repeatedly that attacks on GCC energy infrastructure could be staged and falsely attributed to Iran to broaden the war.", "source": "https://www.middleeastmonitor.com/20260312-shadows-of-deception-false-flag-risks-in-the-israel-iran-conflict/"},
+      {"text": "Iran denied launching missiles at Diego Garcia and at Turkey during the war, describing both incidents as Israeli false flags.", "source": "https://en.wikipedia.org/wiki/2026_Iran_war"},
+      {"text": "A near-identical false-flag dispute occurred in 2019 when Secretary of State Pompeo accused Iran of tanker attacks that Iran denied, calling them a false flag.", "source": "https://en.wikipedia.org/wiki/Strait_of_Hormuz"}
+    ],
+    "evidence_against": [
+      {"text": "Iranian state media has itself been caught making fabricated claims during the war, such as asserting a foreign vessel that ran aground in the Strait was unrelated to Tehran when it was actually tied to Iran, undercutting Iran's credibility as a source on false-flag claims.", "source": "https://www.theglobeandmail.com/world/article-iran-ship-hormuz-run-aground-tehran-debunked/"},
+      {"text": "No independently verified false-flag attack on Gulf infrastructure has been documented during the 2026 war; the claims remain warnings/accusations rather than confirmed incidents.", "source": "https://www.usnews.com/news/us/articles/2026-07-02/fact-focus-iran-claims-a-foreign-ship-got-stuck-in-strait-of-hormuz-but-it-is-tied-to-tehran"}
+    ],
+    "related": ["iran-regime-change-plan-hidden", "iran-war-petrodollar-motive"],
+    "precedents": ["gulf-of-tonkin"],
+    "sources": [
+      {"title": "Shadows of deception: False-flag risks in the Israel–Iran Conflict", "url": "https://www.middleeastmonitor.com/20260312-shadows-of-deception-false-flag-risks-in-the-israel-iran-conflict/", "type": "advocacy", "stance": "supports"},
+      {"title": "2026 Iran war", "url": "https://en.wikipedia.org/wiki/2026_Iran_war", "type": "wikipedia", "stance": "documents"},
+      {"title": "FACT FOCUS: Iran Claims a Foreign Ship Got Stuck in Strait of Hormuz. but It Is Tied to Tehran", "url": "https://www.usnews.com/news/us/articles/2026-07-02/fact-focus-iran-claims-a-foreign-ship-got-stuck-in-strait-of-hormuz-but-it-is-tied-to-tehran", "type": "news", "stance": "debunks"}
+    ]
+  },
+  {
+    "id": "opec-big-oil-price-collusion",
+    "name": "Big Oil–OPEC Price-Fixing Collusion",
+    "aliases": ["Sheffield OPEC Texts Scandal", "Pioneer-OPEC Collusion"],
+    "genre": "finance",
+    "year": 2024,
+    "truth": 72,
+    "impact": 75,
+    "notoriety": 42,
+    "summary": "The FTC alleged that former Pioneer Natural Resources CEO Scott Sheffield colluded with OPEC and OPEC+ officials — via hundreds of texts, WhatsApp messages, calls, and in-person meetings — to coordinate reduced US shale output and raise crude and consumer fuel prices, and barred him from an Exxon board seat as a condition of approving Exxon's $64.5 billion Pioneer acquisition, referring the matter to the DOJ for possible criminal antitrust prosecution. Sheffield denies any anticompetitive coordination, calling the characterization of his communications false, and the underlying merger was approved regardless.",
+    "evidence_for": [
+      {"text": "The FTC's complaint states Sheffield exchanged hundreds of text messages with OPEC representatives and officials discussing crude market dynamics, pricing, and output.", "source": "https://www.cnbc.com/2024/05/02/ftc-accuses-ex-pioneer-ceo-of-colluding-with-opec-blocks-him-from-exxon-board.html"},
+      {"text": "The FTC issued a formal consent order barring Sheffield from Exxon's board or any advisory role to it, specifically citing collusion risk.", "source": "https://www.ftc.gov/news-events/news/press-releases/2024/05/ftc-order-bans-former-pioneer-ceo-exxon-board-seat-exxon-pioneer-deal"},
+      {"text": "The case was referred to the Department of Justice for potential criminal antitrust prosecution.", "source": "https://www.seattletimes.com/opinion/price-fixing-case-shows-need-for-aggressive-big-oil-investigations/"},
+      {"text": "An economic analysis attributed over 25% of 2021's oil-driven inflation increase to alleged crude price-fixing schemes.", "source": "https://www.commondreams.org/news/opec-oil-price-fixing"}
+    ],
+    "evidence_against": [
+      {"text": "Sheffield's lawyers dispute the FTC's characterization, saying he sent only one text to an OPEC official to connect a former OPEC Secretary General with the Texas Railroad Commission for an official government proceeding.", "source": "https://worldoil.com/news/2024/5/28/pioneer-s-scott-sheffield-fires-back-at-ftc-allegations-following-60-billion-exxonmobil-deal/"},
+      {"text": "The FTC approved the Exxon-Pioneer merger despite the allegations, and as of mid-2026 no criminal charges had been filed against Sheffield.", "source": "https://www.texasmonthly.com/news-politics/scott-sheffield-exxon-pioneer-opec-price-fixing-allegations/"}
+    ],
+    "related": ["iran-war-petrodollar-motive", "spr-drained-for-elections"],
+    "sources": [
+      {"title": "FTC Order Bans Former Pioneer CEO from Exxon Board Seat in Exxon-Pioneer Deal", "url": "https://www.ftc.gov/news-events/news/press-releases/2024/05/ftc-order-bans-former-pioneer-ceo-exxon-board-seat-exxon-pioneer-deal", "type": "government", "stance": "documents"},
+      {"title": "FTC accuses ex-Pioneer CEO of colluding with OPEC, blocks him from Exxon board", "url": "https://www.cnbc.com/2024/05/02/ftc-accuses-ex-pioneer-ceo-of-colluding-with-opec-blocks-him-from-exxon-board.html", "type": "news", "stance": "documents"},
+      {"title": "Is Scott Sheffield a Saudi Collaborator or Political Scapegoat?", "url": "https://www.texasmonthly.com/news-politics/scott-sheffield-exxon-pioneer-opec-price-fixing-allegations/", "type": "investigative", "stance": "contested"},
+      {"title": "Price-fixing case shows need for aggressive Big Oil investigations", "url": "https://www.seattletimes.com/opinion/price-fixing-case-shows-need-for-aggressive-big-oil-investigations/", "type": "news", "stance": "supports"}
+    ],
+    "research_note": "Unusually well-documented for this batch: a formal FTC consent order and complaint exist, though no criminal conviction has resulted as of research date."
+  },
+  {
+    "id": "petrodollar-agreement-expired-hoax",
+    "name": "'Petrodollar Agreement Expired' Hoax",
+    "aliases": ["Saudi Petrodollar Deal Ended", "50-Year Petrodollar Pact Expired"],
+    "genre": "finance",
+    "year": 2024,
+    "truth": 4,
+    "impact": 30,
+    "notoriety": 58,
+    "summary": "A viral June 2024 social media claim asserted that a secret 50-year 'petrodollar agreement' obligating Saudi Arabia to sell oil exclusively in US dollars expired on June 9, 2024 and would not be renewed, supposedly heralding an imminent collapse of dollar dominance. Fact-checkers found no such formal oil-for-dollars agreement ever existed; the actual expiring pact was the 1974 US-Saudi Joint Commission on Economic Cooperation, an economic and military cooperation framework with no textual dollar-pricing requirement for oil.",
+    "evidence_for": [
+      {"text": "A real US-Saudi economic pact, the 1974 Joint Commission on Economic Cooperation, did lapse on June 9, 2024, giving the claim a kernel of a real, dated event to attach to.", "source": "https://www.rfa.org/english/news/afcl/afcl-us-saudi-oil-deal-07082024043619.html"}
+    ],
+    "evidence_against": [
+      {"text": "A GAO official confirmed the 1974 Joint Commission contained no formal agreement requiring oil to be traded in US dollars.", "source": "https://www.rfa.org/english/news/afcl/afcl-us-saudi-oil-deal-07082024043619.html"},
+      {"text": "Multiple fact-checks found no documentary evidence of any formal 'petrodollar agreement' ever existing between the US and Saudi Arabia.", "source": "https://www.allsides.com/story/facts-and-fact-checking-did-saudi-arabia-end-its-petrodollar-agreement-us"},
+      {"text": "Saudi Arabia's practice of pricing oil in dollars has always been an informal market practice, not a binding contractual obligation that could 'expire.'", "source": "https://birchesgroup.com/2024/08/29/petrodollar-panic-separating-fact-from-fiction/"}
+    ],
+    "related": ["iran-war-petrodollar-motive", "federal-reserve-cabal"],
+    "sources": [
+      {"title": "Did a deal between Saudi Arabia and US to sell oil in dollars expire?", "url": "https://www.rfa.org/english/news/afcl/afcl-us-saudi-oil-deal-07082024043619.html", "type": "news", "stance": "debunks"},
+      {"title": "Did Saudi Arabia End its 'Petrodollar' Agreement With the US?", "url": "https://www.allsides.com/story/facts-and-fact-checking-did-saudi-arabia-end-its-petrodollar-agreement-us", "type": "news", "stance": "debunks"},
+      {"title": "Petrodollar Panic: Separating Fact from Fiction", "url": "https://birchesgroup.com/2024/08/29/petrodollar-panic-separating-fact-from-fiction/", "type": "news", "stance": "debunks"}
+    ]
+  },
+  {
+    "id": "spr-drained-for-elections",
+    "name": "SPR Drained to Rig Elections",
+    "aliases": ["Biden's Politically Timed SPR Releases"],
+    "genre": "government",
+    "year": 2022,
+    "truth": 32,
+    "impact": 55,
+    "notoriety": 35,
+    "summary": "Republican officials claim the Biden administration's release of roughly 180 million barrels from the Strategic Petroleum Reserve between April and October 2022, which dropped the reserve to a roughly 40-year low, was primarily a deliberate political manipulation timed to suppress gas prices ahead of the 2022 midterm elections rather than a genuine emergency response, and that the reserve was left dangerously depleted afterward without adequate refilling.",
+    "evidence_for": [
+      {"text": "The 2022 SPR releases were the largest in the reserve's history and coincided closely with the run-up to the November midterm elections.", "source": "https://www.rpc.senate.gov/policy-papers/biden-drains-the-strategic-petroleum-reserve"},
+      {"text": "Senator Tom Cotton and House committees formally accused the administration of draining the reserve for political gain and demanded answers.", "source": "https://www.foxnews.com/politics/tom-cotton-puts-biden-notice-demanding-answers-draining-nations-oil-stockpile"},
+      {"text": "The reserve fell to its lowest level since the 1980s and was not fully refilled in following years, including under the subsequent Trump administration.", "source": "https://cronkitenews.azpbs.org/2025/04/17/donald-trump-joe-biden-tapping-emergency-oil-stockpile/"}
+    ],
+    "evidence_against": [
+      {"text": "The initial and largest tranche of releases followed Russia's invasion of Ukraine and an associated global oil price spike, a documented supply emergency independent of the midterms.", "source": "https://cronkitenews.azpbs.org/2025/04/17/donald-trump-joe-biden-tapping-emergency-oil-stockpile/"},
+      {"text": "Energy analysts noted that falling prices in late 2022 were substantially attributable to demand destruction from high prices themselves, not the SPR releases, weakening the claim that releases were the deciding political lever.", "source": "https://www.convenience.org/stay-current/conveniencecorner/does-the-president-control-gas-prices"}
+    ],
+    "related": ["opec-big-oil-price-collusion", "iran-war-petrodollar-motive"],
+    "sources": [
+      {"title": "Biden Drains the Strategic Petroleum Reserve", "url": "https://www.rpc.senate.gov/policy-papers/biden-drains-the-strategic-petroleum-reserve", "type": "government", "stance": "supports"},
+      {"title": "Cotton charges Biden drained strategic oil stockpile for political gain", "url": "https://www.foxnews.com/politics/tom-cotton-puts-biden-notice-demanding-answers-draining-nations-oil-stockpile", "type": "news", "stance": "supports"},
+      {"title": "Does the President Control Gas Prices?", "url": "https://www.convenience.org/stay-current/conveniencecorner/does-the-president-control-gas-prices", "type": "news", "stance": "debunks"},
+      {"title": "Trump hit Biden for tapping emergency oil stockpile but isn't refilling it", "url": "https://cronkitenews.azpbs.org/2025/04/17/donald-trump-joe-biden-tapping-emergency-oil-stockpile/", "type": "news", "stance": "contested"}
+    ]
+  },
+  {
+    "id": "nord-stream-us-sabotage-theory",
+    "name": "US Sabotage of Nord Stream",
+    "aliases": ["Hersh Nord Stream Theory", "Biden Blew Up Nord Stream"],
+    "genre": "espionage",
+    "year": 2023,
+    "truth": 32,
+    "impact": 80,
+    "notoriety": 62,
+    "summary": "Investigative journalist Seymour Hersh claimed in February 2023, citing a single anonymous source with purported direct knowledge of the operation, that US Navy divers planted C4 explosives on the Nord Stream pipelines during the June 2022 BALTOPS 22 NATO exercise, detonated via a Norwegian aircraft's sonar buoys in September 2022 on President Biden's direct order, to permanently cut Germany's dependence on Russian gas. Competing reporting, including from the New York Times and German investigators, instead points toward a pro-Ukrainian group as the more likely saboteurs; Ukraine's government denies involvement, and no state has been officially confirmed responsible.",
+    "evidence_for": [
+      {"text": "Hersh's account cites explosives allegedly planted during the publicly documented BALTOPS 22 NATO exercise, with detonation timed to a real Norwegian P8 surveillance flight.", "source": "https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream"},
+      {"text": "Biden and other officials made public statements before the war (e.g. 'there will no longer be a Nord Stream 2') that critics cite as motive evidence.", "source": "https://theintercept.com/2023/03/25/nord-stream-russia-investigation-seymour-hersh/"}
+    ],
+    "evidence_against": [
+      {"text": "Hersh's article is based entirely on a single anonymous source and provides no documentary or physical evidence for its central claims.", "source": "https://www.geopoliticalmonitor.com/seymour-hershs-nord-stream-theory-fact-or-fiction/"},
+      {"text": "A separate, differently-sourced New York Times investigation instead pointed to a pro-Ukrainian group as the likely perpetrators, a claim Ukraine's government denies.", "source": "https://brian-whit.medium.com/all-at-sea-seymour-hersh-and-his-nord-stream-sabotage-story-b467e17a1728"},
+      {"text": "No government has officially confirmed responsibility, and the two competing anonymously-sourced narratives (US-ordered vs. pro-Ukrainian group) remain unreconciled years later.", "source": "https://icds.ee/en/pipes-and-mirrors-the-nord-stream-explosions/"}
+    ],
+    "related": ["opec-big-oil-price-collusion", "iran-war-petrodollar-motive"],
+    "sources": [
+      {"title": "How America Took Out The Nord Stream Pipeline", "url": "https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream", "type": "fringe", "stance": "supports"},
+      {"title": "All at sea: Seymour Hersh and his Nord Stream sabotage story", "url": "https://brian-whit.medium.com/all-at-sea-seymour-hersh-and-his-nord-stream-sabotage-story-b467e17a1728", "type": "news", "stance": "debunks"},
+      {"title": "Russia Calls for U.N. Investigation of Nord Stream Attack, as Hersh Accuses White House of False Flag", "url": "https://theintercept.com/2023/03/25/nord-stream-russia-investigation-seymour-hersh/", "type": "investigative", "stance": "contested"},
+      {"title": "Pipes and Mirrors: the Nord Stream Explosions", "url": "https://icds.ee/en/pipes-and-mirrors-the-nord-stream-explosions/", "type": "academic", "stance": "contested"}
+    ],
+    "research_note": "Checked against the atlas id list; no existing 'nord-stream' entry was found, so this fills that gap."
+  },
+  {
+    "id": "taco-trade-insider-trading",
+    "name": "TACO Trade Insider Trading",
+    "aliases": ["Great Time To Buy Tweet Scandal", "Tariff Pause Insider Trading"],
+    "genre": "finance",
+    "year": 2025,
+    "truth": 45,
+    "impact": 60,
+    "notoriety": 65,
+    "summary": "Claims that Trump and/or people around him traded on advance knowledge of his own April 2025 tariff policy reversal — after unveiling sweeping 'reciprocal' tariffs on April 2 that crashed markets, Trump's financial disclosures later showed 327 stock purchases on April 8, followed by his 'THIS IS A GREAT TIME TO BUY!!!' post at 9:37am on April 9, roughly four hours before he announced a 90-day tariff pause that sent the S&P 500 up 9.5% in a single day. Congressional Democrats requested an SEC investigation; no charges have been filed, and there is no public evidence the purchases were made with foreknowledge of the specific pause timing.",
+    "evidence_for": [
+      {"text": "Financial disclosures made public in 2026 confirmed 327 stock purchases on April 8, 2025, including Apple, Nvidia, Amazon, Alphabet, and Microsoft, the day before the tariff-pause announcement.", "source": "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html"},
+      {"text": "Trump posted 'THIS IS A GREAT TIME TO BUY!!! DJT' at 9:37am, roughly four hours before announcing the 90-day tariff pause that drove a $4 trillion single-day market rebound.", "source": "https://www.pbs.org/newshour/politics/trump-told-investors-to-buy-on-social-media-hours-before-his-tariff-pause-rose-stocks-raising-questions-about-manipulation"},
+      {"text": "Over a dozen House Democrats led by Rep. Maxine Waters formally requested an SEC, GAO, and Inspector General investigation into potential insider trading.", "source": "https://www.nbcnews.com/politics/congress/democrats-question-whether-trump-allies-engaged-insider-trading-tariff-rcna200663"}
+    ],
+    "evidence_against": [
+      {"text": "No evidence has been made public that the president or advisers traded specifically on foreknowledge of the pause's timing rather than a general market view.", "source": "https://www.nbcnews.com/business/markets/trump-tariff-pause-experts-question-timing-trump-social-media-posts-rcna200526"},
+      {"text": "Republican lawmakers, including Sen. John Cornyn, publicly dismissed the insider-trading characterization as unfounded.", "source": "https://www.nbcnews.com/politics/congress/democrats-question-whether-trump-allies-engaged-insider-trading-tariff-rcna200663"}
+    ],
+    "related": ["tariffs-manufactured-wealth-transfer", "iran-war-petrodollar-motive"],
+    "sources": [
+      {"title": "Trump Made 327 Stock Purchases the Day Before He Announced 'This Is a Great Time To Buy' and Paused Tariffs", "url": "https://finance.yahoo.com/markets/stocks/articles/trump-made-327-stock-purchases-the-day-before-he-announced-this-is-a-great-time-to-buy-and-paused-tariffs-035023615.html", "type": "news", "stance": "documents"},
+      {"title": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound", "url": "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html", "type": "news", "stance": "documents"},
+      {"title": "Democrats question whether Trump and his allies engaged in insider trading on tariffs", "url": "https://www.nbcnews.com/politics/congress/democrats-question-whether-trump-allies-engaged-insider-trading-tariff-rcna200663", "type": "news", "stance": "supports"},
+      {"title": "Trump told investors to 'buy' on social media hours before his tariff pause rose stocks, raising questions about manipulation", "url": "https://www.pbs.org/newshour/politics/trump-told-investors-to-buy-on-social-media-hours-before-his-tariff-pause-rose-stocks-raising-questions-about-manipulation", "type": "news", "stance": "contested"}
+    ],
+    "research_note": "The factual timeline (purchases, tweet, pause, disclosure) is now documented via official financial disclosures released in mid-2026; the 'insider trading' legal conclusion remains unproven and no charges have been filed."
+  },
+  {
+    "id": "tariffs-manufactured-wealth-transfer",
+    "name": "Tariffs as Manufactured Wealth Transfer",
+    "aliases": ["Tariff Shock Doctrine", "Engineered Volatility Wealth Grab"],
+    "genre": "finance",
+    "year": 2025,
+    "truth": 28,
+    "impact": 60,
+    "notoriety": 42,
+    "summary": "Claims that the 2025 tariff shock-and-reversal cycle was a deliberately engineered volatility event designed to transfer wealth from ordinary investors, small businesses, and consumers to billionaires and Trump-aligned insiders positioned to buy the post-crash dip, citing the roughly $304 billion single-week wealth gain by the world's top billionaires following the tariff pause and the closeness of billionaire officials Treasury Secretary Bessent and Commerce Secretary Lutnick to the reversal decision.",
+    "evidence_for": [
+      {"text": "The world's wealthiest people gained a collective $304 billion in the days after the tariff pause was announced, with Musk and Zuckerberg among the largest gainers.", "source": "https://www.commondreams.org/news/billionaire-wealth-trump-tariffs"},
+      {"text": "Reporting indicates the reversal followed direct discussions with billionaire officials Bessent and Lutnick conveying Wall Street's alarm at the crash.", "source": "https://www.bloomberg.com/news/features/2025-04-08/trump-tariffs-wall-street-billionaires-criticize-policy-as-market-declines"},
+      {"text": "Commentators noted the episode coincided with deepening integration of tech oligarchs into administration policymaking, including the $500 billion Stargate initiative announced with Sam Altman.", "source": "https://www.wsws.org/en/articles/2025/04/11/cvvx-a11.html"}
+    ],
+    "evidence_against": [
+      {"text": "Billionaire investors and executives were themselves vocal, public critics of the tariffs before the pause, arguing against a coordinated benefit narrative.", "source": "https://www.bloomberg.com/news/newsletters/2025-04-08/donald-trump-s-tariffs-anger-more-billionaires"},
+      {"text": "Ordinary index-fund and 401(k) holders also benefited proportionally from the market rebound, undercutting a narrow 'wealth transfer to insiders only' framing.", "source": "https://fortune.com/2025/07/12/trump-tariffs-taco-trade-backfiring-stock-market-record-highs-trade-war/"}
+    ],
+    "related": ["taco-trade-insider-trading"],
+    "sources": [
+      {"title": "'They Are Laughing at Us All': Trump Tariff Whiplash Boosts Wealth of Mega-Rich by $304 Billion", "url": "https://www.commondreams.org/news/billionaire-wealth-trump-tariffs", "type": "news", "stance": "supports"},
+      {"title": "Trump Tariffs: Wall Street Billionaires Criticize Policy as Market Declines", "url": "https://www.bloomberg.com/news/features/2025-04-08/trump-tariffs-wall-street-billionaires-criticize-policy-as-market-declines", "type": "news", "stance": "contested"},
+      {"title": "Trump's tariff pull-back and the class character of the capitalist state", "url": "https://www.wsws.org/en/articles/2025/04/11/cvvx-a11.html", "type": "advocacy", "stance": "supports"}
+    ]
+  },
+  {
+    "id": "tiktok-divestiture-shadow-control",
+    "name": "TikTok's Fake Divestiture / Surveillance Access Fight",
+    "aliases": ["TikTok Deal Is Cosmetic", "ByteDance Shadow Control"],
+    "genre": "espionage",
+    "year": 2025,
+    "truth": 34,
+    "impact": 55,
+    "notoriety": 48,
+    "summary": "Claims split in two directions: (1) that the January 2026 US divestiture deal for TikTok is largely cosmetic, leaving ByteDance and by extension the Chinese government with continued effective influence over the app's ranking algorithm and update pathway despite new US-majority ownership on paper; and (2) conversely, that the entire national-security framing was less about genuine Chinese-government data access and more a pretext for the US government itself (or connected firms like Oracle) to gain privileged access to and leverage over Americans' data and a dominant social platform.",
+    "evidence_for": [
+      {"text": "ByteDance disclosed few technical details of the divestiture, and Congress received no briefing on whether the algorithm was verifiably free of Chinese influence before the deal closed.", "source": "https://lawreview.law.miami.edu/tiktok-on-the-clock-national-security-forced-divestiture-and-the-limits-of-the-first-amendment/"},
+      {"text": "Senator Ed Markey publicly criticized the lack of transparency, saying it 'reeks,' specifically questioning whether the algorithm was truly free of Chinese influence under the new ownership structure.", "source": "https://www.techpolicy.press/us-power-play-over-tiktok-did-nothing-to-protect-americans/"},
+      {"text": "Analysis of the settlement's structure describes it as solving for 'jurisdictional optics' (US board, US hosting) while leaving underlying technical dependency on ByteDance's systems ambiguous.", "source": "https://www.techpolicy.press/us-power-play-over-tiktok-did-nothing-to-protect-americans/"}
+    ],
+    "evidence_against": [
+      {"text": "The deal legally reduced ByteDance's ownership stake to under 20%, with the app operated by a newly incorporated US-controlled joint venture, TikTok USDS.", "source": "https://www.federalregister.gov/documents/2025/09/30/2025-19139/saving-tiktok-while-protecting-national-security"},
+      {"text": "The original national-security rationale is grounded in a real, documented legal mechanism: China's 2017 National Intelligence Law compels domestic firms to cooperate with state intelligence work, and leaked internal TikTok discussions showed China-based staff had tracked specific US users' locations.", "source": "https://en.wikipedia.org/wiki/Efforts_to_ban_TikTok_in_the_United_States"}
+    ],
+    "related": ["chip-export-controls-leaky-by-design", "zpmc-spy-cranes-espionage"],
+    "precedents": ["nsa-mass-surveillance"],
+    "wikipedia": "https://en.wikipedia.org/wiki/Efforts_to_ban_TikTok_in_the_United_States",
+    "sources": [
+      {"title": "Efforts to ban TikTok in the United States", "url": "https://en.wikipedia.org/wiki/Efforts_to_ban_TikTok_in_the_United_States", "type": "wikipedia", "stance": "documents"},
+      {"title": "US Power Play Over TikTok Did Nothing to Protect Americans", "url": "https://www.techpolicy.press/us-power-play-over-tiktok-did-nothing-to-protect-americans/", "type": "news", "stance": "contested"},
+      {"title": "TikTok on the Clock: National Security, Forced Divestiture, and the Limits of the First Amendment", "url": "https://lawreview.law.miami.edu/tiktok-on-the-clock-national-security-forced-divestiture-and-the-limits-of-the-first-amendment/", "type": "academic", "stance": "contested"},
+      {"title": "Saving TikTok While Protecting National Security", "url": "https://www.federalregister.gov/documents/2025/09/30/2025-19139/saving-tiktok-while-protecting-national-security", "type": "government", "stance": "documents"}
+    ]
+  },
+  {
+    "id": "chip-export-controls-leaky-by-design",
+    "name": "Chip Export Controls: Leaky By Design",
+    "aliases": ["Huawei Chip Smuggling Cover-Up", "Nvidia Backdoor Loophole Theory"],
+    "genre": "espionage",
+    "year": 2024,
+    "truth": 34,
+    "impact": 60,
+    "notoriety": 30,
+    "summary": "Claims that US semiconductor export controls aimed at restricting China's access to advanced AI chips are deliberately porous — either because chipmakers like Nvidia lobby to preserve profitable channels or because regulators tacitly tolerate circumvention — pointing to documented cases where Huawei used shell companies to get Taiwan's TSMC to fabricate roughly 2 million Ascend 910 AI chiplets despite Entity List restrictions, and to PRC fabs tied to Huawei that were flagged to regulators but never added to the restricted list.",
+    "evidence_for": [
+      {"text": "The Commerce Department's Bureau of Industry and Security assessed in May 2025 that Huawei had developed its Ascend chips in violation of US export controls, using overseas foundries reliant on US technology.", "source": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-issues-worldwide-crackdown-on-using-huawei-ascend-chips-says-it-violates-export-controls"},
+      {"text": "Huawei reportedly used shell companies to have TSMC unknowingly manufacture around 2 million Ascend 910 chiplets.", "source": "https://www.csis.org/analysis/chip-race-china-gives-huawei-steering-wheel-huaweis-new-smartphone-and-future"},
+      {"text": "An ITIF report found that export controls, rather than fully blocking Huawei, in some respects backfired and helped Huawei while hurting US firms' market position.", "source": "https://itif.org/publications/2025/10/27/backfire-export-controls-helped-huawei-and-hurt-us-firms/"}
+    ],
+    "evidence_against": [
+      {"text": "The Commerce Department has actively amended rules to close identified loopholes as they are discovered, indicating a pattern of enforcement-and-adaptation rather than deliberate permissiveness.", "source": "https://www.hoganlovells.com/en/publications/us-department-of-commerce-tightens-export-control-rules-restricting-huaweis-access-to-certain-foreign-produced-items"},
+      {"text": "Analysts attribute circumvention primarily to the inherent difficulty of controlling millions of small, easily concealed chips across complex global supply chains, not to intentional design.", "source": "https://www.csis.org/analysis/limits-chip-export-controls-meeting-china-challenge"}
+    ],
+    "related": ["zpmc-spy-cranes-espionage", "tiktok-divestiture-shadow-control"],
+    "wikipedia": "https://en.wikipedia.org/wiki/United_States_New_Export_Controls_on_Advanced_Computing_and_Semiconductors_to_China",
+    "sources": [
+      {"title": "Backfire: Export Controls Helped Huawei and Hurt U.S. Firms", "url": "https://itif.org/publications/2025/10/27/backfire-export-controls-helped-huawei-and-hurt-us-firms/", "type": "academic", "stance": "contested"},
+      {"title": "U.S. issues worldwide crackdown on using Huawei Ascend chips, says it violates export controls", "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-issues-worldwide-crackdown-on-using-huawei-ascend-chips-says-it-violates-export-controls", "type": "news", "stance": "documents"},
+      {"title": "The Limits of Chip Export Controls in Meeting the China Challenge", "url": "https://www.csis.org/analysis/limits-chip-export-controls-meeting-china-challenge", "type": "academic", "stance": "debunks"}
+    ]
+  },
+  {
+    "id": "zpmc-spy-cranes-espionage",
+    "name": "Chinese Spy Cranes at US Ports",
+    "aliases": ["ZPMC Crane Espionage", "Port Crane Backdoor Modems"],
+    "genre": "espionage",
+    "year": 2024,
+    "truth": 54,
+    "impact": 70,
+    "notoriety": 35,
+    "summary": "Claims that Chinese-made ship-to-shore cranes, manufactured by Shanghai Zhenhua Heavy Industries (ZPMC), which supplies roughly 80% of cranes at US ports, contain hidden hardware allowing Beijing to surveil or potentially remotely disable US port operations during a crisis. A 2024 congressional investigation found more than a dozen unrequested cellular modems wired into crane control systems at several ports, connected to onboard Linux computers in ways investigators said could bypass firewalls; ZPMC denies any capability or intent to disrupt port operations and says its own internal probe found no hidden modems.",
+    "evidence_for": [
+      {"text": "A House Homeland Security Committee investigation found more than 12 cellular modems in Chinese-made cranes used at US ports, some installed without ports having requested them.", "source": "https://www.cnn.com/2024/03/07/politics/congressional-probe-communications-gear-chinese-cranes/index.html"},
+      {"text": "Investigators described the modems as connecting to onboard Linux computers in ways that created 'an obscure method to collect information and bypass firewalls.'", "source": "https://homeland.house.gov/2024/03/12/wtas-joint-investigation-intoccp-backed-company-supplying-cranes-to-u-s-ports-reveals-shocking-findings/"},
+      {"text": "ZPMC has repeatedly requested remote access to its ship-to-shore cranes operating at various US ports, a request lawmakers say raises disruption concerns beyond passive surveillance.", "source": "https://www.axios.com/2024/09/17/chinese-cargo-cranes-secruity-risks"}
+    ],
+    "evidence_against": [
+      {"text": "ZPMC's own internal investigation reported it found no evidence of the hidden modems and maintains it lacks the capability, intent, or motive to disrupt US port operations.", "source": "https://www.foxbusiness.com/politics/chinese-crane-firm-denies-posing-security-risk-us-ports-amid-investigation"},
+      {"text": "One port confirmed the modems were installed in 2017 for legitimate remote maintenance-monitoring functions and had already been removed by 2023 once flagged, which is consistent with a security lapse rather than an active, ongoing espionage operation.", "source": "https://www.cbsnews.com/news/chinese-cranes-at-u-s-ports-raise-homeland-security-concerns/"}
+    ],
+    "related": ["chip-export-controls-leaky-by-design", "tiktok-divestiture-shadow-control"],
+    "precedents": ["nsa-mass-surveillance"],
+    "sources": [
+      {"title": "WTAS: Joint Investigation into CCP-Backed Company Supplying Cranes to U.S. Ports Reveals Shocking Findings", "url": "https://homeland.house.gov/2024/03/12/wtas-joint-investigation-intoccp-backed-company-supplying-cranes-to-u-s-ports-reveals-shocking-findings/", "type": "government", "stance": "supports"},
+      {"title": "Congressional probe finds communications gear in Chinese cranes, raising spying concerns", "url": "https://www.cnn.com/2024/03/07/politics/congressional-probe-communications-gear-chinese-cranes/index.html", "type": "news", "stance": "documents"},
+      {"title": "Chinese crane firm denies posing security risk at US ports amid investigation", "url": "https://www.foxbusiness.com/politics/chinese-crane-firm-denies-posing-security-risk-us-ports-amid-investigation", "type": "news", "stance": "debunks"},
+      {"title": "Why China's cargo cranes at U.S. ports pose espionage risk", "url": "https://www.axios.com/2024/09/17/chinese-cargo-cranes-secruity-risks", "type": "news", "stance": "contested"}
+    ]
+  },
+  {
+    "id": "fentanyl-reverse-opium-war",
+    "name": "Fentanyl as Reverse Opium War",
+    "aliases": ["Reverse Opium War", "China's Chemical Warfare Fentanyl Plot"],
+    "genre": "government",
+    "year": 2023,
+    "truth": 14,
+    "impact": 50,
+    "notoriety": 42,
+    "summary": "Claims that the Chinese Communist Party deliberately facilitates the flow of fentanyl precursor chemicals into the US as a form of intentional chemical warfare or historical revenge for the 19th-century Opium Wars. The framing was popularized by Secretary of State Marco Rubio in February 2025, who called it a 'reverse Opium War,' but when directly asked whether he had proof China was deliberately allowing the flow, Rubio acknowledged he did not. Researchers instead trace the pipeline mainly to profit-driven Chinese precursor chemical firms and Mexican trafficking networks, with, at most, lax Chinese state enforcement rather than a coordinated government weapons program.",
+    "evidence_for": [
+      {"text": "Secretary of State Marco Rubio publicly suggested Beijing may be 'deliberately' flooding America with fentanyl as a 'reverse' Opium War.", "source": "https://www.rfa.org/english/china/2025/02/27/china-rubio-fentanyl-opium-war/"},
+      {"text": "The 'Reverse Opium War' framing predates Rubio's 2025 remarks, having circulated in commentary since at least 2023.", "source": "https://quillette.com/2023/06/14/the-reverse-opium-war/"}
+    ],
+    "evidence_against": [
+      {"text": "When asked directly if he 'knows' China deliberately allows fentanyl into the US, Rubio acknowledged he had no proof.", "source": "https://www.rfa.org/english/china/2025/02/27/china-rubio-fentanyl-opium-war/"},
+      {"text": "The Chinese Embassy in Washington called the claims 'groundless suspicions and smears,' and researchers found the fentanyl pipeline runs mainly through Mexican transnational criminal gangs sourcing precursors from small, profit-driven Chinese chemical firms rather than state-directed programs.", "source": "https://www.rfa.org/english/china/2025/02/27/china-rubio-fentanyl-opium-war/"},
+      {"text": "Analysis notes the US opioid crisis was already well underway before the fentanyl surge, undermining a narrative of a single orchestrated Chinese chemical-warfare campaign as its cause.", "source": "https://theconversation.com/what-the-opium-wars-can-tell-us-about-china-the-u-s-and-fentanyl-247170"}
+    ],
+    "related": ["chip-export-controls-leaky-by-design", "zpmc-spy-cranes-espionage", "chinas-real-population"],
+    "sources": [
+      {"title": "Rubio accuses China of 'reverse' Opium War via fentanyl", "url": "https://www.rfa.org/english/china/2025/02/27/china-rubio-fentanyl-opium-war/", "type": "news", "stance": "contested"},
+      {"title": "The Reverse Opium War", "url": "https://quillette.com/2023/06/14/the-reverse-opium-war/", "type": "advocacy", "stance": "supports"},
+      {"title": "What the Opium Wars can tell us about China, the U.S. and fentanyl", "url": "https://theconversation.com/what-the-opium-wars-can-tell-us-about-china-the-u-s-and-fentanyl-247170", "type": "academic", "stance": "debunks"}
+    ],
+    "research_note": "Scored low per guardrails: the claim's proponent (Rubio) admitted lack of proof, and serious analysis attributes the pipeline to criminal/commercial actors rather than coordinated state policy; framed around the specific-actor (CCP policy) version rather than an ethnic-collective claim."
+  }
+]

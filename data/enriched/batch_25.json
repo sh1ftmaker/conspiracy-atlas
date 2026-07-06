@@ -1,0 +1,530 @@
+[
+  {
+    "id": "epstein-files-transparency-fight",
+    "name": "Epstein Files Client-List Cover-Up",
+    "aliases": ["No Client List Memo", "Epstein Files Cover-Up", "Where's the List"],
+    "genre": "government",
+    "year": 2025,
+    "truth": 35,
+    "impact": 80,
+    "notoriety": 88,
+    "summary": "Proponents — spanning Epstein survivors' advocates, Democrats, and some MAGA-aligned figures — claim the DOJ and FBI are deliberately concealing a list of powerful clients who abused or paid for access to Epstein's victims, and that a July 2025 memo declaring no such list exists was a discretionary cover-up rather than a genuine null finding. The claim gained force because Attorney General Pam Bondi had said months earlier that a client list was 'sitting on my desk,' which the unsigned DOJ/FBI memo then contradicted. Congress passed the Epstein Files Transparency Act amid the backlash, and DOJ has released tranches of files while maintaining no chargeable evidence against third parties was found.",
+    "evidence_for": [
+      {"text": "Bondi's February 2025 on-air claim that the Epstein client list was 'sitting on my desk to review' was directly contradicted five months later by an unsigned DOJ/FBI memo stating no such list exists.", "source": "https://www.npr.org/2025/07/07/g-s1-76367/doj-jeffrey-epstein-memo"},
+      {"text": "The July 2025 memo stated investigators would release no further Epstein-related documents, a position DOJ reversed under sustained public and congressional pressure.", "source": "https://www.cbsnews.com/live-updates/epstein-files-released-documents-2025/"},
+      {"text": "Congress passed the bipartisan Epstein Files Transparency Act in late 2025 compelling further disclosure, an unusual step if officials believed no further material existed.", "source": "https://en.wikipedia.org/wiki/Epstein_files"},
+      {"text": "CNN reported in February 2026 that FBI employees had compiled internal presentations cataloguing allegations against additional prominent names beyond Epstein and Maxwell that were not part of the public July 2025 memo.", "source": "https://www.cnn.com/2026/02/09/politics/epstein-files-fbi-employees-presentation-prominent-names"}
+    ],
+    "evidence_against": [
+      {"text": "The July 2025 memo affirmed the 2019 medical examiner's suicide finding and stated investigators found no evidence 'that could predicate an investigation against uncharged third parties' — an absence-of-evidence conclusion, not an admission of suppression.", "source": "https://www.npr.org/2025/07/07/g-s1-76367/doj-jeffrey-epstein-memo"},
+      {"text": "Ghislaine Maxwell's 2021 conviction and subsequent DOJ interviews with her did not yield charges against additional individuals despite years of investigation and multiple grand juries.", "source": "https://en.wikipedia.org/wiki/Epstein_files"},
+      {"text": "Career DOJ and FBI officials across both the Biden and first Trump administrations reached similar conclusions about the case file, cutting against a single-administration cover-up theory.", "source": "https://www.cbsnews.com/live-updates/epstein-files-released-documents-2025/"}
+    ],
+    "related": ["epstein-killed", "epstein-mossad-intelligence-asset", "diddy-list-conspiracy"],
+    "precedents": ["iran-contra"],
+    "steelman": "The documented public reversal — from a sitting Attorney General claiming a list was on her desk to an unsigned memo denying one exists — is a real, unexplained contradiction that would be a legitimate basis for scrutiny even absent proof of what is being protected.",
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Epstein_files",
+    "sources": [
+      {"title": "Epstein files", "url": "https://en.wikipedia.org/wiki/Epstein_files", "type": "wikipedia", "stance": "documents"},
+      {"title": "DOJ releases memo on sex offender Jeffrey Epstein files", "url": "https://www.npr.org/2025/07/07/g-s1-76367/doj-jeffrey-epstein-memo", "type": "news", "stance": "documents"},
+      {"title": "DOJ releases huge set of Epstein files with many mentions of Trump", "url": "https://www.cbsnews.com/live-updates/epstein-files-released-documents-2025/", "type": "news", "stance": "documents"},
+      {"title": "FBI employees compiled allegations against other men amid Epstein files pressure", "url": "https://www.cnn.com/2026/02/09/politics/epstein-files-fbi-employees-presentation-prominent-names", "type": "news", "stance": "contested"},
+      {"title": "Blumenthal letter to DOJ Inspector General on Epstein release", "url": "https://www.blumenthal.senate.gov/imo/media/doc/20251224lettertodojoigonepsteinreleasefinal.pdf", "type": "government", "stance": "supports"}
+    ],
+    "research_note": "Reflects an ongoing, still-unfolding document release as of mid-2026; scoring rewards the real documented flip-flop without treating it as proof of an active client-list suppression."
+  },
+  {
+    "id": "epstein-mossad-intelligence-asset",
+    "name": "Epstein as Intelligence-Asset Blackmail Operation",
+    "aliases": ["Epstein Mossad Honeytrap", "Epstein Was a Spy"],
+    "genre": "espionage",
+    "year": 2021,
+    "truth": 20,
+    "impact": 75,
+    "notoriety": 62,
+    "summary": "Some journalists, former officials, and online commentators claim Jeffrey Epstein was not an independent financier but an intelligence asset — most often alleged to be run by Israel's Mossad, sometimes by the CIA — who used blackmail material (recordings, photographs) gathered at his properties to compromise powerful visitors on behalf of a foreign or domestic intelligence service. The claim rests substantially on a single confidential FBI source and on statements by a former Israeli intelligence officer; both Israeli officials and the FBI document itself caution the claims are uncorroborated.",
+    "evidence_for": [
+      {"text": "A declassified 2020 FBI memo records a confidential human source alleging Epstein was 'trained as a spy' by Ehud Barak and became a 'co-opted Mossad asset,' with properties allegedly wired for video to generate blackmail material.", "source": "https://en.wikipedia.org/wiki/Alleged_connections_between_Jeffrey_Epstein_and_intelligence_agencies"},
+      {"text": "Former Israeli intelligence officer Ari Ben-Menashe has stated publicly, including to journalists preparing the book 'Epstein: Dead Men Tell No Tales,' that Epstein and Maxwell ran a Mossad honeytrap operation.", "source": "https://www.trtworld.com/article/d09ed52605ce"},
+      {"text": "U.S. Attorney Alexander Acosta reportedly told 2016 Trump transition officials he had been informed Epstein 'belonged to intelligence' and to leave the case alone, though he later disputed characterizations of that account.", "source": "https://www.newsnationnow.com/politics/jeffrey-epstein-conspiracies-intelligence-agent/"}
+    ],
+    "evidence_against": [
+      {"text": "The FBI memo itself explicitly labels the claims 'raw, unverified' from a single source, with no corroborating documentary or forensic evidence of espionage training or tasking presented.", "source": "https://en.wikipedia.org/wiki/Alleged_connections_between_Jeffrey_Epstein_and_intelligence_agencies"},
+      {"text": "Former Israeli Prime Minister Naftali Bennett called the Mossad claim 'categorically and totally false' and stated with '100% certainty' Epstein had no ties to Israeli intelligence.", "source": "https://time.com/7302177/epstein-mossad-israel-intelligence-naftali-bennett/"},
+      {"text": "No court proceeding, congressional inquiry, or declassified record has produced primary evidence — recruitment paperwork, tasking orders, handler communications — of an intelligence relationship.", "source": "https://www.newsnationnow.com/politics/jeffrey-epstein-conspiracies-intelligence-agent/"}
+    ],
+    "related": ["epstein-killed", "epstein-files-transparency-fight"],
+    "precedents": ["lavon-affair"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alleged_connections_between_Jeffrey_Epstein_and_intelligence_agencies",
+    "sources": [
+      {"title": "Alleged connections between Jeffrey Epstein and intelligence agencies", "url": "https://en.wikipedia.org/wiki/Alleged_connections_between_Jeffrey_Epstein_and_intelligence_agencies", "type": "wikipedia", "stance": "documents"},
+      {"title": "Former Israeli Leader Denies Epstein Worked for Mossad", "url": "https://time.com/7302177/epstein-mossad-israel-intelligence-naftali-bennett/", "type": "news", "stance": "debunks"},
+      {"title": "Jeffrey Epstein intelligence asset theories gain momentum", "url": "https://www.newsnationnow.com/politics/jeffrey-epstein-conspiracies-intelligence-agent/", "type": "news", "stance": "contested"},
+      {"title": "Was Jeffrey Epstein also a Mossad spy?", "url": "https://www.trtworld.com/article/d09ed52605ce", "type": "fringe", "stance": "supports"}
+    ]
+  },
+  {
+    "id": "nj-drone-wave-2024",
+    "name": "2024 New Jersey Drone Wave Cover-Up",
+    "aliases": ["NJ Drones", "East Coast Drone Mystery"],
+    "genre": "government",
+    "year": 2024,
+    "truth": 22,
+    "impact": 40,
+    "notoriety": 68,
+    "summary": "Beginning in November 2024, thousands of witnesses across New Jersey, New York and Pennsylvania reported nightly drone sightings near military bases, reservoirs and power infrastructure. Prominent figures — including a sitting member of Congress and guests on Joe Rogan's podcast — speculated the government was flying and concealing the drones' purpose, searching for lost nuclear material, or hiding a foreign incursion. Federal agencies (FBI, DHS, FAA, Pentagon) stated the sightings were overwhelmingly manned aircraft and authorized commercial or hobbyist drones misidentified at night, while separately acknowledging a pattern of unauthorized drone incursions over some defense installations.",
+    "evidence_for": [
+      {"text": "Rep. Marjorie Taylor Greene publicly stated her belief that 'the government is in control of the drones,' and Pentagon officials separately confirmed a genuine, concurrent pattern of unauthorized drone overflights of sensitive military sites.", "source": "https://www.nbcnews.com/news/us-news/mystery-deepens-surrounding-drone-sightings-conspiracy-theories-take-f-rcna184365"},
+      {"text": "New Jersey Gov. Phil Murphy stated the continued reporting of drone activity had prompted 'an outcropping of conspiracy theories' after being briefed, without fully ruling out unexplained sightings.", "source": "https://www.cbsnews.com/news/drones-new-jersey-what-we-know/"},
+      {"text": "The federal government never issued a comprehensive public accounting identifying every reported sighting, leaving a documented information gap that outlasted the panic itself.", "source": "https://www.forbes.com/sites/stephenpastis/2024/12/18/mystery-new-jersey-drones-spark-baseless-conspiracy-theories-heres-what-we-know-as-federal-agencies-double-down-on-explanation/"}
+    ],
+    "evidence_against": [
+      {"text": "A New York Times visual analysis of dozens of viral drone videos found the large majority were conventional aircraft — planes and helicopters — misidentified due to night lighting and viewing angle.", "source": "https://www.nbcnews.com/news/us-news/mystery-deepens-surrounding-drone-sightings-conspiracy-theories-take-f-rcna184365"},
+      {"text": "The FBI, DHS, FAA and DOD issued a rare joint statement affirming no evidence of foreign involvement, malicious activity, or national security threat from the reported sightings.", "source": "https://www.cbsnews.com/news/drones-new-jersey-what-we-know/"},
+      {"text": "No debris, intercepted drone, or physical evidence tying the sightings to a coordinated foreign or covert domestic program was ever produced.", "source": "https://en.wikipedia.org/wiki/2024_United_States_drone_sightings"}
+    ],
+    "related": ["pentagon-uap-disclosure", "ufo-coverup", "grusch-uap-crash-retrieval"],
+    "precedents": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/2024_United_States_drone_sightings",
+    "sources": [
+      {"title": "2024 United States drone sightings", "url": "https://en.wikipedia.org/wiki/2024_United_States_drone_sightings", "type": "wikipedia", "stance": "documents"},
+      {"title": "Mystery New Jersey Drones Spark Baseless Conspiracy Theories", "url": "https://www.forbes.com/sites/stephenpastis/2024/12/18/mystery-new-jersey-drones-spark-baseless-conspiracy-theories-heres-what-we-know-as-federal-agencies-double-down-on-explanation/", "type": "news", "stance": "debunks"},
+      {"title": "What do we know about mystery drones flying over New Jersey?", "url": "https://www.cbsnews.com/news/drones-new-jersey-what-we-know/", "type": "news", "stance": "documents"},
+      {"title": "As mystery surrounding drone sightings deepens, conspiracy theories take flight", "url": "https://www.nbcnews.com/news/us-news/mystery-deepens-surrounding-drone-sightings-conspiracy-theories-take-f-rcna184365", "type": "news", "stance": "contested"}
+    ]
+  },
+  {
+    "id": "butler-assassination-staged-coverup",
+    "name": "Trump Butler Rally Shooting: Staged or Allowed",
+    "aliases": ["Butler Assassination Attempt Was Staged", "Secret Service Stand-Down Theory"],
+    "genre": "government",
+    "year": 2024,
+    "truth": 8,
+    "impact": 65,
+    "notoriety": 62,
+    "summary": "After a gunman grazed Donald Trump's ear at a July 13, 2024 rally in Butler, Pennsylvania, two opposing conspiracy narratives emerged: some (initially mostly anti-Trump commentators, later some disaffected MAGA figures) claim the shooting was staged or faked to generate sympathy and boost his campaign, while others (including Rep. Marjorie Taylor Greene) claim the opposite — that the Secret Service deliberately stood down or that shooter Thomas Crooks did not act alone, amounting to an allowed attempt covered up by federal agencies. Bipartisan congressional task forces, a Secret Service internal review, and an FBI investigation spanning both the Biden and Trump administrations all concluded Crooks acted alone and that the near-miss resulted from documented security lapses, not deliberate facilitation or staging.",
+    "evidence_for": [
+      {"text": "Independent Secret Service and congressional task force reviews substantiated a real, serious security failure — an unsecured rooftop with direct line of sight to the stage — that went unexplained for months, fueling suspicion of deliberate negligence.", "source": "https://www.pbs.org/newshour/politics/fact-checking-the-wild-conspiracy-theories-related-to-the-attempted-trump-assassination"},
+      {"text": "Rep. Marjorie Taylor Greene has stated publicly that the government has not fully disclosed Crooks' digital communications or any associates, calling it a 'cover up.'", "source": "https://newrepublic.com/post/209222/maga-trump-assassination-attempt-fake"},
+      {"text": "The Secret Service director resigned within weeks of the shooting specifically because internal review found the rooftop coverage failure was serious and preventable.", "source": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Donald_Trump_in_Pennsylvania"}
+    ],
+    "evidence_against": [
+      {"text": "Bipartisan House and Senate task force investigations, spanning both the Biden and Trump administrations, concluded Crooks acted alone with no accomplices or evidence of a stand-down order.", "source": "https://www.csmonitor.com/USA/Politics/2026/0428/trump-assassination-conspiracy-theories-butler"},
+      {"text": "Dozens of contemporaneous eyewitness photographs and videos, along with hospital and forensic records, are consistent with an actual gunshot wound rather than a staged event.", "source": "https://www.pbs.org/newshour/politics/fact-checking-the-wild-conspiracy-theories-related-to-the-attempted-trump-assassination"},
+      {"text": "Multiple Secret Service agents faced discipline specifically because investigators found genuine, non-deliberate failures (inadequate rooftop assignment, communication breakdowns) rather than orchestrated facilitation.", "source": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Donald_Trump_in_Pennsylvania"}
+    ],
+    "related": ["january-6-false-flag", "crisis-actors", "deep-state"],
+    "precedents": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Donald_Trump_in_Pennsylvania",
+    "sources": [
+      {"title": "Attempted assassination of Donald Trump in Pennsylvania", "url": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Donald_Trump_in_Pennsylvania", "type": "wikipedia", "stance": "documents"},
+      {"title": "Conspiracy theories arise around the near misses for Trump in Butler and Washington", "url": "https://www.csmonitor.com/USA/Politics/2026/0428/trump-assassination-conspiracy-theories-butler", "type": "news", "stance": "contested"},
+      {"title": "MAGA Increasingly Believes Trump Assassination Attempt Was Fake", "url": "https://newrepublic.com/post/209222/maga-trump-assassination-attempt-fake", "type": "news", "stance": "documents"},
+      {"title": "Fact-checking the wild conspiracy theories related to the attempted Trump assassination", "url": "https://www.pbs.org/newshour/politics/fact-checking-the-wild-conspiracy-theories-related-to-the-attempted-trump-assassination", "type": "news", "stance": "debunks"}
+    ]
+  },
+  {
+    "id": "grusch-uap-crash-retrieval",
+    "name": "Grusch UAP Crash-Retrieval Program Testimony",
+    "aliases": ["UAP Whistleblower Disclosure", "Secret UFO Reverse-Engineering Program"],
+    "genre": "extraterrestrial",
+    "year": 2023,
+    "truth": 28,
+    "impact": 80,
+    "notoriety": 62,
+    "summary": "Former intelligence officer David Grusch testified under oath to Congress in July 2023 that the U.S. government operates a decades-long, compartmentalized program that has retrieved crashed 'non-human' craft and biological material, and that this program was deliberately hidden from congressional oversight. His claims, based on interviews with roughly 40 alleged witnesses rather than firsthand observation, sparked further whistleblower activity and legislative pushes for disclosure. The Pentagon's All-domain Anomaly Resolution Office (AARO) investigated and publicly reported finding no evidence corroborating a crash-retrieval or reverse-engineering program.",
+    "evidence_for": [
+      {"text": "Grusch testified under oath before Congress — a setting carrying perjury risk — and a Department of Defense Inspector General review found his complaint met the threshold for a credible and urgent whistleblower concern warranting further investigation.", "source": "https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims"},
+      {"text": "Grusch stated his information came from over 40 individuals with direct knowledge of classified programs, some of whom he said provided documentation and photography he described as compelling but did not make public.", "source": "https://www.npr.org/2023/07/27/1190390376/ufo-hearing-non-human-biologics-uaps"},
+      {"text": "His testimony prompted a bipartisan push in Congress for a UAP Disclosure Act and additional witnesses coming forward at follow-up 2024-2025 hearings with related, still-unverified accounts.", "source": "https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/"}
+    ],
+    "evidence_against": [
+      {"text": "The Pentagon's AARO released a report stating it found no verifiable evidence of extraterrestrial craft, crash retrievals, or reverse-engineering programs after reviewing decades of government records and interviewing hundreds of individuals.", "source": "https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims"},
+      {"text": "Grusch has acknowledged he never personally saw a craft, body, or biological material — his claims are secondhand, sourced entirely from other people's accounts.", "source": "https://rollcall.com/2023/07/26/whistleblower-at-uap-hearing-claims-non-human-remains/"},
+      {"text": "No physical evidence, photograph, or document substantiating a 'non-human biologics' recovery has been produced publicly or, according to AARO, privately to investigators.", "source": "https://news.northeastern.edu/2023/07/28/congress-holds-hearing-on-ufos/"}
+    ],
+    "related": ["pentagon-uap-disclosure", "ufo-coverup", "area-51-aliens", "nj-drone-wave-2024"],
+    "precedents": ["mkultra", "operation-paperclip"],
+    "steelman": "A sworn congressional whistleblower complaint that a DoD Inspector General found credible enough to merit investigation is a materially stronger evidentiary starting point than most UFO claims, even though the underlying program has not been independently verified.",
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims",
+    "sources": [
+      {"title": "David Grusch UFO whistleblower claims", "url": "https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims", "type": "wikipedia", "stance": "documents"},
+      {"title": "Whistleblower testifies U.S. salvaged 'non-human biologics' from UFO crash sites", "url": "https://www.npr.org/2023/07/27/1190390376/ufo-hearing-non-human-biologics-uaps", "type": "news", "stance": "documents"},
+      {"title": "UFO hearing key takeaways", "url": "https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/", "type": "news", "stance": "documents"},
+      {"title": "Whistleblower at UAP hearing claims U.S. found 'non-human' remains", "url": "https://rollcall.com/2023/07/26/whistleblower-at-uap-hearing-claims-non-human-remains/", "type": "news", "stance": "contested"}
+    ]
+  },
+  {
+    "id": "maui-fires-directed-energy-weapon",
+    "name": "Maui Fires Directed-Energy Weapon / Land-Grab Theory",
+    "aliases": ["Maui DEW", "Lahaina Land Grab"],
+    "genre": "science-tech",
+    "year": 2023,
+    "truth": 3,
+    "impact": 35,
+    "notoriety": 48,
+    "summary": "Following the August 2023 Lahaina, Maui wildfires that killed 102 people, social media users claimed the fires were deliberately ignited by satellite- or aircraft-mounted directed-energy weapons, often paired with a claim that the disaster was engineered or exploited to clear land for outside redevelopment and displace Native Hawaiian communities. State and federal investigators attributed the fire to downed power lines igniting drought-stressed invasive grasses in high winds, with no evidence of any energy weapon.",
+    "evidence_for": [
+      {"text": "Some viral photographs showed selectively burned structures next to untouched vegetation, which proponents argued was inconsistent with an ordinary wildfire's burn pattern.", "source": "https://www.politifact.com/factchecks/2023/aug/18/instagram-posts/no-evidence-direct-energy-weapons-caused-maui-wild/"},
+      {"text": "Hawaii's governor publicly pledged to block opportunistic land purchases in Lahaina after real, documented reports of investors and speculators contacting fire victims to buy their properties.", "source": "https://www.politifact.com/factchecks/2023/aug/18/instagram-posts/no-evidence-direct-energy-weapons-caused-maui-wild/"},
+      {"text": "Hawaiian Electric acknowledged its power lines likely ignited the fire and faced billions of dollars in resulting litigation, confirming genuine utility-company culpability that fed broader distrust of official narratives.", "source": "https://www.factcheck.org/2023/08/scicheck-high-winds-drought-conditions-led-to-maui-fires-no-evidence-intentionally-set/"}
+    ],
+    "evidence_against": [
+      {"text": "Fact-checkers traced the core 'laser burn' photographs circulating online to unrelated images posted since at least January 2018, predating the fire entirely.", "source": "https://www.snopes.com/fact-check/maui-wildfires-caused-by-direct-energy-weapon/"},
+      {"text": "Fire investigators attributed the selective burn patterns to standard wildfire physics — building materials, defensible space, and wind-driven embers — not directed energy.", "source": "https://www.factcheck.org/2023/08/scicheck-high-winds-drought-conditions-led-to-maui-fires-no-evidence-intentionally-set/"},
+      {"text": "No physical, sensor, or satellite evidence of directed-energy weapon deployment has been produced by any investigator, journalist, or whistleblower.", "source": "https://www.poynter.org/reporting-editing/2023/what-started-maui-hawaii-fires-2023-direct-energy-weapons-conspiracy/"}
+    ],
+    "related": ["directed-energy-wildfires", "haarp-weather"],
+    "precedents": [],
+    "depends_on": [],
+    "sources": [
+      {"title": "Conspiracy theories claim the Maui disaster was caused by direct energy weapons", "url": "https://www.politifact.com/factchecks/2023/aug/18/instagram-posts/no-evidence-direct-energy-weapons-caused-maui-wild/", "type": "news", "stance": "debunks"},
+      {"title": "Were 2023 Maui Fires Caused by a 'Direct Energy Weapon'?", "url": "https://www.snopes.com/fact-check/maui-wildfires-caused-by-direct-energy-weapon/", "type": "news", "stance": "debunks"},
+      {"title": "High Winds, Drought Conditions Led to Maui Fires, No Evidence Intentionally Set", "url": "https://www.factcheck.org/2023/08/scicheck-high-winds-drought-conditions-led-to-maui-fires-no-evidence-intentionally-set/", "type": "news", "stance": "debunks"},
+      {"title": "Fact-checking a bizarre claim that government 'direct energy weapons' caused the Maui fires", "url": "https://www.poynter.org/reporting-editing/2023/what-started-maui-hawaii-fires-2023-direct-energy-weapons-conspiracy/", "type": "news", "stance": "debunks"}
+    ]
+  },
+  {
+    "id": "east-palestine-derailment-coverup",
+    "name": "East Palestine Derailment Cover-Up",
+    "aliases": ["Ohio Train Derailment Cover-Up", "East Palestine Toxic Cover-Up"],
+    "genre": "government",
+    "year": 2023,
+    "truth": 30,
+    "impact": 55,
+    "notoriety": 46,
+    "summary": "After a Norfolk Southern train carrying vinyl chloride derailed and was controlled-burned in East Palestine, Ohio in February 2023, residents and online commentators alleged that federal and state officials, working with the railroad, understated the toxic exposure, suppressed cancer-cluster and wildlife die-off data, and steered the narrative to protect Norfolk Southern from liability. Investigations documented genuine communication failures and a contested controlled-burn decision, but produced no proof officials knowingly concealed a larger toxic release than reported.",
+    "evidence_for": [
+      {"text": "The decision to conduct a controlled 'vent and burn' of vinyl chloride was made partly on Norfolk Southern contractors' advice and against some outside chemists' warnings that a burn was unnecessary and would generate dioxins, a documented conflict of interest.", "source": "https://www.axios.com/2023/02/24/east-palestine-train-crash-investigators-hunt-truth"},
+      {"text": "It took nearly two weeks after the derailment for Ohio officials to advise residents on water safety, a documented communication gap residents and journalists characterized as an 'information void.'", "source": "https://www.grid.news/story/misinformation/2023/02/15/east-palestine-train-derailment-how-conspiracy-theories-filled-the-information-void/"},
+      {"text": "A NewsNation investigation found some residents and experts felt officials wanted the East Palestine story to 'go away' before health effects were fully assessed.", "source": "https://www.newsnationnow.com/us-news/midwest/ohio-train-derailment/east-palestine-exposure-experts-concerns/"}
+    ],
+    "evidence_against": [
+      {"text": "EPA, CDC/ATSDR, and independent university air-monitoring teams conducted extensive testing and published contaminant data below acute-harm thresholds in most sampled areas, rather than suppressing it.", "source": "https://en.wikipedia.org/wiki/East_Palestine,_Ohio,_train_derailment"},
+      {"text": "No cancer cluster tied to the derailment has been confirmed by state or federal health agencies, despite ongoing resident concern and monitoring.", "source": "https://en.wikipedia.org/wiki/East_Palestine,_Ohio,_train_derailment"},
+      {"text": "Congressional hearings, an NTSB investigation, and a DOJ/EPA settlement with Norfolk Southern produced public findings and financial penalties rather than a suppressed record.", "source": "https://www.axios.com/2023/02/24/east-palestine-train-crash-investigators-hunt-truth"}
+    ],
+    "related": ["big-tobacco", "monsanto"],
+    "precedents": ["big-tobacco"],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/East_Palestine,_Ohio,_train_derailment",
+    "sources": [
+      {"title": "East Palestine, Ohio, train derailment", "url": "https://en.wikipedia.org/wiki/East_Palestine,_Ohio,_train_derailment", "type": "wikipedia", "stance": "documents"},
+      {"title": "Extremists Co-opt Norfolk Southern Train Derailment", "url": "https://www.adl.org/resources/article/extremists-co-opt-norfolk-southern-train-derailment-east-palestine-ohio", "type": "advocacy", "stance": "contested"},
+      {"title": "How Ohio train derailment conspiracy theories filled the info void", "url": "https://www.grid.news/story/misinformation/2023/02/15/east-palestine-train-derailment-how-conspiracy-theories-filled-the-information-void/", "type": "news", "stance": "contested"},
+      {"title": "East Palestine train crash investigators hunt for truth, as theories flourish", "url": "https://www.axios.com/2023/02/24/east-palestine-train-crash-investigators-hunt-truth", "type": "news", "stance": "contested"}
+    ]
+  },
+  {
+    "id": "cloud-seeding-flood-geoengineering-ban",
+    "name": "Cloud Seeding Blamed for Dubai and Texas Floods",
+    "aliases": ["Geoengineering Already Happening", "Weather Modification Flood Blame"],
+    "genre": "science-tech",
+    "year": 2024,
+    "truth": 10,
+    "impact": 45,
+    "notoriety": 58,
+    "summary": "After record rainfall flooded Dubai in April 2024 and after the deadly July 2025 Texas Hill Country floods, online commentators and some state legislators claimed cloud seeding or a broader covert solar-geoengineering program caused or worsened the disasters, proving large-scale weather modification is already secretly underway. The claim helped drive a fast-moving 2024-2025 U.S. state legislative wave — Tennessee (2024) and Florida (2025) banned geoengineering and weather modification outright, and over twenty more states introduced similar bills — even though atmospheric scientists say cloud seeding cannot generate rainfall anywhere near the volume recorded in either event.",
+    "evidence_for": [
+      {"text": "The UAE operates a real, publicly acknowledged cloud-seeding program, and UAE aircraft flew seeding missions in the days before the April 2024 Dubai deluge, a documented, non-secret fact proponents cite.", "source": "https://www.aljazeera.com/news/2024/4/18/was-cloud-seeding-responsible-for-the-floodings-in-dubai"},
+      {"text": "Weather-modification and cloud-seeding programs are real and legally regulated across dozens of U.S. states (irrigation districts, ski resorts), giving the broader 'weather modification exists' claim a true factual core distinct from the flood-causation claim.", "source": "https://www.nationalgeographic.com/environment/article/cloud-seeding-texas-floods-weather-science"},
+      {"text": "Tennessee's SB 2691 (2024) and Florida's 2025 law criminalizing unauthorized atmospheric dispersal passed with substantial legislative support, showing the belief reached elected officials rather than remaining confined to social media.", "source": "https://srm360.org/news-reaction/us-states-consider-bills-to-ban-geoengineering/"}
+    ],
+    "evidence_against": [
+      {"text": "Atmospheric scientists calculate cloud seeding can only marginally enhance rainfall from clouds already forming; it cannot manufacture the volume of rain recorded in Dubai (over a year's worth in a day) or the Texas Hill Country flash flood.", "source": "https://www.technologyreview.com/2025/10/30/1126467/weather-control-conspiracy-theory-cloud-seeding-floods/"},
+      {"text": "Meteorologists attributed the Dubai storm to an unusually intense, naturally occurring low-pressure system and the Texas floods to a stalled, tropical-moisture-fed storm cell, both independently documented by satellite and radar data.", "source": "https://www.rmets.org/metmatters/dubai-floods-and-cloud-seeding"},
+      {"text": "No cloud-seeding aircraft or operation was active anywhere near the Texas flood zone at the time of the July 2025 disaster, according to weather-modification registries.", "source": "https://www.kut.org/energy-environment/2025-07-15/cloud-seeding-weather-manipulation-technology-kerr-county-texas-floods-misinformation-conspiracy-theory"}
+    ],
+    "related": ["chemtrails", "weather-modification", "haarp-weather"],
+    "precedents": ["operation-sea-spray"],
+    "depends_on": [],
+    "sources": [
+      {"title": "What is cloud seeding? Here's what it can — and can't — do to the weather", "url": "https://www.nationalgeographic.com/environment/article/cloud-seeding-texas-floods-weather-science", "type": "news", "stance": "debunks"},
+      {"title": "Dubai floods and cloud seeding", "url": "https://www.rmets.org/metmatters/dubai-floods-and-cloud-seeding", "type": "academic", "stance": "debunks"},
+      {"title": "Conspiracy theorists said 'cloud seeding' caused the Texas floods. It did not.", "url": "https://www.kut.org/energy-environment/2025-07-15/cloud-seeding-weather-manipulation-technology-kerr-county-texas-floods-misinformation-conspiracy-theory", "type": "news", "stance": "debunks"},
+      {"title": "Why it's so hard to bust the weather control conspiracy theory", "url": "https://www.technologyreview.com/2025/10/30/1126467/weather-control-conspiracy-theory-cloud-seeding-floods/", "type": "news", "stance": "debunks"},
+      {"title": "A Growing Number of US States Consider Bills to Ban Geoengineering", "url": "https://srm360.org/news-reaction/us-states-consider-bills-to-ban-geoengineering/", "type": "advocacy", "stance": "documents"}
+    ]
+  },
+  {
+    "id": "died-suddenly-vaccine-excess-deaths",
+    "name": "'Died Suddenly' Vaccine Excess-Death Movement",
+    "aliases": ["Died Suddenly", "Turbo Cancer", "Vaccine Excess Mortality"],
+    "genre": "health",
+    "year": 2022,
+    "truth": 15,
+    "impact": 60,
+    "notoriety": 68,
+    "summary": "Beginning in late 2022, a movement centered on the viral film 'Died Suddenly' and adjacent social-media campaigns claims COVID-19 vaccines are causing a hidden epidemic of sudden deaths in young, healthy people and a wave of unusually aggressive 'turbo cancers,' and that public health agencies, medical examiners, and media are suppressing or miscoding the true death toll to protect vaccination campaigns. This is distinct from the earlier, near-universally rejected 'vaccine microchip' theory; here proponents point to genuine published excess-mortality statistics and argue the increases are being wrongly attributed to COVID-19 itself or other causes.",
+    "evidence_for": [
+      {"text": "Multiple preprint and peer-reviewed analyses (including in Japan and parts of Europe) have documented periods of unexplained all-cause excess mortality following mass vaccination campaigns that some researchers argue is not fully accounted for by COVID-19 deaths alone.", "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12095670/"},
+      {"text": "The CDC's own surveillance systems documented a genuine, officially acknowledged rise in myocarditis among young men following mRNA vaccination, giving the broader movement a real mechanism to build from.", "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11008789/"},
+      {"text": "Some countries' vaccine injury compensation programs have paid claims related to post-vaccination cardiac events, providing official, if narrow, acknowledgment of harm.", "source": "https://sciencebasedmedicine.org/do-covid-19-vaccines-cause-turbo-cancer/"}
+    ],
+    "evidence_against": [
+      {"text": "'Turbo cancer' is not a recognized medical diagnosis; oncologists and fact-checkers found no peer-reviewed evidence vaccines cause new, faster-growing cancer types, with cited cases remaining anecdotal rather than causal.", "source": "https://www.factcheck.org/2023/08/covid-19-vaccines-have-not-been-shown-to-cause-turbo-cancer/"},
+      {"text": "Large controlled studies found vaccinated populations had markedly lower all-cause mortality than unvaccinated populations during the same periods, the opposite of the movement's core claim.", "source": "https://www.medrxiv.org/content/10.1101/2022.02.10.22270823.full.pdf"},
+      {"text": "Independent epidemiologists attribute most pandemic-era excess mortality to COVID-19 infection itself, delayed medical care, and drug overdoses rather than vaccination, based on death-certificate and hospitalization data.", "source": "https://sciencebasedmedicine.org/do-covid-19-vaccines-cause-turbo-cancer/"}
+    ],
+    "related": ["covid-vaccine-microchip", "covid-lab-leak", "vaccine-autism", "gain-of-function-pandemic-risk"],
+    "precedents": ["bayer-factor-viii-hiv", "purdue-oxycontin-marketing"],
+    "depends_on": [],
+    "sources": [
+      {"title": "COVID-19 Vaccines Have Not Been Shown to Cause 'Turbo Cancer'", "url": "https://www.factcheck.org/2023/08/covid-19-vaccines-have-not-been-shown-to-cause-turbo-cancer/", "type": "news", "stance": "debunks"},
+      {"title": "Do COVID-19 vaccines cause 'turbo cancer'?", "url": "https://sciencebasedmedicine.org/do-covid-19-vaccines-cause-turbo-cancer/", "type": "academic", "stance": "debunks"},
+      {"title": "Excess COVID-19-associated deaths among the unvaccinated population", "url": "https://www.medrxiv.org/content/10.1101/2022.02.10.22270823.full.pdf", "type": "academic", "stance": "debunks"},
+      {"title": "Assessment of Risk for Sudden Cardiac Death After COVID-19 Vaccine — Oregon", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11008789/", "type": "academic", "stance": "documents"}
+    ],
+    "research_note": "The movement blends a real, acknowledged rare side effect (myocarditis) and contested excess-mortality data with the unsubstantiated 'turbo cancer' and mass-death claims; sources above are mixed academic/fact-check to reflect that split."
+  },
+  {
+    "id": "crowdstrike-outage-sabotage",
+    "name": "CrowdStrike Outage Sabotage Theory",
+    "aliases": ["CrowdStrike Cyberattack Cover-Up", "July 2024 IT Outage Conspiracy"],
+    "genre": "science-tech",
+    "year": 2024,
+    "truth": 4,
+    "impact": 45,
+    "notoriety": 38,
+    "summary": "After a faulty CrowdStrike software update crashed millions of Windows computers worldwide on July 19, 2024 — grounding flights and disabling hospitals and banks — online commentators claimed the outage was deliberate: state-sponsored sabotage, an inside job by a disgruntled employee, a staged event covering up a real cyberattack, or an intentionally planted government surveillance backdoor. CrowdStrike, Microsoft, and independent researchers who examined the faulty file all attributed it to an ordinary, if severe, software-validation failure.",
+    "evidence_for": [
+      {"text": "The scale and simultaneity of the outage — roughly 8.5 million Windows devices crashing worldwide within hours — was unprecedented for an unintentional bug, which proponents cite as evidence accident alone seemed implausible.", "source": "https://www.cnn.com/2024/07/19/tech/crowdstrike-update-global-outage-explainer/index.html"},
+      {"text": "CrowdStrike's own post-incident review acknowledged its testing process failed to catch a defective content update before global deployment, a real, serious internal control failure.", "source": "https://www.nextgov.com/cybersecurity/2024/07/how-crowdstrike-outage-carved-out-new-opportunities-hackers/398216/"},
+      {"text": "Congress held hearings in September 2024 grilling CrowdStrike executives, an unusual level of scrutiny some proponents cited as evidence something more than an accident was suspected.", "source": "https://www.washingtonpost.com/technology/2024/09/24/congress-grills-crowdstrike-about-multibillion-dollar-july-outage/"}
+    ],
+    "evidence_against": [
+      {"text": "CrowdStrike CEO George Kurtz testified under oath to Congress that the incident was conclusively not the result of a cyberattack, a statement carrying legal liability if false.", "source": "https://www.washingtonpost.com/technology/2024/09/24/congress-grills-crowdstrike-about-multibillion-dollar-july-outage/"},
+      {"text": "Independent security researchers who reverse-engineered the faulty driver file found a straightforward coding defect, not evidence of intentional malicious code or a backdoor.", "source": "https://en.wikipedia.org/wiki/2024_CrowdStrike-related_IT_outages"},
+      {"text": "No competitor, government agency, or insider has been identified, charged, or credibly implicated in deliberately causing the failure in the time since the incident.", "source": "https://www.cnn.com/2024/07/19/tech/crowdstrike-update-global-outage-explainer/index.html"}
+    ],
+    "related": ["nsa-mass-surveillance", "stuxnet-revival-studies"],
+    "precedents": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/2024_CrowdStrike-related_IT_outages",
+    "sources": [
+      {"title": "2024 CrowdStrike-related IT outages", "url": "https://en.wikipedia.org/wiki/2024_CrowdStrike-related_IT_outages", "type": "wikipedia", "stance": "documents"},
+      {"title": "CrowdStrike outage resurfaces debunked Trump conspiracy theory", "url": "https://www.washingtonpost.com/technology/2024/07/20/crowdstrike-conspiracy-theory-trump-russia-dnc/", "type": "news", "stance": "debunks"},
+      {"title": "What is CrowdStrike and how is it linked to the global outage?", "url": "https://www.cnn.com/2024/07/19/tech/crowdstrike-update-global-outage-explainer/index.html", "type": "news", "stance": "documents"},
+      {"title": "Congress grills CrowdStrike about multibillion-dollar July outage", "url": "https://www.washingtonpost.com/technology/2024/09/24/congress-grills-crowdstrike-about-multibillion-dollar-july-outage/", "type": "news", "stance": "documents"}
+    ]
+  },
+  {
+    "id": "biden-body-double-deepfake",
+    "name": "Biden Body Double / Deepfake Theory",
+    "aliases": ["Biden Is Not Real", "Biden Deepfake Replacement"],
+    "genre": "government",
+    "year": 2024,
+    "truth": 3,
+    "impact": 40,
+    "notoriety": 58,
+    "summary": "Proponents claim President Joe Biden was, at various points from 2020 through his 2024 withdrawal from the race, secretly replaced in public appearances by a body double, an actor, or an AI-generated deepfake, to conceal severe cognitive or physical decline. The theory intensified around Biden's halting June 2024 debate performance and subsequent withdrawal, with commentators citing inconsistencies in ear shape, gait, or voice as 'proof,' though fact-checkers traced the clips to lighting, camera angles, and editing artifacts rather than substitution.",
+    "evidence_for": [
+      {"text": "Biden's widely-viewed June 2024 debate performance was visibly halting and confused enough that Democratic allies and donors publicly called for him to withdraw, a real, documented event that gave the broader 'something is being hidden' narrative genuine grounding.", "source": "https://www.npr.org/2024/07/23/nx-s1-5048718/biden-harris-conspiracy-theories"},
+      {"text": "Reporting after Biden left office (including the book 'Original Sin') documented that senior aides managed his schedule and public appearances specifically to minimize exposure of his declining stamina, a real practice of image management.", "source": "https://www.npr.org/2024/07/23/nx-s1-5048718/biden-harris-conspiracy-theories"},
+      {"text": "Side-by-side photo comparisons circulated online showing apparent differences in ear lobes, moles, or hairline across appearances, presented by proponents as forensic evidence.", "source": "https://www.vice.com/en/article/is-joe-biden-dead-replaced-by-10-different-deepfake-body-doubles-an-investigation/"}
+    ],
+    "evidence_against": [
+      {"text": "No forensic, biometric, or voice-print analysis by any credible outlet has found evidence of a body double or deepfake substitution; fact-checkers traced viral comparison clips to different lighting, lenses, and video compression.", "source": "https://www.vice.com/en/article/is-joe-biden-dead-replaced-by-10-different-deepfake-body-doubles-an-investigation/"},
+      {"text": "Biden was accompanied at all times by Secret Service, press pools, and staff who would need to be complicit in an enormous, leak-proof conspiracy sustained across years and thousands of public appearances.", "source": "https://www.newsweek.com/joe-biden-conspiracy-theories-coronavirus-video-eyes-open-twitter-cgi-deep-fake-body-double-1728794"},
+      {"text": "The proximate, publicly documented explanation for Biden's 2024 withdrawal — age-related decline reported contemporaneously by numerous journalists and aides — is fully consistent with the observed facts without requiring substitution.", "source": "https://www.npr.org/2024/07/23/nx-s1-5048718/biden-harris-conspiracy-theories"}
+    ],
+    "related": ["melania-trump-body-double", "clinton-body-doubles", "biden-autopen-presidency"],
+    "precedents": [],
+    "depends_on": [],
+    "sources": [
+      {"title": "A coup, fake signatures and deepfakes are the latest conspiracy theories about 2024", "url": "https://www.npr.org/2024/07/23/nx-s1-5048718/biden-harris-conspiracy-theories", "type": "news", "stance": "contested"},
+      {"title": "Is Joe Biden Dead, Replaced by 10 Different Deepfake Body Doubles? An Investigation", "url": "https://www.vice.com/en/article/is-joe-biden-dead-replaced-by-10-different-deepfake-body-doubles-an-investigation/", "type": "news", "stance": "debunks"},
+      {"title": "Joe Biden's Eyes in Video Spark Wild Conspiracy Theories", "url": "https://www.newsweek.com/joe-biden-conspiracy-theories-coronavirus-video-eyes-open-twitter-cgi-deep-fake-body-double-1728794", "type": "news", "stance": "debunks"}
+    ]
+  },
+  {
+    "id": "biden-autopen-presidency",
+    "name": "The Autopen Presidency",
+    "aliases": ["Who Really Ran the Country", "Biden Autopen Scandal"],
+    "genre": "government",
+    "year": 2025,
+    "truth": 35,
+    "impact": 78,
+    "notoriety": 68,
+    "summary": "Republican lawmakers and the Trump administration allege that during his final year in office Joe Biden was so cognitively diminished that he did not personally authorize many pardons and executive actions issued in his name, and that unnamed senior staff instead used an autopen to sign directives — including a wave of preemptive pardons — without his knowledge or informed consent, effectively running the presidency themselves. A House Oversight Committee report (October 2025) endorsed this framing and called some Biden pardons 'void,' while Biden and his aides maintain every action was authorized and call the claim a politically motivated attack on a legal, longstanding practice.",
+    "evidence_for": [
+      {"text": "Trump signed an executive order in June 2025 directing the Attorney General to formally investigate 'who ran the United States' during Biden's final year and his use of the autopen, initiating an official government inquiry rather than a purely online claim.", "source": "https://www.npr.org/2025/06/05/nx-s1-5424313/trump-investigation-biden-autopen-cognitive-decline"},
+      {"text": "The House Oversight Committee's October 2025 report, based on staff interviews, concluded some autopen-signed executive actions were issued without adequate evidence Biden personally reviewed their contents, and called them 'void.'", "source": "https://www.cnn.com/2025/10/28/politics/biden-autopen-investigation-house-oversight-final-report"},
+      {"text": "Attorney General Pam Bondi opened a review of Biden pardons signed by autopen following the Oversight Committee's findings.", "source": "https://www.axios.com/2025/10/28/biden-autopen-bondi-investigation-oversight"}
+    ],
+    "evidence_against": [
+      {"text": "A 2005 Justice Department Office of Legal Counsel opinion holds that a president need not be physically present when a document is signed by autopen, meaning its use carries no inherent legal defect.", "source": "https://www.cnn.com/2025/10/28/politics/biden-autopen-investigation-house-oversight-final-report"},
+      {"text": "The top Democrat on the Oversight Committee stated witnesses testified Biden 'fully executed his duties as President,' including personally authorizing every executive order, pardon, and use of the autopen.", "source": "https://www.cnn.com/2025/10/28/politics/biden-autopen-investigation-house-oversight-final-report"},
+      {"text": "Biden's spokesperson said the investigation 'confirmed what has been clear from the start' — that he made the decisions of his presidency — and no recording or named firsthand witness has produced a specific pardon issued against Biden's actual wishes.", "source": "https://www.nbcnews.com/politics/joe-biden/house-oversight-republicans-doj-probe-biden-illegitimate-autopen-rcna240214"}
+    ],
+    "related": ["biden-body-double-deepfake", "deep-state"],
+    "precedents": [],
+    "steelman": "Even setting aside the legal irrelevance of autopen use, contemporaneous reporting by multiple outlets describing a deliberate 'circle of protection' limiting unscripted access to Biden gives the underlying concern about diminished capacity a real evidentiary basis distinct from the autopen framing itself.",
+    "depends_on": [],
+    "sources": [
+      {"title": "House Oversight Republicans urge DOJ to probe Biden's 'illegitimate' autopen use", "url": "https://www.nbcnews.com/politics/joe-biden/house-oversight-republicans-doj-probe-biden-illegitimate-autopen-rcna240214", "type": "news", "stance": "documents"},
+      {"title": "GOP-led Oversight Committee says Biden pardons signed by autopen are 'void' in final report", "url": "https://www.cnn.com/2025/10/28/politics/biden-autopen-investigation-house-oversight-final-report", "type": "news", "stance": "contested"},
+      {"title": "Trump orders a probe into the Biden administration and its alleged autopen use", "url": "https://www.npr.org/2025/06/05/nx-s1-5424313/trump-investigation-biden-autopen-cognitive-decline", "type": "news", "stance": "documents"},
+      {"title": "AG Pam Bondi reviewing Biden pardons signed by autopen", "url": "https://www.axios.com/2025/10/28/biden-autopen-bondi-investigation-oversight", "type": "news", "stance": "documents"},
+      {"title": "Oversight Committee Releases Report on the Biden Autopen Presidency", "url": "https://oversight.house.gov/release/oversight-committee-releases-report-on-the-biden-autopen-presidency/", "type": "government", "stance": "supports"}
+    ]
+  },
+  {
+    "id": "ai-models-trained-propaganda",
+    "name": "AI Chatbots Trained to Push Propaganda",
+    "aliases": ["AI Ideological Tuning", "Grok Told to Reflect Musk's Views"],
+    "genre": "media-surveillance",
+    "year": 2024,
+    "truth": 40,
+    "impact": 65,
+    "notoriety": 55,
+    "summary": "Commentators across the political spectrum claim major AI chatbots are deliberately tuned by their parent companies to push a political viewpoint on users under cover of neutral assistance. Conservatives point to Google Gemini's 2024 image generator inserting diversity into historically inaccurate contexts as evidence of imposed left-leaning bias, while critics point to xAI's Grok being documented searching for 'what does Elon Musk think' before answering controversial questions, and briefly instructing itself in 2025 to treat 'white genocide' claims as fact after a leaked system-prompt change. Unlike the broader, harder-to-prove claim that all AI output is propaganda, these two specific cases involve company-acknowledged and reporter-documented instances of deliberate prompt engineering shaping chatbot political outputs.",
+    "evidence_for": [
+      {"text": "TechCrunch documented Grok 4's chain-of-thought explicitly searching for 'Elon Musk's views' on topics like abortion and Israel-Palestine before formulating its answer, a reproducible, reported behavior.", "source": "https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/"},
+      {"text": "xAI confirmed an 'unauthorized' system-prompt change caused Grok to reference 'white genocide' in South Africa as fact in unrelated conversations in May 2025, and xAI began publishing its system prompts publicly afterward as a remedial step.", "source": "https://techcrunch.com/2025/08/18/crazy-conspiracist-and-unhinged-comedian-groks-ai-persona-prompts-exposed/"},
+      {"text": "Google acknowledged and apologized after its Gemini image generator systematically overrode historically-specific prompts (e.g., '1943 German soldier') with diverse-race outputs, confirming a real, deliberate fine-tuning choice.", "source": "https://www.cnn.com/2024/02/22/tech/google-gemini-ai-image-generator"}
+    ],
+    "evidence_against": [
+      {"text": "Both documented incidents (Gemini's overcorrection, Grok's prompt leak) were acknowledged by the companies as unintended overcorrections or unauthorized changes rather than sanctioned campaigns to indoctrinate users.", "source": "https://www.axios.com/2024/02/23/google-gemini-images-stereotypes-controversy"},
+      {"text": "No leaked internal directive, memo, or whistleblower account has surfaced instructing engineers to embed partisan messaging as an ongoing corporate policy at any major AI lab.", "source": "https://www.npr.org/2025/07/09/nx-s1-5462609/grok-elon-musk-antisemitic-racist-content"},
+      {"text": "The two incidents cited point in opposite ideological directions — perceived-left at Google, perceived-right/Musk-aligned at xAI — undercutting a single unified 'AI industry propaganda' narrative.", "source": "https://www.aljazeera.com/news/2025/7/10/what-is-grok-and-why-has-elon-musks-chatbot-been-accused-of-anti-semitism"}
+    ],
+    "related": ["dead-internet-theory", "operation-mockingbird"],
+    "precedents": ["cambridge-analytica", "pentagon-military-analyst-program"],
+    "depends_on": [],
+    "sources": [
+      {"title": "Grok 4 seems to consult Elon Musk to answer controversial questions", "url": "https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/", "type": "news", "stance": "documents"},
+      {"title": "'Crazy conspiracist' and 'unhinged comedian': Grok's AI persona prompts exposed", "url": "https://techcrunch.com/2025/08/18/crazy-conspiracist-and-unhinged-comedian-groks-ai-persona-prompts-exposed/", "type": "news", "stance": "documents"},
+      {"title": "Elon Musk's AI chatbot, Grok, started calling itself 'MechaHitler'", "url": "https://www.npr.org/2025/07/09/nx-s1-5462609/grok-elon-musk-antisemitic-racist-content", "type": "news", "stance": "documents"},
+      {"title": "Google to pause Gemini AI model's image generation", "url": "https://www.cnn.com/2024/02/22/tech/google-gemini-ai-image-generator", "type": "news", "stance": "documents"},
+      {"title": "Google pauses Gemini's AI image generation after diversity controversies", "url": "https://www.axios.com/2024/02/23/google-gemini-images-stereotypes-controversy", "type": "news", "stance": "documents"}
+    ]
+  },
+  {
+    "id": "diddy-list-conspiracy",
+    "name": "Diddy 'List' Elite Blackmail Network Theory",
+    "aliases": ["Who's on Diddy's List", "Diddy Freak-Off Guest List Conspiracy"],
+    "genre": "new-world-order",
+    "year": 2024,
+    "truth": 5,
+    "impact": 50,
+    "notoriety": 72,
+    "summary": "After Sean 'Diddy' Combs was indicted on federal sex-trafficking and racketeering charges in 2024, online speculation — explicitly compared by journalists to Pizzagate and QAnon — claimed a secret 'list' of A-list celebrities and executives attended or were complicit in his 'freak-off' parties and are being protected from exposure by a Hollywood-and-media cover-up, echoing the Epstein 'client list' narrative. Named figures circulated widely on social media despite no court filing, indictment, or credible reporting linking them to wrongdoing; Combs's 2025 trial concerned specific conduct toward named accusers and ended in acquittal on the trafficking/racketeering counts with conviction only on lesser prostitution-transportation charges.",
+    "evidence_for": [
+      {"text": "Combs was convicted in July 2025 on two federal counts of transportation to engage in prostitution, confirming some core criminal conduct alleged in the case, which proponents cite as proof the broader 'cover-up' framing has a real foundation.", "source": "https://www.cbsnews.com/news/sean-diddy-combs-trial-verdict-jury/"},
+      {"text": "Numerous celebrities were documented, through genuine photographs and past reporting, as having attended Combs's parties over decades, giving the 'guest list' speculation a real, if non-criminal, starting point.", "source": "https://graziadaily.co.uk/celebrity/news/hollywood-accomplice-list-sean-diddy-combs/"},
+      {"text": "Federal prosecutors stated the alleged criminal enterprise involved Combs's own employees as co-conspirators, confirming he did not act entirely alone, which proponents extrapolate into a wider network.", "source": "https://www.justice.gov/usao-sdny/pr/sean-combs-charged-manhattan-federal-court-sex-trafficking-and-other-federal-offenses"}
+    ],
+    "evidence_against": [
+      {"text": "Combs was acquitted of the racketeering conspiracy and sex-trafficking charges that would have required proving a broader criminal enterprise involving other named individuals.", "source": "https://www.cbsnews.com/news/sean-diddy-combs-trial-verdict-jury/"},
+      {"text": "None of the celebrities named in viral social media posts have been charged, subpoenaed as suspects, or credibly linked to criminal conduct by prosecutors.", "source": "https://www.hollywoodreporter.com/news/general-news/diddy-case-qanon-mainstreamed-bogus-scandals-1236312382/"},
+      {"text": "Multiple viral 'proof' items — including a fabricated song falsely attributed to Justin Bieber and claims that named celebrities fled the country — were explicitly debunked as fabricated or fictional content.", "source": "https://www.france24.com/en/live-news/20250514-misinformation-clouds-sean-combs-s-sex-trafficking-trial"}
+    ],
+    "related": ["epstein-files-transparency-fight", "pizzagate", "qanon"],
+    "precedents": [],
+    "depends_on": [],
+    "sources": [
+      {"title": "Diddy, Jeffrey Epstein Cases and Conspiracy Theories Show Parallels", "url": "https://www.hollywoodreporter.com/news/general-news/sean-diddy-combs-jeffrey-epstein-conspiracy-theories-1236309805/", "type": "news", "stance": "contested"},
+      {"title": "How Sean Diddy Combs Became a QAnon Conspiracy Theory", "url": "https://www.hollywoodreporter.com/news/general-news/diddy-case-qanon-mainstreamed-bogus-scandals-1236312382/", "type": "news", "stance": "debunks"},
+      {"title": "Sean Combs acquitted of sex trafficking and racketeering, convicted on prostitution-related counts", "url": "https://www.cbsnews.com/news/sean-diddy-combs-trial-verdict-jury/", "type": "news", "stance": "documents"},
+      {"title": "Misinformation clouds Sean Combs's sex trafficking trial", "url": "https://www.france24.com/en/live-news/20250514-misinformation-clouds-sean-combs-s-sex-trafficking-trial", "type": "news", "stance": "debunks"}
+    ]
+  },
+  {
+    "id": "starlink-vote-switching-2024",
+    "name": "Starlink Vote-Switching Theory (2024 Election)",
+    "aliases": ["Musk Rigged the Election", "Starlink Election Fraud"],
+    "genre": "government",
+    "year": 2024,
+    "truth": 2,
+    "impact": 55,
+    "notoriety": 48,
+    "summary": "After Kamala Harris's 2024 election loss, social media users — largely on the left, mirroring the structure of 2020's 'Stop the Steal' claims from the right — alleged Elon Musk used his Starlink satellite internet service to intercept or alter vote-tabulation data in swing states in Donald Trump's favor, with some versions adding that Musk coordinated with Vladimir Putin. Election security officials in multiple states and independent fact-checkers found no connection between Starlink and any vote-counting system.",
+    "evidence_for": [
+      {"text": "Musk was a major, unusually visible financial and operational backer of the Trump campaign in 2024, including running get-out-the-vote operations in swing states, giving proponents a documented motive narrative.", "source": "https://www.aljazeera.com/features/2024/11/13/fact-check-was-elon-musks-starlink-used-to-rig-the-us-election"},
+      {"text": "Starlink terminals were documented in general use for communications support in some campaign and disaster-relief operations during the same period, a real fact proponents cite to suggest technical proximity, though without evidence of any tabulation link.", "source": "https://www.cip.uw.edu/2024/11/18/conspiracy-theory-starlink-election-results/"}
+    ],
+    "evidence_against": [
+      {"text": "Election officials confirmed the vast majority of U.S. vote-counting machines and tabulators are never connected to the internet at all, making satellite-based tampering technically implausible for certified tabulation systems.", "source": "https://www.factcheck.org/2024/11/musks-starlink-was-not-connected-to-vote-tabulation-contrary-to-online-claims/"},
+      {"text": "The only documented instance of Starlink being used in connection with election infrastructure nationally was in California, a state Trump lost decisively, undercutting the 'swing state rigging' claim.", "source": "https://www.politifact.com/factchecks/2024/nov/12/threads-posts/no-elon-musks-starlink-wasnt-used-to-rig-the-2024/"},
+      {"text": "State election officials in Georgia and other contested states publicly rebutted the claims and pointed to certified audits and hand recounts in select jurisdictions that matched machine tallies.", "source": "https://www.wabe.org/election-officials-in-georgia-and-other-swing-states-knock-down-starlink-vote-rigging-conspiracy-theories/"}
+    ],
+    "related": ["stop-the-steal", "blueanon"],
+    "precedents": [],
+    "depends_on": [],
+    "sources": [
+      {"title": "Fact check: Was Elon Musk's Starlink used to rig the US election?", "url": "https://www.aljazeera.com/features/2024/11/13/fact-check-was-elon-musks-starlink-used-to-rig-the-us-election", "type": "news", "stance": "debunks"},
+      {"title": "Musk's Starlink Was Not Connected to Vote Tabulation", "url": "https://www.factcheck.org/2024/11/musks-starlink-was-not-connected-to-vote-tabulation-contrary-to-online-claims/", "type": "news", "stance": "debunks"},
+      {"title": "Conspiracy theory spreading on social media about Starlink interfering with election results", "url": "https://www.cip.uw.edu/2024/11/18/conspiracy-theory-starlink-election-results/", "type": "academic", "stance": "contested"},
+      {"title": "Election officials in Georgia and other swing states knock down Starlink vote rigging conspiracy theories", "url": "https://www.wabe.org/election-officials-in-georgia-and-other-swing-states-knock-down-starlink-vote-rigging-conspiracy-theories/", "type": "news", "stance": "debunks"}
+    ]
+  },
+  {
+    "id": "noncitizen-voting-save-act",
+    "name": "Noncitizen Voting Plot / SAVE Act Narrative",
+    "aliases": ["Noncitizens Are Stealing Elections", "SAVE Act Fraud Claims"],
+    "genre": "government",
+    "year": 2024,
+    "truth": 10,
+    "impact": 58,
+    "notoriety": 62,
+    "summary": "Donald Trump, Elon Musk, and allied Republican officials claimed ahead of and after the 2024 election that Democrats were deliberately recruiting and enabling large numbers of noncitizens to vote illegally in federal elections to steal the outcome, a claim used to justify the Safeguard American Voter Eligibility (SAVE) Act requiring documentary proof of citizenship to register. Multiple state and federal reviews found documented noncitizen voting to be extraordinarily rare and non-coordinated, though not literally zero.",
+    "evidence_for": [
+      {"text": "Post-election reviews identified isolated confirmed cases of noncitizen voting in several states, including 16 credible cases in Michigan out of 5.7 million votes cast, giving the claim a small kernel of real, documented fact.", "source": "https://www.npr.org/2025/07/30/nx-s1-5462836/noncitizen-voting-trump-ceir-review"},
+      {"text": "The House of Representatives passed the SAVE Act in 2025 with Republican-majority support, showing the claim influenced actual federal legislation rather than remaining confined to online discourse.", "source": "https://www.npr.org/2025/03/12/nx-s1-5301676/save-act-explainer-voter-registration"},
+      {"text": "Republican state officials sued the Biden-era DHS seeking noncitizen voter-roll data, and the resulting legal disputes over data access were real and documented, feeding the narrative that information was being withheld.", "source": "https://www.npr.org/2024/10/25/nx-s1-5156112/noncitizen-voting-election-lawsuits-trump-stephen-miller-save"}
+    ],
+    "evidence_against": [
+      {"text": "A comprehensive 2025 review found no evidence of any coordinated plot to register or turn out noncitizen voters, describing confirmed cases as isolated administrative or registration errors rather than intentional fraud.", "source": "https://www.npr.org/2025/07/30/nx-s1-5462836/noncitizen-voting-trump-ceir-review"},
+      {"text": "The documented rate of suspected noncitizen voting nationally was calculated at roughly 0.0001% of ballots cast, far too small to affect any statewide result.", "source": "https://www.npr.org/2025/07/30/nx-s1-5462836/noncitizen-voting-trump-ceir-review"},
+      {"text": "A Loyola Law School election-law expert and multiple state election directors stated no state uncovered any organized effort by any party to recruit noncitizen voters.", "source": "https://www.cbsnews.com/news/trump-noncitizen-voter-fraud-fact-check/"}
+    ],
+    "related": ["stop-the-steal", "great-replacement"],
+    "precedents": [],
+    "depends_on": [],
+    "sources": [
+      {"title": "The House has passed the Trump-backed SAVE Act. Here are 8 things to know", "url": "https://www.npr.org/2025/03/12/nx-s1-5301676/save-act-explainer-voter-registration", "type": "news", "stance": "documents"},
+      {"title": "Despite Trump's Claims, Large Numbers of Noncitizens Don't Vote in US Elections", "url": "https://www.snopes.com/news/2024/10/16/undocumented-immigrants-voting/", "type": "news", "stance": "debunks"},
+      {"title": "The SAVE Act and the Election Power Grab", "url": "https://www.brennancenter.org/our-work/analysis-opinion/save-act-and-election-power-grab", "type": "advocacy", "stance": "debunks"},
+      {"title": "Trump falsely claims noncitizen voter fraud is widespread", "url": "https://www.cbsnews.com/news/trump-noncitizen-voter-fraud-fact-check/", "type": "news", "stance": "debunks"},
+      {"title": "Despite grand claims, a new report shows noncitizen voting hasn't materialized", "url": "https://www.npr.org/2025/07/30/nx-s1-5462836/noncitizen-voting-trump-ceir-review", "type": "news", "stance": "debunks"}
+    ]
+  },
+  {
+    "id": "egg-bird-flu-engineered-scarcity",
+    "name": "Engineered Egg Scarcity / Bird Flu Culling Conspiracy",
+    "aliases": ["Eggflation Conspiracy", "Big Ag Egg Price-Fixing"],
+    "genre": "finance",
+    "year": 2025,
+    "truth": 20,
+    "impact": 40,
+    "notoriety": 35,
+    "summary": "As avian-flu culling drove U.S. egg prices to record highs in 2024-2025, some commentators claimed the scarcity was substantially manufactured or exaggerated by large egg producers and regulators — either to gouge consumers through coordinated price-fixing, or to push the public toward alternatives such as lab-grown protein — rather than being a purely natural consequence of H5N1 outbreaks. The claim draws real strength from a prior, unrelated proven price-fixing case against major egg producers, though mainstream reporting attributes the 2024-2025 shortage overwhelmingly to actual mass bird die-offs and mandatory culling.",
+    "evidence_for": [
+      {"text": "A federal jury in Illinois found major egg producers, including Cal-Maine Foods and Rose Acre Farms, liable in December 2023 for a prior conspiracy (1998-2008) to fix prices by deliberately constraining the national egg supply — a proven precedent for coordinated industry-wide scarcity engineering in this exact commodity.", "source": "https://www.fooddive.com/news/egg-producers-price-fixing-cal-maine-rose-acre-farms-kellogg-nestle-lawsuit-damages-scheme/700749/"},
+      {"text": "Cal-Maine Foods reported profits rising more than sevenfold even as it stayed free of bird flu into December 2023, a documented disconnect between one major producer's profitability and the outbreak it later cited for high prices.", "source": "https://newrepublic.com/article/192431/egg-prices-bird-flu-profit"},
+      {"text": "USDA culling protocols require destroying entire flocks at any sign of infection and then impose a lengthy, government-mandated repopulation process of nine months to over a year, a real regulatory bottleneck proponents argue is disproportionate.", "source": "https://www.cbsnews.com/news/eggs-prices-shortages-bird-flu-2025/"}
+    ],
+    "evidence_against": [
+      {"text": "USDA and industry data document that avian influenza killed well over 100 million egg-laying hens in the U.S. from 2022-2025, a real, verified mortality event sufficient on its own to explain the bulk of the price increase.", "source": "https://www.axios.com/2025/01/21/bird-flu-egg-prices-avian-influenza-trump"},
+      {"text": "Economists and agricultural researchers attribute most of the 2024-2025 price spike to genuine supply shock from the outbreak and industry consolidation dynamics rather than a deliberately fabricated shortage.", "source": "https://www.cnn.com/2025/01/14/business/egg-shortage-bird-flu/index.html"},
+      {"text": "No evidence has emerged that the 2024-2025 outbreak itself, as opposed to the separate and unrelated 2000s price-fixing case, involved deliberate underreporting or fabrication of bird deaths by producers or USDA.", "source": "https://www.foodandwaterwatch.org/2025/03/05/egg-prices-bird-flu-corporate-greed/"}
+    ],
+    "related": ["monsanto", "gmo-population-control", "bovine-hormone-conditioning"],
+    "precedents": ["libor-scandal"],
+    "steelman": "Because a federal jury already found the same industry conspired for a decade to restrict egg supply for profit, the argument that today's producers benefit from and may be slow to correct a supply shock is not pure speculation, even though it falls well short of proving the current outbreak is fabricated.",
+    "depends_on": [],
+    "sources": [
+      {"title": "Nestlé, Kraft defeat egg producers in price-fixing case", "url": "https://www.fooddive.com/news/egg-producers-price-fixing-cal-maine-rose-acre-farms-kellogg-nestle-lawsuit-damages-scheme/700749/", "type": "news", "stance": "documents"},
+      {"title": "What's Driving High Egg Prices: Bird Flu or Corporate Greed?", "url": "https://newrepublic.com/article/192431/egg-prices-bird-flu-profit", "type": "news", "stance": "contested"},
+      {"title": "Egg Prices: It's Not Just Bird Flu. It's Corporate Greed.", "url": "https://www.foodandwaterwatch.org/2025/03/05/egg-prices-bird-flu-corporate-greed/", "type": "advocacy", "stance": "contested"},
+      {"title": "Egg prices 2025: Growing bird flu outbreak causing shortages, higher prices", "url": "https://www.axios.com/2025/01/21/bird-flu-egg-prices-avian-influenza-trump", "type": "news", "stance": "debunks"},
+      {"title": "America is in the middle of an egg shortage", "url": "https://www.cnn.com/2025/01/14/business/egg-shortage-bird-flu/index.html", "type": "news", "stance": "debunks"}
+    ]
+  }
+]

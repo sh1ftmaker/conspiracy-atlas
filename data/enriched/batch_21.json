@@ -1,0 +1,964 @@
+[
+ {
+  "id": "cpi-hedonic-understatement",
+  "name": "CPI Inflation Understatement (ShadowStats)",
+  "aliases": [
+   "ShadowStats inflation",
+   "Real inflation rate is double the official rate",
+   "Government hides true inflation"
+  ],
+  "genre": "finance",
+  "year": 2021,
+  "truth": 15,
+  "impact": 55,
+  "notoriety": 45,
+  "summary": "Claims the Bureau of Labor Statistics deliberately understates the Consumer Price Index — via hedonic quality adjustments, geometric weighting, and substitution — to shrink cost-of-living payouts for Social Security, disability benefits, and TIPS bondholders, and to make administrations look better on inflation. Popularized by John Williams' ShadowStats, which during the 2021-2023 inflation surge claimed 'real' inflation running two to three times the official rate. Economists who have audited BLS methodology find the accumulated effect of methodology revisions since the 1980s amounts to a fraction of a percentage point, not the multi-point gap ShadowStats claims, and Williams has acknowledged he adds an estimated offset to the official figure rather than recomputing inflation with historical formulas.",
+  "evidence_for": [
+   {
+    "text": "BLS did adopt hedonic quality adjustments and geometric-weighting substitution methods starting in the late 1980s-1990s, changes documented in BLS technical notes.",
+    "source": "https://www.bls.gov/cpi/"
+   },
+   {
+    "text": "In March 2023, official CPI showed 5% annual inflation while ShadowStats' alternate index showed 14.1%.",
+    "source": "https://www.fedsmith.com/2023/04/19/inflation-severity-depends-how-its-measured/"
+   }
+  ],
+  "evidence_against": [
+   {
+    "text": "ShadowStats' methodology does not recompute inflation with historical formulas; it adds an estimated offset to the official BLS figure.",
+    "source": "https://www.fullstackeconomics.com/p/no-the-real-inflation-rate-isnt-14-percent"
+   },
+   {
+    "text": "Economists estimate the cumulative effect of BLS methodology changes since the 1980s at a fraction of a percentage point, not several points.",
+    "source": "https://en.wikipedia.org/wiki/Shadowstats.com"
+   }
+  ],
+  "related": [
+   "federal-reserve-cabal",
+   "silent-default-debt-inflation",
+   "greedflation-price-fixing"
+  ],
+  "precedents": [],
+  "steelman": "Cost-of-living-adjusted government payouts (Social Security COLA, TIPS) are pegged to CPI, so any systemic downward bias in the formula — even an unintentional one from substitution/hedonic methods — mechanically saves the government money and benefits bond issuers, a real conflict of interest in who controls the yardstick even absent proof of intentional rigging.",
+  "wikipedia": "https://en.wikipedia.org/wiki/Shadowstats.com",
+  "sources": [
+   {
+    "title": "Shadowstats.com",
+    "url": "https://en.wikipedia.org/wiki/Shadowstats.com",
+    "type": "wikipedia",
+    "stance": "documents"
+   },
+   {
+    "title": "No, the real inflation rate isn't 15 percent",
+    "url": "https://www.fullstackeconomics.com/p/no-the-real-inflation-rate-isnt-14-percent",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Is Inflation 5% Or 14%? It Depends On How It's Measured",
+    "url": "https://www.fedsmith.com/2023/04/19/inflation-severity-depends-how-its-measured/",
+    "type": "news",
+    "stance": "contested"
+   },
+   {
+    "title": "Shadowstats debunked",
+    "url": "https://econbrowser.com/archives/2008/09/shadowstats_deb",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ],
+  "research_note": "ShadowStats itself dates to the early 2000s; this record reflects its heavy recirculation during the 2021-2023 inflation surge."
+ },
+ {
+  "id": "greedflation-price-fixing",
+  "name": "Greedflation: Coordinated Corporate Price-Fixing",
+  "aliases": [
+   "Greedflation",
+   "Sellers' inflation",
+   "Corporate profiteering conspiracy"
+  ],
+  "genre": "finance",
+  "year": 2022,
+  "truth": 33,
+  "impact": 60,
+  "notoriety": 55,
+  "summary": "Holds that large, consolidated industries (groceries, energy, consumer goods) used 2021-2023 supply-chain inflation as cover to coordinate price hikes far beyond their own cost increases, boosting profit margins in what critics call cartel-like behavior. IMF and IPPR/Common Wealth studies found corporate profits, not just costs, drove a large share of 2022 inflation and that margins hit multi-decade highs. Mainstream economists distinguish this from a proven illegal price-fixing conspiracy: concentrated firms can raise prices in parallel without explicit coordination, and no antitrust case has proven cross-company collusion behind the broad 'greedflation' claim, as opposed to sector-specific cases like meatpacking or apartment rents.",
+  "evidence_for": [
+   {
+    "text": "The IMF found roughly 45% of 2022 eurozone inflation attributable to domestic corporate profits.",
+    "source": "https://www.axios.com/2023/05/18/once-a-fringe-theory-greedflation-gets-its-due"
+   },
+   {
+    "text": "A study of 1,350 firms across multiple economies found profits rose 30% from 2019-2022, outpacing inflation.",
+    "source": "https://fortune.com/europe/2023/12/08/greedflation-study/"
+   }
+  ],
+  "evidence_against": [
+   {
+    "text": "Economists note that oligopoly pricing power raising margins 'under cover' of inflation is parallel pricing behavior, not proven explicit collusion, absent a specific antitrust case.",
+    "source": "https://www.cato.org/free-society/last-word-busting-greedflation-myth"
+   },
+   {
+    "text": "Mainstream economic analysis finds corporate profit-taking alone does not explain the majority of the 2021-2023 US inflation episode.",
+    "source": "https://www.cnn.com/2024/05/15/business/inflation-biden-rate-fed"
+   }
+  ],
+  "related": [
+   "realpage-yieldstar-rent-fixing",
+   "meatpacking-wage-fixing-cartel",
+   "cpi-hedonic-understatement"
+  ],
+  "precedents": [
+   "libor-scandal",
+   "forex-rigging-scandal"
+  ],
+  "steelman": "Where concentrated industries share detailed competitor data through common vendors or trade groups — as later proven in the RealPage rent-fixing case and the meatpacking wage-fixing settlements — 'greedflation' becomes a specific, provable coordination mechanism rather than mere parallel pricing; the open question is how many other sectors work the same way.",
+  "wikipedia": "https://en.wikipedia.org/wiki/Greedflation",
+  "sources": [
+   {
+    "title": "Greedflation",
+    "url": "https://en.wikipedia.org/wiki/Greedflation",
+    "type": "wikipedia",
+    "stance": "documents"
+   },
+   {
+    "title": "Once a fringe theory, 'greedflation' gets its due",
+    "url": "https://www.axios.com/2023/05/18/once-a-fringe-theory-greedflation-gets-its-due",
+    "type": "news",
+    "stance": "supports"
+   },
+   {
+    "title": "'Greedflation' study finds many companies were lying to you about inflation",
+    "url": "https://fortune.com/europe/2023/12/08/greedflation-study/",
+    "type": "news",
+    "stance": "supports"
+   },
+   {
+    "title": "Last Word: Busting the 'Greedflation' Myth",
+    "url": "https://www.cato.org/free-society/last-word-busting-greedflation-myth",
+    "type": "advocacy",
+    "stance": "debunks"
+   },
+   {
+    "title": "Think corporate greed is the leading cause of inflation? Think again",
+    "url": "https://www.cnn.com/2024/05/15/business/inflation-biden-rate-fed",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "silent-default-debt-inflation",
+  "name": "Engineered Inflation to Erase the National Debt (\"Silent Default\")",
+  "aliases": [
+   "Inflate away the debt",
+   "Silent default on US debt",
+   "Debt monetization conspiracy"
+  ],
+  "genre": "finance",
+  "year": 2021,
+  "truth": 24,
+  "impact": 70,
+  "notoriety": 28,
+  "summary": "Argues that the Federal Reserve and Treasury deliberately tolerated or engineered the 2021-2023 inflation surge as a covert strategy to shrink the real value of the $30-plus trillion national debt at the expense of savers, wage earners, and fixed-income holders — a 'silent default' in place of a formal one. The underlying mechanism is real and historically documented: 1946-1955 inflation cut the US debt/GDP ratio by roughly 40%. But no internal document, testimony, or leak has shown the 2021 'transitory inflation' stance, or the 2022-2023 rate hikes that followed and reversed course, were secretly designed for debt reduction rather than pursued for the Fed's stated employment and price-stability mandates.",
+  "evidence_for": [
+   {
+    "text": "Academic modeling shows sustained 6% inflation over four years can cut the debt/GDP ratio by roughly 20%.",
+    "source": "https://cepr.org/voxeu/columns/using-inflation-erode-us-public-debt"
+   },
+   {
+    "text": "Historical precedent: inflation from 1946-1955 reduced the US debt/GDP ratio by nearly 40% over a decade.",
+    "source": "https://www.nationalaffairs.com/publications/detail/inflation-and-debt"
+   }
+  ],
+  "evidence_against": [
+   {
+    "text": "The Federal Reserve's 2022-2023 rate hikes were the fastest in four decades, working directly against any 'inflate away the debt' strategy.",
+    "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312a.htm"
+   },
+   {
+    "text": "No documentary or testimonial evidence has surfaced that debt reduction, rather than the Fed's dual mandate, drove 2021-2023 policy.",
+    "source": "https://thedailyeconomy.org/article/is-the-fed-trying-to-inflate-away-us-debt/"
+   }
+  ],
+  "related": [
+   "federal-reserve-cabal",
+   "btfp-secret-bailout",
+   "cpi-hedonic-understatement"
+  ],
+  "precedents": [],
+  "steelman": "Inflating away debt is a documented historical tool that worked exactly this way after WWII, and the fact that the strategy 'works' regardless of stated intent means officials who tolerate inflation over more painful fiscal tightening are choosing a path with this effect, even without an admitted plan.",
+  "sources": [
+   {
+    "title": "The National Debt: A Conspiracy of Silence",
+    "url": "https://mises.org/mises-wire/national-debt-conspiracy-silence",
+    "type": "advocacy",
+    "stance": "supports"
+   },
+   {
+    "title": "Is The Fed Trying To Inflate Away US Debt?",
+    "url": "https://thedailyeconomy.org/article/is-the-fed-trying-to-inflate-away-us-debt/",
+    "type": "news",
+    "stance": "contested"
+   },
+   {
+    "title": "Using inflation to erode the US public debt",
+    "url": "https://cepr.org/voxeu/columns/using-inflation-erode-us-public-debt",
+    "type": "academic",
+    "stance": "documents"
+   },
+   {
+    "title": "We Traded a Debt Crisis for an Inflation Crisis, and Now We Have Both",
+    "url": "https://www.heritage.org/debt/commentary/we-traded-debt-crisis-inflation-crisis-and-now-we-have-both",
+    "type": "advocacy",
+    "stance": "contested"
+   }
+  ]
+ },
+ {
+  "id": "btfp-secret-bailout",
+  "name": "The Fed's 'Secret' 2023 Bank Bailout (BTFP)",
+  "aliases": [
+   "Bank Term Funding Program bailout",
+   "Stealth QE 2023",
+   "Fed hides bank rescue"
+  ],
+  "genre": "finance",
+  "year": 2023,
+  "truth": 40,
+  "impact": 65,
+  "notoriety": 35,
+  "summary": "Claims the Federal Reserve's March 2023 Bank Term Funding Program, created after Silicon Valley Bank and Signature Bank failed, was structured and marketed to disguise a bailout of the banking system's unrealized bond losses as a routine liquidity facility, and that its true scale — over $130-140 billion drawn weekly by late 2023/early 2024 — was undersold to the public and Congress as a modest emergency tool. The Fed publicly announced and fully documented the BTFP's terms, so it was not secret in the literal sense, but critics across the political spectrum argue the 'not a bailout' framing and below-market collateral terms concealed the true size and duration of the rescue.",
+  "evidence_for": [
+   {
+    "text": "BTFP let banks post underwater Treasuries/MBS at face value rather than market value, creating an arbitrage that let banks profit by borrowing from the Fed and re-depositing at higher rates — the Fed closed this loophole in January 2024.",
+    "source": "https://wolfstreet.com/2024/01/24/effective-immediately-fed-shuts-down-arbitrage-opportunity-with-the-bank-term-funding-program-btfp/"
+   },
+   {
+    "text": "Weekly BTFP borrowing hit a record $141 billion in January 2024, ten months after being introduced as an emergency measure.",
+    "source": "https://cointelegraph.com/news/federal-reserve-bank-bailout-fund-new-high"
+   }
+  ],
+  "evidence_against": [
+   {
+    "text": "The BTFP was announced in a public Federal Reserve press release the day it was created, with full terms disclosed.",
+    "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312a.htm"
+   },
+   {
+    "text": "The program had a fixed one-year term and stopped issuing new loans on schedule in March 2024, consistent with a disclosed emergency facility rather than an open-ended hidden one.",
+    "source": "https://en.wikipedia.org/wiki/Bank_Term_Funding_Program"
+   }
+  ],
+  "related": [
+   "federal-reserve-cabal",
+   "silent-default-debt-inflation",
+   "bitcoin-created-by-banks"
+  ],
+  "precedents": [],
+  "steelman": "The 2008-era TARP was a named, voted-on 'bailout'; the BTFP achieved a similar function — propping up banks sitting on unrealized losses — through a Fed facility that never used the word 'bailout' and drew far less legislative scrutiny, a legitimate point about how bank rescues get framed to avoid political backlash.",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bank_Term_Funding_Program",
+  "sources": [
+   {
+    "title": "Effective Immediately, Fed Shuts Down Arbitrage Opportunity with the BTFP",
+    "url": "https://wolfstreet.com/2024/01/24/effective-immediately-fed-shuts-down-arbitrage-opportunity-with-the-bank-term-funding-program-btfp/",
+    "type": "news",
+    "stance": "supports"
+   },
+   {
+    "title": "Federal Reserve's banking bailouts reach a new weekly high of $103B",
+    "url": "https://cointelegraph.com/news/federal-reserve-bank-bailout-fund-new-high",
+    "type": "news",
+    "stance": "supports"
+   },
+   {
+    "title": "Federal Reserve Board announces new funding program",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312a.htm",
+    "type": "government",
+    "stance": "documents"
+   },
+   {
+    "title": "Bank Term Funding Program",
+    "url": "https://en.wikipedia.org/wiki/Bank_Term_Funding_Program",
+    "type": "wikipedia",
+    "stance": "documents"
+   },
+   {
+    "title": "What did the Fed do after Silicon Valley Bank and Signature Bank failed?",
+    "url": "https://www.brookings.edu/articles/what-did-the-fed-do-after-silicon-valley-bank-and-signature-bank-failed/",
+    "type": "academic",
+    "stance": "contested"
+   }
+  ]
+ },
+ {
+  "id": "brics-dedollarization-collapse-panic",
+  "name": "BRICS Currency Will Collapse the Dollar",
+  "aliases": [
+   "De-dollarization panic",
+   "BRICS gold-backed currency",
+   "Imminent dollar collapse"
+  ],
+  "genre": "finance",
+  "year": 2023,
+  "truth": 12,
+  "impact": 55,
+  "notoriety": 50,
+  "summary": "A viral claim, amplified by gold and crypto commentators and some US politicians, that BRICS nations are on the verge of launching a shared gold-backed currency that will imminently dethrone the US dollar as world reserve currency, collapsing US purchasing power and government finance. Real de-dollarization exists in narrow form — China-Russia and other bilateral trade increasingly settled in local currencies — but no BRICS summit has agreed to a common currency, and the dollar's share of global reserves has declined only gradually over decades rather than collapsing.",
+  "evidence_for": [
+   {
+    "text": "Russia and China now conduct the large majority of their bilateral trade in yuan and rubles rather than dollars.",
+    "source": "https://carnegieendowment.org/research/2023/12/the-difficult-realities-of-the-brics-dedollarization-effortsand-the-renminbis-role"
+   },
+   {
+    "text": "BRICS leaders Putin and Lula publicly called for reduced dollar dependence at 2023-2024 summits, and Lula proposed a common BRICS currency in August 2023.",
+    "source": "https://thetricontinental.org/newsletterissue/de-dollarisation-brics/"
+   }
+  ],
+  "evidence_against": [
+   {
+    "text": "No BRICS summit has produced an agreed common currency; analysts call a BRICS currency 'economically impossible' or a 'political fantasy' given members' divergent economies and lack of fiscal union.",
+    "source": "https://mecouncil.org/blog_posts/can-brics-really-drop-the-dollar/"
+   },
+   {
+    "text": "The vast majority of global trade and reserves, including among BRICS members, remains dollar-denominated.",
+    "source": "https://carnegieendowment.org/research/2023/12/the-difficult-realities-of-the-brics-dedollarization-effortsand-the-renminbis-role"
+   }
+  ],
+  "related": [
+   "btfp-secret-bailout",
+   "silent-default-debt-inflation",
+   "fednow-cbdc-control-grid"
+  ],
+  "precedents": [],
+  "sources": [
+   {
+    "title": "From De-Risking to De-Dollarisation: The BRICS Currency and the Future of the International Financial Order",
+    "url": "https://thetricontinental.org/wenhua-zongheng-2024-1-derisking-dedollarisation-brics-currency/",
+    "type": "academic",
+    "stance": "contested"
+   },
+   {
+    "title": "Can BRICS Really Drop the Dollar?",
+    "url": "https://mecouncil.org/blog_posts/can-brics-really-drop-the-dollar/",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "The Difficult Realities of the BRICS' Dedollarization Efforts",
+    "url": "https://carnegieendowment.org/research/2023/12/the-difficult-realities-of-the-brics-dedollarization-effortsand-the-renminbis-role",
+    "type": "academic",
+    "stance": "debunks"
+   },
+   {
+    "title": "The BRICS Currency Fantasy: Why the Push to Dethrone the U.S. Dollar is Economically Impossible",
+    "url": "https://www.covmedia.co.uk/the-brics-currency-fantasy-why-the-push-to-dethrone-the-u-s-dollar-is-economically-impossible/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "fednow-cbdc-control-grid",
+  "name": "FedNow Is a Secret CBDC Control Grid",
+  "aliases": [
+   "FedNow is the digital dollar",
+   "Fed to ban cash via FedNow"
+  ],
+  "genre": "new-world-order",
+  "year": 2023,
+  "truth": 5,
+  "impact": 40,
+  "notoriety": 60,
+  "summary": "Claims that the Federal Reserve's FedNow instant-payment system, launched in July 2023, either is itself a central bank digital currency or is the covert first step toward one, designed to let the government track, freeze, or restrict individual spending and eliminate cash. FedNow is in fact a bank-to-bank interbank settlement rail functionally similar to preexisting systems like FedACH and Fedwire; the Fed has stated repeatedly it is not a digital currency, is not linked to individual consumer accounts, and does not replace cash, and any actual US CBDC would require new authorizing legislation from Congress.",
+  "evidence_for": [
+   {
+    "text": "Fed officials and outside researchers have separately studied a possible future US central bank digital currency, so government interest in the broader concept is real.",
+    "source": "https://www.coindesk.com/business/2023/07/21/federal-reserves-fednow-launch-triggers-fresh-speculation-over-digital-dollar"
+   }
+  ],
+  "evidence_against": [
+   {
+    "text": "The Federal Reserve issued a public FAQ explicitly stating FedNow is not a CBDC and not a step toward eliminating cash.",
+    "source": "https://www.federalreserve.gov/faqs/is-fednow-replacing-cash-is-it-a-central-bank-digital-currency.htm"
+   },
+   {
+    "text": "FedNow only settles between banks and credit unions, the same function performed by preexisting systems like FedACH; it creates no new individual-level Fed account or surveillance capability.",
+    "source": "https://www.politifact.com/factchecks/2023/apr/14/tiktok-posts/dont-confuse-fednow-payment-system-and-central-ban/"
+   }
+  ],
+  "related": [
+   "great-reset",
+   "brics-dedollarization-collapse-panic",
+   "btfp-secret-bailout"
+  ],
+  "precedents": [],
+  "sources": [
+   {
+    "title": "A TikTok video wrongly conflates FedNow with a possible CBDC",
+    "url": "https://www.politifact.com/factchecks/2023/apr/14/tiktok-posts/dont-confuse-fednow-payment-system-and-central-ban/",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Is the FedNow Service replacing cash? Is it a central bank digital currency?",
+    "url": "https://www.federalreserve.gov/faqs/is-fednow-replacing-cash-is-it-a-central-bank-digital-currency.htm",
+    "type": "government",
+    "stance": "debunks"
+   },
+   {
+    "title": "DeSantis and RFK Jr. misconstrue FedNow and digital dollar plans",
+    "url": "https://www.nbcnews.com/politics/politics-news/desantis-rfk-jr-misconstrue-fednow-digital-dollar-plans-rcna78591",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Federal Reserve's 'FedNow' Launch Triggers Fresh Speculation Over Digital Dollar",
+    "url": "https://www.coindesk.com/business/2023/07/21/federal-reserves-fednow-launch-triggers-fresh-speculation-over-digital-dollar",
+    "type": "news",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "big-three-common-ownership-cartel",
+  "name": "The Big Three's Common-Ownership Cartel (BlackRock, Vanguard, State Street)",
+  "aliases": [
+   "Big Three collusion",
+   "Common ownership antitrust theory",
+   "Index fund cartel"
+  ],
+  "genre": "finance",
+  "year": 2022,
+  "truth": 58,
+  "impact": 80,
+  "notoriety": 35,
+  "summary": "Holds that BlackRock, Vanguard, and State Street — collectively the largest shareholder in a plurality of major US public companies — use overlapping ownership stakes in competing firms to coordinate reduced output and higher prices across entire industries, rather than each pursuing shareholder value independently. This moved from an academic antitrust theory to litigation in 2024, when Texas and other states sued the three asset managers alleging they used shared ESG/'Net Zero' initiatives to coordinate a reduction in coal production across competing coal companies; a federal judge allowed the case to proceed past motions to dismiss in 2025, and Vanguard settled in early 2026 without admitting wrongdoing.",
+  "evidence_for": [
+   {
+    "text": "The Big Three collectively hold the largest stake in roughly 40% of all US public companies.",
+    "source": "https://www.gsb.stanford.edu/insights/biggest-antitrust-story-youve-never-heard"
+   },
+   {
+    "text": "A federal judge in Texas largely denied BlackRock, Vanguard, and State Street's motions to dismiss the states' antitrust suit in August 2025, allowing common-ownership coordination claims to proceed.",
+    "source": "https://www.esgdive.com/news/blackrock-vanguard-state-street-motion-to-dismiss-coal-antitrust-case-denied-texas-ag/757336/"
+   },
+   {
+    "text": "Vanguard settled the case for $29.5 million in early 2026, agreeing to bar its US business from joining climate-focused investment coalitions, without admitting wrongdoing.",
+    "source": "https://www.ftc.gov/news-events/news/press-releases/2025/05/ftc-doj-file-statement-interest-energy-collusion-case-against-blackrock-state-street-vanguard"
+   }
+  ],
+  "evidence_against": [
+   {
+    "text": "BlackRock and State Street continue to actively contest the case and have not been found liable by any court.",
+    "source": "https://www.esgdive.com/news/blackrock-vanguard-state-street-motion-to-dismiss-coal-antitrust-case-denied-texas-ag/757336/"
+   },
+   {
+    "text": "Passive index-fund proxy voting is largely automated and policy-driven rather than the product of company-specific coordination meetings, according to the funds' own disclosures.",
+    "source": "https://www.gsb.stanford.edu/insights/biggest-antitrust-story-youve-never-heard"
+   }
+  ],
+  "related": [
+   "realpage-yieldstar-rent-fixing",
+   "greedflation-price-fixing",
+   "ai-bubble-circular-deals-conspiracy"
+  ],
+  "precedents": [
+   "libor-scandal",
+   "forex-rigging-scandal"
+  ],
+  "steelman": "Antitrust economists have published peer-reviewed 'common ownership' research since the 2010s arguing that when the same handful of asset managers hold large stakes in every airline or every bank, those firms have less incentive to compete on price — and the 2024-2026 coal case is the first time a court has let that theory proceed as an anticompetitive-conspiracy claim rather than just an academic hypothesis.",
+  "sources": [
+   {
+    "title": "FTC and DOJ File Statement of Interest in Energy Collusion Case Against BlackRock, State Street, and Vanguard",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/05/ftc-doj-file-statement-interest-energy-collusion-case-against-blackrock-state-street-vanguard",
+    "type": "government",
+    "stance": "documents"
+   },
+   {
+    "title": "BlackRock, Vanguard, State Street bid to dismiss coal antitrust case fails",
+    "url": "https://www.esgdive.com/news/blackrock-vanguard-state-street-motion-to-dismiss-coal-antitrust-case-denied-texas-ag/757336/",
+    "type": "news",
+    "stance": "documents"
+   },
+   {
+    "title": "Attorney General Ken Paxton Sues BlackRock, State Street, and Vanguard",
+    "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-sues-blackrock-state-street-and-vanguard-illegally-conspiring-manipulate",
+    "type": "government",
+    "stance": "supports"
+   },
+   {
+    "title": "The Biggest Antitrust Story You've Never Heard",
+    "url": "https://www.gsb.stanford.edu/insights/biggest-antitrust-story-youve-never-heard",
+    "type": "academic",
+    "stance": "contested"
+   }
+  ]
+ },
+ {
+  "id": "plunge-protection-team-manipulation",
+  "name": "Plunge Protection Team Secretly Props Up the Stock Market",
+  "aliases": [
+   "PPT market manipulation",
+   "Working Group on Financial Markets conspiracy"
+  ],
+  "genre": "finance",
+  "year": 2022,
+  "truth": 14,
+  "impact": 55,
+  "notoriety": 30,
+  "summary": "Claims that the President's Working Group on Financial Markets — nicknamed the 'Plunge Protection Team' since its 1988 creation — does not merely coordinate policy advice but covertly directs banks like Goldman Sachs and Morgan Stanley to buy futures and stocks during selloffs to engineer market rebounds, including cited 'recoveries' after sharp 2018 and 2020s drops. The Working Group's documented, public mandate is coordination and recommendations among Treasury, Fed, SEC, and CFTC officials during crises; no public record, court filing, or leak has ever shown it executing trades, and sharp reversals attributed to it have documented alternative explanations such as dip-buying and short covering.",
+  "evidence_for": [
+   {
+    "text": "The Working Group on Financial Markets is a real body, created by Executive Order 12631 in 1988 after the 1987 crash, with a documented mandate to coordinate crisis response.",
+    "source": "https://en.wikipedia.org/wiki/Working_Group_on_Financial_Markets"
+   }
+  ],
+  "evidence_against": [
+   {
+    "text": "No public evidence — court record, leaked document, or whistleblower account — shows the Working Group has ever directly executed stock or futures trades.",
+    "source": "https://en.wikipedia.org/wiki/Working_Group_on_Financial_Markets"
+   },
+   {
+    "text": "Analysts attribute cited 'PPT rescues,' such as the late-December 2018 rally, to ordinary dip-buying and short covering rather than coordinated intervention.",
+    "source": "https://marketinsiders.in/2025/08/13/the-plunge-protection-team-fact-or-fiction/"
+   }
+  ],
+  "related": [
+   "big-three-common-ownership-cartel",
+   "ai-bubble-circular-deals-conspiracy",
+   "citadel-robinhood-gme-collusion"
+  ],
+  "precedents": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Working_Group_on_Financial_Markets",
+  "sources": [
+   {
+    "title": "Working Group on Financial Markets",
+    "url": "https://en.wikipedia.org/wiki/Working_Group_on_Financial_Markets",
+    "type": "wikipedia",
+    "stance": "documents"
+   },
+   {
+    "title": "The 'Plunge Protection Team' — fact or fiction?",
+    "url": "https://marketinsiders.in/2025/08/13/the-plunge-protection-team-fact-or-fiction/",
+    "type": "news",
+    "stance": "contested"
+   },
+   {
+    "title": "What Is the 'Plunge Protection Team' and Is It Really Steering the Stock Market?",
+    "url": "https://justtmd.com/what-is-the-plunge-protection-team-and-is-it-really-steering-the-stock-market",
+    "type": "news",
+    "stance": "contested"
+   },
+   {
+    "title": "The Role of the Plunge Protection Team (PPT) in Financial Markets",
+    "url": "https://hexn.io/blog/what-is-the-plunge-protection-team-b4nbzr4wwssrsy4jsrfb9igd",
+    "type": "fringe",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "ai-bubble-circular-deals-conspiracy",
+  "name": "AI Boom Circular Deals Prop Up the Market",
+  "aliases": [
+   "AI bubble conspiracy",
+   "Circular AI financing scheme",
+   "OpenAI-Nvidia-Microsoft ring"
+  ],
+  "genre": "finance",
+  "year": 2025,
+  "truth": 38,
+  "impact": 78,
+  "notoriety": 45,
+  "summary": "Argues that Nvidia, OpenAI, Microsoft, Oracle, and AMD are engaged in a deliberately circular web of investments and purchase commitments — Nvidia investing in OpenAI, which buys Nvidia chips and Microsoft/Oracle cloud capacity, while Microsoft and AMD hold OpenAI-linked stakes — designed to inflate each other's reported revenue and stock prices and mask that AI capital spending vastly outpaces AI revenue, propping up a stock market where AI-related names drove roughly 80% of 2025 US equity gains. The circular financing structure itself is real and documented by Bloomberg and other outlets as a genuine bubble risk; whether it constitutes deliberate, coordinated deception versus companies independently pursuing self-interested but mutually reinforcing deals remains disputed among financial analysts, not proven intent.",
+  "evidence_for": [
+   {
+    "text": "OpenAI committed to roughly $1.4 trillion in data-center and compute spending through the early 2030s while reporting about $20 billion in annual revenue and projecting continued annual losses through 2028.",
+    "source": "https://www.nbcnews.com/business/economy/openai-nvidia-amd-deals-risks-rcna234806"
+   },
+   {
+    "text": "Nvidia, Microsoft, Oracle, and AMD each hold financial stakes in or major supply/purchase contracts with OpenAI, creating overlapping related-party transactions among the same small set of firms.",
+    "source": "https://www.bloomberg.com/news/articles/2025-10-08/the-circular-openai-nvidia-and-amd-deals-raising-fears-of-a-new-tech-bubble"
+   },
+   {
+    "text": "AI-related companies accounted for roughly 80% of total US stock market gains in 2025.",
+    "source": "https://www.npr.org/2025/11/23/nx-s1-5615410/ai-bubble-nvidia-openai-revenue-bust-data-centers"
+   }
+  ],
+  "evidence_against": [
+   {
+    "text": "Analysts describe the deals as unusual in scale but comparable in kind to dot-com-era vendor financing, not proof of coordinated fraud rather than aggressive but disclosed business strategy.",
+    "source": "https://www.npr.org/2025/11/23/nx-s1-5615410/ai-bubble-nvidia-openai-revenue-bust-data-centers"
+   },
+   {
+    "text": "All cited deals were publicly announced in press releases and SEC filings rather than hidden from investors.",
+    "source": "https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals"
+   }
+  ],
+  "related": [
+   "big-three-common-ownership-cartel",
+   "plunge-protection-team-manipulation"
+  ],
+  "precedents": [],
+  "steelman": "Even without proven bad intent, related-party circular financing at hundred-billion-dollar scale creates the same incentive problems seen in past bubbles (Enron's related-party vehicles, dot-com vendor financing): each company's reported growth partly depends on the others' spending, so a slowdown by any one participant can cascade — exactly the structural conflict of interest critics point to.",
+  "wikipedia": "https://en.wikipedia.org/wiki/AI_bubble",
+  "sources": [
+   {
+    "title": "AI Circular Deals: How Microsoft, OpenAI and Nvidia Keep Paying Each Other",
+    "url": "https://www.bloomberg.com/graphics/2026-ai-circular-deals/",
+    "type": "news",
+    "stance": "documents"
+   },
+   {
+    "title": "The AI boom's reliance on circular deals is raising fears of a bubble",
+    "url": "https://www.nbcnews.com/business/economy/openai-nvidia-amd-deals-risks-rcna234806",
+    "type": "news",
+    "stance": "documents"
+   },
+   {
+    "title": "Here's why concerns about an AI bubble are bigger than ever",
+    "url": "https://www.npr.org/2025/11/23/nx-s1-5615410/ai-bubble-nvidia-openai-revenue-bust-data-centers",
+    "type": "news",
+    "stance": "contested"
+   },
+   {
+    "title": "AI bubble",
+    "url": "https://en.wikipedia.org/wiki/AI_bubble",
+    "type": "wikipedia",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "buyback-wealth-transfer-conspiracy",
+  "name": "Stock Buybacks as Engineered Executive Wealth Transfer",
+  "aliases": [
+   "Buybacks are a scam",
+   "EPS manipulation via buybacks"
+  ],
+  "genre": "finance",
+  "year": 2022,
+  "truth": 47,
+  "impact": 60,
+  "notoriety": 25,
+  "summary": "Claims that corporate stock buybacks are deliberately timed and sized against executive stock-based compensation grants to mechanically inflate earnings-per-share metrics that trigger bonus payouts, transferring wealth from long-term shareholders and workers to executives, rather than functioning as the 'returning capital to shareholders' story companies tell publicly. Buybacks' effect of offsetting share dilution from executive stock grants and boosting EPS-linked pay is documented in corporate governance research; whether individual buyback programs are consciously engineered for that specific purpose, versus being one of several disclosed motives boards weigh, is contested.",
+  "evidence_for": [
+   {
+    "text": "Research on executive compensation finds buybacks reduce share count in ways that mechanically raise EPS figures used in incentive-pay formulas.",
+    "source": "https://corpgov.law.harvard.edu/2023/07/16/share-buybacks-and-executive-compensation-assessing-key-criticisms/"
+   },
+   {
+    "text": "Buybacks are estimated to have transferred over a trillion dollars from shareholders to executives and managers over the past decade via stock-based compensation offsets.",
+    "source": "https://www.epsilontheory.com/stock-buybacks-and-the-monetization-of-stock-based-compensation/"
+   }
+  ],
+  "evidence_against": [
+   {
+    "text": "Buyback proponents note repurchases are one of several legitimate capital-allocation tools and, done at fair value, can increase remaining shareholders' per-share value rather than solely benefiting executives.",
+    "source": "https://www.tikr.com/blog/how-to-tell-if-stock-buybacks-are-actually-good-for-a-stock"
+   },
+   {
+    "text": "Buyback timing and volume are SEC-regulated under Rule 10b-18, and full boards, not individual executives, approve repurchase programs.",
+    "source": "https://www.paygovernance.com/resource/share-buybacks-and-executive-compensation-assessing-key-criticisms/"
+   }
+  ],
+  "related": [
+   "greedflation-price-fixing",
+   "congressional-insider-trading-pelosi",
+   "big-three-common-ownership-cartel"
+  ],
+  "precedents": [],
+  "sources": [
+   {
+    "title": "Share Buybacks and Executive Compensation: Assessing Key Criticisms",
+    "url": "https://corpgov.law.harvard.edu/2023/07/16/share-buybacks-and-executive-compensation-assessing-key-criticisms/",
+    "type": "academic",
+    "stance": "contested"
+   },
+   {
+    "title": "The Buyback Divide: How Stock Buybacks Distort Markets and Deepen Wealth Inequality",
+    "url": "https://www.oxfamamerica.org/explore/research-publications/the-buyback-divide/",
+    "type": "advocacy",
+    "stance": "supports"
+   },
+   {
+    "title": "Stock Buybacks!™ and the Monetization of Stock-Based Compensation",
+    "url": "https://www.epsilontheory.com/stock-buybacks-and-the-monetization-of-stock-based-compensation/",
+    "type": "news",
+    "stance": "supports"
+   },
+   {
+    "title": "Share Buybacks and Executive Compensation: Assessing Key Criticisms",
+    "url": "https://www.paygovernance.com/resource/share-buybacks-and-executive-compensation-assessing-key-criticisms/",
+    "type": "advocacy",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "congressional-insider-trading-pelosi",
+  "name": "Congressional Insider Trading (the \"Pelosi Tracker\" Phenomenon)",
+  "aliases": [
+   "Pelosi stock tracker conspiracy",
+   "Congress trades on inside information",
+   "Nancy Pelosi insider trading"
+  ],
+  "genre": "government",
+  "year": 2021,
+  "truth": 42,
+  "impact": 55,
+  "notoriety": 65,
+  "summary": "Claims that members of Congress — Nancy Pelosi and her husband Paul Pelosi have become the emblematic example — systematically trade stocks (or have spouses trade) using non-public information gained through committee work and legislative briefings, producing market-beating returns that a cottage industry of 'Pelosi tracker' apps now lets ordinary investors copy. Documented instances include Paul Pelosi's 2022 Nvidia trades ahead of semiconductor-subsidy legislation and Visa stock sales before a DOJ antitrust suit was announced; Congress members are covered by the 2012 STOCK Act's disclosure and trading rules, but enforcement has been minimal, no insider-trading charge has ever been brought against Pelosi, and multiple studies find congressional trading portfolios outperform the market on average.",
+  "evidence_for": [
+   {
+    "text": "Paul Pelosi purchased Nvidia shares ahead of 2022 semiconductor legislation Congress was considering, and sold Visa stock months before the DOJ announced an antitrust suit against the company.",
+    "source": "https://www.themainewire.com/2024/09/trump-calls-out-pelosi-for-latest-insider-trading-controversy/"
+   },
+   {
+    "text": "Academic studies of congressional stock trading have found average portfolio returns for members of Congress outperform the broader market.",
+    "source": "https://www.washingtonpost.com/politics/2024/06/01/congress-stock-trading-trackers-pelosi/"
+   }
+  ],
+  "evidence_against": [
+   {
+    "text": "No insider-trading charge or conviction has ever been brought against Nancy or Paul Pelosi, and Pelosi has denied any wrongdoing.",
+    "source": "https://www.capitoltrades.com/articles/a-new-dilemma-for-insider-trading-pelosi-act-2023-01-27"
+   },
+   {
+    "text": "All cited trades were legally disclosed under the STOCK Act, meaning outperformance could reflect access to public non-material information or timing skill rather than proven illegal insider trading.",
+    "source": "https://www.quiverquant.com/congresstrading/politician/Nancy%20Pelosi-P000197"
+   }
+  ],
+  "related": [
+   "buyback-wealth-transfer-conspiracy",
+   "big-three-common-ownership-cartel"
+  ],
+  "precedents": [],
+  "steelman": "Even setting aside any single trade, the structural conflict of interest — lawmakers voting on bills that predictably move stocks they or their spouses hold — is real and is exactly why bipartisan bills, including the 'PELOSI Act' and other proposed stock-trading bans for members of Congress, have been repeatedly introduced since 2023.",
+  "sources": [
+   {
+    "title": "Pelosi Stock Tracker",
+    "url": "https://pelositracker.app/",
+    "type": "fringe",
+    "stance": "supports"
+   },
+   {
+    "title": "Investors, worried they can't beat lawmakers in stock market, copy them instead",
+    "url": "https://www.washingtonpost.com/politics/2024/06/01/congress-stock-trading-trackers-pelosi/",
+    "type": "news",
+    "stance": "documents"
+   },
+   {
+    "title": "Trump Calls Out Pelosi for Latest Insider Trading Controversy",
+    "url": "https://www.themainewire.com/2024/09/trump-calls-out-pelosi-for-latest-insider-trading-controversy/",
+    "type": "news",
+    "stance": "supports"
+   },
+   {
+    "title": "A New Dilemma For Insider Trading: 'PELOSI Act'",
+    "url": "https://www.capitoltrades.com/articles/a-new-dilemma-for-insider-trading-pelosi-act-2023-01-27",
+    "type": "news",
+    "stance": "contested"
+   }
+  ]
+ },
+ {
+  "id": "citadel-robinhood-gme-collusion",
+  "name": "Citadel-Robinhood Collusion to Kill the GameStop Squeeze",
+  "aliases": [
+   "Robinhood rigged the game",
+   "Citadel shut down GME buying"
+  ],
+  "genre": "finance",
+  "year": 2021,
+  "truth": 10,
+  "impact": 50,
+  "notoriety": 70,
+  "summary": "Claims that Robinhood's January 28, 2021 decision to restrict buying of GameStop and other 'meme stocks' was made at the secret behest of Citadel Securities — Robinhood's payment-for-order-flow partner and an investor in the hedge fund Melvin Capital, which held a large short position in GameStop — to protect Citadel/Melvin from further losses rather than for the stated reason of clearinghouse collateral requirements. The SEC's October 2021 report on the episode found the price surge was driven by retail sentiment and buying, criticized payment-for-order-flow incentives generally, but found no evidence of a Robinhood-Citadel conspiracy behind the trading restriction.",
+  "evidence_for": [
+   {
+    "text": "Citadel Securities was both Robinhood's largest source of payment-for-order-flow revenue and had just recapitalized Melvin Capital, which held a large GameStop short position.",
+    "source": "https://bettermarkets.org/analysis/everything-you-need-know-about-gamestop-frenzy-and-key-players-including-robinhood-citadel-2/"
+   },
+   {
+    "text": "Robinhood's abrupt buy restriction coincided precisely with the peak of the squeeze, fueling widespread retail-investor suspicion of collusion.",
+    "source": "https://prospect.org/power/how-the-gamestop-hustle-worked/"
+   }
+  ],
+  "evidence_against": [
+   {
+    "text": "The SEC's October 2021 report concluded the restrictions were driven by clearinghouse deposit/collateral requirements triggered by extreme volatility, and found no evidence of a conspiracy between Robinhood and Citadel.",
+    "source": "https://jonathan-chao.medium.com/debunking-the-myth-surrounding-gamestop-a-summary-of-the-sec-investigation-6f9581ae1a17"
+   },
+   {
+    "text": "Multiple other brokerages independently imposed similar restrictions on the same volatile stocks at the same time, consistent with an industry-wide clearing/margin issue rather than a Robinhood-Citadel-specific plot.",
+    "source": "https://www.cato.org/cato-journal/fall-2021/gamestop-episode-what-happened-what-does-it-mean"
+   }
+  ],
+  "related": [
+   "big-three-common-ownership-cartel",
+   "plunge-protection-team-manipulation"
+  ],
+  "precedents": [],
+  "sources": [
+   {
+    "title": "The GameStop Episode: What Happened and What Does It Mean?",
+    "url": "https://www.cato.org/cato-journal/fall-2021/gamestop-episode-what-happened-what-does-it-mean",
+    "type": "academic",
+    "stance": "debunks"
+   },
+   {
+    "title": "Debunking the Myth surrounding GameStop: A summary of the SEC investigation",
+    "url": "https://jonathan-chao.medium.com/debunking-the-myth-surrounding-gamestop-a-summary-of-the-sec-investigation-6f9581ae1a17",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "ROBINHOOD/GAMESTOP/CITADEL: MAKING YOUR VOICE HEARD",
+    "url": "https://bettermarkets.org/analysis/everything-you-need-know-about-gamestop-frenzy-and-key-players-including-robinhood-citadel-2/",
+    "type": "advocacy",
+    "stance": "contested"
+   },
+   {
+    "title": "How the GameStop Hustle Worked",
+    "url": "https://prospect.org/power/how-the-gamestop-hustle-worked/",
+    "type": "news",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "meatpacking-wage-fixing-cartel",
+  "name": "Meatpacking Industry Wage-Fixing Cartel",
+  "aliases": [
+   "Tyson/JBS/Cargill wage collusion",
+   "Meatpacker wage-fixing conspiracy"
+  ],
+  "genre": "finance",
+  "year": 2022,
+  "truth": 84,
+  "impact": 60,
+  "notoriety": 20,
+  "summary": "Alleges that major beef and pork processors — Tyson Foods, JBS/Pilgrim's Pride, Cargill, National Beef, and others — illegally shared confidential wage data and entered no-poach agreements to suppress pay for hundreds of thousands of plant workers, and separately coordinated to fix retail prices for beef products, using benchmarking data services to launder the coordination. Unlike most entries in this batch, this is not merely an unproven theory: a related DOJ criminal poultry price-fixing case produced a guilty plea and a $108 million fine, and a $200.2 million class-action wage-fixing settlement with Tyson, JBS, Cargill, National Beef and others received preliminary court approval in January 2025.",
+  "evidence_for": [
+   {
+    "text": "A $200.2 million class-action settlement (JBS $55M, Tyson $72.5M, Cargill $29.75M, National Beef $14.2M, and others) resolved wage-suppression claims and received preliminary court approval on January 15, 2025.",
+    "source": "https://www.classaction.org/news/200.2m-settlement-with-beef-pork-processing-plants-ends-class-action-lawsuit-over-alleged-wage-suppression"
+   },
+   {
+    "text": "In the related criminal poultry price-fixing case, Pilgrim's Pride (a JBS unit) pleaded guilty and was sentenced to pay $108 million in fines.",
+    "source": "https://thehill.com/business/personal-finance/5841854-doj-investigates-meatpacking-companies"
+   },
+   {
+    "text": "The wage-fixing lawsuits alleged processors shared confidential wage data and made no-poach agreements to suppress plant-worker pay.",
+    "source": "https://www.meatpoultry.com/articles/29885-tyson-foods-jbs-settle-wage-fixing-lawsuit"
+   }
+  ],
+  "evidence_against": [
+   {
+    "text": "Defendants in the civil wage-fixing class action settled without admitting legal liability; only the separate criminal poultry price-fixing case produced an admitted guilty plea.",
+    "source": "https://www.classaction.org/news/200.2m-settlement-with-beef-pork-processing-plants-ends-class-action-lawsuit-over-alleged-wage-suppression"
+   }
+  ],
+  "related": [
+   "greedflation-price-fixing",
+   "realpage-yieldstar-rent-fixing",
+   "immigration-wage-suppression-conspiracy"
+  ],
+  "precedents": [
+   "libor-scandal",
+   "forex-rigging-scandal"
+  ],
+  "sources": [
+   {
+    "title": "$200.2M Settlement With Beef, Pork Processing Plants Ends Class Action Lawsuit Over Alleged Wage Suppression",
+    "url": "https://www.classaction.org/news/200.2m-settlement-with-beef-pork-processing-plants-ends-class-action-lawsuit-over-alleged-wage-suppression",
+    "type": "news",
+    "stance": "documents"
+   },
+   {
+    "title": "Tyson Foods, JBS settle wage-fixing lawsuit",
+    "url": "https://www.meatpoultry.com/articles/29885-tyson-foods-jbs-settle-wage-fixing-lawsuit",
+    "type": "news",
+    "stance": "documents"
+   },
+   {
+    "title": "DOJ investigating meatpacking companies after Trump price manipulation allegations",
+    "url": "https://thehill.com/business/personal-finance/5841854-doj-investigates-meatpacking-companies",
+    "type": "news",
+    "stance": "documents"
+   },
+   {
+    "title": "Food Price Fixing Is Still Rampant. DOJ's Agri Stats Lawsuit Could Change That.",
+    "url": "https://farmaction.us/2023/10/12/food-price-fixing-is-still-rampant-dojs-agri-stats-lawsuit-could-change-that/",
+    "type": "advocacy",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "immigration-wage-suppression-conspiracy",
+  "name": "Mass Immigration as Deliberate Wage-Suppression Policy",
+  "aliases": [
+   "Immigration to crush wages",
+   "Business lobby imports cheap labor to hold down pay"
+  ],
+  "genre": "government",
+  "year": 2022,
+  "truth": 24,
+  "impact": 55,
+  "notoriety": 40,
+  "summary": "Claims that record levels of migration under the Biden administration (2021-2024) were not simply a border-policy failure but a deliberate, coordinated strategy by government officials and business lobbies to expand the labor supply and suppress wage growth and inflation at the direct expense of native-born and lower-income workers. Economists are genuinely divided on immigration's wage effects — Nobel laureate David Card's research found minimal wage impact on native workers overall, while other economists find measurable effects on the lowest-skilled segment — and since 2022-2023 some economists and advocates have explicitly argued for more immigration as a tool to cool wage-driven inflation, but open advocacy for a policy differs from evidence of secret coordination to suppress wages as its true, hidden purpose.",
+  "evidence_for": [
+   {
+    "text": "Some economists and advocacy groups who previously argued immigration has little wage impact began explicitly recommending increased immigration in 2022-2023 specifically to ease wage-driven inflation.",
+    "source": "https://americancompass.org/open-borders-economists-have-gone-awfully-quiet-about-wages/"
+   },
+   {
+    "text": "Business groups have lobbied publicly and openly for expanded work-visa and immigration levels citing labor shortages, a documented, non-secret form of influence.",
+    "source": "https://cis.org/Oped/Evidence-shows-immigration-reduces-wages-significantly"
+   }
+  ],
+  "evidence_against": [
+   {
+    "text": "Nobel Prize-winning research by David Card found immigration does not significantly reduce wages for native-born workers overall.",
+    "source": "https://theconversation.com/nobel-winner-david-card-shows-immigrants-dont-reduce-the-wages-of-native-born-workers-169768"
+   },
+   {
+    "text": "Advocacy for immigration as anti-inflation policy has been made openly in think-tank reports and public commentary, not through hidden coordination.",
+    "source": "https://americancompass.org/open-borders-economists-have-gone-awfully-quiet-about-wages/"
+   }
+  ],
+  "related": [
+   "meatpacking-wage-fixing-cartel",
+   "cpi-hedonic-understatement"
+  ],
+  "precedents": [],
+  "sources": [
+   {
+    "title": "Open Borders Economists Have Gone Awfully Quiet About Wages",
+    "url": "https://americancompass.org/open-borders-economists-have-gone-awfully-quiet-about-wages/",
+    "type": "advocacy",
+    "stance": "supports"
+   },
+   {
+    "title": "Evidence shows immigration reduces wages significantly",
+    "url": "https://cis.org/Oped/Evidence-shows-immigration-reduces-wages-significantly",
+    "type": "advocacy",
+    "stance": "supports"
+   },
+   {
+    "title": "Nobel winner David Card shows immigrants don't reduce the wages of native-born workers",
+    "url": "https://theconversation.com/nobel-winner-david-card-shows-immigrants-dont-reduce-the-wages-of-native-born-workers-169768",
+    "type": "academic",
+    "stance": "debunks"
+   },
+   {
+    "title": "Does Immigration Reduce Wages?",
+    "url": "https://www.cato.org/cato-journal/fall-2017/does-immigration-reduce-wages",
+    "type": "academic",
+    "stance": "contested"
+   }
+  ]
+ }
+]

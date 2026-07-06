@@ -1,0 +1,488 @@
+[
+  {
+    "id": "oct-7-standdown-claim",
+    "name": "October 7 Deliberate Stand-Down Claim",
+    "aliases": ["Netanyahu Let It Happen", "IDF Stand-Down Order"],
+    "genre": "government",
+    "year": 2023,
+    "truth": 12,
+    "impact": 75,
+    "notoriety": 55,
+    "summary": "The claim holds that Israeli political and military leadership had precise foreknowledge of Hamas's October 7 attack plan and deliberately ordered troops to stand down or otherwise allowed the assault to proceed, for domestic political reasons. This goes beyond the documented intelligence failure: Israeli intelligence had obtained a detailed attack blueprint (code-named 'Jericho Wall') over a year in advance and received specific tactical warnings from a Unit 8200 analyst in the days before, but official investigations attribute the failure to threat misassessment and organizational breakdown, not a deliberate order to let the attack happen.",
+    "evidence_for": [
+      {"text": "The 'Jericho Wall' document, obtained by Israeli intelligence more than a year before the attack, detailed the invasion plan Hamas ultimately executed almost exactly.", "source": "https://www.pbs.org/newshour/show/israeli-officials-repeatedly-dismissed-warning-signs-before-hamas-attack-report-claims"},
+      {"text": "A Unit 8200 NCO sent specific warnings in July 2023 and again days before October 7 that Hamas exercises matched the Jericho Wall plan.", "source": "https://ctc.westpoint.edu/the-october-7-attack-an-assessment-of-the-intelligence-failings/"},
+      "Polling after the attack found many Israelis, especially government critics, believed officials knew in advance and failed to act."
+    ],
+    "evidence_against": [
+      {"text": "Israel's Shin Bet internal investigation concluded the core failure was that officials did not consider Hamas's stated battle plan realistic, not that an order was given to permit the attack.", "source": "https://www.npr.org/2025/03/05/nx-s1-5318591/israel-shin-bet-security-failure-october-7-attack"},
+      {"text": "No leaked or declassified order instructing forces to stand down has surfaced despite extensive Israeli and international press investigation.", "source": "https://en.wikipedia.org/wiki/Denial_of_the_October_7_attacks"},
+      {"text": "The claim's most prominent originator, influencer Charlie Kirk, offered no direct evidence beyond speculation about Netanyahu's domestic political troubles.", "source": "https://www.forbes.com/sites/mattnovak/2023/10/16/conspiracy-theorists-go-viral-with-unsubstantiated-claim-about-israel-hamas-conflict/"}
+    ],
+    "related": ["qatari-cash-hamas-divide-strategy", "hamas-israeli-creation-asset-theory", "gulf-of-tonkin", "operation-northwoods"],
+    "precedents": ["gulf-of-tonkin", "operation-northwoods"],
+    "steelman": "Israeli intelligence demonstrably possessed a near-exact attack blueprint and repeated specific tactical warnings that were dismissed rather than acted on, so the claim that Israel was simply 'caught by total surprise' understates real, documented failures of judgment at senior levels — even though no evidence supports an actual order to permit the attack.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Denial_of_the_October_7_attacks",
+    "sources": [
+      {"title": "Denial of the October 7 attacks", "url": "https://en.wikipedia.org/wiki/Denial_of_the_October_7_attacks", "type": "wikipedia", "stance": "documents"},
+      {"title": "Conspiracy Theorists Go Viral With Unsubstantiated Claim About Israel-Hamas Conflict", "url": "https://www.forbes.com/sites/mattnovak/2023/10/16/conspiracy-theorists-go-viral-with-unsubstantiated-claim-about-israel-hamas-conflict/", "type": "news", "stance": "debunks"},
+      {"title": "What went wrong? Israel's spy agency lists failures in preventing Oct. 7 attack", "url": "https://www.npr.org/2025/03/05/nx-s1-5318591/israel-shin-bet-security-failure-october-7-attack", "type": "news", "stance": "documents"},
+      {"title": "The October 7 Attack: An Assessment of the Intelligence Failings", "url": "https://ctc.westpoint.edu/the-october-7-attack-an-assessment-of-the-intelligence-failings/", "type": "academic", "stance": "documents"}
+    ],
+    "research_note": "The documented intelligence failure (Jericho Wall, ignored warnings) is real and well-sourced; the leap to a deliberate 'stand-down order' is the fringe part being scored."
+  },
+  {
+    "id": "qatari-cash-hamas-divide-strategy",
+    "name": "Qatari Cash to Hamas as Netanyahu's Divide-and-Rule Strategy",
+    "aliases": ["Netanyahu Funded Hamas", "Divide-and-Conquer Gaza Policy"],
+    "genre": "government",
+    "year": 2018,
+    "truth": 68,
+    "impact": 85,
+    "notoriety": 60,
+    "summary": "The claim is that Netanyahu's governments deliberately authorized and encouraged Qatari cash transfers (roughly $15 million a month, delivered in suitcases through Israeli-controlled crossings starting in 2018) to keep Hamas afloat as a rival power center to the Palestinian Authority, specifically to prevent the emergence of a unified Palestinian negotiating partner and a two-state outcome. This is a substantially documented policy, though the claim that Netanyahu personally engineered it as a covert strategic masterplan (rather than a contested, semi-public policy debated within his own government) goes further than the record supports.",
+    "evidence_for": [
+      {"text": "Qatar sent an estimated $1.8 billion to Gaza since 2012, including monthly cash-filled-suitcase transfers coordinated with and permitted through Israeli territory from 2018 onward.", "source": "https://www.cnn.com/2023/12/11/middleeast/qatar-hamas-funds-israel-backing-intl"},
+      {"text": "Former senior Israeli defense official Amos Gilad said the policy of tolerating Qatari transfers was Netanyahu-backed, and was believed within Israeli leadership to weaken Palestinian sovereignty and prospects for statehood.", "source": "https://www.cnn.com/2023/12/11/middleeast/qatar-hamas-funds-israel-backing-intl"},
+      {"text": "Reporting indicates Israel asked Qatar to increase transferred funds to Hamas about a month before the October 7 attack.", "source": "https://www.haaretz.com/israel-news/2026-01-02/ty-article/report-israel-asked-qatar-to-increase-funds-for-hamas-in-gaza-a-month-before-oct-7/0000019b-7db7-dd73-abff-7fff6f510000"}
+    ],
+    "evidence_against": [
+      {"text": "Netanyahu and his office deny seeking to boost Hamas and describe the funding as intended for humanitarian purposes under Israeli security monitoring.", "source": "https://factually.co/fact-checks/politics/netanyahu-funding-hamas-through-qatar-claim-48e010"},
+      {"text": "No document has surfaced showing a written Israeli strategic directive to 'build up Hamas'; the policy was contested within Israel's own intelligence community, not a unanimous covert plan.", "source": "https://factually.co/fact-checks/politics/netanyahu-funding-hamas-through-qatar-claim-48e010"}
+    ],
+    "related": ["hamas-israeli-creation-asset-theory", "oct-7-standdown-claim", "netanyahu-war-prolongation-political-survival"],
+    "precedents": [],
+    "sources": [
+      {"title": "Qatar sent millions to Gaza for years – with Israel's backing", "url": "https://www.cnn.com/2023/12/11/middleeast/qatar-hamas-funds-israel-backing-intl", "type": "news", "stance": "documents"},
+      {"title": "Netanyahu: 'We allowed Qatar to fund Hamas to keep the Palestinians divided'", "url": "https://en.ara.cat/international/netanyahu-we-allowed-qatar-to-fund-hamas-to-keep-the-palestinians-divided_1_5387824.html", "type": "news", "stance": "documents"},
+      {"title": "Did Netanyahu Directly Fund Hamas Through Qatar?", "url": "https://factually.co/fact-checks/politics/netanyahu-funding-hamas-through-qatar-claim-48e010", "type": "news", "stance": "contested"},
+      {"title": "For years, Netanyahu propped up Hamas. Now it's blown up in our faces", "url": "https://www.timesofisrael.com/for-years-netanyahu-propped-up-hamas-now-its-blown-up-in-our-faces/", "type": "news", "stance": "supports"}
+    ]
+  },
+  {
+    "id": "october-7-crisis-actors-denial",
+    "name": "October 7 Staged Massacre / Crisis Actors Denial",
+    "aliases": ["October 7 Was Fake", "Israel Staged October 7"],
+    "genre": "media-surveillance",
+    "year": 2023,
+    "truth": 3,
+    "impact": 40,
+    "notoriety": 55,
+    "summary": "The claim asserts that graphic footage and photos from the October 7 attack were staged or faked using crisis actors, fake blood, and film crews to manufacture international sympathy for Israel and justify the subsequent war. Extensive forensic and journalistic verification, including cross-referenced hostage videos, morgue and hospital records, and on-the-ground reporting, has confirmed the mass-casualty event; the specific viral 'proof' clips cited by proponents have been traced to unrelated footage.",
+    "evidence_for": [
+      "A viral TikTok video showing a film crew and an actor lying on the ground was circulated as proof of staged victims.",
+      "Some social media users argued that blood shown in graphic photos looked artificial."
+    ],
+    "evidence_against": [
+      {"text": "Snopes identified the viral 'crisis actor' TikTok video as behind-the-scenes footage from an unrelated April 2022 short film, filmed a year before the attack.", "source": "https://www.washingtonpost.com/technology/2024/01/21/hamas-attack-october-7-conspiracy-israel/"},
+      {"text": "Israeli watchdog CyberWell found roughly 135 posts denying the attack had been viewed by more than 15 million users, part of a documented denial campaign rather than evidence of an actual hoax.", "source": "https://www.washingtonpost.com/technology/2024/01/21/hamas-attack-october-7-conspiracy-israel/"},
+      {"text": "Forensic analysis by outside investigators and international media corroborated large-scale civilian killings using verified footage, morgue records, and witness testimony.", "source": "https://www.aljazeera.com/news/2024/3/21/october-7-forensic-analysis-shows-hamas-abuses-many-false-israeli-claims"}
+    ],
+    "related": ["pallywood-staged-suffering-claim", "oct-7-standdown-claim"],
+    "precedents": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Denial_of_the_October_7_attacks",
+    "sources": [
+      {"title": "Denial and Distortion of the Hamas-led October 7 Attack: An Overview of False Narratives", "url": "https://www.adl.org/resources/article/denial-and-distortion-hamas-led-october-7-attack-overview-false-narratives", "type": "advocacy", "stance": "debunks"},
+      {"title": "Denial of the Oct. 7 Hamas attack on Israel is spreading", "url": "https://www.washingtonpost.com/technology/2024/01/21/hamas-attack-october-7-conspiracy-israel/", "type": "news", "stance": "debunks"},
+      {"title": "Denial of the October 7 attacks", "url": "https://en.wikipedia.org/wiki/Denial_of_the_October_7_attacks", "type": "wikipedia", "stance": "documents"},
+      {"title": "Mis- and disinformation and conspiracy theories about the October 7 Hamas attack", "url": "https://www.isdglobal.org/digital-dispatch/mis-and-disinformation-and-conspiracy-theories-about-the-october-7-hamas-attack-on-israel/", "type": "academic", "stance": "debunks"}
+    ]
+  },
+  {
+    "id": "gaza-marine-gas-war-motive",
+    "name": "Gaza Marine Gas Field as Hidden War Motive",
+    "aliases": ["Israel Wants Gaza's Gas"],
+    "genre": "government",
+    "year": 2023,
+    "truth": 15,
+    "impact": 55,
+    "notoriety": 45,
+    "summary": "The claim holds that Israel's 2023-2025 Gaza campaign is substantially motivated by a desire to seize the offshore Gaza Marine gas field, estimated at 1.1 trillion cubic feet, rather than by the stated security rationale of destroying Hamas after October 7. Analysts note Gaza Marine's reserves are tiny compared to Israel's own Leviathan and Tamar fields, making the economic motive marginal, though Israel had in fact long blocked the field's development out of concern that revenue would benefit Hamas.",
+    "evidence_for": [
+      {"text": "British Gas estimated Gaza Marine's reserves at 1.1 trillion cubic feet as early as 1999.", "source": "https://besacenter.org/the-gaza-oil-myth/"},
+      {"text": "Israel blocked Gaza Marine's development for over two decades, reversing course only in June 2023 to give preliminary consent to a Palestinian Authority-Egyptian consortium deal.", "source": "https://mesp.me/2024/02/13/between-tales-and-facts-the-long-saga-of-gaza-marine/"}
+    ],
+    "evidence_against": [
+      {"text": "Gaza Marine's roughly 32 billion cubic meters is small next to Israel's Leviathan (623 bcm) and Tamar (200 bcm) fields, so seizing it would not materially affect Israel's energy independence or export plans.", "source": "https://besacenter.org/the-gaza-oil-myth/"},
+      {"text": "The war's proximate and stated cause was the October 7 Hamas attack, and Israel's declared war aims center on security and hostage recovery rather than energy assets.", "source": "https://today.lorientlejour.com/article/1357621/gas-at-stake-in-gaza-why-this-theory-doesnt-hold-true.html"}
+    ],
+    "related": ["ben-gurion-canal-conspiracy", "netanyahu-war-prolongation-political-survival"],
+    "precedents": [],
+    "sources": [
+      {"title": "The Gaza Oil Myth", "url": "https://besacenter.org/the-gaza-oil-myth/", "type": "academic", "stance": "debunks"},
+      {"title": "The war on Gaza is also an Israeli drive to seize Palestinian gas reserves", "url": "https://www.middleeasteye.net/opinion/war-gaza-israel-brutal-drive-seize-palestinian-gas-reserves", "type": "advocacy", "stance": "supports"},
+      {"title": "Between tales and facts: The long saga of Gaza Marine", "url": "https://mesp.me/2024/02/13/between-tales-and-facts-the-long-saga-of-gaza-marine/", "type": "investigative", "stance": "contested"},
+      {"title": "Gas at stake in Gaza? Why this theory doesn't hold true", "url": "https://today.lorientlejour.com/article/1357621/gas-at-stake-in-gaza-why-this-theory-doesnt-hold-true.html", "type": "news", "stance": "debunks"}
+    ]
+  },
+  {
+    "id": "netanyahu-war-prolongation-political-survival",
+    "name": "Netanyahu Prolonged the War for Political and Legal Survival",
+    "aliases": ["War for Political Survival", "Netanyahu's Endless War"],
+    "genre": "government",
+    "year": 2024,
+    "truth": 60,
+    "impact": 90,
+    "notoriety": 65,
+    "summary": "The claim is that Netanyahu deliberately extended the Gaza war and blocked ceasefire and normalization deals to delay his corruption trial, avoid early elections he was likely to lose, and prevent the collapse of his far-right coalition. A six-month, 110-interview New York Times investigation found specific decision points supporting this account, including rejecting a unity-government offer and withdrawing support for a hostage-release truce after a coalition partner's threat; Netanyahu's office calls the reporting defamatory and politically motivated.",
+    "evidence_for": [
+      {"text": "A New York Times investigation based on over 110 interviews concluded Netanyahu shelved a ceasefire plan and obstructed a Saudi normalization deal to avoid risking his right-wing coalition.", "source": "https://thejewishindependent.com.au/survival-over-state-nyt-investigation-alleges-netanyahu-prolonged-gaza-war-for-political-gain"},
+      {"text": "The Times reported Netanyahu withdrew support for a six-week truce that would have freed 30 hostages after Finance Minister Smotrich threatened to collapse the government.", "source": "https://www.commondreams.org/news/netanyahu-gaza-war"},
+      {"text": "Netanyahu has repeatedly sought to delay his own corruption-trial testimony citing wartime demands.", "source": "https://www.forbes.com/sites/alisondurkee/2026/04/10/netanyahu-criminal-trial-will-resume-after-iran-ceasefire-but-he-wants-to-delay-testimony/"}
+    ],
+    "evidence_against": [
+      {"text": "Netanyahu's office called the New York Times report 'long discredited' and defamatory toward Israel, its soldiers, and its prime minister.", "source": "https://www.timesofisrael.com/ny-times-rejects-netanyahus-denial-of-report-he-prolonged-gaza-war-to-stay-in-power/"},
+      {"text": "Israeli military leadership has independently cited unmet security objectives (destroying Hamas's military capacity, hostage recovery) as the basis for continued operations, separate from any political calculation.", "source": "https://www.cbsnews.com/news/netanyahu-corruption-trial-israel-pm-on-stand-amid-gaza-war-syria-chaos/"}
+    ],
+    "related": ["qatari-cash-hamas-divide-strategy", "ghf-aid-sites-kill-trap"],
+    "precedents": [],
+    "steelman": "A detailed, multiply-sourced investigative reconstruction of specific wartime cabinet decisions — not just motive-speculation — shows a repeated pattern where ceasefire momentum coincided with coalition-survival threats and Netanyahu chose the option that kept him in power, which is more than pattern-matching even though his office disputes the characterization.",
+    "sources": [
+      {"title": "Survival over state: NYT probe alleges Netanyahu prolonged Gaza war for political gain", "url": "https://thejewishindependent.com.au/survival-over-state-nyt-investigation-alleges-netanyahu-prolonged-gaza-war-for-political-gain", "type": "news", "stance": "supports"},
+      {"title": "NY Times rejects Netanyahu's denial of report he prolonged Gaza war to stay in power", "url": "https://www.timesofisrael.com/ny-times-rejects-netanyahus-denial-of-report-he-prolonged-gaza-war-to-stay-in-power/", "type": "news", "stance": "contested"},
+      {"title": "Netanyahu Criminal Trial Will Resume After Iran Ceasefire—But He Wants To Delay Testimony", "url": "https://www.forbes.com/sites/alisondurkee/2026/04/10/netanyahu-criminal-trial-will-resume-after-iran-ceasefire-but-he-wants-to-delay-testimony/", "type": "news", "stance": "documents"},
+      {"title": "A Calculus of Conflict: Netanyahu's Political Survival Through Extended War", "url": "https://arabcenterdc.org/resource/a-calculus-of-conflict-netanyahus-political-survival-through-extended-war/", "type": "academic", "stance": "supports"}
+    ]
+  },
+  {
+    "id": "ben-gurion-canal-conspiracy",
+    "name": "Ben-Gurion Canal as Hidden Gaza War Motive",
+    "aliases": ["Ben Gurion Canal Theory"],
+    "genre": "government",
+    "year": 2023,
+    "truth": 8,
+    "impact": 50,
+    "notoriety": 35,
+    "summary": "The claim holds that Gaza's depopulation and destruction is being carried out to clear the route for a revived 'Ben-Gurion Canal,' a sea-to-sea shipping route that would rival the Suez Canal, undercut Egypt, and give Israel control over a major global trade artery. The original 1960s canal concept, declassified decades later, ran through Israel's Negev far south of Gaza; no current Israeli government plan proposes routing any canal through the Gaza Strip itself.",
+    "evidence_for": [
+      {"text": "A 1963 US feasibility study for a Negev-route sea-to-sea canal existed and remained classified for roughly 30 years.", "source": "https://www.newarab.com/news/what-israels-ben-gurion-canal-plan-and-why-gaza-matters"},
+      "A canal rivaling Suez would carry major strategic and economic value, giving proponents a plausible-sounding motive to attach to the war."
+    ],
+    "evidence_against": [
+      {"text": "The original 1960s proposal routed the canal through the Negev via Eilat and the Jordanian border, not through the Gaza Strip, which the modern viral claim asserts.", "source": "https://fathomjournal.org/the-ben-gurion-canal-a-new-crazy-anti-israeli-conspiracy-theory-is-doing-great-business-on-the-internet-while-the-social-media-platforms-do-nothing/"},
+      {"text": "No Israeli government document, budget line, or infrastructure plan from the current war period proposes constructing a canal through Gaza.", "source": "https://fathomjournal.org/the-ben-gurion-canal-a-new-crazy-anti-israeli-conspiracy-theory-is-doing-great-business-on-the-internet-while-the-social-media-platforms-do-nothing/"}
+    ],
+    "related": ["gaza-marine-gas-war-motive"],
+    "precedents": [],
+    "sources": [
+      {"title": "What is Israel's Ben Gurion canal plan and why Gaza matters", "url": "https://www.newarab.com/news/what-israels-ben-gurion-canal-plan-and-why-gaza-matters", "type": "news", "stance": "contested"},
+      {"title": "The 'Ben Gurion Canal': A new crazy anti-Israeli conspiracy theory", "url": "https://fathomjournal.org/the-ben-gurion-canal-a-new-crazy-anti-israeli-conspiracy-theory-is-doing-great-business-on-the-internet-while-the-social-media-platforms-do-nothing/", "type": "advocacy", "stance": "debunks"},
+      {"title": "How is the Proposed Ben Gurion Canal Tied to Israel's Gaza Invasion?", "url": "https://www.counterpunch.org/2024/02/16/how-is-the-proposed-ben-gurion-canal-tied-to-israels-gaza-invasion/", "type": "advocacy", "stance": "supports"},
+      {"title": "Gaza's genocide, the Ben-Gurion canal, and the politics of reconstruction", "url": "https://www.middleeastmonitor.com/20250917-gazas-genocide-the-ben-gurion-canal-and-the-politics-of-reconstruction-erasure-by-design/", "type": "advocacy", "stance": "supports"}
+    ],
+    "research_note": "Sourcing on the pro-theory side is dominated by advocacy outlets and a viral TikTok origin; the main rebuttal piece is itself an opinion/advocacy publication, so treat both directions as contested-quality sourcing."
+  },
+  {
+    "id": "ghf-aid-sites-kill-trap",
+    "name": "Gaza Humanitarian Foundation Sites as Designed Kill/Displacement Traps",
+    "aliases": ["GHF Death Traps", "Aid Sites as Ethnic Cleansing Tool"],
+    "genre": "government",
+    "year": 2025,
+    "truth": 50,
+    "impact": 88,
+    "notoriety": 55,
+    "summary": "The claim holds that the US- and Israeli-backed Gaza Humanitarian Foundation's aid distribution sites, where Israeli forces and GHF-hired contractors killed over 2,600 Palestinians seeking food between May and October 2025, were deliberately designed to kill and forcibly displace civilians under cover of humanitarian aid, rather than being a well-intentioned system undone by chaos and rules-of-engagement failures. UN officials and Doctors Without Borders have publicly used language like 'orchestrated killing' and a 'fig leaf for further violence and displacement,' though US and Israeli officials attribute the deaths to crowd-control failures rather than an intentional kill design.",
+    "evidence_for": [
+      {"text": "Doctors Without Borders described the pattern of mass casualties at GHF sites as 'orchestrated killing' rather than incidental accidents, based on clinic staff accounts.", "source": "https://www.doctorswithoutborders.org/latest/us-backed-aid-distribution-points-gaza-are-sites-orchestrated-killing"},
+      {"text": "UN aid chief Tom Fletcher called the GHF system a 'fig leaf for further violence and displacement' of Palestinians.", "source": "https://www.cbsnews.com/news/israel-gaza-war-unrwa-calls-us-backed-ghf-a-death-trap/"},
+      {"text": "More than 2,600 Palestinian civilians were killed and thousands wounded seeking aid at or near GHF sites between May 27 and October 9, 2025.", "source": "https://en.wikipedia.org/wiki/2025_Gaza_Strip_aid_distribution_killings"}
+    ],
+    "evidence_against": [
+      {"text": "US and Israeli officials attribute the repeated shootings to crowd-control and rules-of-engagement failures at chaotic, poorly designed choke points, not an intentional plan to kill civilians.", "source": "https://en.wikipedia.org/wiki/Gaza_Humanitarian_Foundation"},
+      {"text": "GHF disputes the 'designed to kill' characterization and states it delivered large volumes of aid despite the security incidents.", "source": "https://en.wikipedia.org/wiki/Gaza_Humanitarian_Foundation"}
+    ],
+    "related": ["netanyahu-war-prolongation-political-survival", "lavender-ai-targeting-coverup", "israel-ethiopian-birth-control"],
+    "precedents": ["israel-ethiopian-birth-control"],
+    "steelman": "The scale and repetition of mass-casualty incidents at a small number of predictable choke points, combined with reported internal warnings about displacement risk before launch, make 'foreseeable and tolerated' a more defensible reading than pure accident, even short of proving top-down intent to kill.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gaza_Humanitarian_Foundation",
+    "sources": [
+      {"title": "Gaza Humanitarian Foundation", "url": "https://en.wikipedia.org/wiki/Gaza_Humanitarian_Foundation", "type": "wikipedia", "stance": "documents"},
+      {"title": "US-backed aid distribution points in Gaza are sites of orchestrated killing", "url": "https://www.doctorswithoutborders.org/latest/us-backed-aid-distribution-points-gaza-are-sites-orchestrated-killing", "type": "advocacy", "stance": "supports"},
+      {"title": "U.N. agency slams U.S.-backed Gaza aid effort as 'a death trap'", "url": "https://www.cbsnews.com/news/israel-gaza-war-unrwa-calls-us-backed-ghf-a-death-trap/", "type": "news", "stance": "supports"},
+      {"title": "2025 Gaza Strip aid distribution killings", "url": "https://en.wikipedia.org/wiki/2025_Gaza_Strip_aid_distribution_killings", "type": "wikipedia", "stance": "documents"}
+    ]
+  },
+  {
+    "id": "lavender-ai-targeting-coverup",
+    "name": "Lavender AI Kill-List System and Its Cover-Up",
+    "aliases": ["Lavender Kill List", "IDF AI Targeting Scandal"],
+    "genre": "espionage",
+    "year": 2024,
+    "truth": 80,
+    "impact": 92,
+    "notoriety": 60,
+    "summary": "The claim, based on interviews with six named Israeli military intelligence officers, is that the IDF built and relied on an AI system called 'Lavender' to mass-generate bombing targets (an estimated 37,000 people in the war's early weeks), that officers gave the system's output near-automatic approval with human review sometimes lasting only about 20 seconds per target, and that the military accepted a roughly 10% known error rate — details which Israeli officials have downplayed publicly. The core reporting comes from investigative journalists at +972 Magazine and Local Call, and has been corroborated in academic and legal analysis, though specific casualty-ratio figures rest on anonymous sources.",
+    "evidence_for": [
+      {"text": "Six Israeli intelligence officers described Lavender flagging as many as 37,000 Palestinians as suspected militants for potential bombing during the war's early stages.", "source": "https://www.972mag.com/lavender-ai-israeli-army-gaza/"},
+      {"text": "Officers said human personnel often served as a 'rubber stamp,' spending around 20 seconds per target before authorizing a strike.", "source": "https://www.972mag.com/lavender-ai-israeli-army-gaza/"},
+      {"text": "UN Secretary-General Antonio Guterres said he was 'deeply troubled' by reports of Israel's AI-assisted targeting practices.", "source": "https://www.washingtonpost.com/world/2024/04/05/israel-idf-lavender-ai-militarytarget/"}
+    ],
+    "evidence_against": [
+      {"text": "The IDF has publicly defended aspects of its AI-assisted targeting process as compliant with proportionality review and disputed the 'rubber stamp' characterization of human oversight.", "source": "https://en.wikipedia.org/wiki/AI-assisted_targeting_in_the_Gaza_Strip"},
+      {"text": "Specific casualty-ratio and error-rate figures rely on unnamed intelligence sources rather than independently verified official documents.", "source": "https://lieber.westpoint.edu/gospel-lavender-law-armed-conflict/"}
+    ],
+    "related": ["ghf-aid-sites-kill-trap", "netanyahu-war-prolongation-political-survival"],
+    "precedents": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/AI-assisted_targeting_in_the_Gaza_Strip",
+    "sources": [
+      {"title": "'Lavender': The AI machine directing Israel's bombing spree in Gaza", "url": "https://www.972mag.com/lavender-ai-israeli-army-gaza/", "type": "investigative", "stance": "supports"},
+      {"title": "AI-assisted targeting in the Gaza Strip", "url": "https://en.wikipedia.org/wiki/AI-assisted_targeting_in_the_Gaza_Strip", "type": "wikipedia", "stance": "documents"},
+      {"title": "Lavender: Israel offers glimpse into terrifying world of military AI", "url": "https://www.washingtonpost.com/world/2024/04/05/israel-idf-lavender-ai-militarytarget/", "type": "news", "stance": "documents"},
+      {"title": "The Gospel, Lavender, and the Law of Armed Conflict", "url": "https://lieber.westpoint.edu/gospel-lavender-law-armed-conflict/", "type": "academic", "stance": "contested"}
+    ],
+    "research_note": "This is unusually well-sourced investigative journalism corroborated by multiple named/unnamed military insiders and legal scholarship, closer to a substantiated scandal than a fringe theory; the 'cover-up' framing applies to Israel's public downplaying of the reported details, not to the existence of the program."
+  },
+  {
+    "id": "stoic-hasbara-influence-operation",
+    "name": "STOIC Covert Israeli Influence Campaign on US Lawmakers",
+    "aliases": ["Israeli Bot Farm Congress Campaign"],
+    "genre": "media-surveillance",
+    "year": 2023,
+    "truth": 88,
+    "impact": 65,
+    "notoriety": 45,
+    "summary": "This is a documented covert influence operation: Israel's Ministry of Diaspora Affairs paid the Tel Aviv political consulting firm STOIC roughly $2 million to run a network of fake social-media personas (posing as US students, Black Americans, and 'concerned citizens') using AI-generated content to lobby members of Congress, especially Democrats, to continue supporting Israel after October 7. The operation was uncovered by watchdog group FakeReporter and reported by the New York Times, and OpenAI and Meta both confirmed removing accounts and content tied to it.",
+    "evidence_for": [
+      {"text": "FakeReporter identified five websites tied to STOIC, an Israeli firm paid about $2 million by Israel's Ministry of Diaspora Affairs to run the campaign.", "source": "https://www.npr.org/2024/07/09/nx-s1-4994027/israel-us-online-influence-campaign-gaza"},
+      {"text": "OpenAI confirmed STOIC used its tools to generate articles and comments distributed by the fake accounts.", "source": "https://cyberscoop.com/israel-influence-operations-stoic/"},
+      {"text": "Meta suspended or removed 510 Facebook accounts and 32 Instagram accounts linked to the campaign.", "source": "https://cyberscoop.com/israel-influence-operations-stoic/"}
+    ],
+    "evidence_against": [
+      {"text": "Researchers found the campaign's actual persuasive effect on Congress members' voting behavior was likely minimal, with most fake accounts having very small followings.", "source": "https://www.opb.org/article/2024/06/06/a-covert-israeli-online-influence-campaign-tried-to-sway-american-lawmakers/"},
+      "The operation is openly documented and its funding acknowledged after exposure, so it functions more as a confirmed scandal than a hidden theory in dispute."
+    ],
+    "related": ["tiktok-ban-israel-motive", "aipac-covert-congress-control", "internet-research-agency", "cambridge-analytica"],
+    "precedents": ["internet-research-agency", "cambridge-analytica", "operation-mockingbird"],
+    "sources": [
+      {"title": "Israeli influence campaign covertly targets U.S. lawmakers", "url": "https://www.npr.org/2024/07/09/nx-s1-4994027/israel-us-online-influence-campaign-gaza", "type": "news", "stance": "documents"},
+      {"title": "A covert Israeli online influence campaign tried to sway American lawmakers", "url": "https://www.opb.org/article/2024/06/06/a-covert-israeli-online-influence-campaign-tried-to-sway-american-lawmakers/", "type": "news", "stance": "documents"},
+      {"title": "Israeli influence operation highlights global disinformation industry", "url": "https://cyberscoop.com/israel-influence-operations-stoic/", "type": "investigative", "stance": "documents"},
+      {"title": "Israel's secret influencer campaign exposed", "url": "https://www.jpost.com/israel-news/article-869219", "type": "news", "stance": "documents"}
+    ]
+  },
+  {
+    "id": "tiktok-ban-israel-motive",
+    "name": "TikTok Ban Driven by Israel-Related Content Concerns",
+    "aliases": ["AIPAC Banned TikTok"],
+    "genre": "media-surveillance",
+    "year": 2024,
+    "truth": 35,
+    "impact": 60,
+    "notoriety": 60,
+    "summary": "The claim is that the 2024 US law forcing TikTok's divestiture or ban was substantially driven by pro-Israel actors, including AIPAC, seeking to suppress pro-Palestinian content, rather than by the stated national-security concerns about Chinese ownership. A leaked Israeli Foreign Ministry memo blaming TikTok's algorithm for turning youth against Israel lends some support to an Israel-related motive among advocates, but investigators found no evidence AIPAC drafted or specifically lobbied for the bill, and the legislation's China-focused rationale and momentum predate October 7 by years.",
+    "evidence_for": [
+      {"text": "An internal Israeli Foreign Ministry memo, reported by NPR, blamed TikTok's algorithm for 'turning young people against Israel.'", "source": "https://www.npr.org/2024/07/09/nx-s1-4994027/israel-us-online-influence-campaign-gaza"},
+      "The stalled TikTok divestiture bill regained legislative momentum in Congress in the months following the October 7 attack and rising pro-Palestinian sentiment among young TikTok users."
+    ],
+    "evidence_against": [
+      {"text": "There is no evidence AIPAC was involved in drafting the bill, and its congressional summit agenda around the time did not include the TikTok legislation.", "source": "https://www.newsweek.com/congress-accused-using-tiktok-ban-silence-israel-criticism-1893405"},
+      {"text": "The ADL identified the 'Israel did this' narrative itself as a conspiracy theory, noting it has also been promoted by Iranian state media.", "source": "https://www.adl.org/resources/article/tiktok-ban-feared-antisemitic-conspiracy-theories-follow"}
+    ],
+    "related": ["stoic-hasbara-influence-operation", "aipac-covert-congress-control"],
+    "precedents": [],
+    "sources": [
+      {"title": "TikTok Ban Feared, Antisemitic Conspiracy Theories Follow", "url": "https://www.adl.org/resources/article/tiktok-ban-feared-antisemitic-conspiracy-theories-follow", "type": "advocacy", "stance": "debunks"},
+      {"title": "Tehran cooked up a conspiracy theory blaming Israel for US TikTok ban", "url": "https://www.atlanticcouncil.org/blogs/iransource/iran-tiktok-ban-israel-adl-greenblatt-conspiracy-theory/", "type": "news", "stance": "debunks"},
+      {"title": "Congress Accused of Using TikTok Ban to Silence Israel Criticism", "url": "https://www.newsweek.com/congress-accused-using-tiktok-ban-silence-israel-criticism-1893405", "type": "news", "stance": "contested"},
+      {"title": "'This Is AIPAC at Work': Landmark TikTok Vote in U.S. House Provokes Conspiracy Theory", "url": "https://www.haaretz.com/us-news/2024-03-14/ty-article/.premium/this-is-aipac-at-work-landmark-tiktok-vote-in-u-s-house-provokes-conspiracy-theory/0000018e-3dd0-d9ae-ad9f-3dd44d100000", "type": "news", "stance": "contested"}
+    ]
+  },
+  {
+    "id": "canary-mission-covert-intelligence-op",
+    "name": "Canary Mission as Covert Israeli-Government Deportation Tool",
+    "aliases": ["Canary Mission Blacklist Conspiracy"],
+    "genre": "espionage",
+    "year": 2025,
+    "truth": 40,
+    "impact": 70,
+    "notoriety": 50,
+    "summary": "The claim is that Canary Mission, an anonymously run website since 2014 that publishes dossiers on pro-Palestinian students and professors, is not merely a privately funded advocacy blacklist but is covertly coordinated with the Israeli government and functions as an operational targeting tool for US immigration enforcement. A DHS official testified to a 'tiger team' assembled to identify pro-Palestinian noncitizen students for removal, and Canary Mission publicly claimed credit for triggering the detention of Tufts student Rumeysa Ozturk, but no leaked document has shown a formal Israeli-government tasking relationship with the site.",
+    "evidence_for": [
+      {"text": "A DHS official testified in court that the department assembled a specialized 'tiger team' to identify pro-Palestinian college students for removal.", "source": "https://www.thenation.com/article/world/canary-mission-israel-covert-operations/"},
+      {"text": "Canary Mission publicly took credit for its dossier being the primary cause of Tufts graduate student Rumeysa Ozturk's detention by masked immigration officers.", "source": "https://www.aljazeera.com/news/2025/7/11/canary-mission-how-us-uses-a-hate-group-to-target-palestine-advocates"},
+      {"text": "The site's operators and core funding sources have remained anonymous since 2014 despite years of journalistic attempts at disclosure.", "source": "https://en.wikipedia.org/wiki/Canary_Mission"}
+    ],
+    "evidence_against": [
+      {"text": "Identified funders disclosed in tax filings are private US charitable foundations (e.g. the Peisach and Fromer family foundations), not the Israeli state.", "source": "https://jewishcurrents.org/canary-missions-newest-funders"},
+      "No declassified or leaked document establishes a formal tasking or operational relationship between Canary Mission and any Israeli government body; DHS has not confirmed relying specifically on Canary Mission dossiers."
+    ],
+    "related": ["stoic-hasbara-influence-operation", "campus-protest-billionaire-crackdown", "cointelpro"],
+    "precedents": ["cointelpro", "cointelpro-black-panther"],
+    "wikipedia": "https://en.wikipedia.org/wiki/Canary_Mission",
+    "sources": [
+      {"title": "Who Is Funding Canary Mission? Inside the Doxxing Operation Targeting Anti-Zionist Students and Professors", "url": "https://www.thenation.com/article/world/canary-mission-israel-covert-operations/", "type": "investigative", "stance": "supports"},
+      {"title": "Canary Mission: How US uses a 'hate group' to target Palestine advocates", "url": "https://www.aljazeera.com/news/2025/7/11/canary-mission-how-us-uses-a-hate-group-to-target-palestine-advocates", "type": "news", "stance": "supports"},
+      {"title": "Canary Mission", "url": "https://en.wikipedia.org/wiki/Canary_Mission", "type": "wikipedia", "stance": "documents"},
+      {"title": "Canary Mission's Newest Funders", "url": "https://jewishcurrents.org/canary-missions-newest-funders", "type": "investigative", "stance": "contested"}
+    ],
+    "research_note": "The doxxing operation and DHS 'tiger team' are independently documented facts; the disputed conspiratorial element is specifically whether Canary Mission operates under Israeli government direction rather than as an independently funded private blacklist."
+  },
+  {
+    "id": "campus-protest-billionaire-crackdown",
+    "name": "Billionaire Network Secretly Coordinated Campus Protest Crackdown",
+    "aliases": ["Adams WhatsApp Billionaires Scandal"],
+    "genre": "government",
+    "year": 2024,
+    "truth": 75,
+    "impact": 60,
+    "notoriety": 45,
+    "summary": "This is a largely documented claim: a group of pro-Israel business leaders, including Howard Schultz, Michael Dell, Bill Ackman, Joshua Kushner, Daniel Loeb, and Len Blavatnik, privately coordinated over chat and a Zoom call with New York City Mayor Eric Adams in April 2024 to press for a police crackdown on the Columbia University pro-Palestinian encampment, including offering to fund private investigators to assist. Leaked WhatsApp messages, obtained and published by the Washington Post, form the core evidence; the city has denied actually deploying privately funded investigators.",
+    "evidence_for": [
+      {"text": "The Washington Post published leaked WhatsApp chat logs showing the group coordinated a video call with Mayor Adams on April 26, 2024 covering donations, pressuring Columbia's president, and funding investigative efforts.", "source": "https://www.aljazeera.com/news/2024/5/16/pro-israel-billionaires-urged-new-york-crackdown-on-gaza-protests-report"},
+      {"text": "Some members of the group offered to pay for private investigators to assist NYPD in handling the protests, according to the chat log, and reported that Adams accepted the offer.", "source": "https://www.foxbusiness.com/politics/business-leaders-pressed-nyc-mayor-adams-to-disperse-columbia-protesters-report"}
+    ],
+    "evidence_against": [
+      {"text": "New York City officially stated it has not used and is not using privately funded private investigators.", "source": "https://www.foxbusiness.com/politics/business-leaders-pressed-nyc-mayor-adams-to-disperse-columbia-protesters-report"},
+      "It remains unclear how much the group's pressure actually changed the police response versus what city officials would have done independently given the encampment's scale."
+    ],
+    "related": ["canary-mission-covert-intelligence-op", "soros-tent-astroturf-claim"],
+    "precedents": ["cointelpro"],
+    "sources": [
+      {"title": "Pro-Israel billionaires urged New York crackdown on Gaza protests: Report", "url": "https://www.aljazeera.com/news/2024/5/16/pro-israel-billionaires-urged-new-york-crackdown-on-gaza-protests-report", "type": "news", "stance": "supports"},
+      {"title": "Business leaders pressed NYC Mayor Adams to disperse Columbia protesters: report", "url": "https://www.foxbusiness.com/politics/business-leaders-pressed-nyc-mayor-adams-to-disperse-columbia-protesters-report", "type": "news", "stance": "documents"},
+      {"title": "Reporting on Influence of Pro-Israel Funders Is Not Antisemitic", "url": "https://fair.org/home/reporting-on-influence-of-pro-israel-funders-is-not-antisemitic/", "type": "advocacy", "stance": "supports"}
+    ]
+  },
+  {
+    "id": "soros-tent-astroturf-claim",
+    "name": "Soros-Funded Tents Astroturfing Campus Encampments",
+    "aliases": ["Soros Paid the Protesters"],
+    "genre": "government",
+    "year": 2024,
+    "truth": 3,
+    "impact": 25,
+    "notoriety": 45,
+    "summary": "The claim, promoted by NYC Mayor Eric Adams and Rep. Virginia Foxx among others, is that pro-Palestinian campus encampments in 2024 were not organic student organizing but were secretly funded and orchestrated by George Soros or similar dark-money networks, with identical-looking tents cited as proof of centralized supply. Investigators traced the matching tents to bulk retailer discounts on popular camping brands rather than any coordinated procurement, and researchers found the protests were organized by ordinary student coalitions.",
+    "evidence_for": [
+      "Many encampment tents across different university campuses were visibly the same brand and color.",
+      {"text": "George Soros's Open Society Foundations and the Rockefeller Brothers Fund have given grants to Jewish Voice for Peace, a group involved in some protest organizing.", "source": "https://www.wnycstudios.org/podcasts/otm/articles/what-the-media-get-wrong-about-campus-protests"}
+    ],
+    "evidence_against": [
+      {"text": "The matching tents are explained by online retailer discounts and promotions on a small number of popular camping-brand products, not coordinated dark-money procurement.", "source": "https://www.wnycstudios.org/podcasts/otm/articles/what-the-media-get-wrong-about-campus-protests"},
+      {"text": "Researchers who studied the protests found they were organized and staffed by ordinary college students, not outside operatives.", "source": "https://ash.harvard.edu/articles/crowd-counting-blog-an-empirical-overview-of-recent-pro-palestine-protests-at-u-s-schools/"}
+    ],
+    "related": ["campus-protest-billionaire-crackdown"],
+    "precedents": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/2024_pro-Palestinian_protests_on_university_campuses",
+    "sources": [
+      {"title": "2024 pro-Palestinian protests on university campuses", "url": "https://en.wikipedia.org/wiki/2024_pro-Palestinian_protests_on_university_campuses", "type": "wikipedia", "stance": "documents"},
+      {"title": "What the Media Get Wrong About Campus Protests", "url": "https://www.wnycstudios.org/podcasts/otm/articles/what-the-media-get-wrong-about-campus-protests", "type": "news", "stance": "debunks"},
+      {"title": "Crowd Counting Consortium: An Empirical Overview of Recent Pro-Palestine Protests at U.S. Schools", "url": "https://ash.harvard.edu/articles/crowd-counting-blog-an-empirical-overview-of-recent-pro-palestine-protests-at-u-s-schools/", "type": "academic", "stance": "debunks"}
+    ]
+  },
+  {
+    "id": "pallywood-staged-suffering-claim",
+    "name": "Pallywood: Palestinians Staging Their Own Casualties",
+    "aliases": ["Gazawood", "Crisis Actors Gaza"],
+    "genre": "media-surveillance",
+    "year": 2023,
+    "truth": 5,
+    "impact": 45,
+    "notoriety": 55,
+    "summary": "Coined in 2005 by Richard Landes and massively revived after October 2023, the claim is that Palestinians and sympathetic media routinely stage or fake scenes of death and injury using 'crisis actors' to manufacture international sympathy, and that this pattern should be used to discount video evidence of Israeli strikes on civilians. Fact-checkers at BBC Verify and Logically Facts traced the viral 'proof' clips used to support the theory to misattributed or miscaptioned footage of real, unrelated victims.",
+    "evidence_for": [
+      "Proponents circulate side-by-side photo comparisons claiming the same 'crisis actor' appears in different casualty photos.",
+      {"text": "Richard Landes's original 2005 video cited specific incidents he argued showed staged reenactments by Palestinian camera crews.", "source": "https://en.wikipedia.org/wiki/Pallywood"}
+    ],
+    "evidence_against": [
+      {"text": "BBC Verify found usage of the term 'Pallywood' peaked at 220,000 uses on Twitter/X in November 2023, tracking a coordinated disinformation push rather than an actual pattern of staging.", "source": "https://www.rollingstone.com/politics/politics-features/what-is-pallywood-palestinians-falsely-accused-faking-devastation-1234869765/"},
+      {"text": "Widely circulated 'proof' photos comparing two supposedly identical crisis actors were shown to depict two different real people, including one who lost a leg in an actual Israeli military raid.", "source": "https://www.rollingstone.com/politics/politics-features/what-is-pallywood-palestinians-falsely-accused-faking-devastation-1234869765/"}
+    ],
+    "related": ["october-7-crisis-actors-denial"],
+    "precedents": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pallywood",
+    "sources": [
+      {"title": "Pallywood", "url": "https://en.wikipedia.org/wiki/Pallywood", "type": "wikipedia", "stance": "documents"},
+      {"title": "Propaganda Campaigners Use 'Pallywood' Label to Accuse Palestinians of Staging Civilian Casualties", "url": "https://www.voanews.com/a/fact-check-propaganda-campaigners-use-pallywood-label-to-accuse-palestinians-of-staging-civilian-casualties/7339287.html", "type": "news", "stance": "debunks"},
+      {"title": "'Pallywood propaganda': Pro-Israeli accounts online accuse Palestinians of staging their suffering", "url": "https://www.france24.com/en/middle-east/20231121-pallywood-propaganda-pro-israeli-accounts-online-accuse-palestinians-of-staging-their-suffering", "type": "news", "stance": "debunks"},
+      {"title": "What Is Pallywood? Palestinians Are Falsely Accused of Faking Carnage", "url": "https://www.rollingstone.com/politics/politics-features/what-is-pallywood-palestinians-falsely-accused-faking-devastation-1234869765/", "type": "news", "stance": "debunks"}
+    ]
+  },
+  {
+    "id": "hamas-israeli-creation-asset-theory",
+    "name": "Hamas as an Israeli-Created or Controlled Asset",
+    "aliases": ["Israel Created Hamas", "Netanyahu Runs Hamas"],
+    "genre": "government",
+    "year": 2023,
+    "truth": 32,
+    "impact": 65,
+    "notoriety": 55,
+    "summary": "The strong version of this claim, revived after October 7 by figures including Alex Jones, holds that Israel deliberately created Hamas from scratch and continues to covertly control its operations as a strategic tool. This overstates a genuine, documented history: Israel tolerated and indirectly supported Sheikh Ahmed Yassin's Islamist charity network through the 1970s and 1980s as a counterweight to the secular PLO, a policy that ended once that network reorganized into Hamas and began attacking Israelis in 1989; no evidence shows Israel founded Hamas or currently directs its military operations, which have repeatedly killed Israelis including on October 7.",
+    "evidence_for": [
+      {"text": "Israel provided support to Ahmed Yassin's network of Islamic schools, mosques, and clubs through the 1970s and into the First Intifada, viewing it as a useful counterweight to the PLO.", "source": "https://en.wikipedia.org/wiki/Israeli_support_for_Hamas"},
+      {"text": "Far-right Israeli finance minister Bezalel Smotrich has publicly called Hamas an 'asset' compared to the Palestinian Authority's 'burden.'", "source": "https://www.thenation.com/article/world/why-netanyahu-bolstered-hamas/"}
+    ],
+    "evidence_against": [
+      {"text": "Hamas was founded independently in 1987 by Yassin as a distinct Muslim Brotherhood offshoot, not manufactured or staffed by Israeli intelligence.", "source": "https://electronicintifada.net/content/debunking-lie-israel-created-hamas/51350"},
+      {"text": "Israeli tolerance of the Yassin network ended once Hamas began launching attacks on Israelis in 1989, and no document shows continuing Israeli command control over Hamas's military wing.", "source": "https://www.jns.org/the-myth-that-israel-netanyahu-created-funded-hamas/"}
+    ],
+    "related": ["qatari-cash-hamas-divide-strategy", "oct-7-standdown-claim", "lavon-affair"],
+    "precedents": ["lavon-affair"],
+    "sources": [
+      {"title": "Israeli support for Hamas", "url": "https://en.wikipedia.org/wiki/Israeli_support_for_Hamas", "type": "wikipedia", "stance": "documents"},
+      {"title": "Debunking the lie that 'Israel created Hamas'", "url": "https://electronicintifada.net/content/debunking-lie-israel-created-hamas/51350", "type": "advocacy", "stance": "debunks"},
+      {"title": "Why Netanyahu Bolstered Hamas", "url": "https://www.thenation.com/article/world/why-netanyahu-bolstered-hamas/", "type": "news", "stance": "contested"},
+      {"title": "The myth that Israel/Netanyahu created/funded Hamas", "url": "https://www.jns.org/the-myth-that-israel-netanyahu-created-funded-hamas/", "type": "advocacy", "stance": "debunks"},
+      {"title": "Conspiracy theorist Alex Jones claims 'Netanyahu runs Hamas'", "url": "https://www.thejc.com/news/israel/conspiracy-theorist-alex-jones-claims-netanyahu-runs-hamas-jwuk1bpr", "type": "news", "stance": "documents"}
+    ]
+  },
+  {
+    "id": "greater-israel-expansion-plan",
+    "name": "Greater Israel: Nile-to-Euphrates Expansion Plan",
+    "aliases": ["Greater Israel Map Conspiracy", "Nile to Euphrates Plan"],
+    "genre": "ethnic-religious",
+    "year": 2023,
+    "truth": 6,
+    "impact": 55,
+    "notoriety": 40,
+    "summary": "The claim, revived by Iranian and Hamas officials during the 2023-2025 war, is that the Israeli state secretly pursues, as actual official policy, a biblically-derived plan to expand its borders from the Nile to the Euphrates, citing the Israeli flag's stripes, an old coin design, and an alleged Knesset map inscription as supposed documentary proof. Israeli historians and the national mint have traced each specific piece of 'evidence' to unrelated origins, and no Israeli government platform or coalition agreement has ever adopted Nile-to-Euphrates borders as policy; a fringe minority of religious-nationalist Israelis do invoke the underlying biblical text.",
+    "evidence_for": [
+      "Genesis 15:18 describes a covenant promising Abram's descendants land 'from the river of Egypt unto the great river, the river Euphrates,' a text some fringe religious-nationalist Israelis do cite.",
+      "The claim has been repeated by multiple foreign heads of state and Hamas officials as though it were established fact, giving it wide circulation regardless of accuracy."
+    ],
+    "evidence_against": [
+      {"text": "Israel's mint has stated the blue stripes on the Israeli flag derive from the traditional Jewish prayer shawl (tallit), not the Nile and Euphrates rivers.", "source": "https://www.meforum.org/middle-east-quarterly/imperial-israel-the-nile-to-euphrates-calumny"},
+      {"text": "The claim that a map or inscription over the Knesset entrance depicts Nile-to-Euphrates borders has never been documented photographically and traces to Yasser Arafat-era propaganda.", "source": "https://rationalwiki.org/wiki/Greater_Israel"},
+      "No Israeli government coalition agreement, party platform, or map has ever formally adopted Nile-to-Euphrates borders as state policy."
+    ],
+    "related": ["zog", "hamas-israeli-creation-asset-theory"],
+    "precedents": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_Israel",
+    "sources": [
+      {"title": "Greater Israel", "url": "https://en.wikipedia.org/wiki/Greater_Israel", "type": "wikipedia", "stance": "documents"},
+      {"title": "Imperial Israel: The Nile-to-Euphrates Calumny", "url": "https://www.meforum.org/middle-east-quarterly/imperial-israel-the-nile-to-euphrates-calumny", "type": "academic", "stance": "debunks"},
+      {"title": "Greater Israel", "url": "https://rationalwiki.org/wiki/Greater_Israel", "type": "fringe", "stance": "debunks"},
+      {"title": "Inside 'Greater Israel': myths and truths behind the long-time Zionist fantasy", "url": "https://mondoweiss.net/2024/12/inside-greater-israel-myths-and-truths-behind-the-long-time-zionist-fantasy/", "type": "advocacy", "stance": "contested"}
+    ],
+    "research_note": "This differs from ZOG in kind: ZOG claims a hidden ethnic cabal secretly runs foreign governments, while this claim is about an alleged territorial-expansion policy attributed to the Israeli state itself, propped up by specific (and individually debunked) physical 'evidence' claims."
+  },
+  {
+    "id": "aipac-covert-congress-control",
+    "name": "AIPAC's Covert Control of Congress via Laundered Donor Money",
+    "aliases": ["AIPAC Buys Congress", "United Democracy Project Laundering Claim"],
+    "genre": "government",
+    "year": 2024,
+    "truth": 55,
+    "impact": 80,
+    "notoriety": 65,
+    "summary": "The claim is that AIPAC's United Democracy Project super PAC functions to covertly launder Republican megadonor money into Democratic primaries specifically to purge members insufficiently supportive of Israel, amounting in practice to disproportionate, hidden control over congressional votes on Middle East policy rather than ordinary transparent lobbying. AIPAC's roughly $100 million in disclosed 2023-24 spending, including a record $14.5 million combined spend defeating Rep. Jamaal Bowman, is real and publicly filed; the 'covert'/'laundering' framing describes legal, disclosed PAC activity that critics argue is misleadingly labeled 'pro-Israel' in press coverage rather than 'Republican-funded.'",
+    "evidence_for": [
+      {"text": "AIPAC spent approximately $100 million in the 2023-24 election cycle, much of it raised from Republican megadonors, targeting Democrats it viewed as insufficiently supportive of Israel.", "source": "https://www.washingtonexaminer.com/news/investigations/4580277/aipac-spending-strategy-evolution/"},
+      {"text": "The primary race in which AIPAC's United Democracy Project spent roughly $14.5 million to defeat Rep. Jamaal Bowman became the most expensive US House primary in history.", "source": "https://www.rollingstone.com/politics/politics-news/jamaal-bowman-george-latimer-unseated-israel-lobby-1235046754/"},
+      {"text": "AIPAC's PAC also spent millions opposing Rep. Cori Bush's reelection while separately funding her primary opponent.", "source": "https://www.aljazeera.com/news/2024/6/21/whats-behind-the-historic-pro-israel-spending-in-a-new-york-house-primary"}
+    ],
+    "evidence_against": [
+      "All of AIPAC's spending is publicly disclosed under FEC campaign-finance rules, which distinguishes it from a genuinely covert operation even if donors' partisan origin is under-reported in headlines.",
+      "AIPAC uses the same legal single-issue-PAC tactics as many other lobbies (e.g. crypto or pharmaceutical PACs), and targeted members remained free to criticize Israel policy up to the moment of their primary defeat, showing the 'control' is electoral pressure rather than direct command over votes."
+    ],
+    "related": ["stoic-hasbara-influence-operation", "tiktok-ban-israel-motive"],
+    "precedents": [],
+    "sources": [
+      {"title": "Anti-AIPAC account's co-founder is former staffer for AOC, Bush, Bowman", "url": "https://jewishinsider.com/2025/11/track-aipac-campaign-staffer-bowman-bush-aoc-casey-kennedy-cory-archibold/", "type": "news", "stance": "contested"},
+      {"title": "Bowman crushed by GOP-fueled AIPAC cash", "url": "https://responsiblestatecraft.org/bowman-aipac-loses-money/", "type": "news", "stance": "supports"},
+      {"title": "Progressive Jamaal Bowman Loses Seat After Pro-Israel Lobby Boosted Opponent", "url": "https://www.rollingstone.com/politics/politics-news/jamaal-bowman-george-latimer-unseated-israel-lobby-1235046754/", "type": "news", "stance": "documents"},
+      {"title": "How AIPAC's spending strategy evolved", "url": "https://www.washingtonexaminer.com/news/investigations/4580277/aipac-spending-strategy-evolution/", "type": "news", "stance": "documents"}
+    ],
+    "research_note": "Distinguish carefully from the ZOG trope (already in the atlas at truth 1): this record scores AIPAC specifically, a named, disclosed-spending PAC, not a claim about hidden ethnic control of government in general."
+  }
+]
