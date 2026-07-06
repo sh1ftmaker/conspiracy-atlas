@@ -39,6 +39,12 @@ DEFAULTS = {
     "prior_clamp": [-4.0, 0.2],
     "impossible_prior": -4.0,
     "prior_smoothing": 1.0,
+    # ---- Means/Motive/Opportunity prior (replaces class base-rate) ----
+    # The prior for a factual claim is set by the conjunction of the alleged
+    # actors' means, motive and opportunity (0-4 each) -- the investigator's
+    # triad -- NOT by how many false theories share its genre. MMO establishes
+    # plausibility; it stays below the midline so evidence must do the lifting.
+    "mmo_min": -3.7, "mmo_max": -0.6, "mmo_floor": 0.5,
     "stance_strength": {"proves": 4.0, "supports": 1.5, "context": 0.0,
                         "debunks": -2.5, "disproves": -4.0},
     # legacy stances (pre stance-audit) map conservatively: "documents" mostly
@@ -98,9 +104,10 @@ def truth_terms(t, f, C):
     ev_terms: [srcIndex, stance, quality, strength, applied_weight]
     (srcIndex -1 marks a prose-evidence fallback term)."""
     lo, hi = C["prior_clamp"]
-    k, n = C["classes"].get(f["cls"], [0, 1])
-    s = C["prior_smoothing"]
-    prior = math.log((k + s) / max(s, n - k + s))
+    fl = C["mmo_floor"]
+    m = max(fl, f.get("means", 2)); mo = max(fl, f.get("motive", 2)); o = max(fl, f.get("opp", 2))
+    g = ((m * mo * o) ** (1 / 3)) / 4.0          # conjunctive: any weak leg drags it down
+    prior = C["mmo_min"] + (C["mmo_max"] - C["mmo_min"]) * g
     prior = max(lo, min(hi, prior))
     if f.get("imp"):
         prior = C["impossible_prior"]
@@ -152,7 +159,8 @@ def truth_terms(t, f, C):
             leak = [f["nlog"], tt, round(pen, 2)]
 
     logit = prior + ev_sum - (leak[2] if leak else 0.0)
-    return round(prior, 2), ev_terms, leak, round(logit, 2), int(round(100 * sigma(logit)))
+    mmo = [f.get("means", 2), f.get("motive", 2), f.get("opp", 2)]
+    return round(prior, 2), mmo, ev_terms, leak, round(logit, 2), int(round(100 * sigma(logit)))
 
 
 def frame_terms(t, f, C):
@@ -236,12 +244,12 @@ def score_theory(t, f, views, C):
             "if": [f["scale"], f["sev"], f["reach"]], "pv": views, "att": f.get("att"),
         }
         return
-    prior, ev, leak, logit, truth = truth_terms(t, f, C)
+    prior, mmo, ev, leak, logit, truth = truth_terms(t, f, C)
     t["truth"] = truth
     t["truth_kind"] = "fact"
     t["score"] = {
         "kind": "fact", "cls": f["cls"], "imp": bool(f.get("imp")),
-        "prior": [C["classes"].get(f["cls"], [0, 1])[0], C["classes"].get(f["cls"], [0, 1])[1], prior],
+        "prior": prior, "mmo": mmo,
         "ev": ev, "leak": leak, "logit": logit,
         "if": [f["scale"], f["sev"], f["reach"]],
         "pv": views, "att": f.get("att"),
@@ -255,6 +263,11 @@ def load_factors():
             F[r["id"]] = r
     # frame overlays add frame/ped/coh/par onto the matching factor record
     for fp in sorted(glob.glob(os.path.join(ROOT, "data", "frames", "frame_*.json"))):
+        for r in json.load(io.open(fp, encoding="utf-8")):
+            if r["id"] in F:
+                F[r["id"]].update({k: v for k, v in r.items() if k != "id"})
+    # MMO overlays add means/motive/opp onto the matching factor record
+    for fp in sorted(glob.glob(os.path.join(ROOT, "data", "mmo", "mmo_*.json"))):
         for r in json.load(io.open(fp, encoding="utf-8")):
             if r["id"] in F:
                 F[r["id"]].update({k: v for k, v in r.items() if k != "id"})

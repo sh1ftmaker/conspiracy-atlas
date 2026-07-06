@@ -327,7 +327,8 @@ out = {
         "bias_scale": BIAS_SCALE,
         "scored": scored,
         "score_constants": {k: SC[k] for k in
-            ("prior_clamp", "impossible_prior", "stance_strength", "ev_cap",
+            ("prior_clamp", "impossible_prior", "mmo_min", "mmo_max", "mmo_floor",
+             "stance_strength", "ev_cap",
              "prose_w", "leak_p", "leak_cap", "impact_gain",
              "noto_log_off", "noto_log_div", "noto_tier_band", "att_ladder",
              "ped_map", "coh_map", "par_map", "frame_ceiling",

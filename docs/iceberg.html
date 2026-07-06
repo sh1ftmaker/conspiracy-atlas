@@ -221,7 +221,7 @@
 <div id="loading"><div class="spin"></div><div>lowering the sonar…</div></div>
 
 <script>
-const DATA_URL='data.json?v=9';
+const DATA_URL='data.json?v=10';
 const esc=s=>(s||'').replace(/[&<>]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[m]));
 const pill=(t,c)=>`<span class="pill" style="background:${c}22;color:${c};border:1px solid ${c}55">${esc(t)}</span>`;
 function statusCol(tr){return tr>=91?'#4ade80':tr>=76?'#86efac':tr>=56?'#bef264':tr>=31?'#fbbf24':tr>=11?'#fb923c':'#f87171';}
@@ -447,8 +447,8 @@ function scoreHtml(t){
   const row=(l,v,c)=>`<div class="sbrow${c?' '+c:''}"><span>${l}</span>${v!==''?`<b>${v}</b>`:''}</div>`;
   h+='<div class="sb">';
   if(S.kind==='frame'){ h+=frameRows(t,S,f2,row,esc); } else {
-  h+=`<div class="sbh">Truth ${t.truth} = 100\u00b7\u03c3( prior + evidence \u2212 leak )</div>`;
-  h+=row(`prior \u00b7 base rate of proven <i>${esc(S.cls)}</i> operations: ${S.prior[0]} of ${S.prior[1]} in the atlas${S.imp?' \u00b7 <span style="color:#f87171">physically impossible</span>':''}`,f2(S.prior[2]),S.prior[2]>0?'pos':'neg');
+  h+=`<div class="sbh">Truth ${t.truth} = 100\u00b7\u03c3( MMO prior + evidence \u2212 leak )</div>`;
+  h+=row(`prior \u00b7 means ${S.mmo[0]}/4 \u00b7 motive ${S.mmo[1]}/4 \u00b7 opportunity ${S.mmo[2]}/4 \u2014 conjunction sets a-priori plausibility, not truth${S.imp?' \u00b7 <span style="color:#f87171">physically impossible</span>':''}`,f2(S.prior),S.prior>0?'pos':'neg');
   for(const e of (S.ev||[])){
     const src=e[0]>=0?(t.sources||[])[e[0]]:null;
     const lab=src?`<a class="src" href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.title||src.url)} \u2197</a> <span class="dim">${esc(e[1])} \u00b7 quality ${e[2]}</span>`

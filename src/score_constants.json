@@ -5,6 +5,9 @@
  ],
  "impossible_prior": -4.0,
  "prior_smoothing": 1.0,
+ "mmo_min": -3.7,
+ "mmo_max": -0.6,
+ "mmo_floor": 0.5,
  "stance_strength": {
   "proves": 4.0,
   "supports": 1.5,
