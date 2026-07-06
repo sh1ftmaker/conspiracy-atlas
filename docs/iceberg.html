@@ -178,7 +178,7 @@
   <div class="top">
     <h1>🧊 The Conspiracy Iceberg</h1>
     <nav id="pagenav">
-      <a href="index.html">3D flythrough</a><a href="2d.html">2D map</a><a href="iceberg.html" class="on">Iceberg</a><a href="list.html">List</a>
+      <a href="index.html">3D flythrough</a><a href="2d.html">2D map</a><a href="iceberg.html" class="on">Iceberg</a><a href="list.html">List</a><a href="methodology.html">Methodology</a>
     </nav>
     <div class="tools">
       <input id="q" placeholder="search the iceberg…" autocomplete="off">
@@ -221,7 +221,7 @@
 <div id="loading"><div class="spin"></div><div>lowering the sonar…</div></div>
 
 <script>
-const DATA_URL='data.json?v=10';
+const DATA_URL='data.json?v=11';
 const esc=s=>(s||'').replace(/[&<>]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[m]));
 const pill=(t,c)=>`<span class="pill" style="background:${c}22;color:${c};border:1px solid ${c}55">${esc(t)}</span>`;
 function statusCol(tr){return tr>=91?'#4ade80':tr>=76?'#86efac':tr>=56?'#bef264':tr>=31?'#fbbf24':tr>=11?'#fb923c':'#f87171';}
@@ -451,7 +451,7 @@ function scoreHtml(t){
   h+=row(`prior \u00b7 means ${S.mmo[0]}/4 \u00b7 motive ${S.mmo[1]}/4 \u00b7 opportunity ${S.mmo[2]}/4 \u2014 conjunction sets a-priori plausibility, not truth${S.imp?' \u00b7 <span style="color:#f87171">physically impossible</span>':''}`,f2(S.prior),S.prior>0?'pos':'neg');
   for(const e of (S.ev||[])){
     const src=e[0]>=0?(t.sources||[])[e[0]]:null;
-    const lab=src?`<a class="src" href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.title||src.url)} \u2197</a> <span class="dim">${esc(e[1])} \u00b7 quality ${e[2]}</span>`
+    const lab=src?`<a class="src" href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.title||src.url)} \u2197</a> <span class="dim">${esc(e[1])} \u00b7 quality ${e[2]}${e[5]?` \u00b7 <span style="color:#fbbf24">self-denial, weight \u00d7${SC.self_denial_discount}</span>`:``}</span>`
                  :`<span class="dim">unsourced ${esc(e[1])} item</span>`;
     h+=row(lab,f2(e[4]),e[4]>0?'pos':'neg');
   }

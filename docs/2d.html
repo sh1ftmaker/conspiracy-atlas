@@ -184,7 +184,7 @@
     <h1>🕳️ The Conspiracy Atlas</h1>
     <p>1000+ conspiracy theories embedded with <b style="color:var(--accent)">gemini-embedding-2</b> and laid out by semantic similarity — similar claims, actors and themes cluster together, regardless of genre or truth.</p>
     <span class="badge" id="modelBadge">embedding: …</span>
-    <nav id="pagenav"><a href="index.html">3D flythrough</a><a href="2d.html" class="on">2D map</a><a href="iceberg.html">Iceberg</a><a href="list.html">List</a></nav>
+    <nav id="pagenav"><a href="index.html">3D flythrough</a><a href="2d.html" class="on">2D map</a><a href="iceberg.html">Iceberg</a><a href="list.html">List</a><a href="methodology.html">Methodology</a></nav>
   </div>
 </div>
 
@@ -306,7 +306,7 @@ function scoreHtml(t){
   h+=row(`prior \u00b7 means ${S.mmo[0]}/4 \u00b7 motive ${S.mmo[1]}/4 \u00b7 opportunity ${S.mmo[2]}/4 \u2014 conjunction sets a-priori plausibility, not truth${S.imp?' \u00b7 <span style="color:#f87171">physically impossible</span>':''}`,f2(S.prior),S.prior>0?'pos':'neg');
   for(const e of (S.ev||[])){
     const src=e[0]>=0?(t.sources||[])[e[0]]:null;
-    const lab=src?`<a class="src" href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.title||src.url)} \u2197</a> <span class="dim">${esc(e[1])} \u00b7 quality ${e[2]}</span>`
+    const lab=src?`<a class="src" href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.title||src.url)} \u2197</a> <span class="dim">${esc(e[1])} \u00b7 quality ${e[2]}${e[5]?` \u00b7 <span style="color:#fbbf24">self-denial, weight \u00d7${SC.self_denial_discount}</span>`:``}</span>`
                  :`<span class="dim">unsourced ${esc(e[1])} item</span>`;
     h+=row(lab,f2(e[4]),e[4]>0?'pos':'neg');
   }
@@ -339,7 +339,7 @@ const gl_=k=>{const g=GEN.find(x=>x.key===k);return g?g.label:k;};
 function statusCol(tr){return tr>=91?'#4ade80':tr>=76?'#86efac':tr>=56?'#bef264':tr>=31?'#fbbf24':tr>=11?'#fb923c':'#f87171';}
 
 // ---------- load ----------
-fetch('data.json?v=10').then(r=>r.json()).then(d=>{
+fetch('data.json?v=11').then(r=>r.json()).then(d=>{
   T=d.theories; META=d.meta; GEN=META.genres;
   T.forEach(t=>byId[t.id]=t);
   N=T.length;

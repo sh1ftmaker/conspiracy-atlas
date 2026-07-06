@@ -45,6 +45,9 @@ DEFAULTS = {
     # triad -- NOT by how many false theories share its genre. MMO establishes
     # plausibility; it stays below the midline so evidence must do the lifting.
     "mmo_min": -3.7, "mmo_max": -0.6, "mmo_floor": 0.5,
+    # a denial by the accused party arguing against the claim is discounted to
+    # this fraction of its normal weight (guilty parties deny too).
+    "self_denial_discount": 0.25,
     "stance_strength": {"proves": 4.0, "supports": 1.5, "context": 0.0,
                         "debunks": -2.5, "disproves": -4.0},
     # legacy stances (pre stance-audit) map conservatively: "documents" mostly
@@ -124,15 +127,19 @@ def truth_terms(t, f, C):
         q = bw / C["quality_div"]
         if stance in ("proves", "disproves") and bw >= C["proof_q_floor_min_bias"]:
             q = max(q, C["proof_q_floor"])
-        w = q * strength
+        # a denial by the accused party ("we didn't do it") is expected whether
+        # guilty or not, so it carries almost no probative weight; an admission
+        # against interest keeps full weight.
+        selfd = bool(src.get("self")) and stance in ("debunks", "disproves")
+        w = q * strength * (C["self_denial_discount"] if selfd else 1.0)
         if w != 0.0:
-            raw.append([i, stance, round(q, 2), strength, w, _domain(src.get("url", ""))])
+            raw.append([i, stance, round(q, 2), strength, w, _domain(src.get("url", "")), selfd])
 
     if not raw:  # unsourced record: prose evidence items, weakly
         for x in (t.get("evidence_for") or [])[:C["prose_max"]]:
-            raw.append([-1, "claimed", 0.0, C["prose_w"], C["prose_w"], ""])
+            raw.append([-1, "claimed", 0.0, C["prose_w"], C["prose_w"], "", False])
         for x in (t.get("evidence_against") or [])[:C["prose_max"]]:
-            raw.append([-1, "counter", 0.0, -C["prose_w"], -C["prose_w"], ""])
+            raw.append([-1, "counter", 0.0, -C["prose_w"], -C["prose_w"], "", False])
 
     ev_terms, ev_sum = [], 0.0
     for sign in (1, -1):
@@ -147,7 +154,7 @@ def truth_terms(t, f, C):
         for j, r in enumerate(kept):
             w = r[4] / (j + 1)
             subtotal += w
-            ev_terms.append([r[0], r[1], r[2], r[3], round(w, 2)])
+            ev_terms.append([r[0], r[1], r[2], r[3], round(w, 2), bool(r[6])])
         ev_sum += max(-C["ev_cap"], min(C["ev_cap"], subtotal))
 
     leak = None

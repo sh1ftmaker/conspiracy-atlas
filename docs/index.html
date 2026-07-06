@@ -174,7 +174,7 @@
   <div class="wbody">
     <h1>🕳️ The Conspiracy Atlas · 3D</h1>
     <p>Fly through 1000+ conspiracy theories laid out by semantic similarity (gemini-embedding-2). Tap a star to trace its closest theories; remap the X/Y/Z axes — try Truth / Impact / Notoriety — to regroup the cloud.</p>
-    <div id="nav"><a href="index.html" class="on">3D flythrough</a><a href="2d.html">2D map</a><a href="iceberg.html">Iceberg</a><a href="list.html">List</a></div>
+    <div id="nav"><a href="index.html" class="on">3D flythrough</a><a href="2d.html">2D map</a><a href="iceberg.html">Iceberg</a><a href="list.html">List</a><a href="methodology.html">Methodology</a></div>
     <div id="sgNewBox" style="margin-top:8px;display:none"><button type="button" class="sg-pill" id="sgNew">➕ Suggest a theory</button></div>
   </div>
 </div>
@@ -258,7 +258,7 @@
 import * as THREE from 'three';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 
-const DATA_URL='data.json?v=10';
+const DATA_URL='data.json?v=11';
 // ---- anonymous crowdsource submission config (feature stays dark until these are set) ----
 const INTAKE_URL='https://conspiracy-atlas-intake.sh1ftmaker.workers.dev';    // set after worker deploy, e.g. https://intake.example.workers.dev
 const TURNSTILE_KEY='0x4AAAAAADwTCPdKa2lBXF9N'; // Cloudflare Turnstile site key (optional; omit to skip bot widget)
@@ -732,7 +732,7 @@ function scoreHtml(t){
   h+=row(`prior \u00b7 means ${S.mmo[0]}/4 \u00b7 motive ${S.mmo[1]}/4 \u00b7 opportunity ${S.mmo[2]}/4 \u2014 conjunction sets a-priori plausibility, not truth${S.imp?' \u00b7 <span style="color:#f87171">physically impossible</span>':''}`,f2(S.prior),S.prior>0?'pos':'neg');
   for(const e of (S.ev||[])){
     const src=e[0]>=0?(t.sources||[])[e[0]]:null;
-    const lab=src?`<a class="src" href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.title||src.url)} \u2197</a> <span class="dim">${esc(e[1])} \u00b7 quality ${e[2]}</span>`
+    const lab=src?`<a class="src" href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.title||src.url)} \u2197</a> <span class="dim">${esc(e[1])} \u00b7 quality ${e[2]}${e[5]?` \u00b7 <span style="color:#fbbf24">self-denial, weight \u00d7${SC.self_denial_discount}</span>`:``}</span>`
                  :`<span class="dim">unsourced ${esc(e[1])} item</span>`;
     h+=row(lab,f2(e[4]),e[4]>0?'pos':'neg');
   }

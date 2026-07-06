@@ -1,71 +1,96 @@
 # The Conspiracy Atlas
 
-An interactive atlas of 1000+ conspiracy theories. Two views, both fed by the same
-dataset:
+An interactive atlas of **1,168 conspiracy theories**, laid out by semantic
+similarity and scored — transparently, by formula — on how true, how consequential,
+and how well-known each one is.
 
-- **[3D flythrough](https://sh1ftmaker.github.io/conspiracy-atlas/)** (`docs/index.html`, front page)
-  — fly (WASD + mouse-look) or orbit through the semantic point cloud in 3D;
-  remap the X/Y/Z axes (Semantic / Truth / Impact / Notoriety / Year) and watch
-  the cloud morph between layouts.
-- **[2D semantic map](https://sh1ftmaker.github.io/conspiracy-atlas/2d.html)** (`docs/2d.html`)
-  — a WebGL point-cloud laid out by semantic similarity (embedded with
-  **gemini-embedding-2**, UMAP-projected): theories with similar claims, actors or
-  themes cluster together regardless of genre or truth. Pan/pinch/zoom, click a
-  point to trace its nearest neighbors in full embedding space.
-  unlisted) — the tabbed Three.js scene: Truth × Impact scatter, load-bearing
-  dependency graph, formulation-year Timeline, Semantic space.
+### → [**Explore the live site**](https://sh1ftmaker.github.io/conspiracy-atlas/)
 
-## What's here
+![The Conspiracy Atlas — 3D semantic flythrough](docs/preview.png)
 
-- `docs/index.html` — 3D Three.js flythrough of the semantic cloud (front page)
-- `docs/2d.html` — 2D WebGL semantic map
-- `docs/data.json` — built dataset incl. embedding coordinates (generated, do not hand-edit)
-- `data/theories.seed.json` — hand-authored anchor theories (evidence-scored)
-- `data/enriched/batch_*.json` — subagent-researched theories, same schema
-- `data/SCHEMA.md` — field reference + the truth/impact scoring rubric
-- `src/taxonomy.json` — genre list + truth/impact scale definitions
-- `src/build.py` — merges all sources, validates, resolves cross-links, computes
-  load-bearing in-degree → `docs/data.json`
-- `src/embed_theories.py` — embeds every theory (name + summary + evidence) with
-  **gemini-embedding-2** via Vertex AI (needs a service-account JSON with the
-  Vertex AI API enabled; not committed to this repo)
-- `src/project_embed.py` — UMAP-projects the embeddings to 2D/3D and writes
-  `ex/ey/ex3/ey3/ez3` + nearest-neighbor ids (`nn`) onto each theory in `docs/data.json`
+## The views
 
-## Methodology
+All four are static pages fed by one generated `docs/data.json`:
 
-Each theory is scored 0–100 on two independent axes:
+| Page | What it is |
+|---|---|
+| [3D flythrough](https://sh1ftmaker.github.io/conspiracy-atlas/) (`index.html`) | Fly or orbit through the semantic point cloud; remap the X/Y/Z axes (Semantic / Truth / Impact / Notoriety / Year) and watch it morph. |
+| [2D map](https://sh1ftmaker.github.io/conspiracy-atlas/2d.html) (`2d.html`) | WebGL point cloud by semantic similarity; click a point to trace its nearest neighbors. |
+| [Iceberg](https://sh1ftmaker.github.io/conspiracy-atlas/iceberg.html) (`iceberg.html`) | Ten tiers from proven-fact at the surface down to deep-lore in the hadal zone. |
+| [List](https://sh1ftmaker.github.io/conspiracy-atlas/list.html) (`list.html`) | Sortable, filterable table. |
+| [Methodology](https://sh1ftmaker.github.io/conspiracy-atlas/methodology.html) (`methodology.html`) | How every score is computed. |
 
-- **Truth**: 0 = debunked, 50 = contested/unfalsifiable, 100 = confirmed historical
-  fact (proven in court, declassified, or admitted). Many entries here score
-  90–100 — MKUltra, COINTELPRO, Watergate, Iran–Contra, NSA mass surveillance,
-  Tuskegee — because a real conspiracy IS a conspiracy theory that turned out
-  to be true.
-- **Impact**: how much the world would change if the theory were true, regardless
-  of truth. A civilization-defining but false theory (flat Earth) can outscore a
-  true but narrow one (a rigged sports match) on this axis.
+Theories are embedded with **gemini-embedding-2** (Vertex AI) and UMAP-projected, so
+claims with similar actors, mechanisms or themes cluster together regardless of genre.
 
-**Load-bearing** theories are ones that other theories cite as a prerequisite
-(`depends_on`). E.g. QAnon depends on "the deep state" being real; if the deep
-state premise collapses, so does everything built on it. In-degree over this
-edge set = how foundational a theory is; these are the largest nodes in the
-graph view.
+## Scoring, in brief
 
-Sources: Wikipedia's [List of conspiracy theories](https://en.wikipedia.org/wiki/List_of_conspiracy_theories),
-Wikidata (`wd:Q159535`), and targeted research agents. Cataloguing a theory —
-including hateful or racist ones (documented as such, with evidence against) —
-is not an endorsement.
+Every score comes from an explicit formula over per-theory factors, not a gut feeling —
+the full derivation is on the [methodology page](https://sh1ftmaker.github.io/conspiracy-atlas/methodology.html).
 
-## Rebuilding
+- **Truth** (empirical claims) — Bayesian log-odds: `100 · σ(prior + evidence − leak)`.
+  The prior is the investigator's triad **Means × Motive × Opportunity** (not genre base
+  rates); evidence is each source weighted by credibility class × stance, with denials by
+  the accused party heavily discounted; the leak term penalizes secrets too big to keep.
+- **Plausibility** (metaphysical frameworks — idealism, simulation theory, pantheism) —
+  a separate violet axis scored on pedigree + coherence + parsimony, capped short of
+  certainty, because a model of reality can never be *proven*.
+- **Impact** — geometric mean of scale × severity × reach (consequence if true).
+- **Notoriety** — measured from Wikipedia pageviews.
+
+## Repository layout
 
 ```
-python src/build.py      # regenerates docs/data.json from data/*.json
-python src/embed_theories.py --sa <path-to-sa.json> --out out/embeddings.npz   # re-embed (only needed if theories changed)
-python src/project_embed.py --emb out/embeddings.npz --data docs/data.json    # re-project + write coords into docs/data.json
-python -m http.server 8000 --directory docs   # preview locally
+docs/                     static site (GitHub Pages serves this)
+  *.html                  the five pages
+  data.json               generated dataset — do NOT hand-edit
+data/
+  theories.seed.json      hand-authored anchor theories
+  enriched/batch_*.json   researched theories (same schema)
+  research/*.json         overlay files (extra sources, steelman, precedents)
+  factors/                per-theory scoring factors (class, impact, conspirators…)
+  frames/                 metaphysical frame flags + pedigree/coherence/parsimony
+  mmo/                    means/motive/opportunity annotations
+  stances/                strict per-source stances + self-denial flags
+  pageviews.json          cached Wikipedia pageviews
+  SCHEMA.md               field reference
+src/
+  build.py                merge + validate + score everything → docs/data.json
+  score.py                the scoring engine (imported by build.py)
+  calibrate.py            diff formula scores vs. editorial, print band migration
+  embed_theories.py       embed each theory with gemini-embedding-2 (Vertex AI)
+  project_embed.py        UMAP-project embeddings → coords + neighbors in data.json
+  fetch_pageviews.py      pull Wikipedia pageviews → data/pageviews.json
+  taxonomy.json           genres + truth/frame/impact scale definitions
 ```
 
-## Extending the dataset
+## Build
 
-Add objects matching the schema in `data/SCHEMA.md` to a new file under
-`data/enriched/`, or append to `data/theories.seed.json`, then rerun the build.
+```bash
+python src/build.py                                                  # data/* → docs/data.json (scores included)
+python src/project_embed.py --emb out/embeddings.npz --data docs/data.json   # re-inject UMAP coords + neighbors
+python -m http.server 8000 --directory docs                         # preview at localhost:8000
+```
+
+`src/build.py` **drops** the embedding coordinates, so always re-run `project_embed.py`
+after a build. Re-embedding (`src/embed_theories.py --sa <service-account.json> --out
+out/embeddings.npz`) is only needed when a theory's name/summary/evidence changed — it
+requires a Vertex AI service-account JSON (never committed). Bump the `data.json?v=N`
+cache string in the `docs/*.html` files whenever the data changes.
+
+## Extend it
+
+1. **Add theories** — drop objects matching `data/SCHEMA.md` into a new
+   `data/enriched/batch_*.json` (or a `data/research/*.json` overlay to amend existing
+   ones). IDs are stable slugs; cross-links resolve by ID.
+2. **Make them scorable** — add the theory's factors under `data/factors/` (and
+   `data/mmo/` for the Means/Motive/Opportunity prior; `data/frames/` if it is a
+   metaphysical framework rather than an empirical claim).
+3. **Rebuild** — run the build + project commands above, then
+   `python src/calibrate.py` to see how the new scores sit against the rest.
+
+## A note
+
+Cataloguing a theory — including hateful or racist ones, documented as such with the
+evidence against them — is not an endorsement. A high Impact score reflects what *would*
+change if a claim were true, not a claim that it is.

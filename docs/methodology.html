@@ -1,0 +1,306 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>The Conspiracy Atlas — Methodology</title>
+<style>
+  :root{
+    --bg:#07080e; --panel:rgba(15,17,27,.86); --line:rgba(255,255,255,.09);
+    --txt:#e8eaf3; --dim:#9aa1bb; --accent:#7cf2d6; --violet:#a78bfa;
+    --for:#4ade80; --against:#f87171;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--txt);
+    font:15px/1.65 ui-sans-serif,system-ui,Segoe UI,Roboto,Helvetica,Arial;
+    -webkit-text-size-adjust:100%}
+  a{color:var(--accent)}
+  #hdr{position:sticky;top:0;z-index:40;background:rgba(7,8,14,.92);backdrop-filter:blur(9px);
+    border-bottom:1px solid var(--line);padding:10px 18px}
+  #hdr .top{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+  #hdr h1{margin:0;font-size:15px;font-weight:650;letter-spacing:.3px;white-space:nowrap}
+  #pagenav{display:flex;gap:6px;flex-wrap:wrap}
+  #pagenav a{font-size:10.5px;padding:3px 10px;border:1px solid var(--line);border-radius:20px;
+    color:var(--dim);text-decoration:none;white-space:nowrap}
+  #pagenav a.on{background:var(--accent);color:#04130f;border-color:var(--accent);font-weight:600}
+  #pagenav a:hover:not(.on){color:var(--txt);border-color:rgba(255,255,255,.25)}
+
+  main{max-width:820px;margin:0 auto;padding:28px 20px 90px}
+  h2{font-size:22px;margin:44px 0 6px;letter-spacing:.2px}
+  h2:first-of-type{margin-top:20px}
+  h3{font-size:16px;margin:26px 0 4px;color:var(--txt)}
+  .lede{font-size:17px;color:var(--txt)}
+  p{color:#cfd4e6}
+  .dim{color:var(--dim)}
+  section{border-top:1px solid var(--line);padding-top:8px}
+  .formula{font-family:ui-monospace,Consolas,"SF Mono",monospace;font-size:14.5px;line-height:1.7;
+    background:rgba(124,242,214,.05);border:1px solid rgba(124,242,214,.16);border-left:3px solid var(--accent);
+    border-radius:8px;padding:12px 15px;margin:14px 0;overflow-x:auto;color:#e8eaf3}
+  .formula.violet{background:rgba(167,139,250,.06);border-color:rgba(167,139,250,.22);border-left-color:var(--violet)}
+  .note{background:rgba(255,255,255,.03);border:1px solid var(--line);border-radius:8px;padding:10px 14px;margin:14px 0;font-size:14px}
+  .note b{color:var(--txt)}
+  table{width:100%;border-collapse:collapse;margin:14px 0;font-size:13.5px}
+  th,td{text-align:left;padding:6px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{font-size:10.5px;text-transform:uppercase;letter-spacing:.8px;color:var(--dim);font-weight:600}
+  td.n{font-family:ui-monospace,Consolas,monospace;white-space:nowrap;font-variant-numeric:tabular-nums}
+  .sw{display:inline-block;width:11px;height:11px;border-radius:3px;vertical-align:-1px;margin-right:6px}
+  .pos{color:var(--for)}.neg{color:var(--against)}
+  .worked{border:1px solid var(--line);border-radius:10px;padding:4px 16px 12px;margin:16px 0;background:rgba(0,0,0,.18)}
+  .worked h4{margin:14px 0 4px;font-size:13.5px;color:var(--accent);letter-spacing:.4px}
+  .worked.violet h4{color:var(--violet)}
+  .wrow{display:flex;justify-content:space-between;gap:12px;font-size:13px;padding:2px 0;
+    font-family:ui-monospace,Consolas,monospace;border-bottom:1px dashed rgba(255,255,255,.06)}
+  .wrow b{font-variant-numeric:tabular-nums}
+  code{font-family:ui-monospace,Consolas,monospace;background:rgba(255,255,255,.07);padding:1px 5px;border-radius:4px;font-size:.9em}
+  ul{color:#cfd4e6;padding-left:20px}li{margin:3px 0}
+  .toc{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 6px}
+  .toc a{font-size:12px;padding:4px 11px;border:1px solid var(--line);border-radius:20px;color:var(--dim);text-decoration:none}
+  .toc a:hover{color:var(--txt);border-color:rgba(255,255,255,.25)}
+  sup,sub{font-size:.72em}
+</style>
+</head>
+<body>
+  <header id="hdr">
+    <div class="top">
+      <h1>The Conspiracy Atlas</h1>
+      <nav id="pagenav">
+        <a href="index.html">3D flythrough</a><a href="2d.html">2D map</a><a href="iceberg.html">Iceberg</a><a href="list.html">List</a><a href="methodology.html" class="on">Methodology</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <h2>How the scores are computed</h2>
+    <p class="lede">Every theory in the Atlas carries three numbers — <b>Truth</b>, <b>Impact</b> and
+    <b>Notoriety</b> — and none of them is a gut feeling. Each is produced by an explicit formula from
+    factors that are annotated per theory and stored in the open repository, so any score can be traced back
+    to its inputs. This page explains every calculation. The same breakdown appears inside each theory's
+    detail panel under <span class="dim">"⚙ Score breakdown."</span></p>
+
+    <div class="toc">
+      <a href="#axes">Two axes</a><a href="#truth">Truth</a><a href="#prior">MMO prior</a>
+      <a href="#evidence">Evidence</a><a href="#self">Self-denials</a><a href="#leak">Leak penalty</a>
+      <a href="#plaus">Plausibility</a><a href="#impact">Impact</a><a href="#noto">Notoriety</a>
+      <a href="#bands">Bands</a><a href="#why">Principles</a>
+    </div>
+
+    <section id="axes">
+      <h2>Two different questions, two axes</h2>
+      <p>A claim like "the CIA dosed unwitting citizens" is a question of <b>historical fact</b> — it either
+      happened or it didn't, and evidence can settle it. A claim like "the universe is fundamentally
+      conscious" is a <b>framework of reality</b> — no document could ever settle it. Scoring the second one
+      with the machinery of the first is a category error, so the Atlas uses two axes:</p>
+      <ul>
+        <li><b>Truth</b> (green→red) — for empirical claims. "Did this actually happen?" Answered by a
+          Bayesian combination of a plausibility prior and weighted evidence.</li>
+        <li><b>Plausibility</b> (<span style="color:var(--violet)">violet</span>) — for metaphysical
+          frameworks. "How credible is this as a model of reality, versus the alternatives?" It is capped
+          well short of certainty, because nothing metaphysical is ever proven.</li>
+      </ul>
+      <p>A theory's detail panel shows which axis is in use: a green "How true" bar and a violet
+      "Plausibility" bar never appear on the same record.</p>
+    </section>
+
+    <section id="truth">
+      <h2>Truth — Bayesian log-odds</h2>
+      <p>Truth is computed as a logistic function of a sum in <b>log-odds</b> space. Working in log-odds
+      means independent pieces of evidence simply add, and a single squashing function maps the total back
+      to a 0–100 score:</p>
+      <div class="formula">Truth = 100 · σ( <span style="color:var(--violet)">prior</span> +
+        <span class="pos">Σ evidence</span> − <span class="neg">leak</span> )
+        &nbsp;&nbsp;<span class="dim">where σ(x) = 1 / (1 + e<sup>−x</sup>)</span></div>
+      <p>The prior sets where a claim starts before any evidence; the evidence terms push it up or down; the
+      leak penalty accounts for the difficulty of keeping a large secret. Each is described below.</p>
+    </section>
+
+    <section id="prior">
+      <h2>The prior — Means, Motive, Opportunity</h2>
+      <p>The prior does <b>not</b> ask "how many theories in this genre turned out true?" The number of false
+      theories in any genre is unlimited — imagination is free — so counting them would punish a real claim
+      for the fanciful company it keeps. Instead the prior scores the specific claim on the classic
+      investigator's triad: did the alleged actors have the <b>means</b>, the <b>motive</b>, and the
+      <b>opportunity</b>? Each is annotated 0–4.</p>
+      <div class="formula">prior = <span id="c_mmin">−3.7</span> + (<span id="c_mmax">−0.6</span> −
+        <span id="c_mmin2">−3.7</span>) · ( means · motive · opportunity )<sup>1/3</sup> / 4</div>
+      <p>The three legs are combined as a <b>geometric mean</b> (a conjunction): a genuine zero on any one
+      leg collapses the prior, because a conspiracy needs all three at once. Crucially, the result is capped
+      <b>below even odds</b> — even a perfect 4/4/4 yields a prior of about <span id="c_mmax2">−0.6</span>
+      (≈ 35%), never 50%.</p>
+      <div class="note"><b>Why the ceiling is below 50%.</b> Means, motive and opportunity establish that a
+      conspiracy was <i>possible</i> — not that it <i>happened</i>. Plenty of actors had every capability and
+      reason for crimes they never committed; opportunity is not occurrence. So even a maximally-plausible
+      claim starts more likely false than true, and the <i>evidence</i> is what earns a high score. A
+      physically impossible mechanism (flat earth, shapeshifting reptilians) pins the prior at the
+      floor, <span id="c_imp">−4.0</span>, regardless of MMO.</p>
+      <p class="dim">Example contrast: "a global cabal secretly runs every nation" has a strong motive but
+      near-zero means and opportunity (you cannot silently coordinate that many people), so its prior is
+      crushed — not because other globalist theories are fringe, but on its own structural merits. A single
+      firm rigging its own market data scores 4/4/4 and starts at the ceiling, where its evidence decides.</p>
+    </section>
+
+    <section id="evidence">
+      <h2>Evidence — credibility × stance</h2>
+      <p>Each source contributes a weight equal to its <b>credibility</b> times its <b>stance</b> toward the
+      claim. Not all sources are interchangeable kinds of proof, so every source is assigned a credibility
+      class by its type and domain:</p>
+      <table id="biasTable"><thead><tr><th>Source class</th><th>Weight (of 5)</th></tr></thead><tbody></tbody></table>
+      <p>Stance is how the source bears on the <b>claimed coordination</b> — not merely on the surrounding
+      event. (A news story titled "what happened in the outage" documents the outage; it says nothing about
+      whether the outage was sabotage.) The strict stances and their log-odds strengths:</p>
+      <table id="stanceTable"><thead><tr><th>Stance</th><th>Strength</th><th>Meaning</th></tr></thead><tbody></tbody></table>
+      <p>A source's weight is <code>(class weight / 5) × stance strength</code>. Several refinements keep any
+      single source from dominating:</p>
+      <ul>
+        <li><b>Diminishing returns.</b> Within each side (for / against), sources are ranked and the
+          k-th strongest is scaled by 1/k — the second corroborating source counts half, the third a third.</li>
+        <li><b>Independence.</b> Multiple sources on the same domain count once (the strongest), so a story
+          syndicated ten places is not ten pieces of evidence.</li>
+        <li><b>Cap.</b> Each side's total is capped at ±<span id="c_evcap">6</span> in log-odds.</li>
+        <li><b>Proof floor.</b> A source that flatly establishes the claim as fact ("proves") from a
+          reasonably reliable venue is credited with the weight of the primary record it reports, even if the
+          venue itself is only tertiary (e.g. an encyclopedia stating a declassified program existed).</li>
+        <li><b>Unsourced fallback.</b> A record with no catalogued sources falls back to its listed evidence
+          bullets at a small fixed weight, so it is not treated as having zero information.</li>
+      </ul>
+    </section>
+
+    <section id="self">
+      <h2>Self-exculpatory sources — the defendant's denial</h2>
+      <p>A source that is simply <b>the accused party denying the accusation</b> — "we didn't do it" — carries
+      almost no probative weight, because a guilty party denies in exactly the same words as an innocent one.
+      When a source is authored by (or officially speaks for) the very party a theory accuses, and its content
+      is a denial or self-exoneration of that same charge, its evidence strength is discounted to
+      <span id="c_self">25%</span> of normal.</p>
+      <div class="note"><b>Admissions against interest are the opposite.</b> When the accused party
+      <i>admits</i> fault, that is among the most credible evidence there is, and it keeps full weight. The
+      discount applies only to self-serving <i>denials</i>, never to self-incriminating admissions — so a
+      government declassifying its own misdeeds counts fully, while the same government's press release
+      denying wrongdoing barely counts. Independent debunkings (journalists, academics, fact-checkers, courts,
+      an unrelated agency) are not discounted; the rule targets "trust us, we didn't do it," not "here is
+      independent proof it is false."</div>
+    </section>
+
+    <section id="leak">
+      <h2>The leak penalty — Grimes' conspiracy-viability model</h2>
+      <p>Big secrets are hard to keep. Following David Grimes' 2016 model (<span class="dim">PLOS ONE</span>),
+      the expected number of leaks grows with the number of knowing conspirators and the years of required
+      silence, so a claim requiring thousands of people to stay quiet for decades is penalized for having
+      not yet leaked:</p>
+      <div class="formula">leak = p · 10<sup>(conspirator magnitude)</sup> · (years unbroken)
+        &nbsp;&nbsp;<span class="dim">capped, and waived once a "proves" source exists</span></div>
+      <p>This bakes in a <b>recency allowance</b>: a claim about a recent event loses little for lacking
+      leaked documents (there has been no time), while "ten thousand people faked the Moon landing for
+      decades" is heavily penalized. Once a claim is actually proven, the penalty is irrelevant and dropped.</p>
+    </section>
+
+    <section id="plaus">
+      <h2>Plausibility — the metaphysical axis</h2>
+      <p>Frameworks of reality (idealism, the simulation hypothesis, panpsychism, pantheism, and invented
+      cosmologies) get their own formula. There is no "evidence" that a worldview happened; there is only how
+      credible it is as a model, relative to competitors. Three factors, each 0–4:</p>
+      <ul>
+        <li><b>Pedigree</b> — who has taken it seriously, from internet invention up to a live position in
+          academic philosophy or theoretical physics.</li>
+        <li><b>Coherence</b> — internal consistency and compatibility with known physics and logic.</li>
+        <li><b>Parsimony</b> — Occam's razor: how heavy an ontology it demands.</li>
+      </ul>
+      <div class="formula violet">Plausibility = 100 · σ( pedigree + coherence + parsimony + argued support )
+        &nbsp;&nbsp;<span class="dim">capped at <span id="c_ceil">85</span></span></div>
+      <p>Here "evidence" means <b>sources that argue for the framework</b> — Bostrom on the simulation
+      argument, Chalmers on panpsychism, the primary texts of a tradition — rather than proof it occurred.
+      The score is capped at <span id="c_ceil2">85</span> because a framework of reality can never be
+      <i>proven</i>, only made more or less compelling. These records render on the violet scale so they are
+      never mistaken for established fact.</p>
+    </section>
+
+    <section id="impact">
+      <h2>Impact — how much would it matter</h2>
+      <p>Impact measures consequence <i>if the claim were true</i> (which is why a false theory can still
+      have high impact). Three factors — how many people are affected (<b>scale</b>), how badly
+      (<b>severity</b>), and how much of the institutional order is implicated (<b>reach</b>) — each 0–5, are
+      combined as a geometric mean so a claim must matter on all three dimensions to rank high:</p>
+      <div class="formula">Impact = 20 · ( scale · severity · reach )<sup>1/3</sup></div>
+    </section>
+
+    <section id="noto">
+      <h2>Notoriety — measured, not guessed</h2>
+      <p>Notoriety is how widely known a theory is, and wherever possible it is <b>measured</b> rather than
+      judged: the trailing-12-month Wikipedia pageviews of the theory's article, on a logarithmic scale
+      (attention is power-law distributed). Records without an article fall back to a small attention-tier
+      rubric, and the measured value is bounded to that tier to guard against pages that are really about the
+      underlying event rather than the theory:</p>
+      <div class="formula">Notoriety = 100 · ( log₁₀(annual pageviews) − <span id="c_noff">1.5</span> ) /
+        <span id="c_ndiv">5.5</span></div>
+    </section>
+
+    <section id="bands">
+      <h2>Score bands</h2>
+      <h3>Truth (factual claims)</h3>
+      <table id="truthBands"><thead><tr><th>Band</th><th>Range</th><th>Meaning</th></tr></thead><tbody></tbody></table>
+      <h3>Plausibility (metaphysical frameworks)</h3>
+      <table id="frameBands"><thead><tr><th>Band</th><th>Range</th><th>Meaning</th></tr></thead><tbody></tbody></table>
+    </section>
+
+    <section id="why">
+      <h2>The principles behind it</h2>
+      <ul>
+        <li><b>Fame is not evidence.</b> A famous theory and an obscure one are scored by the same formula;
+          notoriety feeds only the Notoriety axis, never Truth. Well-known but unproven claims score by their
+          evidence, not their reach.</li>
+        <li><b>Plausibility is not truth.</b> The prior can make a claim <i>plausible</i>; only evidence makes
+          it <i>true</i>. This is why even perfect means/motive/opportunity starts below even odds.</li>
+        <li><b>Survivorship bias runs the other way too.</b> Because proven conspiracies (MKUltra, COINTELPRO,
+          Gulf of Tonkin) show these things do happen, a structurally similar unproven claim is not dismissed
+          out of hand — it gets a fair prior and waits on evidence, rather than a genre penalty.</li>
+        <li><b>Denials from the accused are cheap.</b> The party charged with the wrongdoing gets its say,
+          but at a heavy discount; an admission against its own interest is what counts.</li>
+        <li><b>Everything is reproducible.</b> The formulas and every annotated factor live in the public
+          repository; scores are recomputed from them, not hand-set. If you disagree with a score, you can see
+          exactly which input to argue with.</li>
+      </ul>
+      <p class="dim" style="margin-top:22px">The Atlas catalogues theories to examine them, including ones it
+      scores at zero; a high Impact or a catalogue entry is never an endorsement.</p>
+    </section>
+  </main>
+
+<script>
+fetch('data.json?v=11').then(r=>r.json()).then(d=>{
+  const M=d.meta, C=M.score_constants||{};
+  const set=(id,v)=>{const e=document.getElementById(id); if(e&&v!=null) e.textContent=v;};
+  // live constants
+  set('c_mmin',C.mmo_min); set('c_mmin2',C.mmo_min); set('c_mmax',C.mmo_max); set('c_mmax2',C.mmo_max);
+  set('c_imp',C.impossible_prior); set('c_evcap',C.ev_cap);
+  set('c_self',C.self_denial_discount!=null?Math.round(C.self_denial_discount*100)+'%':null);
+  set('c_ceil',C.frame_ceiling); set('c_ceil2',C.frame_ceiling);
+  set('c_noff',C.noto_log_off); set('c_ndiv',C.noto_log_div);
+  // bias table
+  const bt=document.querySelector('#biasTable tbody');
+  (M.bias_scale||[]).forEach(b=>{const tr=document.createElement('tr');
+    tr.innerHTML=`<td><span class="sw" style="background:${b.color}"></span>${b.label}</td><td class="n">${b.weight}</td>`;
+    bt.appendChild(tr);});
+  // stance table
+  const ss=C.stance_strength||{};
+  const meaning={proves:'authoritatively establishes the conspiracy as fact',
+    supports:'raises the claim’s likelihood without settling it',
+    context:'documents the event or the theory, not the coordination (no weight)',
+    debunks:'argues or finds the core claim false',
+    disproves:'definitively refutes it (forgery, physical impossibility)'};
+  const order=['proves','supports','context','debunks','disproves'];
+  const st=document.querySelector('#stanceTable tbody');
+  order.forEach(k=>{if(ss[k]==null&&k!=='context')return; const v=k==='context'?0:ss[k];
+    const cls=v>0?'pos':v<0?'neg':'dim'; const sign=v>0?'+':'';
+    const tr=document.createElement('tr');
+    tr.innerHTML=`<td>${k}</td><td class="n ${cls}">${sign}${v.toFixed(1)}</td><td class="dim">${meaning[k]||''}</td>`;
+    st.appendChild(tr);});
+  // bands
+  const fill=(sel,arr)=>{const b=document.querySelector(sel); (arr||[]).slice().reverse().forEach(s=>{
+    const tr=document.createElement('tr');
+    const sw=s.color?`<span class="sw" style="background:${s.color}"></span>`:'';
+    tr.innerHTML=`<td>${sw}${s.label}</td><td class="n">${s.min}–${s.max}</td><td class="dim">${s.note||''}</td>`;
+    b.appendChild(tr);});};
+  fill('#truthBands tbody', M.truth_scale);
+  fill('#frameBands tbody', M.frame_scale);
+}).catch(()=>{});
+</script>
+</body>
+</html>

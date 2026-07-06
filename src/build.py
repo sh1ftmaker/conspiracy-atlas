@@ -266,6 +266,18 @@ if st_map:
                     s_["st"] = st
                     applied += 1
 
+# ---- self-exculpatory (defendant-denial) source flags (data/stances/self_*.json) ----
+self_set = set()
+for sf in sorted(glob.glob(p("data", "stances", "self_*.json"))):
+    for e in load(sf):
+        if e.get("self"):
+            self_set.add((e["id"], e["url"]))
+if self_set:
+    for rid in order:
+        for s_ in records[rid]["sources"]:
+            if isinstance(s_, dict) and (rid, s_.get("url")) in self_set:
+                s_["self"] = True
+
 # ---- formula scoring (src/score.py): truth/impact/notoriety from factors ----
 # Manual scores are preserved as *_manual; records without factor annotations
 # keep their manual scores and get no breakdown.
@@ -328,7 +340,7 @@ out = {
         "scored": scored,
         "score_constants": {k: SC[k] for k in
             ("prior_clamp", "impossible_prior", "mmo_min", "mmo_max", "mmo_floor",
-             "stance_strength", "ev_cap",
+             "self_denial_discount", "stance_strength", "ev_cap",
              "prose_w", "leak_p", "leak_cap", "impact_gain",
              "noto_log_off", "noto_log_div", "noto_tier_band", "att_ladder",
              "ped_map", "coh_map", "par_map", "frame_ceiling",
