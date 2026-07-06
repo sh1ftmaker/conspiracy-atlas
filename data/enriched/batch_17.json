@@ -1,0 +1,501 @@
+[
+  {
+    "id": "lavon-affair",
+    "name": "Lavon Affair (Operation Susannah)",
+    "aliases": [
+      "Operation Susannah"
+    ],
+    "genre": "espionage",
+    "year": 1954,
+    "truth": 97,
+    "impact": 50,
+    "notoriety": 42,
+    "summary": "In 1954, Israeli military intelligence (Unit 131) recruited Egyptian Jews to plant bombs at American, British, and Egyptian civilian targets in Cairo and Alexandria, intending to be blamed on Egyptian nationalists and derail British withdrawal from the Suez Canal Zone. Egyptian authorities arrested and publicly tried the operatives in 1954; Israel denied involvement for decades until 2005, when President Moshe Katsav publicly honored the surviving agents.",
+    "evidence_for": [
+      {
+        "text": "Egyptian authorities arrested the Israeli-recruited operatives in 1954 and put them on a public trial, exposing the bombing campaign; two were executed.",
+        "source": "https://en.wikipedia.org/wiki/Lavon_Affair"
+      },
+      {
+        "text": "In March 2005, Israeli President Moshe Katsav awarded certificates of appreciation to the surviving Operation Susannah agents, formally ending Israel's decades-long denial of the operation.",
+        "source": "https://www.ynetnews.com/articles/0,7340,L-3065838,00.html"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Israel's internal 1960 Olshan-Dori Committee inquiry found Defense Minister Pinhas Lavon had likely not personally authorized the operation, so exact command responsibility remains disputed.",
+        "source": "https://en.wikipedia.org/wiki/Lavon_Affair"
+      }
+    ],
+    "related": [
+      "operation-mockingbird",
+      "operation-gladio",
+      "operation-northwoods"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Lavon_Affair",
+    "sources": [
+      {
+        "title": "Lavon Affair",
+        "url": "https://en.wikipedia.org/wiki/Lavon_Affair",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Israel honors 9 Egyptian spies",
+        "url": "https://www.ynetnews.com/articles/0,7340,L-3065838,00.html",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "katyn-massacre",
+    "name": "Katyn Massacre",
+    "aliases": [
+      "Katyn Forest Massacre"
+    ],
+    "genre": "government",
+    "year": 1990,
+    "truth": 99,
+    "impact": 55,
+    "notoriety": 55,
+    "summary": "In spring 1940, the Soviet NKVD executed nearly 22,000 Polish military officers, police, and intelligentsia at Katyn Forest and other sites, on direct written orders from Stalin and the Politburo. The USSR blamed Nazi Germany for the massacre for 50 years until April 1990, when Soviet leader Mikhail Gorbachev formally admitted Soviet responsibility and began releasing the incriminating archives.",
+    "evidence_for": [
+      {
+        "text": "In April 1990 Soviet leader Mikhail Gorbachev admitted the NKVD had executed the Poles and identified additional mass-grave sites at Mednoye and Piatykhatky.",
+        "source": "https://en.wikipedia.org/wiki/Katyn_massacre"
+      },
+      {
+        "text": "Declassified Soviet archives, including Beria's March 1940 execution proposal signed by Stalin, were released by Boris Yeltsin to Poland, confirming the 21,857 documented victims.",
+        "source": "https://www.rferl.org/a/after-80-years-the-katyn-lie-lives-on-in-russia/30470317.html"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Russian officials have periodically sought to relitigate or downplay the finding since the 1990 admission, though the historical record itself is not seriously disputed by historians.",
+        "source": "https://www.rferl.org/a/after-80-years-the-katyn-lie-lives-on-in-russia/30470317.html"
+      }
+    ],
+    "related": [
+      "mukden-incident",
+      "operation-himmler"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Katyn_massacre",
+    "sources": [
+      {
+        "title": "Katyn massacre",
+        "url": "https://en.wikipedia.org/wiki/Katyn_massacre",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "After 80 Years, The 'Katyn Lie' Lives On In Russia",
+        "url": "https://www.rferl.org/a/after-80-years-the-katyn-lie-lives-on-in-russia/30470317.html",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "operation-ajax-1953",
+    "name": "Operation Ajax (1953 Iranian Coup)",
+    "aliases": [
+      "TPAJAX Project",
+      "1953 Iranian coup d'état",
+      "Operation Boot"
+    ],
+    "genre": "espionage",
+    "year": 2013,
+    "truth": 98,
+    "impact": 70,
+    "notoriety": 65,
+    "summary": "In August 1953, the CIA and British MI6 orchestrated the overthrow of Iran's democratically elected Prime Minister Mohammad Mosaddegh after he nationalized the Anglo-Iranian Oil Company, replacing him with the authoritarian rule of the Shah. The US government formally acknowledged the CIA's role for the first time in August 2013 with the release of declassified internal documents.",
+    "evidence_for": [
+      {
+        "text": "Declassified CIA internal documents released in August 2013 state the coup was conducted 'under CIA direction' as 'an act of U.S. foreign policy, conceived and approved at the highest levels of government.'",
+        "source": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB435/"
+      },
+      {
+        "text": "The CIA's own internal history and subsequent National Security Archive document releases detail the planning and execution of the TPAJAX covert operation.",
+        "source": "https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Some operational details, including the full extent of British MI6 involvement, remain redacted in released files.",
+        "source": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB435/"
+      }
+    ],
+    "related": [
+      "guatemala-1954-coup",
+      "operation-gladio",
+      "church-committee"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat",
+    "sources": [
+      {
+        "title": "1953 Iranian coup d'état",
+        "url": "https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "CIA Confirms Role in 1953 Iran Coup",
+        "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB435/",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "mukden-incident",
+    "name": "Mukden Incident",
+    "aliases": [
+      "Manchurian Incident"
+    ],
+    "genre": "government",
+    "year": 1932,
+    "truth": 97,
+    "impact": 75,
+    "notoriety": 55,
+    "summary": "On September 18, 1931, Japanese Kwantung Army officers detonated a small explosive charge on the South Manchuria Railway near Mukden and blamed Chinese saboteurs, using the incident as a pretext to invade and occupy Manchuria. The League of Nations' Lytton Commission concluded in its October 1932 report that Japan's justification was unfounded, and postwar investigations further confirmed Japanese officers had staged the blast themselves.",
+    "evidence_for": [
+      {
+        "text": "The League of Nations' Lytton Commission report (October 1932) rejected Japan's justification for the invasion and found Manchukuo to be a product of Japanese military aggression.",
+        "source": "https://www.loc.gov/item/2021666890/"
+      },
+      {
+        "text": "Postwar historical investigation confirmed Kwantung Army officers Seishirō Itagaki and Kanji Ishiwara planned and executed the railway bombing themselves.",
+        "source": "https://en.wikipedia.org/wiki/Mukden_Incident"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "None — documented historical fact; even Japan's own Yūshūkan war museum now acknowledges Kwantung Army responsibility for staging the incident.",
+        "source": "https://en.wikipedia.org/wiki/Mukden_Incident"
+      }
+    ],
+    "related": [
+      "operation-himmler",
+      "gulf-of-tonkin",
+      "operation-northwoods"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mukden_Incident",
+    "sources": [
+      {
+        "title": "Mukden Incident",
+        "url": "https://en.wikipedia.org/wiki/Mukden_Incident",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Situation in Manchuria: Report of the Lytton Commission of Inquiry",
+        "url": "https://www.loc.gov/item/2021666890/",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "operation-himmler",
+    "name": "Operation Himmler (Gleiwitz Incident)",
+    "aliases": [
+      "Gleiwitz incident",
+      "Operation Konserve"
+    ],
+    "genre": "government",
+    "year": 1945,
+    "truth": 99,
+    "impact": 85,
+    "notoriety": 60,
+    "summary": "On the night of August 31, 1939, SS operatives under Alfred Naujocks staged an attack on the Gleiwitz radio station, dressing in Polish uniforms and leaving murdered concentration-camp prisoners as fake casualties, fabricating a pretext for Nazi Germany's invasion of Poland the next day. The deception was exposed at the Nuremberg trials in 1945 through Naujocks' sworn affidavit.",
+    "evidence_for": [
+      {
+        "text": "Alfred Naujocks' November 1945 affidavit, entered as Nuremberg prosecution exhibit PS-2751, describes orders from Heydrich and Müller to stage the fake Polish attack on Gleiwitz.",
+        "source": "https://nuremberg.law.harvard.edu/documents/451629-affidavit-concerning-the-staging"
+      },
+      {
+        "text": "Hitler cited the fabricated 'border incidents' in his September 1, 1939 Reichstag speech justifying the invasion of Poland.",
+        "source": "https://en.wikipedia.org/wiki/Operation_Himmler"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "None — documented historical fact, established via sworn Nuremberg testimony from the operation's own commander.",
+        "source": "https://nuremberg.law.harvard.edu/documents/451629-affidavit-concerning-the-staging"
+      }
+    ],
+    "related": [
+      "mukden-incident",
+      "gulf-of-tonkin",
+      "operation-northwoods"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Operation_Himmler",
+    "sources": [
+      {
+        "title": "Operation Himmler",
+        "url": "https://en.wikipedia.org/wiki/Operation_Himmler",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Affidavit concerning the staging of the supposed Polish attack (Alfred Naujocks, Nuremberg IMT)",
+        "url": "https://nuremberg.law.harvard.edu/documents/451629-affidavit-concerning-the-staging",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "operation-fast-and-furious",
+    "name": "Operation Fast and Furious",
+    "aliases": [
+      "ATF gunwalking scandal"
+    ],
+    "genre": "government",
+    "year": 2011,
+    "truth": 92,
+    "impact": 45,
+    "notoriety": 60,
+    "summary": "Between 2009 and 2011, ATF agents in Arizona deliberately allowed licensed gun dealers to sell firearms to suspected straw purchasers for Mexican drug cartels, hoping to trace the weapons to cartel leadership, but lost track of most of the roughly 2,000 guns involved. The scandal became public after Border Patrol agent Brian Terry was killed in December 2010 with weapons traced to the operation, prompting congressional investigations in 2011.",
+    "evidence_for": [
+      {
+        "text": "The DOJ Office of the Inspector General's September 2012 report, 'A Review of ATF's Operation Fast and Furious and Related Matters,' documented the operation's management failures and found 14 ATF/DOJ officials responsible.",
+        "source": "https://oig.justice.gov/reports/review-atfs-operation-fast-and-furious-and-related-matters"
+      },
+      {
+        "text": "2011 congressional hearings led by Senator Chuck Grassley produced whistleblower testimony from ATF agents describing the 'gunwalking' tactics and orders to 'stand down' rather than interdict weapons.",
+        "source": "https://en.wikipedia.org/wiki/ATF_gunwalking_scandal"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The Inspector General's report found no evidence that Attorney General Eric Holder personally authorized the gunwalking tactics.",
+        "source": "https://oig.justice.gov/reports/review-atfs-operation-fast-and-furious-and-related-matters"
+      }
+    ],
+    "related": [
+      "church-committee"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/ATF_gunwalking_scandal",
+    "sources": [
+      {
+        "title": "ATF gunwalking scandal",
+        "url": "https://en.wikipedia.org/wiki/ATF_gunwalking_scandal",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "A Review of ATF's Operation Fast and Furious and Related Matters",
+        "url": "https://oig.justice.gov/reports/review-atfs-operation-fast-and-furious-and-related-matters",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "nayirah-testimony",
+    "name": "Nayirah Incubator Testimony",
+    "aliases": [
+      "Kuwaiti incubator hoax",
+      "Nayirah al-Sabah testimony"
+    ],
+    "genre": "media-surveillance",
+    "year": 1992,
+    "truth": 96,
+    "impact": 55,
+    "notoriety": 65,
+    "summary": "In October 1990, a 15-year-old identified only as 'Nayirah' tearfully testified to a US congressional caucus that she saw Iraqi soldiers rip Kuwaiti babies from hospital incubators and leave them to die; she was later revealed to be the daughter of Kuwait's ambassador to the US, and her testimony had been coached by the PR firm Hill & Knowlton as part of a Kuwaiti-government-funded campaign to build American support for war with Iraq. Journalists and human rights investigators exposed the fabrication in 1992.",
+    "evidence_for": [
+      {
+        "text": "Middle East Watch (Human Rights Watch) published its investigative report 'Kuwait's Stolen Incubators' in February 1992, finding no truth to the central incubator claims.",
+        "source": "https://www.hrw.org/reports/pdfs/k/kuwait/kuwait922.pdf"
+      },
+      {
+        "text": "Journalist John MacArthur's 1992 reporting identified Nayirah as the daughter of Kuwait's ambassador to the US and detailed Hill & Knowlton's roughly $12 million PR campaign for Citizens for a Free Kuwait.",
+        "source": "https://en.wikipedia.org/wiki/Nayirah_testimony"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Iraqi forces did commit other documented abuses during the occupation of Kuwait, though not the specific incubator atrocity described in the testimony.",
+        "source": "https://en.wikipedia.org/wiki/Nayirah_testimony"
+      }
+    ],
+    "related": [
+      "operation-mockingbird",
+      "gulf-of-tonkin"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Nayirah_testimony",
+    "sources": [
+      {
+        "title": "Nayirah testimony",
+        "url": "https://en.wikipedia.org/wiki/Nayirah_testimony",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Kuwait's Stolen Incubators: The Widespread Repercussions of a Murky Incident",
+        "url": "https://www.hrw.org/reports/pdfs/k/kuwait/kuwait922.pdf",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ]
+  },
+  {
+    "id": "guatemala-1954-coup",
+    "name": "1954 Guatemalan Coup (PBSuccess)",
+    "aliases": [
+      "Operation PBSuccess"
+    ],
+    "genre": "espionage",
+    "year": 1997,
+    "truth": 98,
+    "impact": 65,
+    "notoriety": 45,
+    "summary": "In June 1954, the CIA's Operation PBSuccess armed, trained, and directed a small rebel force under Carlos Castillo Armas, combined with psychological warfare and bombing runs, to overthrow Guatemala's democratically elected President Jacobo Árbenz after his land reforms threatened the US-based United Fruit Company. The CIA's central role was confirmed through declassified documents released beginning in 1997.",
+    "evidence_for": [
+      {
+        "text": "Declassified CIA records released in 1997 (National Security Archive Electronic Briefing Book No. 4), including assassination target lists and internal histories, document the agency's direction of the coup.",
+        "source": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB4/"
+      },
+      {
+        "text": "CIA historian Nicholas Cullather's declassified internal study, 'Operation PBSUCCESS: The United States and Guatemala, 1952-1954,' details the agency's planning and execution of the operation.",
+        "source": "https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27%C3%A9tat"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The full extent of CIA assassination planning versus mere contingency listing of targets remains debated by historians.",
+        "source": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB4/"
+      }
+    ],
+    "related": [
+      "operation-ajax-1953",
+      "operation-gladio",
+      "church-committee"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27%C3%A9tat",
+    "sources": [
+      {
+        "title": "1954 Guatemalan coup d'état",
+        "url": "https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27%C3%A9tat",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "CIA and Assassinations: The Guatemala 1954 Documents",
+        "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB4/",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "hawaiian-kingdom-overthrow",
+    "name": "Overthrow of the Hawaiian Kingdom",
+    "aliases": [
+      "1893 Hawaiian coup"
+    ],
+    "genre": "government",
+    "year": 1893,
+    "truth": 98,
+    "impact": 55,
+    "notoriety": 60,
+    "summary": "On January 17, 1893, a group of American and European businessmen in Honolulu, backed by US Minister John L. Stevens and armed US Marines and sailors from the USS Boston, overthrew Queen Liliʻuokalani's government and installed a Provisional Government, paving the way for US annexation. President Grover Cleveland's own 1893 investigation (the Blount Report) concluded the overthrow was illegal and unauthorized, and in 1993 Congress formally apologized via the Apology Resolution, acknowledging American agents' role.",
+    "evidence_for": [
+      {
+        "text": "President Cleveland's 1893 message to Congress, based on the Blount Report investigation, called the overthrow 'an act of war' committed without the consent of the Hawaiian people.",
+        "source": "https://www.hawaii-nation.org/publawsum.html"
+      },
+      {
+        "text": "The 1993 US Apology Resolution (Public Law 103-150), signed by President Clinton, formally acknowledges 'the active participation of agents and citizens of the United States' in the overthrow of the Kingdom of Hawaii.",
+        "source": "https://www.hawaii-nation.org/publawsum.html"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The 2009 US Supreme Court ruling in Hawaii v. Office of Hawaiian Affairs held that the Apology Resolution's language does not itself alter legal title to Hawaiian lands.",
+        "source": "https://en.wikipedia.org/wiki/Overthrow_of_the_Hawaiian_Kingdom"
+      }
+    ],
+    "related": [
+      "operation-ajax-1953",
+      "guatemala-1954-coup"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Overthrow_of_the_Hawaiian_Kingdom",
+    "sources": [
+      {
+        "title": "Overthrow of the Hawaiian Kingdom",
+        "url": "https://en.wikipedia.org/wiki/Overthrow_of_the_Hawaiian_Kingdom",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Apology Resolution (Public Law 103-150) excerpts",
+        "url": "https://www.hawaii-nation.org/publawsum.html",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "operation-menu",
+    "name": "Operation Menu (Secret Bombing of Cambodia)",
+    "aliases": [
+      "Menu bombings"
+    ],
+    "genre": "government",
+    "year": 1973,
+    "truth": 97,
+    "impact": 60,
+    "notoriety": 50,
+    "summary": "From March 1969 to May 1970, the Nixon administration secretly ordered thousands of B-52 bombing raids on Cambodia while falsifying official reports to conceal the campaign from Congress and the public. The dual-reporting deception was exposed in 1973 after whistleblower Major Hal Knight alerted Senator William Proxmire, prompting Senate Armed Services Committee hearings in which Secretary of Defense James Schlesinger publicly confirmed the secret bombing.",
+    "evidence_for": [
+      {
+        "text": "July 1973 Senate Armed Services Committee hearings featured Major Hal Knight's testimony describing the falsified dual-reporting system used to hide roughly 3,875 bombing missions from Congress.",
+        "source": "https://www.airandspaceforces.com/article/the-shadow-war-in-cambodia/"
+      },
+      {
+        "text": "Defense Secretary James Schlesinger publicly acknowledged in 1973 that B-52s had secretly bombed Cambodia in 1969 and 1970.",
+        "source": "https://en.wikipedia.org/wiki/Operation_Menu"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "None — documented historical fact, confirmed by Pentagon officials' own congressional testimony.",
+        "source": "https://www.airandspaceforces.com/article/the-shadow-war-in-cambodia/"
+      }
+    ],
+    "related": [
+      "gulf-of-tonkin",
+      "church-committee",
+      "operation-ajax-1953"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Operation_Menu",
+    "sources": [
+      {
+        "title": "Operation Menu",
+        "url": "https://en.wikipedia.org/wiki/Operation_Menu",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Shadow War in Cambodia",
+        "url": "https://www.airandspaceforces.com/article/the-shadow-war-in-cambodia/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  }
+]

@@ -1,0 +1,505 @@
+[
+  {
+    "id": "libor-scandal",
+    "name": "Libor Scandal",
+    "aliases": [
+      "Libor Rigging Scandal",
+      "Barclays Libor Scandal"
+    ],
+    "genre": "finance",
+    "year": 2012,
+    "truth": 97,
+    "impact": 55,
+    "notoriety": 55,
+    "summary": "Major international banks, including Barclays, UBS, and Deutsche Bank, systematically submitted false interest-rate data to manipulate the London Interbank Offered Rate (Libor), a benchmark underpinning hundreds of trillions of dollars in financial contracts, for profit and to appear more creditworthy. The scheme drew scrutiny from a 2008 Wall Street Journal investigation and was confirmed in June 2012 when Barclays admitted misconduct and paid regulatory penalties, triggering a wave of criminal prosecutions and multibillion-dollar fines against other banks.",
+    "evidence_for": [
+      {
+        "text": "Barclays admitted to the U.S. Department of Justice that it submitted false Libor and Euribor rates that improperly reflected its derivatives traders' positions, and paid a $160 million penalty.",
+        "source": "https://www.justice.gov/archives/opa/pr/barclays-bank-plc-admits-misconduct-related-submissions-london-interbank-offered-rate-and"
+      },
+      {
+        "text": "Wikipedia documents that UBS, RBS, Deutsche Bank, Rabobank and others subsequently paid billions of dollars in fines, and UK trader Tom Hayes was criminally convicted for orchestrating the rigging.",
+        "source": "https://en.wikipedia.org/wiki/Libor_scandal"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Some individual convictions were later overturned on appeal — U.S. courts vacated Matthew Connolly's and Gavin Black's convictions in 2022, and the UK Supreme Court quashed Tom Hayes' and Carlo Palombo's convictions in 2025 over faulty jury instructions — though the banks' admissions of institutional wrongdoing and the fines stand.",
+        "source": "https://en.wikipedia.org/wiki/Libor_scandal"
+      }
+    ],
+    "related": [
+      "forex-rigging-scandal",
+      "hsbc-money-laundering",
+      "deutsche-bank-mirror-trades"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Libor_scandal",
+    "sources": [
+      {
+        "title": "Libor scandal",
+        "url": "https://en.wikipedia.org/wiki/Libor_scandal",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Barclays Bank PLC Admits Misconduct Related to Submissions for the London Interbank Offered Rate and the Euro Interbank Offered Rate and Agrees to Pay $160 Million Penalty",
+        "url": "https://www.justice.gov/archives/opa/pr/barclays-bank-plc-admits-misconduct-related-submissions-london-interbank-offered-rate-and",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "forex-rigging-scandal",
+    "name": "Forex Rigging Scandal",
+    "aliases": [
+      "FX Cartel Scandal",
+      "Forex Scandal"
+    ],
+    "genre": "finance",
+    "year": 2013,
+    "truth": 97,
+    "impact": 50,
+    "notoriety": 35,
+    "summary": "Traders at Barclays, Citigroup, JPMorgan, RBS, UBS and other major banks colluded through private chat rooms nicknamed \"The Cartel\" to front-run client orders and rig the WM/Reuters foreign-exchange benchmark rates for profit. Bloomberg News broke the story in June 2013, and in May 2015 five banks pleaded guilty to felony antitrust charges, paying more than $5.7 billion in combined fines.",
+    "evidence_for": [
+      {
+        "text": "The U.S. Department of Justice announced that Citicorp, JPMorgan Chase, Barclays and RBS agreed to plead guilty to conspiring to manipulate FX spot market prices, paying over $2.5 billion in criminal fines, while UBS pleaded guilty to a related Libor breach.",
+        "source": "https://www.justice.gov/opa/pr/five-major-banks-agree-parent-level-guilty-pleas"
+      },
+      {
+        "text": "Wikipedia documents that at least 15 banks were implicated and that UK and US regulators separately levied over $3 billion in fines in November 2014.",
+        "source": "https://en.wikipedia.org/wiki/Forex_scandal"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Prosecutions of individual traders proved difficult; only a small number were criminally charged relative to the scale of the conspiracy.",
+        "source": "https://en.wikipedia.org/wiki/Forex_scandal"
+      }
+    ],
+    "related": [
+      "libor-scandal",
+      "hsbc-money-laundering",
+      "deutsche-bank-mirror-trades"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Forex_scandal",
+    "sources": [
+      {
+        "title": "Forex scandal",
+        "url": "https://en.wikipedia.org/wiki/Forex_scandal",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Five Major Banks Agree to Parent-Level Guilty Pleas",
+        "url": "https://www.justice.gov/opa/pr/five-major-banks-agree-parent-level-guilty-pleas",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "hsbc-money-laundering",
+    "name": "HSBC Money Laundering",
+    "aliases": [
+      "HSBC Cartel Money Laundering Scandal"
+    ],
+    "genre": "finance",
+    "year": 2012,
+    "truth": 97,
+    "impact": 45,
+    "notoriety": 45,
+    "summary": "HSBC failed to maintain adequate anti-money-laundering controls, allowing Mexico's Sinaloa and Norte del Valle drug cartels to launder at least $881 million through its U.S. accounts, and permitted transactions with sanctioned countries including Iran and Sudan. A July 2012 U.S. Senate investigation exposed the failures, and in December 2012 HSBC entered a deferred prosecution agreement and forfeited $1.92 billion.",
+    "evidence_for": [
+      {
+        "text": "The DOJ announced that HSBC Holdings and HSBC Bank USA admitted to anti-money-laundering and sanctions violations and forfeited $1.256 billion as part of a $1.92 billion settlement.",
+        "source": "https://www.justice.gov/archives/opa/pr/hsbc-holdings-plc-and-hsbc-bank-usa-na-admit-anti-money-laundering-and-sanctions-violations"
+      },
+      {
+        "text": "Wikipedia documents that HSBC Mexico was described by a recorded drug lord as a preferred location for laundering money, and that the bank failed to monitor $670 billion in wire transfers.",
+        "source": "https://en.wikipedia.org/wiki/HSBC"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "No HSBC executives were criminally prosecuted; the DOJ opted for a deferred prosecution agreement, citing concern that criminal charges could destabilize the bank and broader financial system.",
+        "source": "https://en.wikipedia.org/wiki/HSBC"
+      }
+    ],
+    "related": [
+      "wachovia-money-laundering",
+      "deutsche-bank-mirror-trades",
+      "libor-scandal"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/HSBC",
+    "sources": [
+      {
+        "title": "HSBC",
+        "url": "https://en.wikipedia.org/wiki/HSBC",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "HSBC Holdings Plc. and HSBC Bank USA N.A. Admit to Anti-Money Laundering and Sanctions Violations, Forfeit $1.256 Billion in Deferred Prosecution Agreement",
+        "url": "https://www.justice.gov/archives/opa/pr/hsbc-holdings-plc-and-hsbc-bank-usa-na-admit-anti-money-laundering-and-sanctions-violations",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "wachovia-money-laundering",
+    "name": "Wachovia Cartel Money Laundering",
+    "aliases": [
+      "Wachovia Drug Money Scandal"
+    ],
+    "genre": "finance",
+    "year": 2010,
+    "truth": 96,
+    "impact": 40,
+    "notoriety": 30,
+    "summary": "Wachovia Bank failed to monitor $378.4 billion in transfers with Mexican money-exchange houses between 2004 and 2007, allowing drug cartels to launder at least $110 million in narcotics proceeds through the U.S. financial system. First reported by the Wall Street Journal in 2008, the scheme was confirmed in March 2010 when Wachovia entered a deferred prosecution agreement and paid $160 million.",
+    "evidence_for": [
+      {
+        "text": "The U.S. Attorney's Office for the Southern District of Florida announced Wachovia's deferred prosecution agreement, under which the bank forfeited $110 million and paid a $50 million Treasury fine for what regulators called \"systemic\" Bank Secrecy Act violations.",
+        "source": "https://www.justice.gov/archive/usao/fls/PressReleases/2010/100317-02.html"
+      },
+      {
+        "text": "Wikipedia documents that at least $373 billion in wire transfers and $4 billion in bulk cash moved through the casas de cambio accounts with insufficient anti-money-laundering controls.",
+        "source": "https://en.wikipedia.org/wiki/Wachovia"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "As with other bank money-laundering cases of the era, no individual Wachovia executives faced criminal charges.",
+        "source": "https://en.wikipedia.org/wiki/Wachovia"
+      }
+    ],
+    "related": [
+      "hsbc-money-laundering",
+      "deutsche-bank-mirror-trades"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Wachovia",
+    "sources": [
+      {
+        "title": "Wachovia",
+        "url": "https://en.wikipedia.org/wiki/Wachovia",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Wachovia Enters Into Deferred Prosecution Agreement",
+        "url": "https://www.justice.gov/archive/usao/fls/PressReleases/2010/100317-02.html",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-bank-mirror-trades",
+    "name": "Deutsche Bank Russian Mirror Trades",
+    "aliases": [
+      "Deutsche Bank Mirror Trading Scandal"
+    ],
+    "genre": "finance",
+    "year": 2015,
+    "truth": 96,
+    "impact": 40,
+    "notoriety": 30,
+    "summary": "Deutsche Bank's Moscow equities desk executed \"mirror trades\" — matched purchases in rubles and offsetting sales in other currencies through its London and New York branches — that moved roughly $10 billion out of Russia between 2011 and 2015, likely for money laundering or illicit capital flight. Financial journalists exposed the scheme in 2015, and in January 2017 the New York State Department of Financial Services fined the bank $425 million for the compliance failures.",
+    "evidence_for": [
+      {
+        "text": "The New York Department of Financial Services announced a $425 million fine and independent monitor requirement after finding Deutsche Bank's Moscow, London and New York offices ran a mirror-trading scheme that laundered $10 billion out of Russia.",
+        "source": "https://www.dfs.ny.gov/reports_and_publications/press_releases/pr1701301"
+      },
+      {
+        "text": "Wikipedia documents the scheme operated by matching purchases of Russian blue-chip stocks in rubles with identical offsetting sales through the bank's London branch.",
+        "source": "https://en.wikipedia.org/wiki/Deutsche_Bank"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Investigators could not always identify the ultimate beneficiaries or definitively prove criminal intent behind every trade; the settlement was a civil/regulatory consent order rather than a criminal conviction.",
+        "source": "https://www.dfs.ny.gov/reports_and_publications/press_releases/pr1701301"
+      }
+    ],
+    "related": [
+      "hsbc-money-laundering",
+      "wachovia-money-laundering",
+      "libor-scandal"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Deutsche_Bank",
+    "sources": [
+      {
+        "title": "Deutsche Bank",
+        "url": "https://en.wikipedia.org/wiki/Deutsche_Bank",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "DFS Fines Deutsche Bank $425 Million for Russian Mirror-Trading Scheme",
+        "url": "https://www.dfs.ny.gov/reports_and_publications/press_releases/pr1701301",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "purdue-oxycontin-marketing",
+    "name": "Purdue Pharma OxyContin Marketing",
+    "aliases": [
+      "OxyContin Marketing Scandal",
+      "Sackler Opioid Scandal"
+    ],
+    "genre": "health",
+    "year": 2007,
+    "truth": 97,
+    "impact": 55,
+    "notoriety": 80,
+    "summary": "Purdue Pharma trained sales representatives to falsely tell doctors that OxyContin's addiction risk was under one percent and marketed 12-hour dosing despite internal data showing the drug often wore off sooner, fueling widespread overprescription and addiction. In May 2007, Purdue and three executives pleaded guilty to federal charges of misbranding the drug, and the company later faced an $8 billion global resolution and bankruptcy amid the broader opioid epidemic.",
+    "evidence_for": [
+      {
+        "text": "Internal Purdue documents and trial evidence show the company trained sales reps to claim OxyContin's addiction risk was under 1%, and in May 2007 Purdue Frederick pleaded guilty to felony misbranding, paying $600 million with three executives fined $34.5 million.",
+        "source": "https://en.wikipedia.org/wiki/Purdue_Pharma"
+      },
+      {
+        "text": "The Justice Department announced a further global resolution of criminal and civil investigations into Purdue Pharma's opioid marketing, part of the broader $8 billion settlement following the company's 2019 bankruptcy filing.",
+        "source": "https://www.justice.gov/archives/opa/pr/justice-department-announces-global-resolution-criminal-and-civil-investigations-opioid"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Members of the Sackler family, who owned and directed Purdue, largely avoided personal criminal liability despite the 2020 global resolution and later bankruptcy settlement.",
+        "source": "https://en.wikipedia.org/wiki/Purdue_Pharma"
+      }
+    ],
+    "related": [
+      "insys-opioid-bribery",
+      "merck-vioxx",
+      "gsk-china-bribery"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Purdue_Pharma",
+    "sources": [
+      {
+        "title": "Purdue Pharma",
+        "url": "https://en.wikipedia.org/wiki/Purdue_Pharma",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Justice Department Announces Global Resolution of Criminal and Civil Investigations with Opioid Manufacturer Purdue Pharma and Civil Settlement with Members of the Sackler Family",
+        "url": "https://www.justice.gov/archives/opa/pr/justice-department-announces-global-resolution-criminal-and-civil-investigations-opioid",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "insys-opioid-bribery",
+    "name": "Insys Therapeutics Opioid Bribery",
+    "aliases": [
+      "Insys Subsys Bribery Scandal"
+    ],
+    "genre": "health",
+    "year": 2016,
+    "truth": 97,
+    "impact": 45,
+    "notoriety": 45,
+    "summary": "Insys Therapeutics paid doctors sham \"speaker fees\" as kickbacks to prescribe its fentanyl spray Subsys to non-cancer patients, and had employees impersonate physicians' offices to trick insurers into covering the drug. Federal prosecutors arrested founder John Kapoor and six other executives in December 2016; a 2019 jury convicted five of them of racketeering conspiracy, and the company paid a $225 million settlement before filing for bankruptcy.",
+    "evidence_for": [
+      {
+        "text": "The Justice Department announced a $225 million global resolution with Insys Therapeutics, including a guilty plea to mail fraud and a deferred prosecution agreement, over kickbacks paid to induce Subsys prescriptions.",
+        "source": "https://www.justice.gov/archives/opa/pr/opioid-manufacturer-insys-therapeutics-agrees-enter-225-million-global-resolution-criminal"
+      },
+      {
+        "text": "Wikipedia documents that a May 2019 federal jury convicted founder John Kapoor and four other executives of racketeering conspiracy, and Kapoor was sentenced to 5.5 years in prison.",
+        "source": "https://en.wikipedia.org/wiki/Insys_Therapeutics"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "None — documented via federal jury conviction and DOJ settlement.",
+        "source": "https://en.wikipedia.org/wiki/Insys_Therapeutics"
+      }
+    ],
+    "related": [
+      "purdue-oxycontin-marketing",
+      "merck-vioxx",
+      "gsk-china-bribery"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Insys_Therapeutics",
+    "sources": [
+      {
+        "title": "Insys Therapeutics",
+        "url": "https://en.wikipedia.org/wiki/Insys_Therapeutics",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Opioid Manufacturer Insys Therapeutics Agrees to Enter $225 Million Global Resolution of Criminal and Civil Investigations",
+        "url": "https://www.justice.gov/archives/opa/pr/opioid-manufacturer-insys-therapeutics-agrees-enter-225-million-global-resolution-criminal",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "gsk-china-bribery",
+    "name": "GlaxoSmithKline Bribery Scandal",
+    "aliases": [
+      "GSK China Scandal"
+    ],
+    "genre": "health",
+    "year": 2013,
+    "truth": 96,
+    "impact": 35,
+    "notoriety": 30,
+    "summary": "GlaxoSmithKline funneled roughly 3 billion yuan (about $490 million) in bribes to Chinese doctors, hospitals, and officials through more than 700 travel agencies and consulting firms to boost drug sales. Chinese police revealed the scheme in 2013, and in September 2014 a Chinese court fined GSK $490 million — the largest corporate fine in Chinese history at the time — and gave the company's former China head, Mark Reilly, a suspended prison sentence.",
+    "evidence_for": [
+      {
+        "text": "Chinese authorities announced GSK had funneled HK$3.8 billion in kickbacks to doctors, hospitals and managers since 2007 using shell travel agencies and consulting firms.",
+        "source": "https://en.wikipedia.org/wiki/GlaxoSmithKline"
+      },
+      {
+        "text": "A Chinese court fined GlaxoSmithKline $492 million for bribery, the largest corporate fine imposed in China at the time, and convicted former China head Mark Reilly.",
+        "source": "https://www.cbc.ca/news/business/glaxosmithkline-fined-492m-by-china-in-bribery-scandal-1.2771423"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Reilly and his Chinese co-defendants received suspended sentences and were never imprisoned, leading critics to call the punishment lenient relative to the scale of the bribery.",
+        "source": "https://www.cbc.ca/news/business/glaxosmithkline-fined-492m-by-china-in-bribery-scandal-1.2771423"
+      }
+    ],
+    "related": [
+      "purdue-oxycontin-marketing",
+      "insys-opioid-bribery",
+      "merck-vioxx"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/GlaxoSmithKline",
+    "sources": [
+      {
+        "title": "GlaxoSmithKline",
+        "url": "https://en.wikipedia.org/wiki/GlaxoSmithKline",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "GlaxoSmithKline fined $492M by China in bribery scandal",
+        "url": "https://www.cbc.ca/news/business/glaxosmithkline-fined-492m-by-china-in-bribery-scandal-1.2771423",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "merck-vioxx",
+    "name": "Merck Vioxx Scandal",
+    "aliases": [
+      "Vioxx Scandal",
+      "Rofecoxib Scandal"
+    ],
+    "genre": "health",
+    "year": 2004,
+    "truth": 96,
+    "impact": 50,
+    "notoriety": 60,
+    "summary": "Merck withheld and downplayed clinical trial data showing its painkiller Vioxx (rofecoxib) roughly quadrupled the risk of heart attack, continuing to market the drug to tens of millions of patients before voluntarily withdrawing it in September 2004 after further study confirmed the danger. Merck later pleaded guilty to a criminal misbranding charge and paid $950 million in fines and settlements, on top of a separate $4.85 billion mass-tort settlement for injured patients.",
+    "evidence_for": [
+      {
+        "text": "The Justice Department announced Merck Sharp & Dohme's guilty plea to illegally promoting Vioxx and a $950 million payment, including a $321.6 million criminal fine, for misrepresenting the drug's cardiovascular risks.",
+        "source": "https://www.justice.gov/archives/opa/pr/us-pharmaceutical-company-merck-sharp-dohme-pay-nearly-one-billion-dollars-over-promotion"
+      },
+      {
+        "text": "Wikipedia documents that the New England Journal of Medicine found critical cardiovascular adverse-event data were omitted from the published VIGOR trial results, and that an FDA analyst estimated the drug caused 88,000 to 140,000 heart attacks.",
+        "source": "https://en.wikipedia.org/wiki/Rofecoxib"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Merck maintained the withdrawal and settlements were not admissions that Vioxx caused any individual patient's heart attack, and causation in specific cases remained contested in litigation.",
+        "source": "https://en.wikipedia.org/wiki/Rofecoxib"
+      }
+    ],
+    "related": [
+      "purdue-oxycontin-marketing",
+      "insys-opioid-bribery",
+      "gsk-china-bribery"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Rofecoxib",
+    "sources": [
+      {
+        "title": "Rofecoxib",
+        "url": "https://en.wikipedia.org/wiki/Rofecoxib",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "U.S. Pharmaceutical Company Merck Sharp & Dohme to Pay Nearly One Billion Dollars Over Promotion of Vioxx",
+        "url": "https://www.justice.gov/archives/opa/pr/us-pharmaceutical-company-merck-sharp-dohme-pay-nearly-one-billion-dollars-over-promotion",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-dieselgate",
+    "name": "Volkswagen Dieselgate",
+    "aliases": [
+      "Volkswagen Emissions Scandal",
+      "Dieselgate"
+    ],
+    "genre": "science-tech",
+    "year": 2015,
+    "truth": 98,
+    "impact": 45,
+    "notoriety": 85,
+    "summary": "Volkswagen installed \"defeat device\" software in roughly 11 million diesel vehicles worldwide that detected laboratory emissions testing and activated full pollution controls only during the test, allowing cars to emit up to 40 times the legal nitrogen-oxide limit during normal driving. Independent researchers funded by the International Council on Clean Transportation uncovered the discrepancy in 2014, and the EPA issued a formal Notice of Violation in September 2015, leading to Volkswagen's guilty plea and over $33 billion in fines, penalties and buybacks.",
+    "evidence_for": [
+      {
+        "text": "The EPA's Notice of Violation to Volkswagen documented that software on 2009-2015 diesel models detected test conditions and enabled full emissions controls only during testing, evading Clean Air Act standards.",
+        "source": "https://www.epa.gov/enforcement/learn-about-volkswagen-violations"
+      },
+      {
+        "text": "Volkswagen pleaded guilty to criminal charges in January 2017 and was ordered to pay a $2.8 billion criminal fine, part of over $33 billion in total costs by 2020.",
+        "source": "https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "None — Volkswagen admitted the defeat device scheme and pleaded guilty to criminal charges.",
+        "source": "https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal"
+      }
+    ],
+    "related": [
+      "merck-vioxx",
+      "gsk-china-bribery"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal",
+    "sources": [
+      {
+        "title": "Volkswagen emissions scandal",
+        "url": "https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Learn About Volkswagen Violations",
+        "url": "https://www.epa.gov/enforcement/learn-about-volkswagen-violations",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  }
+]

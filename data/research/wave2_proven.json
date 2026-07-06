@@ -1,0 +1,471 @@
+[
+  {
+    "id": "mkultra",
+    "evidence_for": [
+      {
+        "text": "NPR's investigative history, drawing on declassified CIA records that survived a 1973 order to destroy the MKULTRA files, documents the agency's mind-control program -- including non-consensual LSD dosing of citizens and the role of chief chemist Sidney Gottlieb, the 'Poisoner in Chief' -- which was first exposed publicly via a 1975 Rockefeller Commission finding and the 1977 Church Committee hearings.",
+        "source": "https://www.npr.org/2019/09/09/758989641/the-cias-secret-quest-for-mind-control-torture-lsd-and-a-poisoner-in-chief"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The CIA destroyed most MKULTRA records in 1973, so the full scope of the ~150 subprojects and number of victims is permanently incomplete despite the surviving documentation."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The CIA's Secret Quest For Mind Control: Torture, LSD And A 'Poisoner In Chief'",
+        "url": "https://www.npr.org/2019/09/09/758989641/the-cias-secret-quest-for-mind-control-torture-lsd-and-a-poisoner-in-chief",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "cointelpro",
+    "evidence_for": [
+      {
+        "text": "FBI records confirm COINTELPRO (1956-1971) ran covert surveillance, infiltration, and disruption operations against civil-rights, anti-war, and Black Power organizations, first exposed by the 1971 Media, PA FBI office break-in and subsequently detailed in the 1975-76 Church Committee investigation.",
+        "source": "https://en.wikipedia.org/wiki/COINTELPRO"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "None -- documented historical fact, confirmed by the FBI's own released files and congressional findings."
+      }
+    ],
+    "sources": [
+      {
+        "title": "COINTELPRO",
+        "url": "https://en.wikipedia.org/wiki/COINTELPRO",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "cointelpro-black-panther",
+    "evidence_for": [
+      {
+        "text": "Declassified FBI files show the Bureau fabricated and distributed a 'Black Panther Coloring Book' as black propaganda -- falsely presenting it as the Panthers' own material -- specifically to discredit the party in the eyes of the public as part of COINTELPRO's targeting of the group.",
+        "source": "https://www.vice.com/read/coloring-the-black-panthers"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "None -- documented in the FBI's own released COINTELPRO files."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Coloring The Black Panthers",
+        "url": "https://www.vice.com/read/coloring-the-black-panthers",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "operation-snow-white",
+    "evidence_for": [
+      {
+        "text": "Operation Snow White involved Church of Scientology members infiltrating and stealing documents from 136 government agencies, foreign embassies, and consulates in over 30 countries using as many as 5,000 covert agents; it was uncovered by an FBI raid and led to criminal convictions of 11 senior Church officials, including Mary Sue Hubbard.",
+        "source": "https://en.wikipedia.org/wiki/Operation_Snow_White"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "None -- documented via FBI raid records and the resulting 1980 federal convictions."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Operation Snow White",
+        "url": "https://en.wikipedia.org/wiki/Operation_Snow_White",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "bay-of-pigs",
+    "evidence_for": [
+      {
+        "text": "The CIA organized, funded, trained, and directed the April 1961 invasion of Cuba by Cuban exile paramilitary forces at the Bay of Pigs; the agency's own internal history of the operation was later declassified confirming its planning and command role.",
+        "source": "https://en.wikipedia.org/wiki/Bay_of_Pigs_Invasion"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "None -- documented historical fact, acknowledged by the U.S. government."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bay of Pigs Invasion",
+        "url": "https://en.wikipedia.org/wiki/Bay_of_Pigs_Invasion",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "operation-paperclip",
+    "evidence_for": [
+      {
+        "text": "Under Operation Paperclip the U.S. government secretly recruited more than 1,600 German scientists and engineers after WWII -- including former Nazi Party members and some implicated in war crimes -- and sanitized their records for immigration, a program confirmed through declassified National Archives records.",
+        "source": "https://en.wikipedia.org/wiki/Operation_Paperclip"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "None -- documented historical fact, acknowledged by the U.S. government."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Operation Paperclip",
+        "url": "https://en.wikipedia.org/wiki/Operation_Paperclip",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "operation-northwoods",
+    "evidence_for": [
+      {
+        "text": "The National Security Archive published the full declassified 1962 Operation Northwoods memorandum, in which the Joint Chiefs of Staff proposed false-flag terrorist attacks on U.S. citizens and military assets to be blamed on Cuba as a pretext for invasion; the plan was rejected by the Kennedy administration but the document is authenticated.",
+        "source": "https://nsarchive2.gwu.edu/news/20010430/northwoods.pdf"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The plan was never approved or executed -- it documents a proposal, not a carried-out operation."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Operation Northwoods memorandum (declassified)",
+        "url": "https://nsarchive2.gwu.edu/news/20010430/northwoods.pdf",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "U.S. Military Wanted to Provoke War With Cuba",
+        "url": "http://abcnews.go.com/US/story?id=92662&page=1",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "operation-mockingbird",
+    "truth": 82,
+    "evidence_for": [
+      {
+        "text": "The New York Times reported that the CIA, in an episode it referred to internally as 'Project Mockingbird,' wiretapped the phones of Washington journalists Robert Allen and Paul Scott from 1963 and set up physical surveillance posts to track their contacts -- a domestic press-surveillance operation later examined by Congress -- corroborating the broader Church Committee and Carl Bernstein findings on CIA-press ties that underpin the wider 'Operation Mockingbird' allegations.",
+        "source": "https://washington.blogs.nytimes.com/2007/06/26/project-mockingbird/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The narrowly-documented 1963 'Project Mockingbird' wiretapping episode is sometimes conflated with the broader alleged Cold War program of CIA media assets; the full extent of the latter beyond Bernstein's 1977 Rolling Stone reporting and the Church Committee's findings remains debated by historians."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Project Mockingbird (CIA surveillance of journalists)",
+        "url": "https://washington.blogs.nytimes.com/2007/06/26/project-mockingbird/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "iran-contra",
+    "evidence_for": [
+      {
+        "text": "The congressional Iran-Contra committees' 1987 report detailed 'The Enterprise,' the CIA-linked private network run by Oliver North and Richard Secord that secretly sold arms to Iran and diverted the proceeds to fund Nicaraguan Contra rebels in violation of the Boland Amendment.",
+        "source": "http://www.nytimes.com/1987/11/19/world/the-iran-contra-report-what-the-enterprise-was.html"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "None -- documented via the official congressional Iran-Contra report and subsequent criminal convictions (several later pardoned)."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Iran-Contra Report; What 'the Enterprise' Was",
+        "url": "http://www.nytimes.com/1987/11/19/world/the-iran-contra-report-what-the-enterprise-was.html",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "nsa-mass-surveillance",
+    "evidence_for": [
+      {
+        "text": "Documents leaked by Edward Snowden and published by Der Spiegel and the Guardian showed the NSA's surveillance reached the EU, the UN, and allied governments, and that the NSA and GCHQ shared raw intelligence -- including on Americans -- in arrangements designed to route around each country's own domestic-surveillance restrictions.",
+        "source": "https://www.theguardian.com/politics/2013/jun/10/nsa-offers-intelligence-british-counterparts-blunkett"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "None -- confirmed by leaked NSA/GCHQ documents and subsequent government acknowledgment of the programs' existence."
+      }
+    ],
+    "sources": [
+      {
+        "title": "NSA 'offers intelligence to British counterparts to skirt UK law'",
+        "url": "https://www.theguardian.com/politics/2013/jun/10/nsa-offers-intelligence-british-counterparts-blunkett",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "How America Spies on Europe and the UN",
+        "url": "http://www.spiegel.de/international/world/secret-nsa-documents-show-how-the-us-spies-on-europe-and-the-un-a-918625.html",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "church-committee",
+    "evidence_for": [
+      {
+        "text": "The Church Committee's 1975-76 Senate investigation exposed CIA domestic-surveillance programs -- Operation CHAOS, Project MERRIMAC, and Project RESISTANCE -- which compiled files on anti-war activists, Black activist groups, and college campuses, and led to the creation of permanent congressional intelligence oversight.",
+        "source": "https://www.salon.com/2014/03/20/8_times_the_cia_used_american_spies_to_spy_on_americans_partner/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "None -- documented in the Committee's own published findings."
+      }
+    ],
+    "sources": [
+      {
+        "title": "8 times the CIA used American spies to spy on Americans",
+        "url": "https://www.salon.com/2014/03/20/8_times_the_cia_used_american_spies_to_spy_on_americans_partner/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "big-pharma",
+    "truth": 86,
+    "evidence_for": [
+      {
+        "text": "GlaxoSmithKline pleaded guilty and paid a $3 billion fine in 2012 after admitting it bribed doctors and illegally promoted antidepressants Paxil and Wellbutrin for use in children.",
+        "source": "http://www.theguardian.com/business/2012/jul/03/glaxosmithkline-fined-bribing-doctors-pharmaceuticals"
+      },
+      {
+        "text": "Purdue Pharma and three current or former executives pleaded guilty in federal court in 2007 to criminal charges of misleading regulators, doctors, and patients about OxyContin's addiction and abuse risks, and paid $600 million in fines.",
+        "source": "http://www.nytimes.com/2007/05/10/business/11drug-web.html"
+      },
+      {
+        "text": "Insys Therapeutics founder and CEO John Kapoor was federally charged, and later convicted, of leading a scheme to bribe doctors into over-prescribing a fentanyl spray to patients who did not need it.",
+        "source": "http://www.newsweek.com/big-pharma-opioid-crisis-bribery-arrest-694154"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "These are proven bribery and fraudulent-marketing convictions concentrated in the opioid/antidepressant space, not evidence that every allegation against every pharmaceutical company (e.g., broad 'cure suppression' claims) is true."
+      }
+    ],
+    "sources": [
+      {
+        "title": "GlaxoSmithKline fined $3bn after bribing doctors and mis-selling drugs",
+        "url": "http://www.theguardian.com/business/2012/jul/03/glaxosmithkline-fined-bribing-doctors-pharmaceuticals",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "In Guilty Plea, OxyContin Maker to Pay $600 Million",
+        "url": "http://www.nytimes.com/2007/05/10/business/11drug-web.html",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Big Pharma Opioid Crisis: Bribery Arrest",
+        "url": "http://www.newsweek.com/big-pharma-opioid-crisis-bribery-arrest-694154",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Merck created 'hit list' to destroy, neutralize or discredit dissenting doctors",
+        "url": "https://www.cbsnews.com/news/merck-created-hit-list-to-destroy-neutralize-or-discredit-dissenting-doctors/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "de-patterning",
+    "truth": 90,
+    "evidence_for": [
+      {
+        "text": "Declassified CIA MKULTRA records (subproject 68) confirm the agency covertly funded Dr. Ewen Cameron's 'de-patterning' and psychic-driving experiments on psychiatric patients at Montreal's Allan Memorial Institute, using massive electroshock and drug-induced comas without informed consent -- part of the same program documented in NPR's history of MKULTRA.",
+        "source": "https://www.npr.org/2019/09/09/758989641/the-cias-secret-quest-for-mind-control-torture-lsd-and-a-poisoner-in-chief"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "None -- documented via declassified CIA funding records and the Canadian government's own 1980s settlement payments to victims."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The CIA's Secret Quest For Mind Control",
+        "url": "https://www.npr.org/2019/09/09/758989641/the-cias-secret-quest-for-mind-control-torture-lsd-and-a-poisoner-in-chief",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "operation-midnight-climax",
+    "evidence_for": [
+      {
+        "text": "NPR's history of MKULTRA documents 'Operation Midnight Climax,' the CIA's clandestine safe houses in San Francisco and New York where sex workers on the agency's payroll lured unwitting men, who were then dosed with LSD and observed by agents through one-way mirrors.",
+        "source": "https://www.npr.org/2019/09/09/758989641/the-cias-secret-quest-for-mind-control-torture-lsd-and-a-poisoner-in-chief"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "None -- documented via declassified CIA records and the 1975 Church/Rockefeller Commission findings."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The CIA's Secret Quest For Mind Control",
+        "url": "https://www.npr.org/2019/09/09/758989641/the-cias-secret-quest-for-mind-control-torture-lsd-and-a-poisoner-in-chief",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "watergate",
+    "evidence_for": [
+      {
+        "text": "CIA officer E. Howard Hunt, who ran the agency's espionage operation against Barry Goldwater's 1964 presidential campaign on Lyndon Johnson's behalf, went on to lead the White House 'Plumbers' unit in 1972 -- the group whose break-in at the DNC's Watergate offices triggered the Watergate scandal.",
+        "source": "https://www.politico.com/magazine/story/2018/05/22/cia-fbi-spy-presidential-campaign-trump-goldwater-218415"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The CIA Has Spied on Presidential Candidates Before",
+        "url": "https://www.politico.com/magazine/story/2018/05/22/cia-fbi-spy-presidential-campaign-trump-goldwater-218415",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "psyops",
+    "truth": 78,
+    "evidence_for": [
+      {
+        "text": "A congressional GAO investigation found the EPA engaged in illegal 'covert propaganda' by using social media to secretly build public support for a 2015 water regulation.",
+        "source": "https://www.nytimes.com/2015/12/15/us/politics/epa-broke-the-law-by-using-social-media-to-push-water-rule-auditor-finds.html"
+      },
+      {
+        "text": "The New York Times revealed the Pentagon's 'Military Analyst Program,' in which retired generals given talking points by the Bush administration appeared on television as ostensibly independent analysts to promote the administration's messaging on the Iraq war.",
+        "source": "http://www.nytimes.com/2008/04/20/us/20generals.html"
+      },
+      {
+        "text": "Documents leaked by Edward Snowden and published by the Intercept, 'The Art of Deception: Training for a New Generation of Online Covert Operations,' detail GCHQ's JTRIG unit's methods for manipulating, deceiving, and destroying the reputations of targets online.",
+        "source": "https://web.archive.org/web/20190626033632/https://theintercept.com/document/2014/02/24/art-deception-training-new-generation-online-covert-operations/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The full scope, budgets, and current targets of most government psyops programs remain classified or redacted even where their existence has been confirmed."
+      }
+    ],
+    "sources": [
+      {
+        "title": "E.P.A. Broke the Law by Using Social Media to Push Water Rule, Auditor Finds",
+        "url": "https://www.nytimes.com/2015/12/15/us/politics/epa-broke-the-law-by-using-social-media-to-push-water-rule-auditor-finds.html",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Behind TV Analysts, Pentagon's Hidden Hand",
+        "url": "http://www.nytimes.com/2008/04/20/us/20generals.html",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "The Art of Deception: Training for a New Generation of Online Covert Operations",
+        "url": "https://web.archive.org/web/20190626033632/https://theintercept.com/document/2014/02/24/art-deception-training-new-generation-online-covert-operations/",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "British army creates team of Facebook warriors",
+        "url": "http://www.theguardian.com/uk-news/2015/jan/31/british-army-facebook-warriors-77th-brigade",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "mass-media-reality-control",
+    "evidence_for": [
+      {
+        "text": "An Independent investigation found the U.S. Department of Defense provided production support -- equipment, locations, and personnel -- to more than 800 feature films and 1,100 TV titles since 1911 in exchange for input on how the military was portrayed, including franchises like Transformers and Iron Man.",
+        "source": "http://www.independent.co.uk/voices/hollywood-cia-washington-dc-films-fbi-24-intervening-close-relationship-a7918191.html"
+      },
+      {
+        "text": "PBS Frontline reported the CIA secretly worked behind the scenes with the makers of 'Zero Dark Thirty,' which portrayed the CIA's 'enhanced interrogation' program as instrumental to finding Osama bin Laden -- a claim the Senate's own torture report later found to be false.",
+        "source": "http://www.pbs.org/wgbh/frontline/article/watch-how-the-cia-helped-make-zero-dark-thirty/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The documented cases show government influence over specific productions in exchange for access and input, not proof of a coordinated program to broadly control public perception of reality."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Washington DC's role behind the scenes in Hollywood goes deeper than you think",
+        "url": "http://www.independent.co.uk/voices/hollywood-cia-washington-dc-films-fbi-24-intervening-close-relationship-a7918191.html",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "How the CIA Helped Make 'Zero Dark Thirty'",
+        "url": "http://www.pbs.org/wgbh/frontline/article/watch-how-the-cia-helped-make-zero-dark-thirty/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "tuskegee",
+    "evidence_for": [
+      {
+        "text": "The U.S. Public Health Service enrolled 622 Black sharecroppers in Macon County, Alabama in a 40-year study (1932-1972) without informed consent, and deliberately withheld penicillin treatment after it became the standard cure for syphilis in the 1940s -- confirmed by the CDC's own historical account and the 1997 presidential apology.",
+        "source": "https://en.wikipedia.org/wiki/Tuskegee_syphilis_experiment"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "None -- documented historical fact, acknowledged and formally apologized for by the U.S. government in 1997."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tuskegee syphilis experiment",
+        "url": "https://en.wikipedia.org/wiki/Tuskegee_syphilis_experiment",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ]
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "great-purge",
+    "name": "The Great Purge",
+    "aliases": [
+      "Great Terror",
+      "Yezhovshchina"
+    ],
+    "genre": "government",
+    "year": 1956,
+    "truth": 97,
+    "impact": 78,
+    "notoriety": 68,
+    "summary": "Between 1936 and 1938, Stalin's regime carried out mass arrests, forced confessions, show trials, and extrajudicial executions of Communist Party members, military officers, and ordinary citizens through NKVD troikas. The scale of the killing was first publicly admitted in Khrushchev's 1956 'Secret Speech' and later fully confirmed by Soviet archives declassified after 1991.",
+    "evidence_for": [
+      {
+        "text": "Nikita Khrushchev's 1956 'Secret Speech' to the 20th Party Congress denounced Stalin's purges and cited NKVD archive materials showing fabricated cases against innocent people.",
+        "source": "https://text-message.blogs.archives.gov/2020/12/03/khrushchevs-secret-speech-1956/"
+      },
+      {
+        "text": "Declassified Soviet archives opened after 1991 document at least 681,692 executions in 1937-1938 alone, with scholarly death-toll estimates ranging from 700,000 to 1.2 million.",
+        "source": "https://en.wikipedia.org/wiki/Great_Purge"
+      }
+    ],
+    "evidence_against": [
+      "Precise overall death toll (700,000-1.2 million) still varies by source and methodology; the ethnic-targeting scope of some 'national operations' remains debated among historians."
+    ],
+    "related": [
+      "holodomor",
+      "soviet-psychiatry-abuse",
+      "church-committee"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Great_Purge",
+    "sources": [
+      {
+        "title": "Great Purge",
+        "url": "https://en.wikipedia.org/wiki/Great_Purge",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Khrushchev's Secret Speech, 1956",
+        "url": "https://text-message.blogs.archives.gov/2020/12/03/khrushchevs-secret-speech-1956/",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "holodomor",
+    "name": "Holodomor",
+    "aliases": [
+      "Ukrainian Famine of 1932-33",
+      "Terror-Famine"
+    ],
+    "genre": "government",
+    "year": 1988,
+    "truth": 94,
+    "impact": 85,
+    "notoriety": 72,
+    "summary": "Soviet forced collectivization and grain-requisition policies produced a catastrophic famine in Ukraine in 1932-1933 that killed an estimated 3.5 to 10 million people. Soviet authorities suppressed all public discussion of the famine for decades; open acknowledgment began during glasnost in the late 1980s, and the famine has since been recognized as genocide by Ukraine and over 30 other countries.",
+    "evidence_for": [
+      {
+        "text": "A 2003 Joint Statement at the United Nations, signed by 25+ member states including Russia, Ukraine, and the United States, formally acknowledged the Holodomor took 'from 7 million to 10 million innocent lives.'",
+        "source": "https://en.wikisource.org/wiki/Joint_Statement_on_Holodomor"
+      },
+      {
+        "text": "Soviet-era censorship of the famine ended during glasnost, with open discussion appearing in Soviet publications by 1988.",
+        "source": "https://en.wikipedia.org/wiki/Holodomor"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Historians unanimously agree the famine was man-made, but disagree on whether Stalin specifically intended to target Ukrainians (genocide) versus an unintended consequence of broader Soviet industrialization and requisition policy.",
+        "source": "https://en.wikipedia.org/wiki/Holodomor"
+      }
+    ],
+    "related": [
+      "great-purge"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Holodomor",
+    "sources": [
+      {
+        "title": "Holodomor",
+        "url": "https://en.wikipedia.org/wiki/Holodomor",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Joint Statement on Holodomor (UN, 2003)",
+        "url": "https://en.wikisource.org/wiki/Joint_Statement_on_Holodomor",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "tulsa-race-massacre-1921",
+    "name": "Tulsa Race Massacre (1921)",
+    "aliases": [
+      "Tulsa Race Riot",
+      "Black Wall Street Massacre"
+    ],
+    "genre": "government",
+    "year": 2001,
+    "truth": 98,
+    "impact": 55,
+    "notoriety": 64,
+    "summary": "Over May 31-June 1, 1921, white mobs in Tulsa, Oklahoma attacked and destroyed the prosperous Greenwood District, known as 'Black Wall Street,' killing an estimated 39 to 300 Black residents and burning more than 35 city blocks. The massacre was largely omitted from official histories for decades until a state-authorized Oklahoma Commission investigated it and published a final report in 2001 recommending reparations.",
+    "evidence_for": [
+      {
+        "text": "The Oklahoma Commission to Study the Tulsa Race Riot of 1921, created by the state legislature in 1997, published its Final Report in February 2001 documenting the massacre and recommending reparations and educational reforms.",
+        "source": "https://www.okhistory.org/research/forms/freport.pdf"
+      },
+      {
+        "text": "A 2001 forensic examination identified at least 39 confirmed deaths, with contemporary estimates ranging as high as approximately 300.",
+        "source": "https://en.wikipedia.org/wiki/Tulsa_race_massacre"
+      }
+    ],
+    "evidence_against": [
+      "Exact death toll remains disputed; official 1921 records listed only 36 deaths while later investigations and mass-grave searches suggest a substantially higher toll."
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tulsa_race_massacre",
+    "sources": [
+      {
+        "title": "Tulsa race massacre",
+        "url": "https://en.wikipedia.org/wiki/Tulsa_race_massacre",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Tulsa Race Riot: A Report by the Oklahoma Commission to Study the Tulsa Race Riot of 1921 (Final Report, 2001)",
+        "url": "https://www.okhistory.org/research/forms/freport.pdf",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "soviet-psychiatry-abuse",
+    "name": "Political Abuse of Psychiatry in the USSR",
+    "aliases": [
+      "Psikhushka",
+      "Punitive Psychiatry in the Soviet Union"
+    ],
+    "genre": "health",
+    "year": 1977,
+    "truth": 95,
+    "impact": 45,
+    "notoriety": 38,
+    "summary": "Soviet authorities systematically committed political dissidents to psychiatric hospitals under fabricated diagnoses such as 'sluggish schizophrenia,' subjecting an estimated 20,000 or more people to forced drugging, restraint, and indefinite detention in lieu of criminal prosecution. International psychiatric organizations documented and condemned the practice through the 1970s and 1980s, and the U.S. Congress held hearings on it, contributing to the USSR's 1983 withdrawal from the World Psychiatric Association.",
+    "evidence_for": [
+      {
+        "text": "The U.S. Commission on Security and Cooperation in Europe (Helsinki Commission) held a congressional hearing, 'Abuse of Psychiatry in the Soviet Union,' compiling testimony and documentation of the practice.",
+        "source": "https://www.csce.gov/wp-content/uploads/2016/01/Abuse-of-Psychiatry-in-the-Soviet-Union.pdf"
+      },
+      {
+        "text": "World Psychiatric Association congresses in 1971, 1977, and 1983 formally condemned Soviet psychiatric abuse; between 1988-1989 roughly one to two million people were removed from Soviet psychiatric registries as the USSR sought re-admission to the WPA.",
+        "source": "https://en.wikipedia.org/wiki/Political_abuse_of_psychiatry_in_the_Soviet_Union"
+      }
+    ],
+    "evidence_against": [
+      "The total number of victims is not precisely known; estimates range from a documented minimum of about 20,000 to considerably higher figures depending on the source."
+    ],
+    "related": [
+      "great-purge"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Political_abuse_of_psychiatry_in_the_Soviet_Union",
+    "sources": [
+      {
+        "title": "Political abuse of psychiatry in the Soviet Union",
+        "url": "https://en.wikipedia.org/wiki/Political_abuse_of_psychiatry_in_the_Soviet_Union",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Abuse of Psychiatry in the Soviet Union (CSCE Congressional Hearing)",
+        "url": "https://www.csce.gov/wp-content/uploads/2016/01/Abuse-of-Psychiatry-in-the-Soviet-Union.pdf",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "magdalene-laundries",
+    "name": "Magdalene Laundries & Illegal Irish Adoptions",
+    "aliases": [
+      "Magdalen Asylums",
+      "Magdalene Sisters"
+    ],
+    "genre": "religion-occult",
+    "year": 2013,
+    "truth": 96,
+    "impact": 50,
+    "notoriety": 55,
+    "summary": "Catholic religious orders operated Magdalene Laundries in Ireland from the 18th century until 1996, confining an estimated 30,000 women and girls to perform unpaid labor, with documented cases of coerced and illegal adoption of their children. A 2013 Irish government inquiry, the McAleese Report, confirmed direct state involvement in referring at least 2,500 women to the institutions, prompting a formal state apology and a compensation scheme.",
+    "evidence_for": [
+      {
+        "text": "The Report of the Inter-Departmental Committee to Establish the Facts of State Involvement with the Magdalen Laundries (the McAleese Report), published 5 February 2013, found the state had direct involvement in committing over 2,500 women and that at least 10,000 women passed through the laundries.",
+        "source": "https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/collections/report-of-the-inter-departmental-committee-to-establish-the-facts-of-state-involvement-with-the-magdalen-laundries/"
+      },
+      {
+        "text": "Taoiseach Enda Kenny issued a formal state apology on 19 February 2013, calling the laundries 'the nation's shame.'",
+        "source": "https://en.wikipedia.org/wiki/Magdalene_Laundries_in_Ireland"
+      }
+    ],
+    "evidence_against": [
+      "The full scope of illegal adoptions and the total number of unmarked graves remains incomplete, as some religious-order records were destroyed or withheld."
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Magdalene_Laundries_in_Ireland",
+    "sources": [
+      {
+        "title": "Magdalene Laundries in Ireland",
+        "url": "https://en.wikipedia.org/wiki/Magdalene_Laundries_in_Ireland",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Report of the Inter-Departmental Committee to Establish the Facts of State Involvement with the Magdalen Laundries",
+        "url": "https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/collections/report-of-the-inter-departmental-committee-to-establish-the-facts-of-state-involvement-with-the-magdalen-laundries/",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "prohibition-alcohol-poisoning",
+    "name": "Federal Poisoning of Industrial Alcohol (Prohibition)",
+    "aliases": [
+      "Chemist's War",
+      "Government Poisoning of Industrial Alcohol"
+    ],
+    "genre": "government",
+    "year": 1927,
+    "truth": 93,
+    "impact": 45,
+    "notoriety": 34,
+    "summary": "Beginning in 1926, the U.S. federal government required industrial alcohol to be adulterated with lethal chemicals, including methanol, in an effort to deter bootleggers from diverting it into illegal drinking alcohol. The policy killed an estimated 10,000 people by the end of Prohibition in 1933 and was publicly condemned at the time by New York City chief medical examiner Charles Norris, who called it a 'national experiment in extermination.'",
+    "evidence_for": [
+      {
+        "text": "The Wikipedia article on the consequences of Prohibition documents the federally mandated denaturing of industrial alcohol with methanol, pyridine, and benzene, and estimates it killed as many as 10,000 people.",
+        "source": "https://en.wikipedia.org/wiki/Consequences_of_Prohibition"
+      },
+      {
+        "text": "Contemporary reporting recounts NYC medical examiner Charles Norris's public accusation that the government bore 'moral responsibility for the deaths that poisoned liquor causes.'",
+        "source": "https://slate.com/technology/2010/02/the-little-told-story-of-how-the-u-s-government-poisoned-alcohol-during-prohibition.html"
+      }
+    ],
+    "evidence_against": [
+      "The commonly cited death toll of roughly 10,000 is a period estimate and cannot be independently verified against modern forensic recordkeeping standards."
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Consequences_of_Prohibition",
+    "sources": [
+      {
+        "title": "Consequences of Prohibition",
+        "url": "https://en.wikipedia.org/wiki/Consequences_of_Prohibition",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The little-told story of how the U.S. government poisoned alcohol during Prohibition",
+        "url": "https://slate.com/technology/2010/02/the-little-told-story-of-how-the-u-s-government-poisoned-alcohol-during-prohibition.html",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "sugar-research-foundation-coverup",
+    "name": "Sugar Research Foundation Cover-up",
+    "aliases": [
+      "Sugar Papers",
+      "Project 226"
+    ],
+    "genre": "health",
+    "year": 2016,
+    "truth": 92,
+    "impact": 40,
+    "notoriety": 44,
+    "summary": "In the mid-1960s the Sugar Research Foundation paid Harvard scientists, including nutrition department chair Frederick Stare, to produce a literature review published in the New England Journal of Medicine that downplayed sugar's role in heart disease and shifted blame toward dietary fat, shaping U.S. nutrition guidance for decades. The industry's role was exposed in a 2016 JAMA Internal Medicine analysis of internal industry documents by researchers Cristin Kearns, Laura Schmidt, and Stanton Glantz.",
+    "evidence_for": [
+      {
+        "text": "Kearns, Schmidt, and Glantz's 2016 JAMA Internal Medicine paper, 'Sugar Industry and Coronary Heart Disease Research: A Historical Analysis of Internal Industry Documents,' shows the Sugar Research Foundation paid roughly $6,500 (about $50,000 in 2016 dollars) to Harvard researchers to produce a review minimizing sugar's cardiovascular risks.",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5099084/"
+      },
+      {
+        "text": "The Sugar Research Foundation is documented as the funder and coordinator of this research program.",
+        "source": "https://en.wikipedia.org/wiki/Sugar_Research_Foundation"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The Sugar Association, responding to the 2016 exposure, noted that financial-disclosure standards were far less stringent in the 1960s than today.",
+        "source": "https://en.wikipedia.org/wiki/Sugar_Research_Foundation"
+      }
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sugar_Research_Foundation",
+    "sources": [
+      {
+        "title": "Sugar Research Foundation",
+        "url": "https://en.wikipedia.org/wiki/Sugar_Research_Foundation",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Sugar Industry and Coronary Heart Disease Research: A Historical Analysis of Internal Industry Documents",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5099084/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "nfl-concussion-coverup",
+    "name": "NFL Concussion Research Interference",
+    "aliases": [
+      "League of Denial",
+      "NFL MTBI Committee controversy"
+    ],
+    "genre": "health",
+    "year": 2013,
+    "truth": 90,
+    "impact": 45,
+    "notoriety": 58,
+    "summary": "From 1994, the NFL's Mild Traumatic Brain Injury Committee, chaired by a rheumatologist with no neurology background, published research funded and staffed by the league concluding concussions posed little long-term risk, while omitting more than 10 percent of diagnosed concussions from its underlying data. Investigative journalism, including the 2013 book and PBS documentary 'League of Denial' and a 2016 New York Times investigation, exposed the flawed data and the league's yearslong public denial of a link between football and chronic brain injury.",
+    "evidence_for": [
+      {
+        "text": "The 2013 book and PBS Frontline documentary 'League of Denial' detailed how the NFL's concussion committee omitted more than 100 diagnosed concussions from its published data between 1996 and 2001.",
+        "source": "https://www.pbs.org/wgbh/frontline/documentary/league-of-denial/"
+      },
+      {
+        "text": "A 2016 New York Times investigation, 'N.F.L.'s Flawed Concussion Research and Ties to Tobacco Industry,' found the concussion data used in the league's papers was significantly and likely knowingly incomplete.",
+        "source": "https://www.nytimes.com/2016/03/25/sports/football/nfl-concussion-research-tobacco.html"
+      }
+    ],
+    "evidence_against": [
+      "The NFL disputed characterizations of deliberate data suppression and demanded a retraction of the 2016 New York Times story; the league has since funded independent concussion research and adopted new safety protocols."
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Concussions_in_American_football",
+    "sources": [
+      {
+        "title": "Concussions in American football",
+        "url": "https://en.wikipedia.org/wiki/Concussions_in_American_football",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "N.F.L.'s Flawed Concussion Research and Ties to Tobacco Industry",
+        "url": "https://www.nytimes.com/2016/03/25/sports/football/nfl-concussion-research-tobacco.html",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "iraq-wmd-dossier",
+    "name": "Iraq WMD Justification",
+    "aliases": [
+      "Iraq WMD Dossier",
+      "Sixteen Words",
+      "Downing Street Memo"
+    ],
+    "genre": "government",
+    "year": 2004,
+    "truth": 96,
+    "impact": 82,
+    "notoriety": 78,
+    "summary": "The United States and United Kingdom justified the 2003 invasion of Iraq by asserting that Saddam Hussein possessed active chemical, biological, and nuclear weapons programs. The U.S.-led Iraq Survey Group's 2004 Duelfer Report found no WMD stockpiles had existed since 1991, and the UK's 2016 Chilcot Inquiry concluded the war was launched on intelligence presented with unwarranted certainty and without exhausting peaceful alternatives.",
+    "evidence_for": [
+      {
+        "text": "The Iraq Survey Group's final report (the Duelfer Report), submitted to Congress on 30 September 2004, reaffirmed that Iraq did not possess stockpiles of chemical, biological, or nuclear weapons at the time of the 2003 invasion.",
+        "source": "https://www.govinfo.gov/app/details/GPO-DUELFERREPORT"
+      },
+      {
+        "text": "The UK's 2016 Chilcot Inquiry (Iraq Inquiry) found that intelligence on Iraqi WMD was presented with unwarranted certainty and that the case for war was flawed.",
+        "source": "https://en.wikipedia.org/wiki/Iraq_Inquiry"
+      }
+    ],
+    "evidence_against": [
+      "The Iraq Survey Group also found Saddam Hussein retained the intent to revive WMD programs once UN sanctions were lifted, though no active program or stockpile existed at the time of invasion."
+    ],
+    "related": [
+      "gulf-of-tonkin",
+      "operation-northwoods"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Iraq_and_weapons_of_mass_destruction",
+    "sources": [
+      {
+        "title": "Iraq and weapons of mass destruction",
+        "url": "https://en.wikipedia.org/wiki/Iraq_and_weapons_of_mass_destruction",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Iraq Survey Group Final Report (Duelfer Report), 2004",
+        "url": "https://www.govinfo.gov/app/details/GPO-DUELFERREPORT",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "Iraq Inquiry (Chilcot Report)",
+        "url": "https://en.wikipedia.org/wiki/Iraq_Inquiry",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ]
+  }
+]

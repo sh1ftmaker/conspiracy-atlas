@@ -240,7 +240,7 @@ const SCALE=60;
 const INTAKE_URL='https://conspiracy-atlas-intake.sh1ftmaker.workers.dev';    // set after worker deploy, e.g. https://intake.example.workers.dev
 const TURNSTILE_KEY='0x4AAAAAADwTCPdKa2lBXF9N'; // Cloudflare Turnstile site key (optional; omit to skip bot widget)
 
-fetch('data.json?v=4').then(r=>r.json()).then(d=>{
+fetch('data.json?v=5').then(r=>r.json()).then(d=>{
   DATA=d; T=d.theories; META=d.meta; GEN=META.genres;
   T.forEach(t=>byId[t.id]=t);
   GEN.forEach(g=>activeGenres.add(g.key));

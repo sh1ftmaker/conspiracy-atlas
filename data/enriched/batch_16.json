@@ -1,0 +1,528 @@
+[
+  {
+    "id": "operation-sea-spray",
+    "name": "Operation Sea-Spray",
+    "aliases": [
+      "Sea-Spray Experiment",
+      "San Francisco bacteria experiment"
+    ],
+    "genre": "health",
+    "year": 1977,
+    "truth": 96,
+    "impact": 55,
+    "notoriety": 45,
+    "summary": "In September 1950 the U.S. Navy secretly sprayed the bacteria Serratia marcescens and Bacillus globigii over the San Francisco Bay Area from an offshore ship to study how vulnerable a city would be to a biological weapons attack. The test exposed hundreds of thousands of residents without their knowledge; it became public in 1977 when Senate hearings following the Church Committee investigations exposed a range of secret Army and Navy biodefense testing programs.",
+    "evidence_for": [
+      {
+        "text": "U.S. Army records show the bacteria were dispersed from a vessel offshore of San Francisco from September 20-27, 1950, exposing an estimated 800,000 residents.",
+        "source": "https://en.wikipedia.org/wiki/Operation_Sea-Spray"
+      },
+      {
+        "text": "The program's existence was confirmed and detailed in 1977 U.S. Senate subcommittee hearings on Army and Navy biological testing.",
+        "source": "https://www.smithsonianmag.com/smart-news/1950-us-released-bioweapon-san-francisco-180955819/"
+      },
+      "An Army witness at the 1977 hearings defended the program, stating the agents were 'believed at the time to be non-pathogenic.'"
+    ],
+    "evidence_against": [
+      {
+        "text": "A causal link between the test and the cluster of Serratia infections at Stanford Hospital (including the death of Edward J. Nevin) was never proven in court; all patients had recent medical procedures that could independently explain infection.",
+        "source": "https://en.wikipedia.org/wiki/Operation_Sea-Spray"
+      }
+    ],
+    "related": [
+      "guatemala-syphilis-experiments",
+      "edgewood-arsenal-experiments",
+      "project-mkultra",
+      "church-committee"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Operation_Sea-Spray",
+    "sources": [
+      {
+        "title": "Operation Sea-Spray",
+        "url": "https://en.wikipedia.org/wiki/Operation_Sea-Spray",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "In 1950, the U.S. Released a Bioweapon in San Francisco",
+        "url": "https://www.smithsonianmag.com/smart-news/1950-us-released-bioweapon-san-francisco-180955819/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "guatemala-syphilis-experiments",
+    "name": "Guatemala Syphilis Experiments",
+    "aliases": [
+      "Guatemala STD experiments",
+      "US Public Health Service Guatemala experiments"
+    ],
+    "genre": "health",
+    "year": 2010,
+    "truth": 98,
+    "impact": 60,
+    "notoriety": 55,
+    "summary": "Between 1946 and 1948, U.S. Public Health Service researchers led by Dr. John Cutler deliberately infected roughly 1,300 Guatemalan soldiers, prisoners, psychiatric patients, and sex workers with syphilis, gonorrhea, and chancroid without informed consent, in order to test penicillin's effectiveness. The experiments remained obscure until historian Susan Reverby discovered Cutler's unpublished archives in 2005; the findings were made public in October 2010, prompting a formal U.S. government apology.",
+    "evidence_for": [
+      {
+        "text": "Wellesley College historian Susan Reverby uncovered Dr. John Cutler's own unpublished records documenting the deliberate-infection study while researching the Tuskegee syphilis study archives.",
+        "source": "https://en.wikipedia.org/wiki/Syphilis_experiments_in_Guatemala"
+      },
+      {
+        "text": "On October 1, 2010, Secretary of State Hillary Clinton and HHS Secretary Kathleen Sebelius issued a joint statement calling the experiments 'reprehensible' and formally apologizing to Guatemala.",
+        "source": "https://www.npr.org/sections/health-shots/2010/10/01/130266301/u-s-apologizes-for-medical-research-that-infected-guatemalans-with-syphilis"
+      },
+      "A U.S. presidential bioethics commission subsequently concluded the study involved 'gross violations of ethics.'"
+    ],
+    "evidence_against": [
+      {
+        "text": "Multiple lawsuits by victims' families seeking compensation have been dismissed or remain unresolved, so the full scope of harm and appropriate redress remain disputed.",
+        "source": "https://en.wikipedia.org/wiki/Syphilis_experiments_in_Guatemala"
+      }
+    ],
+    "related": [
+      "operation-sea-spray",
+      "fernald-radioactive-oatmeal",
+      "project-mkultra"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Syphilis_experiments_in_Guatemala",
+    "sources": [
+      {
+        "title": "Syphilis experiments in Guatemala",
+        "url": "https://en.wikipedia.org/wiki/Syphilis_experiments_in_Guatemala",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "U.S. Apologizes For Syphilis Experiment In Guatemala",
+        "url": "https://www.npr.org/sections/health-shots/2010/10/01/130266301/u-s-apologizes-for-medical-research-that-infected-guatemalans-with-syphilis",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "vanderbilt-radioactive-pregnancy-study",
+    "name": "Vanderbilt Radioactive Iron Pregnancy Study",
+    "aliases": [
+      "Vanderbilt Nutrition Study",
+      "Craft v. Vanderbilt University radiation study"
+    ],
+    "genre": "health",
+    "year": 1994,
+    "truth": 95,
+    "impact": 45,
+    "notoriety": 30,
+    "summary": "From 1945 to 1947, Vanderbilt University researchers, working with the Tennessee Department of Health, gave roughly 829 pregnant women 'nutrition cocktails' containing radioactive iron without disclosing the radioactive tracer, ostensibly to study iron absorption in pregnancy. The study came to light in the early 1990s amid broader U.S. human radiation experiment disclosures, leading to a class-action lawsuit and a 1998 multi-million-dollar settlement.",
+    "evidence_for": [
+      {
+        "text": "Court records in the resulting class action document that Vanderbilt researchers administered radioactive iron-59 tracers to pregnant women from 1945-47 without informing them of the radioactive component.",
+        "source": "https://law.justia.com/cases/federal/district-courts/FSupp2/18/786/2449556/"
+      },
+      {
+        "text": "Vanderbilt agreed to a multi-million-dollar settlement covering the women and their children after the university acknowledged it had lost many of the records identifying which women received the radioactive tracer.",
+        "source": "https://www.chronicle.com/article/vanderbilt-settles-lawsuit-over-radiation-tests-on-pregnant-women-in-the-1940s-103819/"
+      },
+      "The study is cited in the federal Advisory Committee on Human Radiation Experiments (ACHRE) report on Cold War-era radiation research."
+    ],
+    "evidence_against": [
+      {
+        "text": "Government and university reviews concluded the radiation doses administered were low and unlikely to have caused measurable harm, even though consent was inadequate.",
+        "source": "https://en.wikipedia.org/wiki/Human_radiation_experiments"
+      }
+    ],
+    "related": [
+      "fernald-radioactive-oatmeal",
+      "project-112-shad"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_radiation_experiments",
+    "sources": [
+      {
+        "title": "Human radiation experiments",
+        "url": "https://en.wikipedia.org/wiki/Human_radiation_experiments",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Vanderbilt Settles Lawsuit Over Radiation Tests on Pregnant Women in the 1940s",
+        "url": "https://www.chronicle.com/article/vanderbilt-settles-lawsuit-over-radiation-tests-on-pregnant-women-in-the-1940s-103819/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Craft v. Vanderbilt University, 18 F. Supp. 2d 786 (M.D. Tenn. 1998)",
+        "url": "https://law.justia.com/cases/federal/district-courts/FSupp2/18/786/2449556/",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "fernald-radioactive-oatmeal",
+    "name": "Fernald School Radioactive Oatmeal Experiments",
+    "aliases": [
+      "MIT-Quaker Oats radioactive oatmeal experiments",
+      "Fernald Science Club experiments"
+    ],
+    "genre": "health",
+    "year": 1994,
+    "truth": 96,
+    "impact": 40,
+    "notoriety": 40,
+    "summary": "Between 1946 and 1953, Harvard and MIT researchers, with funding tied to Quaker Oats, fed radioactive iron- and calcium-laced cereal and milk to boys at the Walter E. Fernald State School in Massachusetts, recruiting them into a fictitious 'Science Club' with incentives like Red Sox tickets, without informing them or their parents of the radioactive tracers. The experiments surfaced publicly in the early 1990s amid nationwide disclosures of Cold War radiation research, leading to a 1995 class-action lawsuit and a 1998 settlement.",
+    "evidence_for": [
+      {
+        "text": "MIT nutrition professor Robert S. Harris led studies in which boys at the Fernald School consumed radioactively-tagged iron and calcium in their food without informed parental consent.",
+        "source": "https://en.wikipedia.org/wiki/Fernald_State_School"
+      },
+      {
+        "text": "MIT and Quaker Oats paid $1.85 million to settle the resulting class-action lawsuit, formally acknowledged in a January 1998 court-approved settlement.",
+        "source": "https://news.mit.edu/1998/fernald-0107"
+      },
+      "The experiments were documented as part of the federal Advisory Committee on Human Radiation Experiments investigation launched after 1993 press disclosures."
+    ],
+    "evidence_against": [
+      {
+        "text": "The federal Advisory Committee on Human Radiation Experiments concluded the radiation doses were low and it was 'extremely unlikely' any child was physically harmed, though the lack of consent remained ethically indefensible.",
+        "source": "https://en.wikipedia.org/wiki/Fernald_State_School"
+      }
+    ],
+    "related": [
+      "vanderbilt-radioactive-pregnancy-study",
+      "guatemala-syphilis-experiments"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Fernald_State_School",
+    "sources": [
+      {
+        "title": "Fernald State School",
+        "url": "https://en.wikipedia.org/wiki/Fernald_State_School",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Court approves Fernald settlement",
+        "url": "https://news.mit.edu/1998/fernald-0107",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "A Spoonful of Sugar Helps the Radioactive Oatmeal Go Down",
+        "url": "https://www.smithsonianmag.com/history/spoonful-sugar-helps-radioactive-oatmeal-go-down-180962424/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "unit-731",
+    "name": "Unit 731",
+    "aliases": [
+      "Unit 731 human experimentation",
+      "Ishii Unit",
+      "Epidemic Prevention and Water Purification Department"
+    ],
+    "genre": "health",
+    "year": 1981,
+    "truth": 99,
+    "impact": 80,
+    "notoriety": 75,
+    "summary": "Between 1933 and 1945, the Imperial Japanese Army's Unit 731, led by Lieutenant General Shiro Ishii, conducted lethal biological and chemical experiments -- including vivisection, deliberate infection with plague and other pathogens, and frostbite testing -- on thousands of Chinese, Russian, Korean, and other prisoners at a facility in Harbin, Manchuria. The unit's crimes were partially revealed at a 1949 Soviet war crimes trial, but the United States secretly granted Ishii and other leaders immunity from prosecution in exchange for their research data, a cover-up that became broadly documented through declassified U.S. records and investigative journalism from the early 1980s onward.",
+    "evidence_for": [
+      {
+        "text": "Twelve Unit 731 personnel were tried and convicted by the Soviet Union at the 1949 Khabarovsk War Crimes Trials for developing and using biological weapons.",
+        "source": "https://en.wikipedia.org/wiki/Unit_731"
+      },
+      {
+        "text": "Declassified U.S. National Archives records, including memoranda from Brigadier General Charles Willoughby, document that General MacArthur's headquarters secretly granted immunity to Ishii and other Unit 731 leaders in exchange for exclusive access to their human-experimentation data.",
+        "source": "https://www.archives.gov/press/press-releases/2007/nr07-47"
+      },
+      "In 2002, the Tokyo District Court formally acknowledged Japan had conducted biological warfare in China during the war."
+    ],
+    "evidence_against": [
+      {
+        "text": "Some specific casualty figures (estimates range from about 3,000 to over 14,000 victims) and the precise extent of the American cover-up remain debated among historians due to destroyed records.",
+        "source": "https://en.wikipedia.org/wiki/Unit_731"
+      }
+    ],
+    "related": [
+      "edgewood-arsenal-experiments",
+      "project-mkultra"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Unit_731",
+    "sources": [
+      {
+        "title": "Unit 731",
+        "url": "https://en.wikipedia.org/wiki/Unit_731",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "100,000 Pages Declassified in Search for Japanese War Crimes Records",
+        "url": "https://www.archives.gov/press/press-releases/2007/nr07-47",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "edgewood-arsenal-experiments",
+    "name": "Edgewood Arsenal Human Experiments",
+    "aliases": [
+      "Edgewood/Aberdeen Experiments",
+      "Army Chemical Corps Medical Research Volunteer Program"
+    ],
+    "genre": "health",
+    "year": 1975,
+    "truth": 94,
+    "impact": 50,
+    "notoriety": 40,
+    "summary": "From the 1950s to 1975, the U.S. Army Chemical Corps administered more than 250 chemical agents -- including nerve agents, LSD, BZ, and mustard gas -- to roughly 7,000 soldiers and civilians at Edgewood Arsenal, Maryland, often without adequate informed consent or follow-up medical care. The program was shut down amid scandal in 1975 after Army and congressional scrutiny, and its scope was later confirmed in detail by a 1994 GAO investigation and a series of Institute of Medicine studies.",
+    "evidence_for": [
+      {
+        "text": "A 1994 U.S. Government Accountability Office report on Cold War-era human experimentation confirmed roughly 7,120 Army and Air Force personnel were used as test subjects at Edgewood and affiliated sites between 1952 and 1975.",
+        "source": "https://www.gao.gov/assets/t-nsiad-94-266.pdf"
+      },
+      {
+        "text": "The Army's Medical Research Volunteer Program at Edgewood Arsenal was abruptly terminated in 1975 amid a scandal over undisclosed testing on soldiers.",
+        "source": "https://en.wikipedia.org/wiki/Edgewood_Arsenal_human_experiments"
+      },
+      "Federal courts ruled in 2013 and again on appeal in 2015 that the Army has an ongoing legal duty to notify and provide medical care to former test subjects."
+    ],
+    "evidence_against": [
+      {
+        "text": "The GAO itself concluded precise information on the full scope of the testing program may never be known because records were incomplete or destroyed.",
+        "source": "https://www.gao.gov/assets/t-nsiad-94-266.pdf"
+      }
+    ],
+    "related": [
+      "project-112-shad",
+      "unit-731",
+      "project-mkultra",
+      "church-committee"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Edgewood_Arsenal_human_experiments",
+    "sources": [
+      {
+        "title": "Edgewood Arsenal human experiments",
+        "url": "https://en.wikipedia.org/wiki/Edgewood_Arsenal_human_experiments",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Human Experimentation: An Overview on Cold War Era Programs (GAO/T-NSIAD-94-266)",
+        "url": "https://www.gao.gov/assets/t-nsiad-94-266.pdf",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "project-112-shad",
+    "name": "Project 112 / Project SHAD",
+    "aliases": [
+      "Project SHAD",
+      "Shipboard Hazard and Defense"
+    ],
+    "genre": "government",
+    "year": 2000,
+    "truth": 95,
+    "impact": 55,
+    "notoriety": 40,
+    "summary": "From 1962 to 1973, the U.S. Department of Defense's Project 112, and its shipboard component Project SHAD, exposed thousands of American service members to chemical and biological agents -- including sarin and VX nerve agents -- in tests conducted at sea and at land sites, largely without the subjects' knowledge or consent. The Pentagon denied the program's existence for decades until a CBS News investigation broadcast in May 2000 forced the Department of Defense to confirm the tests and begin notifying and treating affected veterans.",
+    "evidence_for": [
+      {
+        "text": "A CBS Evening News investigation broadcast in May 2000, the result of a six-year probe by journalist Eric Longabardi, exposed more than 100 secret biological and chemical warfare tests conducted at sea on U.S. sailors.",
+        "source": "https://www.cbsnews.com/news/dod-tested-weapons-on-thousands/"
+      },
+      {
+        "text": "Following the CBS report, the Department of Defense and Department of Veterans Affairs launched formal investigations and began notifying veterans of their exposure.",
+        "source": "https://en.wikipedia.org/wiki/Project_112"
+      },
+      "A 2007 Institute of Medicine study assessed long-term health effects on Project SHAD participants at the government's request."
+    ],
+    "evidence_against": [
+      {
+        "text": "Because many participants were never told what agents they were exposed to, and complete unit rosters were not maintained, the full scope of exposure and subsequent health effects remains difficult to establish with certainty.",
+        "source": "https://en.wikipedia.org/wiki/Project_112"
+      }
+    ],
+    "related": [
+      "edgewood-arsenal-experiments",
+      "dugway-proving-ground-tests",
+      "church-committee"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Project_112",
+    "sources": [
+      {
+        "title": "Project 112",
+        "url": "https://en.wikipedia.org/wiki/Project_112",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "DoD Tested Weapons On Thousands",
+        "url": "https://www.cbsnews.com/news/dod-tested-weapons-on-thousands/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "bayer-factor-viii-hiv",
+    "name": "Bayer HIV-Tainted Factor VIII",
+    "aliases": [
+      "Cutter Biological HIV blood scandal",
+      "Contaminated haemophilia blood products scandal"
+    ],
+    "genre": "health",
+    "year": 2003,
+    "truth": 93,
+    "impact": 65,
+    "notoriety": 45,
+    "summary": "In the early-to-mid 1980s, Bayer's Cutter Biological division and other manufacturers continued selling older, non-heat-treated clotting-factor concentrate known to risk carrying HIV to hemophiliacs in Asia and Latin America even after a safer heat-treated version was approved in the U.S. in February 1984, while marketing the safer product domestically. The dual-track strategy was exposed through internal company documents surfaced in litigation and a 2003 New York Times investigation, leading to a 1997 settlement of roughly $600 million with thousands of infected U.S. hemophiliacs.",
+    "evidence_for": [
+      {
+        "text": "Internal Cutter memos, marketing meeting minutes, and telexes to foreign distributors, obtained through litigation discovery, showed the company knowingly continued selling unheated, HIV-risk concentrate abroad in countries including Argentina, Hong Kong, and Japan after switching to heat-treated product in the U.S.",
+        "source": "https://www.cbsnews.com/news/bayer-sold-hiv-risky-meds/"
+      },
+      {
+        "text": "Bayer and three other blood-product manufacturers paid roughly $600 million in 1997 to settle lawsuits brought by more than 6,000 U.S. hemophiliacs infected with HIV through contaminated blood products.",
+        "source": "https://en.wikipedia.org/wiki/Contaminated_haemophilia_blood_products"
+      },
+      "A Cutter manager's internal 1983 memo acknowledged 'strong evidence to suggest that AIDS is passed on to other people through ... plasma products.'"
+    ],
+    "evidence_against": [
+      {
+        "text": "The companies maintained the overseas sales were a response to genuine supply shortages of the newer product rather than a deliberate cost-driven decision to dump risky stock, a defense some courts weighed in dismissing certain claims.",
+        "source": "https://en.wikipedia.org/wiki/Contaminated_haemophilia_blood_products"
+      }
+    ],
+    "related": [
+      "guatemala-syphilis-experiments"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Contaminated_haemophilia_blood_products",
+    "sources": [
+      {
+        "title": "Contaminated haemophilia blood products",
+        "url": "https://en.wikipedia.org/wiki/Contaminated_haemophilia_blood_products",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Bayer Sold HIV-Risky Meds",
+        "url": "https://www.cbsnews.com/news/bayer-sold-hiv-risky-meds/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "israel-ethiopian-birth-control",
+    "name": "Ethiopian Immigrant Birth-Control Injections",
+    "aliases": [
+      "Israel Depo-Provera Ethiopian women scandal",
+      "Where Did the Children Disappear To"
+    ],
+    "genre": "health",
+    "year": 2013,
+    "truth": 88,
+    "impact": 40,
+    "notoriety": 40,
+    "summary": "Israeli health authorities and clinics administered the long-acting contraceptive Depo-Provera to Ethiopian Jewish immigrant women, many while they were still in transit camps in Ethiopia, often without adequate informed consent about its sterilizing effects, contributing to a roughly 50% decline in the community's birthrate over a decade. The practice was exposed by a December 2012 Israeli television documentary, and in February 2013 the Health Ministry acknowledged the problem and ordered clinics to stop prescribing the drug without ensuring patients understood its effects.",
+    "evidence_for": [
+      {
+        "text": "Israel's Health Ministry director general ordered gynecologists to stop renewing Depo-Provera prescriptions for Ethiopian women without confirming comprehension, an implicit admission that consent had been inadequate.",
+        "source": "https://www.geneticsandsociety.org/biopolitical-times/israel-admits-targeting-ethiopian-jews-compulsory-contraception"
+      },
+      {
+        "text": "Investigations found that between 2005 and 2008, Ethiopian women -- fewer than 2% of Israel's population -- made up 57% of all Depo-Provera recipients at Israeli health maintenance organizations.",
+        "source": "https://time.com/archive/7151092/did-israeli-doctors-force-contraception-on-ethiopian-immigrants/"
+      },
+      "The practice was first brought to wide public attention by journalist Gal Gabai's December 2012 documentary 'Vanishing Act (Where Did the Children Disappear To).'"
+    ],
+    "evidence_against": [
+      {
+        "text": "Israeli officials denied any deliberate policy of ethnically-targeted population control, characterizing the pattern as a result of individual clinic practices and cultural miscommunication rather than a coordinated program.",
+        "source": "https://www.geneticsandsociety.org/biopolitical-times/israel-admits-targeting-ethiopian-jews-compulsory-contraception"
+      }
+    ],
+    "related": [
+      "guatemala-syphilis-experiments"
+    ],
+    "depends_on": [],
+    "sources": [
+      {
+        "title": "Israel Admits Targeting Ethiopian Jews for Compulsory Contraception",
+        "url": "https://www.geneticsandsociety.org/biopolitical-times/israel-admits-targeting-ethiopian-jews-compulsory-contraception",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Did Israeli Doctors Force Contraception on Ethiopian Immigrants?",
+        "url": "https://time.com/archive/7151092/did-israeli-doctors-force-contraception-on-ethiopian-immigrants/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "dugway-proving-ground-tests",
+    "name": "Dugway Proving Ground Chemical Tests",
+    "aliases": [
+      "Dugway sheep incident",
+      "Skull Valley sheep kill"
+    ],
+    "genre": "government",
+    "year": 1998,
+    "truth": 95,
+    "impact": 50,
+    "notoriety": 45,
+    "summary": "The U.S. Army's Dugway Proving Ground in Utah conducted decades of open-air chemical and biological weapons testing, including a March 1968 incident in which an F-4 Phantom's nerve-agent (VX) spray drifted into nearby Skull Valley and killed roughly 6,000 sheep. The Army resisted acknowledging responsibility for years; a classified 1970 report finding 'incontrovertible' evidence of VX contamination was not released to the public until 1998, and the incident helped prompt President Nixon's 1969 ban on open-air chemical weapons testing.",
+    "evidence_for": [
+      {
+        "text": "A 1970 U.S. Army report, kept classified until its 1998 public release, found VX nerve agent residue in snow, grass, and animal tissue samples collected from Skull Valley three weeks after the March 1968 sheep deaths, calling the evidence 'incontrovertible.'",
+        "source": "https://en.wikipedia.org/wiki/Dugway_sheep_incident"
+      },
+      {
+        "text": "Government scientists' chemical analysis found the VX-type compounds recovered from the site were identical to the nerve agent supplied to the Army for the test.",
+        "source": "https://www.smithsonianmag.com/history/how-death-6000-sheep-spurred-american-debate-chemical-weapons-cold-war-180968717/"
+      },
+      "The incident is widely credited with contributing to President Nixon's November 1969 decision to renounce first use of chemical weapons and halt open-air testing."
+    ],
+    "evidence_against": [
+      {
+        "text": "The Army never formally admitted negligence or legal responsibility for the sheep deaths even after the report was made public.",
+        "source": "https://en.wikipedia.org/wiki/Dugway_sheep_incident"
+      }
+    ],
+    "related": [
+      "project-112-shad",
+      "edgewood-arsenal-experiments"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dugway_sheep_incident",
+    "sources": [
+      {
+        "title": "Dugway sheep incident",
+        "url": "https://en.wikipedia.org/wiki/Dugway_sheep_incident",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "How the Death of 6,000 Sheep Spurred the American Debate on Chemical Weapons",
+        "url": "https://www.smithsonianmag.com/history/how-death-6000-sheep-spurred-american-debate-chemical-weapons-cold-war-180968717/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  }
+]

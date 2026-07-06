@@ -1,0 +1,480 @@
+[
+  {
+    "id": "cambridge-analytica",
+    "name": "Cambridge Analytica Data Scandal",
+    "aliases": [
+      "Facebook-Cambridge Analytica data scandal"
+    ],
+    "genre": "media-surveillance",
+    "year": 2018,
+    "truth": 98,
+    "impact": 62,
+    "notoriety": 88,
+    "summary": "British political consulting firm Cambridge Analytica harvested personal data from up to 87 million Facebook users via a personality-quiz app, without informed consent, and used it to build psychological profiles for targeted political advertising for the 2016 Trump and Brexit Leave.EU campaigns. Whistleblower Christopher Wylie's March 2018 disclosures to The Guardian and The New York Times exposed the operation.",
+    "evidence_for": [
+      {
+        "text": "Wikipedia documents the app's harvesting of up to 87 million Facebook profiles and use in the 2016 Trump and Cruz campaigns and the Brexit Leave.EU campaign.",
+        "source": "https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal"
+      },
+      {
+        "text": "The U.S. FTC imposed a record $5 billion penalty on Facebook in July 2019 for privacy violations tied to the scandal, alongside sweeping new privacy restrictions.",
+        "source": "https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook"
+      },
+      "The UK Information Commissioner's Office fined Facebook £500,000 in October 2019, and Meta paid $725 million in a December 2022 class-action settlement."
+    ],
+    "evidence_against": [
+      "None -- documented historical fact, confirmed by regulatory fines, court settlements, and whistleblower testimony corroborated by internal documents."
+    ],
+    "related": [
+      "internet-research-agency",
+      "gchq-jtrig"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal",
+    "sources": [
+      {
+        "title": "Facebook–Cambridge Analytica data scandal",
+        "url": "https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "FTC Imposes $5 Billion Penalty and Sweeping New Privacy Restrictions on Facebook",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "internet-research-agency",
+    "name": "Internet Research Agency (Project Lakhta)",
+    "aliases": [
+      "IRA",
+      "Russian troll farm",
+      "Project Lakhta"
+    ],
+    "genre": "media-surveillance",
+    "year": 2018,
+    "truth": 96,
+    "impact": 65,
+    "notoriety": 78,
+    "summary": "The Internet Research Agency, a St. Petersburg-based operation founded and financed by Yevgeny Prigozhin, ran coordinated fake social-media accounts and ad campaigns to influence U.S. politics and sow social division, including during the 2016 presidential election. A February 2018 U.S. federal grand jury indicted 13 Russian nationals and three entities, including the IRA, for the scheme.",
+    "evidence_for": [
+      {
+        "text": "Wikipedia documents the IRA's founding by Prigozhin, its troll-farm operations, and the 2018 U.S. indictment of 13 individuals and three entities.",
+        "source": "https://en.wikipedia.org/wiki/Internet_Research_Agency"
+      },
+      {
+        "text": "The Washington Post reported on the Justice Department's February 16, 2018 indictment of 13 Russians and three companies for interfering in the 2016 U.S. election.",
+        "source": "https://www.washingtonpost.com/world/national-security/russian-troll-farm-13-suspects-indicted-for-interference-in-us-election/2018/02/16/2504de5e-1342-11e8-9570-29c9830535e5_story.html"
+      },
+      "Prigozhin himself publicly admitted in February 2023, \"I invented it, I created it, I managed it for a long time.\""
+    ],
+    "evidence_against": [
+      "The precise electoral impact of IRA activity on 2016 voting outcomes remains disputed among researchers."
+    ],
+    "related": [
+      "cambridge-analytica",
+      "gchq-jtrig"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Internet_Research_Agency",
+    "sources": [
+      {
+        "title": "Internet Research Agency",
+        "url": "https://en.wikipedia.org/wiki/Internet_Research_Agency",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Special counsel Mueller indicts 13 Russians for election interference",
+        "url": "https://www.washingtonpost.com/world/national-security/russian-troll-farm-13-suspects-indicted-for-interference-in-us-election/2018/02/16/2504de5e-1342-11e8-9570-29c9830535e5_story.html",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "gchq-jtrig",
+    "name": "GCHQ JTRIG",
+    "aliases": [
+      "Joint Threat Research Intelligence Group"
+    ],
+    "genre": "espionage",
+    "year": 2014,
+    "truth": 95,
+    "impact": 55,
+    "notoriety": 55,
+    "summary": "JTRIG, a covert unit within Britain's GCHQ, ran online \"dirty tricks\" operations including denial-of-service attacks, false-flag postings, honey traps, and coordinated manipulation of social media to discredit targets and shape online discourse. Its existence and tactics were revealed in 2014 through documents leaked by former NSA contractor Edward Snowden and published by Glenn Greenwald.",
+    "evidence_for": [
+      {
+        "text": "Wikipedia documents JTRIG's cyberattacks, malware deployment, and \"Online Covert Action\" information-warfare tactics disclosed via Snowden documents.",
+        "source": "https://en.wikipedia.org/wiki/Joint_Threat_Research_Intelligence_Group"
+      },
+      {
+        "text": "The Intercept published the leaked GCHQ training document \"The Art of Deception,\" detailing JTRIG methods to inject false material online and destroy targets' reputations.",
+        "source": "https://theintercept.com/2014/02/24/jtrig-manipulation/"
+      }
+    ],
+    "evidence_against": [
+      "GCHQ has not confirmed the full scope of operations or specific individual targets beyond what appears in the leaked documents."
+    ],
+    "related": [
+      "echelon",
+      "british-army-77th-brigade"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Joint_Threat_Research_Intelligence_Group",
+    "sources": [
+      {
+        "title": "Joint Threat Research Intelligence Group",
+        "url": "https://en.wikipedia.org/wiki/Joint_Threat_Research_Intelligence_Group",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "How Covert Agents Infiltrate the Internet to Manipulate, Deceive, and Destroy Reputations",
+        "url": "https://theintercept.com/2014/02/24/jtrig-manipulation/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "british-army-77th-brigade",
+    "name": "British Army 77th Brigade",
+    "aliases": [
+      "Security Assistance Group"
+    ],
+    "genre": "media-surveillance",
+    "year": 2019,
+    "truth": 92,
+    "impact": 45,
+    "notoriety": 42,
+    "summary": "The British Army's 77th Brigade, formed in January 2015 from the Security Assistance Group, conducts information operations and psychological-warfare campaigns, officially targeting foreign adversaries and disinformation. Reporting from 2019-2023, including a parliamentary admission by then-Defence Secretary Ben Wallace, confirmed the unit also monitored British citizens' social media posts, including during the COVID-19 pandemic.",
+    "evidence_for": [
+      {
+        "text": "Wikipedia documents the brigade's formation, its information-operations mission, and the 2019-2023 revelations of domestic social-media monitoring.",
+        "source": "https://en.wikipedia.org/wiki/77th_Brigade_(United_Kingdom)"
+      },
+      {
+        "text": "Big Brother Watch reported that Defence Secretary Ben Wallace admitted to Parliament that 77th Brigade \"uses... material shared on social media platforms to assess UK disinformation trends,\" contradicting earlier Army denials.",
+        "source": "https://bigbrotherwatch.org.uk/press-releases/defence-secretary-admits-77th-brigade-tasked-to-uk-disinformation/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The Army disputes characterizations of the monitoring as surveillance or action \"against\" British citizens, framing it as counter-disinformation work.",
+        "source": "https://en.wikipedia.org/wiki/77th_Brigade_(United_Kingdom)"
+      }
+    ],
+    "related": [
+      "gchq-jtrig",
+      "echelon"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/77th_Brigade_(United_Kingdom)",
+    "sources": [
+      {
+        "title": "77th Brigade (United Kingdom)",
+        "url": "https://en.wikipedia.org/wiki/77th_Brigade_(United_Kingdom)",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Defence Secretary Admits 77th Brigade Tasked to \"UK Disinformation\"",
+        "url": "https://bigbrotherwatch.org.uk/press-releases/defence-secretary-admits-77th-brigade-tasked-to-uk-disinformation/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "pentagon-military-analyst-program",
+    "name": "Pentagon Military Analyst Program",
+    "aliases": [
+      "Pentagon Pundits",
+      "Message Force Multipliers"
+    ],
+    "genre": "media-surveillance",
+    "year": 2008,
+    "truth": 96,
+    "impact": 58,
+    "notoriety": 48,
+    "summary": "Starting in 2002, the Pentagon under Assistant Secretary of Defense Victoria Clarke recruited dozens of retired military officers appearing as independent TV analysts, giving them classified briefings, talking points, and access in exchange for promoting administration messaging on Iraq -- without disclosing many analysts' financial ties to defense contractors. New York Times reporter David Barstow exposed the program in an April 2008 investigation that won the 2009 Pulitzer Prize.",
+    "evidence_for": [
+      {
+        "text": "Wikipedia documents the program's 2002 launch, its 147 events for 74 analysts, and Barstow's Pulitzer-winning exposure.",
+        "source": "https://en.wikipedia.org/wiki/Pentagon_military_analyst_program"
+      },
+      {
+        "text": "Democracy Now reported on Barstow's Pulitzer Prize-winning investigation, detailing analysts' undisclosed defense-contractor ties and Pentagon talking points used in at least 4,500 TV and radio appearances.",
+        "source": "https://www.democracynow.org/2009/5/8/pentagons_pundits_ny_times_reporter_david"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "A Pentagon Inspector General report initially found no wrongdoing, though it was later withdrawn after being found to have significant factual problems.",
+        "source": "https://en.wikipedia.org/wiki/Pentagon_military_analyst_program"
+      }
+    ],
+    "related": [
+      "gchq-jtrig",
+      "operation-mockingbird"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pentagon_military_analyst_program",
+    "sources": [
+      {
+        "title": "Pentagon military analyst program",
+        "url": "https://en.wikipedia.org/wiki/Pentagon_military_analyst_program",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Pentagon's Pundits: NY Times Reporter David Barstow Wins Pulitzer Prize for Exposing Military's Pro-War Propaganda Media Campaign",
+        "url": "https://www.democracynow.org/2009/5/8/pentagons_pundits_ny_times_reporter_david",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "echelon",
+    "name": "ECHELON",
+    "aliases": [
+      "Five Eyes signals intelligence network"
+    ],
+    "genre": "espionage",
+    "year": 2001,
+    "truth": 94,
+    "impact": 68,
+    "notoriety": 55,
+    "summary": "ECHELON is a global signals-intelligence collection network operated jointly by the US, UK, Canada, Australia, and New Zealand under the UKUSA Agreement, capable of intercepting telephone, fax, email, and satellite communications worldwide. A 2000-2001 European Parliament investigation concluded the system existed and was used to intercept private and commercial as well as military communications, a finding later corroborated by Edward Snowden's leaked NSA documents.",
+    "evidence_for": [
+      {
+        "text": "Wikipedia documents ECHELON's Cold War origins, the Five Eyes structure, and its 2001 European Parliament investigation.",
+        "source": "https://en.wikipedia.org/wiki/ECHELON"
+      },
+      {
+        "text": "A European Union committee report to the European Parliament concluded that Echelon does indeed exist as a global interception network, per contemporary coverage of the 367-159 vote adopting the findings.",
+        "source": "https://www.govtech.com/security/echelon-spying-network-exists-eu-committee.html"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The precise current capabilities and interception volume of the system remain classified and disputed.",
+        "source": "https://en.wikipedia.org/wiki/ECHELON"
+      }
+    ],
+    "related": [
+      "gchq-jtrig",
+      "operation-chaos"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/ECHELON",
+    "sources": [
+      {
+        "title": "ECHELON",
+        "url": "https://en.wikipedia.org/wiki/ECHELON",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Echelon Spying Network Exists, EU Committee Says",
+        "url": "https://www.govtech.com/security/echelon-spying-network-exists-eu-committee.html",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "operation-chaos",
+    "name": "Operation CHAOS",
+    "aliases": [
+      "MHCHAOS",
+      "Project MHCHAOS"
+    ],
+    "genre": "espionage",
+    "year": 1974,
+    "truth": 97,
+    "impact": 55,
+    "notoriety": 40,
+    "summary": "Operation CHAOS was a CIA domestic espionage program (1967-1974), established under President Johnson and expanded under Nixon, that compiled files on over 7,000 Americans and infiltrated antiwar, civil rights, and other protest groups to hunt for (ultimately unfound) foreign influence. Journalist Seymour Hersh exposed the program in a December 22, 1974 New York Times article, prompting the Rockefeller Commission and the Church Committee investigations.",
+    "evidence_for": [
+      {
+        "text": "Wikipedia documents the program's 1967-1974 operation, its targeting of the antiwar and civil-rights movements, and Hersh's 1974 exposure.",
+        "source": "https://en.wikipedia.org/wiki/Operation_CHAOS"
+      },
+      {
+        "text": "The State Department's official historical record confirms Hersh's December 22, 1974 article revealed intelligence files on at least 10,000 American citizens and triggered Justice Department and congressional investigations.",
+        "source": "https://history.state.gov/historicaldocuments/frus1969-76v38p2/d17"
+      }
+    ],
+    "evidence_against": [
+      "None -- documented historical fact, confirmed by the Church Committee, Rockefeller Commission, and CIA's own \"Family Jewels\" records."
+    ],
+    "related": [
+      "cointelpro",
+      "church-committee",
+      "echelon"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Operation_CHAOS",
+    "sources": [
+      {
+        "title": "Operation CHAOS",
+        "url": "https://en.wikipedia.org/wiki/Operation_CHAOS",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Editorial Note (CIA domestic operations disclosure), Foreign Relations of the United States, 1969-1976",
+        "url": "https://history.state.gov/historicaldocuments/frus1969-76v38p2/d17",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "move-bombing-1985",
+    "name": "MOVE Bombing (1985 Philadelphia)",
+    "aliases": [
+      "1985 MOVE bombing",
+      "Osage Avenue bombing"
+    ],
+    "genre": "government",
+    "year": 1985,
+    "truth": 99,
+    "impact": 50,
+    "notoriety": 60,
+    "summary": "On May 13, 1985, Philadelphia police, on orders from Mayor Wilson Goode and Police Commissioner Gregore Sambor, dropped explosives from a helicopter onto a row house occupied by the MOVE organization; the resulting fire killed eleven people, including five children, and destroyed 61 homes. A city commission found the bombing of an occupied home unconscionable, and subsequent federal civil suits found the city liable for excessive force.",
+    "evidence_for": [
+      {
+        "text": "Wikipedia's detailed account documents the police helicopter bombing, the 11 deaths, the destruction of 61 homes, and the 1986 MOVE Commission report condemning the city's actions.",
+        "source": "https://en.wikipedia.org/wiki/1985_MOVE_bombing"
+      },
+      {
+        "text": "NPR's 30th-anniversary coverage recounts the bombing and the city's ongoing struggle to regain public trust after one of the country's most extreme incidents of police violence.",
+        "source": "https://www.npr.org/2015/05/13/406505210/philadelphia-marks-30th-anniversary-of-move-bombing"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "No city official faced criminal charges, though the city paid civil settlements ($1.5 million in 1996 and $12.83 million in 2005) to survivors and displaced residents.",
+        "source": "https://en.wikipedia.org/wiki/1985_MOVE_bombing"
+      }
+    ],
+    "related": [
+      "cointelpro"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/1985_MOVE_bombing",
+    "sources": [
+      {
+        "title": "1985 MOVE bombing",
+        "url": "https://en.wikipedia.org/wiki/1985_MOVE_bombing",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Philadelphia Marks 30th Anniversary Of MOVE Bombing",
+        "url": "https://www.npr.org/2015/05/13/406505210/philadelphia-marks-30th-anniversary-of-move-bombing",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "cia-heart-attack-gun",
+    "name": "CIA Heart Attack Gun",
+    "aliases": [
+      "Nondiscernible microbionoculator",
+      "Saxitoxin dart gun"
+    ],
+    "genre": "espionage",
+    "year": 1975,
+    "truth": 97,
+    "impact": 40,
+    "notoriety": 50,
+    "summary": "The CIA developed a pistol-like device, the \"nondiscernible microbionoculator,\" that fired a frozen dart of saxitoxin shellfish toxin capable of killing a target while leaving only a small puncture wound that could pass for a heart attack. CIA Director William Colby publicly displayed the weapon before the Senate's Church Committee in September 1975, part of broader hearings into CIA assassination programs.",
+    "evidence_for": [
+      {
+        "text": "The Church Committee's public hearings and reports on \"Alleged Assassination Plots Involving Foreign Leaders\" documented the CIA's toxin-weapons program and led to Executive Order 11905 banning U.S.-sanctioned political assassination.",
+        "source": "https://en.wikipedia.org/wiki/Church_Committee"
+      },
+      {
+        "text": "Military.com recounts Colby's 1975 Church Committee testimony presenting the dart gun, developed by Dr. Nathan Gordon at Fort Detrick to fire a frozen saxitoxin pellet from a modified M1911 pistol.",
+        "source": "https://www.military.com/history/cias-heart-attack-gun-cold-war-weapon-targeted-assassinations.html"
+      }
+    ],
+    "evidence_against": [
+      "It is undocumented whether the device was ever actually used against a real target, as opposed to being developed and stockpiled."
+    ],
+    "related": [
+      "church-committee",
+      "operation-chaos"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Church_Committee",
+    "sources": [
+      {
+        "title": "Church Committee",
+        "url": "https://en.wikipedia.org/wiki/Church_Committee",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The CIA's 'Heart Attack Gun': A Cold War Weapon for Targeted Assassinations",
+        "url": "https://www.military.com/history/cias-heart-attack-gun-cold-war-weapon-targeted-assassinations.html",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "rajneeshee-bioterror-1984",
+    "name": "1984 Rajneeshee Bioterror Attack",
+    "aliases": [
+      "The Dalles salad bar attack",
+      "Rajneeshee salmonella attack"
+    ],
+    "genre": "religion-occult",
+    "year": 1984,
+    "truth": 98,
+    "impact": 42,
+    "notoriety": 52,
+    "summary": "In September 1984, followers of the Rajneesh commune, led by Ma Anand Sheela, deliberately contaminated salad bars at ten restaurants in The Dalles, Oregon with Salmonella bacteria, sickening 751 people in an attempt to suppress local voter turnout ahead of county elections. It remains the largest bioterrorism attack in U.S. history; investigators later found matching bacterial cultures in the commune's medical laboratory, and Sheela and an accomplice were convicted.",
+    "evidence_for": [
+      {
+        "text": "Wikipedia documents the salad-bar contamination, the 751 illnesses, the electoral motive, and the 1986 convictions of Ma Anand Sheela and Diane Yvonne Onang.",
+        "source": "https://en.wikipedia.org/wiki/1984_Rajneeshee_bioterror_attack"
+      },
+      {
+        "text": "A peer-reviewed Cureus article confirms the attack as the largest bioterrorism episode in U.S. history, contaminating salad bars with Salmonella typhimurium and sickening over 750 people.",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12369568/"
+      }
+    ],
+    "evidence_against": [
+      "None -- documented historical fact, confirmed by criminal convictions and physical evidence recovered from the commune's laboratory."
+    ],
+    "related": [],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/1984_Rajneeshee_bioterror_attack",
+    "sources": [
+      {
+        "title": "1984 Rajneeshee bioterror attack",
+        "url": "https://en.wikipedia.org/wiki/1984_Rajneeshee_bioterror_attack",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The 1984 Rajneeshee Bioterrorism Attack: An Example of Biological Warfare by Violent Non-state Actors",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12369568/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ]
+  }
+]
