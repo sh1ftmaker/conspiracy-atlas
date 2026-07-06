@@ -1,0 +1,241 @@
+[
+ {
+  "id": "stop-the-steal",
+  "sources": [
+   {
+    "title": "Joint Statement from Elections Infrastructure Government Coordinating Council & the Election Infrastructure Sector Coordinating Executive Committees",
+    "url": "https://www.cisa.gov/news-events/news/joint-statement-elections-infrastructure-government-coordinating-council-election-infrastructure",
+    "type": "government",
+    "stance": "disproves"
+   },
+   {
+    "title": "Georgia releases hand recount results affirming Biden's lead",
+    "url": "https://www.npr.org/sections/live-updates-2020-election-results/2020/11/19/936647882/georgia-releases-hand-recount-results-affirming-bidens-lead",
+    "type": "news",
+    "stance": "disproves"
+   },
+   {
+    "title": "Although some lawsuits brought after the 2020 presidential election were dismissed for procedural or jurisdictional reasons, many were dismissed after judges heard the evidence",
+    "url": "https://www.politifact.com/factchecks/2022/oct/28/instagram-posts/trump-campaigns-evidence-of-fraud-was-reviewed-bef/",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Post-election lawsuits related to the 2020 U.S. presidential election",
+    "url": "https://en.wikipedia.org/wiki/Post-election_lawsuits_related_to_the_2020_U.S._presidential_election",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "climate-lockdown",
+  "sources": [
+   {
+    "title": "How 'climate lockdowns' conspiracy theories target authorities undertaking climate action",
+    "url": "https://edmo.eu/publications/how-climate-lockdowns-conspiracy-theories-target-authorities-undertaking-climate-action/",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "'Climate Lockdown' explainer",
+    "url": "https://www.isdglobal.org/explainers/climate-lockdown/",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Climate lockdown - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Climate_lockdown",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "butler-assassination-staged-coverup",
+  "sources": [
+   {
+    "title": "3 key findings on the Trump assassination attempt in Butler (Congressional Task Force final report)",
+    "url": "https://www.cityandstatepa.com/politics/2024/12/3-key-findings-trump-assassination-attempt-butler/401632/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "disclosure-project",
+  "sources": [
+   {
+    "title": "Group Calls for Disclosure of UFO Info",
+    "url": "https://abcnews.com/Technology/story?id=98572&page=1",
+    "type": "news",
+    "stance": "context"
+   },
+   {
+    "title": "Steven M. Greer - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Steven_M._Greer",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "bilderberg-world-govt",
+  "sources": [
+   {
+    "title": "Bilderberg Meetings — official site (participant lists)",
+    "url": "https://www.bilderbergmeetings.org/",
+    "type": "government",
+    "stance": "context"
+   },
+   {
+    "title": "Debunking the Bilderberg Myth",
+    "url": "https://www.adl.org/resources/news/debunking-bilderberg-myth",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Bilderberg Meeting - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bilderberg_Meeting",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "greiders-endgame",
+  "sources": [
+   {
+    "title": "A Locked Door, A Secret Meeting And The Birth Of The Fed",
+    "url": "https://www.npr.org/sections/money/2013/12/23/256326325/a-locked-door-a-secret-meeting-and-the-birth-of-the-fed",
+    "type": "investigative",
+    "stance": "context"
+   },
+   {
+    "title": "9 myths about the Federal Reserve — debunked",
+    "url": "https://www.bankrate.com/banking/federal-reserve/federal-reserve-misconceptions/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "technology-suppression",
+  "sources": [
+   {
+    "title": "The Great Lightbulb Conspiracy",
+    "url": "https://spectrum.ieee.org/the-great-lightbulb-conspiracy",
+    "type": "investigative",
+    "stance": "supports"
+   },
+   {
+    "title": "Phoebus cartel - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Phoebus_cartel",
+    "type": "news",
+    "stance": "supports"
+   },
+   {
+    "title": "Who Killed the Electric Car? - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Who_Killed_the_Electric_Car",
+    "type": "news",
+    "stance": "context"
+   },
+   {
+    "title": "The Myth of Planned Obsolescence",
+    "url": "https://mises.org/mises-wire/myth-planned-obsolescence",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "un-agenda",
+  "sources": [
+   {
+    "title": "Facebook post falsely claims that U.N. plans for sustainable development will create 'one world government'",
+    "url": "https://www.politifact.com/factchecks/2020/jul/24/viral-image/facebook-post-distorts-uns-sustainable-development/",
+    "type": "debunker",
+    "stance": "disproves"
+   },
+   {
+    "title": "Agenda 21 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Agenda_21",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "targeted-individuals",
+  "sources": [
+   {
+    "title": "Gang Stalking: Real-Life Harassment or Textbook Paranoia?",
+    "url": "https://www.psychologytoday.com/us/blog/psych-unseen/202010/gang-stalking-real-life-harassment-or-textbook-paranoia",
+    "type": "academic",
+    "stance": "disproves"
+   },
+   {
+    "title": "Gang stalking - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gang_stalking",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "the-ummo-case",
+  "sources": [
+   {
+    "title": "Ummo - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ummo",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "vehicle-surveillance",
+  "sources": [
+   {
+    "title": "About that PPD SUV disguised as a Google Street View car",
+    "url": "https://technical.ly/civic-news/ppd-disguised-surveillance-van-google-street-view-car/",
+    "type": "news",
+    "stance": "context"
+   },
+   {
+    "title": "ACLU-PA Statement on Philadelphia Police Surveillance Van Disguised as Google Streetview Vehicle",
+    "url": "https://www.aclupa.org/press-releases/aclu-pa-statement-philadelphia-police-surveillance-van-disguised-google-streetview/",
+    "type": "advocacy",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "doomsday-clocks",
+  "sources": [
+   {
+    "title": "2012 phenomenon - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2012_phenomenon",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "End of World in 2012? Maya \"Doomsday\" Calendar Explained",
+    "url": "https://www.nationalgeographic.com/science/article/111220-end-of-world-2012-maya-calendar-explained-ancient-science",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "hostile-plants",
+  "sources": [
+   {
+    "title": "Nature's Silent Sentinels Could Help Detect Security Threats (DARPA Advanced Plant Technologies)",
+    "url": "https://www.darpa.mil/news-events/2017-11-17",
+    "type": "government",
+    "stance": "supports"
+   }
+  ]
+ }
+]

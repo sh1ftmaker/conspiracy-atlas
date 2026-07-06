@@ -1,0 +1,107 @@
+[
+ {
+  "id": "roswell",
+  "url": "https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html",
+  "st": "disproves"
+ },
+ {
+  "id": "roswell",
+  "url": "https://en.wikipedia.org/wiki/Roswell_incident",
+  "st": "context"
+ },
+ {
+  "id": "seth-rich-murder",
+  "url": "https://en.wikipedia.org/wiki/Murder_of_Seth_Rich",
+  "st": "debunks"
+ },
+ {
+  "id": "seth-rich-murder",
+  "url": "https://www.rollingstone.com/politics/politics-news/seth-rich-wikileaks-fox-news-sean-hannity-donald-trump-russia-1094896/",
+  "st": "debunks"
+ },
+ {
+  "id": "pope-john-paul-i-murder",
+  "url": "https://en.wikipedia.org/wiki/Pope_John_Paul_I_conspiracy_theories",
+  "st": "context"
+ },
+ {
+  "id": "pope-john-paul-i-murder",
+  "url": "https://crisismagazine.com/opinion/a-quiet-death-in-rome-was-pope-john-paul-i-murdered",
+  "st": "debunks"
+ },
+ {
+  "id": "sandy-hook-hoax",
+  "url": "https://www.pbs.org/newshour/nation/supreme-court-rejects-alex-jones-appeal-of-1-4-billion-defamation-judgment-in-sandy-hook-shooting",
+  "st": "debunks"
+ },
+ {
+  "id": "twa-flight-800-missile",
+  "url": "https://www.ntsb.gov/news/events/documents/moriches_ny-TWA_800_Overview.pdf",
+  "st": "disproves"
+ },
+ {
+  "id": "twa-flight-800-missile",
+  "url": "https://en.wikipedia.org/wiki/TWA_Flight_800",
+  "st": "debunks"
+ },
+ {
+  "id": "blood-libel",
+  "url": "https://encyclopedia.ushmm.org/content/en/article/blood-libel",
+  "st": "disproves"
+ },
+ {
+  "id": "mars-face-cydonia",
+  "url": "https://science.nasa.gov/photojournal/cydonia-two-years-later-8/",
+  "st": "disproves"
+ },
+ {
+  "id": "mars-face-cydonia",
+  "url": "https://www.skyatnightmagazine.com/space-science/face-on-mars",
+  "st": "debunks"
+ },
+ {
+  "id": "project-blue-beam",
+  "url": "https://www.newsweek.com/what-project-blue-beam-conspiracy-theory-erupts-over-drones-2001051",
+  "st": "context"
+ },
+ {
+  "id": "anti-fluoridation-communist",
+  "url": "https://www.sciencehistory.org/distillations/magazine/pipe-dreams-americas-fluoride-controversy",
+  "st": "debunks"
+ },
+ {
+  "id": "transhumanism",
+  "url": "https://plato.stanford.edu/entries/enhancement/",
+  "st": "context"
+ },
+ {
+  "id": "cuneiform-language-in-technology",
+  "url": "https://news.asu.edu/20190314-discoveries-asu-archaeologist-debunks-alien-influence-other-conspiracy-theories-archaeology",
+  "st": "debunks"
+ },
+ {
+  "id": "cuneiform-language-in-technology",
+  "url": "https://en.wikipedia.org/wiki/Ancient_astronauts",
+  "st": "debunks"
+ },
+ {
+  "id": "generational-leaps",
+  "url": "https://www.propublica.org/article/the-great-inheritors-how-three-families-shielded-their-fortunes-from-taxes-for-generations",
+  "st": "supports"
+ },
+ {
+  "id": "microdot-gif",
+  "url": "https://www.psychologicalscience.org/uncategorized/myth-you-can-be-influenced-by-things-outside-your-awareness.html",
+  "st": "debunks"
+ },
+ {
+  "id": "butterfly-effect",
+  "url": "https://en.wikipedia.org/wiki/Butterfly_effect",
+  "st": "context"
+ },
+ {
+  "id": "real-intentions-of-road-to-roota",
+  "url": "https://wondergressive.com/2023/08/04/the-road-to-roota-unmasking-its-real-intentions/",
+  "st": "context"
+ }
+]

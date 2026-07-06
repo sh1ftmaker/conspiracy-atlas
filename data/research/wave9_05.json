@@ -1,0 +1,223 @@
+[
+ {
+  "id": "protocols-elders-zion",
+  "sources": [
+   {
+    "title": "An Antisemitic Conspiracy: The Protocols of the Elders of Zion",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/protocols-of-the-elders-of-zion",
+    "type": "government",
+    "stance": "disproves"
+   }
+  ]
+ },
+ {
+  "id": "obama-birther",
+  "sources": [
+   {
+    "title": "Obama releases birth certificate",
+    "url": "https://www.politifact.com/article/2011/apr/27/obama-releases-birth-certificate/",
+    "type": "debunker",
+    "stance": "disproves"
+   }
+  ]
+ },
+ {
+  "id": "denver-airport-conspiracy",
+  "sources": [
+   {
+    "title": "The true story behind the conspiracy-ridden murals at DIA",
+    "url": "https://www.rmpbs.org/news/rocky-mountain-pbs/dia-mural-conspiracies-story",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "avril-lavigne-replacement",
+  "sources": [
+   {
+    "title": "Avril Lavigne replacement conspiracy theory",
+    "url": "https://en.wikipedia.org/wiki/Avril_Lavigne_replacement_conspiracy_theory",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "crisis-actors",
+  "sources": [
+   {
+    "title": "Supreme Court rejects Alex Jones' appeal of $1.4 billion defamation judgment in Sandy Hook shooting",
+    "url": "https://www.pbs.org/newshour/nation/supreme-court-rejects-alex-jones-appeal-of-1-4-billion-defamation-judgment-in-sandy-hook-shooting",
+    "type": "court",
+    "stance": "disproves"
+   },
+   {
+    "title": "Sandy Hook 'Truther' James Tracy Sues Florida Atlantic University Over Firing",
+    "url": "https://www.newsweek.com/james-tracy-florida-lawsuit-sandy-hook-conspiracy-452730",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "directed-energy-wildfires",
+  "sources": [
+   {
+    "title": "No evidence direct energy weapons caused Maui wildfires",
+    "url": "https://www.politifact.com/factchecks/2023/aug/18/instagram-posts/no-evidence-direct-energy-weapons-caused-maui-wild/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "masking-chemicals",
+  "sources": [
+   {
+    "title": "With a push from RFK Jr., baseless fears about fluoride go mainstream",
+    "url": "https://www.statnews.com/2024/11/13/fluoride-drinking-water-science-behind-controversy-rfk-jr/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "1998-world-cup-ronaldo-fix",
+  "sources": [
+   {
+    "title": "CPI da Nike: o dia em que o futebol brasileiro foi parar no Congresso",
+    "url": "https://atarde.com.br/politica/cpi-da-nike-o-dia-em-que-o-futebol-brasileiro-foi-parar-no-congresso-1386718",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Ronaldo's 1998 Seizure & World Cup Final Appearance Remains One of Football's Greatest Mysteries",
+    "url": "https://www.si.com/soccer/2018/06/01/ronaldos-1998-seizure-world-cup-final-appearance-remains-one-footballs-greatest-mysteries",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "jonbenet-ramsey-coverup",
+  "sources": [
+   {
+    "title": "DNA Clears Family In JonBenet Slaying",
+    "url": "https://www.cbsnews.com/news/dna-clears-family-in-jonbenet-slaying-09-07-2008/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "aetherius-society",
+  "sources": [
+   {
+    "title": "Aetherius Society",
+    "url": "https://newreligiousmovements.org/a/aetherius-society/",
+    "type": "academic",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "soy-spraying-weaponized-soy",
+  "sources": [
+   {
+    "title": "Soy Has No Effect on Men's Testosterone",
+    "url": "https://www.pcrm.org/news/health-nutrition/soy-has-no-effect-mens-testosterone",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "polar-shift",
+  "sources": [
+   {
+    "title": "Flip Flop: Why Variations in Earth's Magnetic Field Aren't Causing Today's Climate Change",
+    "url": "https://science.nasa.gov/science-research/earth-science/flip-flop-why-variations-in-earths-magnetic-field-arent-causing-todays-climate-change/",
+    "type": "government",
+    "stance": "disproves"
+   }
+  ]
+ },
+ {
+  "id": "dietary-control",
+  "sources": [
+   {
+    "title": "Aspartame – Truth vs Fiction",
+    "url": "https://sciencebasedmedicine.org/aspartame-truth-vs-fiction/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "the-parrot",
+  "sources": [
+   {
+    "title": "Snipe hunt",
+    "url": "https://en.wikipedia.org/wiki/Snipe_hunt",
+    "type": "academic",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "hormuz-false-flag-warnings",
+  "sources": [
+   {
+    "title": "Is Iran expanding attacks to target energy and civilian sites in the Gulf?",
+    "url": "https://www.aljazeera.com/news/2026/3/3/is-iran-expanding-attacks-to-target-energy-and-civilian-sites-in-the-gulf",
+    "type": "news",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "infrared-laundry-balls",
+  "sources": [
+   {
+    "title": "Laundry Balls and Discs - Too Good to Be True",
+    "url": "https://skepdic.com/refuge/laundry.html",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "bdort",
+  "sources": [
+   {
+    "title": "BDORT",
+    "url": "https://en.wikipedia.org/wiki/BDORT",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "sleep-deprivation-lifestyle",
+  "sources": [
+   {
+    "title": "The human emotional brain without sleep--a prefrontal amygdala disconnect",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17956744/",
+    "type": "academic",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "fish-rain",
+  "sources": [
+   {
+    "title": "It's Raining Fish",
+    "url": "https://scienceline.org/2006/09/physics-cosier-rainingfish/",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ }
+]

@@ -1,0 +1,87 @@
+[
+ {
+  "id": "holocaust-denial",
+  "url": "https://www.hdot.org/judge/",
+  "st": "disproves"
+ },
+ {
+  "id": "holocaust-denial",
+  "url": "https://www.nizkor.org/the-techniques-of-holocaust-denial/",
+  "st": "debunks"
+ },
+ {
+  "id": "covid-bioweapon",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7095063/",
+  "st": "debunks"
+ },
+ {
+  "id": "covid-bioweapon",
+  "url": "https://www.aljazeera.com/news/2024/12/3/us-lawmakers-back-covid-lab-leak-theory-after-two-year-probe",
+  "st": "debunks"
+ },
+ {
+  "id": "nj-drone-wave-2024",
+  "url": "https://dronelife.com/2024/12/17/dhs-fbi-faa-and-dod-respond-to-reported-drone-sightings/",
+  "st": "debunks"
+ },
+ {
+  "id": "men-in-black",
+  "url": "https://skeptoid.com/episodes/351",
+  "st": "debunks"
+ },
+ {
+  "id": "annunaki-puppet-show",
+  "url": "https://ancientpedia.com/zecharia-sitchin-and-the-mistranslation-of-sumerian-texts/",
+  "st": "debunks"
+ },
+ {
+  "id": "rendlesham-forest",
+  "url": "http://www.ianridpath.com/ufo/rendlesham.html",
+  "st": "debunks"
+ },
+ {
+  "id": "rendlesham-forest",
+  "url": "https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf",
+  "st": "context"
+ },
+ {
+  "id": "panspermia",
+  "url": "https://www.nasa.gov/solar-system/key-building-block-for-organic-molecules-discovered-in-meteorites/",
+  "st": "supports"
+ },
+ {
+  "id": "bilderberg-meetings",
+  "url": "https://publicintelligence.net/2025-bilderberg-participant-list/",
+  "st": "context"
+ },
+ {
+  "id": "congressional-insider-trading-pelosi",
+  "url": "https://www.brennancenter.org/our-work/research-reports/congressional-stock-trading-explained",
+  "st": "supports"
+ },
+ {
+  "id": "the-missing-cosmonauts",
+  "url": "https://en.wikipedia.org/wiki/Lost_Cosmonauts",
+  "st": "debunks"
+ },
+ {
+  "id": "symbiogenesis",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5426843/",
+  "st": "supports"
+ },
+ {
+  "id": "mass-media-reality-control",
+  "url": "https://www.wsws.org/en/articles/2020/02/27/nsec-f27.html",
+  "st": "supports"
+ },
+ {
+  "id": "homebuilder-land-banking-conspiracy",
+  "url": "https://www.gov.uk/cma-cases/housebuilding-market-study",
+  "st": "debunks"
+ },
+ {
+  "id": "cat-nuns",
+  "url": "https://www.curiousarchive.com/the-murky-truth-about-the-meowing-french-nuns/",
+  "st": "debunks"
+ }
+]

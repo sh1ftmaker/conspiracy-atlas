@@ -1,0 +1,168 @@
+[
+ {
+  "id": "qanon",
+  "sources": [
+   {
+    "title": "Who is behind QAnon? Linguistic detectives find fingerprints (Seattle Times)",
+    "url": "https://www.union-bulletin.com/seattle_times/who-is-behind-qanon-linguistic-detectives-find-fingerprints/article_5d0cd2e0-6fb1-57e0-8103-47f3c0b90adb.html",
+    "type": "investigative",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "diana-assassination",
+  "sources": [
+   {
+    "title": "Operation Paget",
+    "url": "https://en.wikipedia.org/wiki/Operation_Paget",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "waco-cover-up",
+  "sources": [
+   {
+    "title": "Restoring Confidence in the FBI: Statement of Hon. John Danforth",
+    "url": "https://irp.fas.org/congress/2001_hr/062001_danforth.html",
+    "type": "government",
+    "stance": "supports"
+   },
+   {
+    "title": "House Report 106-1037 - THE TRAGEDY AT WACO: NEW EVIDENCE EXAMINED",
+    "url": "https://www.govinfo.gov/content/pkg/CRPT-106hrpt1037/html/CRPT-106hrpt1037.htm",
+    "type": "government",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "hiv-aids-bioweapon",
+  "sources": [
+   {
+    "title": "Disinformation squared: was the HIV-from-Fort-Detrick myth a Stasi success? (Politics & Life Sciences)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24697634/",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "bohemian-grove",
+  "sources": [
+   {
+    "title": "Cremation of Care",
+    "url": "https://en.wikipedia.org/wiki/Cremation_of_Care",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "elite-controls-the-population-with-their-permission",
+  "sources": [
+   {
+    "title": "Henry A. Kissinger memorandum to President Ford on NSSM 200 population policy (FRUS 1969-76, State Dept historical documents)",
+    "url": "https://history.state.gov/historicaldocuments/frus1969-76ve14p1/d121",
+    "type": "declassified",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "great-replacement",
+  "sources": [
+   {
+    "title": "Great Replacement conspiracy theory",
+    "url": "https://en.wikipedia.org/wiki/Great_Replacement_conspiracy_theory",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "clinton-body-doubles",
+  "sources": [
+   {
+    "title": "A Hillary Clinton body double? Debunking the conspiracy theory",
+    "url": "https://globalnews.ca/news/2937075/a-hillary-clinton-body-double-debunking-the-conspiracy-theory/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "morgellons-disease",
+  "sources": [
+   {
+    "title": "Clinical, Epidemiologic, Histopathologic and Molecular Features of an Unexplained Dermopathy (Pearson et al., CDC/PLOS ONE 2012)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3266263/",
+    "type": "academic",
+    "stance": "debunks"
+   },
+   {
+    "title": "The CDC Study That Debunks Morgellons Disease and the Stigma of Mental Illness",
+    "url": "https://slate.com/human-interest/2012/01/morgellons-disease-the-cdc-study-that-debunks-the-skin-ailment.html",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "lost-civilizations",
+  "sources": [
+   {
+    "title": "Pseudoarchaeology",
+    "url": "https://en.wikipedia.org/wiki/Pseudoarchaeology",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "universal-communion",
+  "sources": [
+   {
+    "title": "Document on Human Fraternity for World Peace and Living Together (Pope Francis & Grand Imam Ahmad al-Tayyib, Vatican, 4 Feb 2019)",
+    "url": "https://www.vatican.va/content/francesco/en/travels/2019/outside/documents/papa-francesco_20190204_documento-fratellanza-umana.html",
+    "type": "government",
+    "stance": "disproves"
+   }
+  ]
+ },
+ {
+  "id": "hgp-defunded",
+  "sources": [
+   {
+    "title": "2003: Human Genome Project Completed (NHGRI/genome.gov)",
+    "url": "https://www.genome.gov/25520492/online-education-kit-2003-human-genome-project-completed",
+    "type": "government",
+    "stance": "disproves"
+   }
+  ]
+ },
+ {
+  "id": "la-oil-rigs",
+  "sources": [
+   {
+    "title": "Hollywood-Worthy Camouflage: Uncovering the Urban Oil Derricks of Los Angeles",
+    "url": "https://99percentinvisible.org/article/hollywood-worthy-camouflage-uncovering-the-urban-oil-derricks-of-los-angeles/",
+    "type": "news",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "singularity",
+  "sources": [
+   {
+    "title": "Existential risk from artificial intelligence",
+    "url": "https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ }
+]

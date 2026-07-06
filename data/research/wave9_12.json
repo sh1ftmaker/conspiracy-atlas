@@ -1,0 +1,236 @@
+[
+ {
+  "id": "loch-ness-monster-cover-up",
+  "sources": [
+   {
+    "title": "The Surgeon's Photo",
+    "url": "https://hoaxes.org/photo_database/image/the_surgeons_photo/",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Have scientists finally killed off the Loch Ness Monster?",
+    "url": "https://theconversation.com/have-scientists-finally-killed-off-the-loch-ness-monster-123075",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "rothschild-banking",
+  "sources": [
+   {
+    "title": "Rothschild conspiracy theory resurfaces, but family doesn't control global financial system",
+    "url": "https://www.politifact.com/factchecks/2024/mar/01/facebook-posts/rothschild-conspiracy-theory-resurfaces-but-family/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "love-jihad",
+  "sources": [
+   {
+    "title": "Love jihad conspiracy theory",
+    "url": "https://en.wikipedia.org/wiki/Love_jihad_conspiracy_theory",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "The 'Love Jihad' Conspiracy Theory",
+    "url": "https://newlinesmag.com/reportage/the-love-jihad-conspiracy-theory/",
+    "type": "investigative",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "nba-frozen-envelope-draft",
+  "sources": [
+   {
+    "title": "The Frozen Envelope: The NBA's Greatest Conspiracy Theory",
+    "url": "https://bleacherreport.com/articles/2468653-the-frozen-envelope-the-nbas-greatest-conspiracy-theory",
+    "type": "news",
+    "stance": "context"
+   },
+   {
+    "title": "30-year anniversary of conspiracy-laden 1985 NBA Draft Lottery",
+    "url": "https://www.thescore.com/nba/news/763340",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "elvis-faked-death",
+  "sources": [
+   {
+    "title": "Elvis Presley death conspiracy theories",
+    "url": "https://en.wikipedia.org/wiki/Elvis_Presley_death_conspiracy_theories",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "shakespeare-authorship",
+  "sources": [
+   {
+    "title": "Oxfordian theory of Shakespeare authorship",
+    "url": "https://en.wikipedia.org/wiki/Oxfordian_theory_of_Shakespeare_authorship",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "anti-medicine",
+  "sources": [
+   {
+    "title": "Big Pharma conspiracy theories",
+    "url": "https://en.wikipedia.org/wiki/Big_Pharma_conspiracy_theories",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "acupuncture",
+  "sources": [
+   {
+    "title": "Acupuncture: Effectiveness and Safety",
+    "url": "https://www.nccih.nih.gov/health/acupuncture-effectiveness-and-safety",
+    "type": "government",
+    "stance": "context"
+   },
+   {
+    "title": "Acupuncture for the Treatment of Tension-Type Headache: An Overview of Systematic Reviews",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7106880/",
+    "type": "academic",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "tartaria-mud-flood",
+  "sources": [
+   {
+    "title": "Tartarian Empire",
+    "url": "https://en.wikipedia.org/wiki/Tartarian_Empire",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "dr-robert-morse",
+  "sources": [
+   {
+    "title": "Is Dr. Morse a Doctor?",
+    "url": "https://www.icgi.org/is-dr-morse-a-doctor/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "berry-bushes",
+  "sources": [
+   {
+    "title": "An Investigation of the Missing411 Conspiracy",
+    "url": "https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Berry Bushes and the Missing Persons Connection",
+    "url": "https://wondergressive.com/2023/08/31/berry-bushes-and-the-missing-persons-connection/",
+    "type": "advocacy",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "snuff-cinema",
+  "sources": [
+   {
+    "title": "Snuff film",
+    "url": "https://en.wikipedia.org/wiki/Snuff_film",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "marko-rodin",
+  "sources": [
+   {
+    "title": "Marko Rodin: Unraveling the Mysteries of Vortex-Based Mathematics",
+    "url": "https://wondergressive.com/2023/07/25/marko-rodin-unraveling-the-mysteries-of-vortex-based-mathematics/",
+    "type": "advocacy",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "sherpas-of-khandbar",
+  "sources": [
+   {
+    "title": "Sherpas Of Khandbari",
+    "url": "https://icebergdb.com/sherpas-of-khandbari/",
+    "type": "forum",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "secret-mongolian-empire",
+  "sources": [
+   {
+    "title": "The Secret Mongolian Empire Theory: An Intriguing Possibility",
+    "url": "https://wondergressive.com/2023/08/04/the-secret-mongolian-empire-theory-an-intriguing-possibility/",
+    "type": "advocacy",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "tor-owned-by-government",
+  "sources": [
+   {
+    "title": "Transparency, Openness, and Our 2023-2024 Financials",
+    "url": "https://blog.torproject.org/financials-blog-post-2023-2024/",
+    "type": "advocacy",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "canary-mission-covert-intelligence-op",
+  "sources": [
+   {
+    "title": "Meet the Top \"Content\" Producers Linked to Canary Mission",
+    "url": "https://www.dropsitenews.com/p/canary-mission-israel-megamot-shalom-highest-paid-employees",
+    "type": "investigative",
+    "stance": "supports"
+   },
+   {
+    "title": "Canary Mission: $0 Disclosed Funding. 25K+ Blacklisted. Zero FARA Registration.",
+    "url": "https://americansfortransparency.org/investigations/canary-mission",
+    "type": "advocacy",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "diddy-list-conspiracy",
+  "sources": [
+   {
+    "title": "DOJ, FBI review finds no Jeffrey Epstein 'client list,' confirms suicide: Memo",
+    "url": "https://abcnews.com/US/doj-fbi-review-finds-jeffrey-epstein-client-list/story?id=123526125",
+    "type": "government",
+    "stance": "debunks"
+   }
+  ]
+ }
+]

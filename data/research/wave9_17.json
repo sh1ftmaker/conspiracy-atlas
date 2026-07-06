@@ -1,0 +1,176 @@
+[
+ {
+  "id": "big-pharma-suppression",
+  "sources": [
+   {
+    "title": "Some Think Big Pharma Is Suppressing A Cure For Cancer. Here's Why That Could Never Happen",
+    "url": "https://www.forbes.com/sites/quora/2018/09/10/some-think-big-pharma-is-suppressing-a-cure-for-cancer-heres-why-that-could-never-happen/",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Proof There's No FDA-Big Pharma Conspiracy Suppressing Cancer Cures",
+    "url": "https://www.acsh.org/news/2016/06/11/proof-that-there-is-no-fda-big-pharma-conspiracy-to-suppress-cancer-cures",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "jesus-bloodline",
+  "sources": [
+   {
+    "title": "Holy Blood, Holy Grail",
+    "url": "https://www.equip.org/articles/holy-blood-holy-grail/",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "The Holy Blood and the Holy Grail",
+    "url": "https://en.wikipedia.org/wiki/The_Holy_Blood_and_the_Holy_Grail",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "fake-fluoride",
+  "sources": [
+   {
+    "title": "Fluoride Exposure: Neurodevelopment and Cognition",
+    "url": "https://ntp.niehs.nih.gov/research/assessments/noncancer/completed/fluoride",
+    "type": "government",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "obscure-video-games",
+  "sources": [
+   {
+    "title": "This Is the Most Terrifying Game on the Internet, and Nobody Knows Where It Came From",
+    "url": "https://www.mic.com/articles/121711/who-made-sad-satan-deep-web-horror-game",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "cattle-mutilation",
+  "sources": [
+   {
+    "title": "Cattle Mutilations: The FBI Investigation",
+    "url": "https://www.historicmysteries.com/unexplained-mysteries/cattle-mutilations/4072/",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Cattle mutilation",
+    "url": "https://en.wikipedia.org/wiki/Cattle_mutilation",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "gmo",
+  "sources": [
+   {
+    "title": "Do foods made with GMOs pose special health risks?",
+    "url": "https://www.nationalacademies.org/news/foods-made-with-gmos-do-not-pose-special-health-risks",
+    "type": "government",
+    "stance": "debunks"
+   },
+   {
+    "title": "GMO conspiracy theories",
+    "url": "https://en.wikipedia.org/wiki/GMO_conspiracy_theories",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "christian-illuminati",
+  "sources": [
+   {
+    "title": "Dominionism Rising: A Theocratic Movement Hiding in Plain Sight",
+    "url": "https://politicalresearch.org/2016/08/18/dominionism-rising",
+    "type": "advocacy",
+    "stance": "supports"
+   },
+   {
+    "title": "Seven Mountain Mandate",
+    "url": "https://en.wikipedia.org/wiki/Seven_Mountain_Mandate",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "chip-export-controls-leaky-by-design",
+  "sources": [
+   {
+    "title": "Taiwan bans chip exports to Huawei, SMIC — ban comes after Huawei tricked TSMC into making two million AI processors despite US restrictions",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-bans-chip-exports-to-huawei-smic-ban-comes-after-huawei-tricked-tsmc-into-making-one-million-ai-processors-despite-us-restrictions",
+    "type": "news",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "accelerationism",
+  "sources": [
+   {
+    "title": "Accelerationism",
+    "url": "https://en.wikipedia.org/wiki/Accelerationism",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "admiral-byrd",
+  "sources": [
+   {
+    "title": "Did Hitler have a base in the Antarctic?",
+    "url": "https://www.nature.com/news/2007/070326/full/news070326-14.html",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Why the US Navy Invaded Antarctica in 1946 (And the UFO Myth It Created)",
+    "url": "https://www.warhistoryonline.com/world-war-ii/operation-highjump-ufo-conspiracy-byrd-antarctica.html",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "class-divided-propaganda",
+  "sources": [
+   {
+    "title": "Class Politics And How The Internet Perpetuates Inequality",
+    "url": "https://www.forbes.com/sites/julianvigo/2019/12/14/class-politics-and-how-the-internet-perpetuates-inequality/",
+    "type": "news",
+    "stance": "supports"
+   },
+   {
+    "title": "It's About Class: Interrogating the Digital Divide",
+    "url": "https://hybridpedagogy.org/its-about-class-interrogating-the-digital-divide/",
+    "type": "academic",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "kap-dwa",
+  "sources": [
+   {
+    "title": "Kap Dwa, the Two Headed Giant Mummy of Patagonia",
+    "url": "https://www.historicmysteries.com/kap-dwa/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ }
+]

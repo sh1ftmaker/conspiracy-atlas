@@ -1,0 +1,215 @@
+[
+ {
+  "id": "area-51-aliens",
+  "sources": [
+   {
+    "title": "The Area 51 File: Secret Aircraft and Soviet MiGs",
+    "url": "https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs",
+    "type": "declassified",
+    "stance": "disproves"
+   },
+   {
+    "title": "What Goes on at Area 51?",
+    "url": "https://www.history.com/articles/what-goes-on-at-area-51",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "great-reset",
+  "sources": [
+   {
+    "title": "The World Economic Forum is not planning to seize control of everything through 'the Great Reset'",
+    "url": "https://www.politifact.com/factchecks/2023/sep/28/instagram-posts/world-economic-forum-elites-are-pushing-the-great/",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "COVID-19: The Great Reset – A Review",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8108730/",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "pearl-harbor-foreknowledge",
+  "sources": [
+   {
+    "title": "Pearl Harbor advance-knowledge conspiracy theory",
+    "url": "https://en.wikipedia.org/wiki/Pearl_Harbor_advance-knowledge_conspiracy_theory",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Day of Deceit",
+    "url": "https://en.wikipedia.org/wiki/Day_of_Deceit",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "east-palestine-derailment-coverup",
+  "sources": [
+   {
+    "title": "The East Palestine train derailment: A complex environmental disaster",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13025207/",
+    "type": "academic",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "fluoride-mind-control",
+  "sources": [
+   {
+    "title": "Water fluoridation controversy",
+    "url": "https://en.wikipedia.org/wiki/Water_fluoridation_controversy",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Myths vs Facts",
+    "url": "https://jbs.org/about/facts/",
+    "type": "advocacy",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "aspartame-cancer",
+  "sources": [
+   {
+    "title": "Why Did the FDA Ever Approve Fake Sugar?",
+    "url": "https://www.vice.com/en/article/the-story-of-how-fake-sugar-got-approved-is-scary-as-hell/",
+    "type": "investigative",
+    "stance": "supports"
+   },
+   {
+    "title": "Aspartame hazard and risk assessment results released",
+    "url": "https://www.who.int/news/item/14-07-2023-aspartame-hazard-and-risk-assessment-results-released",
+    "type": "government",
+    "stance": "supports"
+   },
+   {
+    "title": "Food Additive Approval Process Followed for Aspartame (GAO/HRD-87-46)",
+    "url": "https://www.gao.gov/products/hrd-87-46",
+    "type": "government",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "lyme-disease-bioweapon",
+  "sources": [
+   {
+    "title": "Bitten: The Secret History of Lyme Disease and Biological Weapons",
+    "url": "https://www.amazon.com/Bitten-History-Disease-Biological-Weapons/dp/0062896288",
+    "type": "book",
+    "stance": "supports"
+   },
+   {
+    "title": "No, Lyme disease is not an escaped military bioweapon, despite what conspiracy theorists say",
+    "url": "https://theconversation.com/no-lyme-disease-is-not-an-escaped-military-bioweapon-despite-what-conspiracy-theorists-say-120879",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "clown-sightings",
+  "sources": [
+   {
+    "title": "2016 clown sightings",
+    "url": "https://en.wikipedia.org/wiki/2016_clown_sightings",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "elisa-lam",
+  "sources": [
+   {
+    "title": "What Did Elisa Lam's Autopsy Reveal & What Was the Cause of Death?",
+    "url": "https://www.yahoo.com/entertainment/did-elisa-lam-autopsy-reveal-102630137.html",
+    "type": "news",
+    "stance": "disproves"
+   }
+  ]
+ },
+ {
+  "id": "disneyland-secret-tunnels",
+  "sources": [
+   {
+    "title": "Video showing Joe Rogan talking about a Disneyland child abduction isn't real. It's a deepfake.",
+    "url": "https://www.politifact.com/factchecks/2023/nov/09/instagram-posts/video-showing-joe-rogan-talking-about-disneyland-c/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "immigration-inflate-housing-demand",
+  "sources": [
+   {
+    "title": "JD Vance Is Correct: Immigration Increases Housing Prices, and That's Okay",
+    "url": "https://www.cato.org/blog/jd-vance-correct-immigration-increases-housing-prices-thats-ok",
+    "type": "advocacy",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "artificial-poisonous-snow",
+  "sources": [
+   {
+    "title": "Videos showing 'burning' snow do not prove it is fake",
+    "url": "https://fullfact.org/environment/snow-turning-black-lighter-experiment-chemsnow-chemtrails/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "mao-yale-theory",
+  "sources": [
+   {
+    "title": "Yale-China Association",
+    "url": "https://en.wikipedia.org/wiki/Yale-China_Association",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "ussr-never-collapsed",
+  "sources": [
+   {
+    "title": "Anatoliy Golitsyn's Epistemological Disinformation",
+    "url": "https://orb.binghamton.edu/research_days_posters_2023/83/",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "professional-sports-scripted",
+  "sources": [
+   {
+    "title": "UTEP Study Reveals How Financial Pressure Shapes NFL Officiating",
+    "url": "https://www.utep.edu/newsfeed/2025/october/utep-study-reveals-how-financial-pressure-shapes-nfl-officiating.html",
+    "type": "academic",
+    "stance": "supports"
+   },
+   {
+    "title": "How Sports Betting And Conspiracy Culture Fuel Fan's Distrust With The NFL",
+    "url": "https://www.forbes.com/sites/emilsteiner/2026/01/30/nfl-rigged-study-finds-refs-favored-mahomes-chiefs-a-sports-marketing-fix/",
+    "type": "news",
+    "stance": "supports"
+   }
+  ]
+ }
+]

@@ -1,0 +1,238 @@
+[
+ {
+  "id": "haarp-weather",
+  "sources": [
+   {
+    "title": "Claims that former US military project is being used to manipulate the weather are \"nonsense\"",
+    "url": "https://www.rmit.edu.au/news/factlab-meta/claims-us-military-project-manipulating-weather-are-nonsense",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "What Is HAARP? Iowa Caucuses Weather Control Conspiracy Theory Explained",
+    "url": "https://www.newsweek.com/what-haarp-iowa-caucus-weather-control-conspiracy-theory-1860800",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "nazca-lines-aliens",
+  "sources": [
+   {
+    "title": "Chariots of the Gods? (von Däniken's original ancient-astronaut/runway claim, including the 'runway' photo later shown to be a bird's foot)",
+    "url": "https://en.wikipedia.org/wiki/Chariots_of_the_Gods",
+    "type": "book",
+    "stance": "context"
+   },
+   {
+    "title": "NOVA: Von Däniken's theory / Using (and misusing) evidence — archaeologist Kenneth Feder's rebuttal",
+    "url": "https://www.pbs.org/wgbh/nova/alienactivity/nazca3a.html",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "vaccine-autism",
+  "sources": [
+   {
+    "title": "Lancet MMR vaccine-autism report (Wikipedia): Wakefield fraud and full retraction",
+    "url": "https://en.wikipedia.org/wiki/Lancet_MMR_vaccine-autism_report",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Evidence from large Danish cohort does not support an association between the MMR vaccine and autism: facts in a post-truth world (commentary on Hviid et al. 2019 nationwide cohort of 657,461 children)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31217233/",
+    "type": "academic",
+    "stance": "disproves"
+   },
+   {
+    "title": "CDC: Autism and Vaccines (Vaccine Safety)",
+    "url": "https://www.cdc.gov/vaccine-safety/about/autism.html",
+    "type": "government",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "dogon-tribe",
+  "sources": [
+   {
+    "title": "Dogon Restudied: A Field Evaluation of the Work of Marcel Griaule (Van Beek, Current Anthropology 1991)",
+    "url": "https://home.iscte-iul.pt/~fgvs/VanBeek,Dogon.pdf",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "subhas-chandra-bose-survival",
+  "sources": [
+   {
+    "title": "Subhas Chandra Bose Jayanti: What Shah Nawaz Committee, GD Khosla and Justice Mukherjee Commission found",
+    "url": "https://www.indiatvnews.com/news/india/subhas-chandra-bose-jayanti-parakram-diwas-2026-what-shah-nawaz-committee-gd-khosla-and-justice-mukherjee-commission-found-latest-updates-2026-01-23-1027011",
+    "type": "government",
+    "stance": "supports"
+   },
+   {
+    "title": "Death of Subhas Chandra Bose (Wikipedia) — summary of the three conflicting official inquiries",
+    "url": "https://en.wikipedia.org/wiki/Death_of_Subhas_Chandra_Bose",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "illuminati-blood-banks",
+  "sources": [
+   {
+    "title": "Peter Thiel Is Very, Very Interested in Young People's Blood",
+    "url": "https://www.inc.com/jeff-bercovici/peter-thiel-young-blood.html",
+    "type": "news",
+    "stance": "supports"
+   },
+   {
+    "title": "No, Peter Thiel is not harvesting the blood of the young",
+    "url": "https://techcrunch.com/2017/06/14/no-peter-thiel-is-not-harvesting-the-blood-of-the-young/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "amelia-earhart-japan",
+  "sources": [
+   {
+    "title": "Amelia Earhart 'Lost Photograph' Discredited",
+    "url": "https://www.nationalgeographic.com/history/article/amelia-earhart-lost-photograph-discredited-spd",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Amelia Earhart: The Lost Evidence (Wikipedia) — the 2017 History Channel documentary and its collapse",
+    "url": "https://en.wikipedia.org/wiki/Amelia_Earhart:_The_Lost_Evidence",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "dag-hammarskjold",
+  "sources": [
+   {
+    "title": "Stalling the UN Report on Dag Hammarskjöld's Death Is Regrettable (reports Othman panel's finding that external attack/threat is plausible)",
+    "url": "https://passblue.com/2019/09/17/stalling-the-un-report-on-dag-hammarskjolds-death-is-regrettable/",
+    "type": "investigative",
+    "stance": "supports"
+   },
+   {
+    "title": "Cold Case Hammarskjöld (Wikipedia) — documentary's SAIMR theory and unproven/inauthentic evidence",
+    "url": "https://en.wikipedia.org/wiki/Cold_Case_Hammarskj%C3%B6ld",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "alternative-religious-narratives",
+  "sources": [
+   {
+    "title": "Zecharia Sitchin (Wikipedia) — Anunnaki/Nibiru ancient-astronaut origin-of-religion theory and its scholarly rejection",
+    "url": "https://en.wikipedia.org/wiki/Zecharia_Sitchin",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "cicada",
+  "sources": [
+   {
+    "title": "Cicada 3301 (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Cicada_3301",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "fracking-deaths",
+  "sources": [
+   {
+    "title": "Proximity to fracking sites associated with risk of childhood cancer (Yale School of Public Health)",
+    "url": "https://news.yale.edu/2022/08/17/proximity-fracking-sites-associated-risk-childhood-cancer",
+    "type": "academic",
+    "stance": "supports"
+   },
+   {
+    "title": "Study: Fracking wastewater wells more likely located near communities of color and poverty",
+    "url": "https://scienceblogs.com/thepumphandle/2016/03/05/study-fracking-wastewater-wells-more-likely-located-near-communities-of-color-and-poverty",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "universe-people",
+  "sources": [
+   {
+    "title": "Universe People (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Universe_People",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "dream-hacking",
+  "sources": [
+   {
+    "title": "A narrative review on the neurobiology of lucid dreaming: mechanisms and therapeutic potential",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12889498/",
+    "type": "academic",
+    "stance": "supports"
+   },
+   {
+    "title": "Lucid dreaming could be used for mental health therapy, new study says",
+    "url": "https://medicalxpress.com/news/2026-02-lucid-mental-health-therapy.html",
+    "type": "news",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "grain-situation",
+  "sources": [
+   {
+    "title": "Viewpoint: 'Terminator seeds' — the anti-GMO bogeyman that never existed",
+    "url": "https://geneticliteracyproject.org/2021/02/12/viewpoint-farewell-to-terminator-seeds-1995-2015-the-anti-gmo-movements-favorite-bogeyman/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "encorings",
+  "sources": [
+   {
+    "title": "Encorings: The Universal Constants of Human Culture",
+    "url": "https://wondergressive.com/2023/08/31/encorings-the-universal-constants-of-human-culture/",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "missing-link-cryptids",
+  "sources": [
+   {
+    "title": "Bigfoot and Yeti DNA: results are in (Oxford-led genetic study of cryptid samples)",
+    "url": "https://www.skepticblog.org/2014/07/16/bigfoot-and-yeti-dna-results-are-in/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ }
+]

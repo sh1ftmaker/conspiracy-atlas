@@ -1,0 +1,223 @@
+[
+ {
+  "id": "911-inside-job",
+  "sources": [
+   {
+    "title": "FAQs - NIST WTC 7 Investigation",
+    "url": "https://www.nist.gov/world-trade-center-investigation/study-faqs/wtc-7-investigation",
+    "type": "government",
+    "stance": "disproves"
+   }
+  ]
+ },
+ {
+  "id": "obama-secret-muslim",
+  "sources": [
+   {
+    "title": "Barack Obama religion conspiracy theories - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Barack_Obama_religion_conspiracy_theories",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "gaylor-taylor-swift",
+  "sources": [
+   {
+    "title": "Gaylor conspiracy theory - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gaylor_conspiracy_theory",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "blueanon",
+  "sources": [
+   {
+    "title": "BlueAnon - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/BlueAnon",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "denver-airport-blucifer",
+  "sources": [
+   {
+    "title": "Denver Airport Conspiracy Theories: Blucifer and New World Order - Simple Flying",
+    "url": "https://simpleflying.com/denver-airport-conspiracy-theories/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "jonestown-mkultra",
+  "sources": [
+   {
+    "title": "Alternative History (Conspiracy) Theory Index - Jonestown & Peoples Temple (SDSU)",
+    "url": "https://jonestown.sdsu.edu/?page_id=95357",
+    "type": "academic",
+    "stance": "context"
+   },
+   {
+    "title": "Jonestown conspiracy theories - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jonestown_conspiracy_theories",
+    "type": "debunker",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "new-coke-deliberate-failure",
+  "sources": [
+   {
+    "title": "New Coke - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/New_Coke",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "omphalos",
+  "sources": [
+   {
+    "title": "The Oracle of Delphi—Was She Really Stoned? - Biblical Archaeology Society",
+    "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/the-oracle-of-delphi-was-she-really-stoned/",
+    "type": "academic",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "i-70-killer",
+  "sources": [
+   {
+    "title": "I-70 killer - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/I-70_killer",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "yellow-cuban-balloons",
+  "sources": [
+   {
+    "title": "The Yellow Cuban Balloons",
+    "url": "https://www.thehits.co.nz/photos/the-yellow-cuban-balloons/",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "artificial-aliens",
+  "sources": [
+   {
+    "title": "Most Aliens May Be Artificial Intelligence, Not Life as We Know It - Scientific American",
+    "url": "https://www.scientificamerican.com/article/most-aliens-may-be-artificial-intelligence-not-life-as-we-know-it/",
+    "type": "academic",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "phlogiston-theory-resurfacing",
+  "sources": [
+   {
+    "title": "Do flames contain plasma? - Science Questions with Surprising Answers (WTAMU)",
+    "url": "https://www.wtamu.edu/~cbaird/sq/2014/05/28/do-flames-contain-plasma/",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "french-viper-releases",
+  "sources": [
+   {
+    "title": "Do helicopters drop snakes? Old rumour shapes French environmental debate - Connexion France",
+    "url": "https://www.connexionfrance.com/magazine/do-helicopters-drop-snakes-old-rumour-shapes-french-environmental-debate/789991",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "big-soy",
+  "sources": [
+   {
+    "title": "The Soy Grand Theory: How a Humble Bean Became the Master-Switch of Global Control - Wondergressive",
+    "url": "https://wondergressive.com/2023/08/31/the-soy-grand-theory-when-soybeans-become-sentient/",
+    "type": "advocacy",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "epstein-mossad-intelligence-asset",
+  "sources": [
+   {
+    "title": "What were Jeffrey Epstein's links to Israel? - Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/2/9/what-were-jeffrey-epsteins-links-to-israel",
+    "type": "investigative",
+    "stance": "supports"
+   },
+   {
+    "title": "Do the Epstein files show he was working for Russia or another intelligence agency? - Euronews",
+    "url": "https://www.euronews.com/my-europe/2026/03/03/do-the-epstein-files-show-he-was-working-for-russia-or-another-intelligence-agency",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "cloud-farming",
+  "sources": [
+   {
+    "title": "Cloud Seeding Technology: Assessing Effectiveness and Other Challenges - U.S. GAO",
+    "url": "https://www.gao.gov/products/gao-25-107328",
+    "type": "government",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "noncitizen-voting-save-act",
+  "sources": [
+   {
+    "title": "Noncitizen Voting is Vanishingly Rare - Brennan Center for Justice",
+    "url": "https://www.brennancenter.org/our-work/research-reports/noncitizen-voting-vanishingly-rare",
+    "type": "advocacy",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "vimana",
+  "sources": [
+   {
+    "title": "Scientific opinion: A critical study of the work Vymanika Shastra (IISc Bangalore, 1974)",
+    "url": "https://www.rarebooksocietyofindia.org/postDetail.php?id=196174216674_10152962826526675",
+    "type": "academic",
+    "stance": "disproves"
+   }
+  ]
+ },
+ {
+  "id": "earthly-inhospitality",
+  "sources": [
+   {
+    "title": "Apocalypse now: Doomsday bunker secretly installed on NZ property - confirmed - NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/apocalypse-now-doomsday-bunker-secretly-installed-on-nz-property-confirmed/IHQ47FV7ZJGDLMJUEA3YMUG6MM/",
+    "type": "investigative",
+    "stance": "context"
+   }
+  ]
+ }
+]

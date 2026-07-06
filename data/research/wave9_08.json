@@ -1,0 +1,241 @@
+[
+ {
+  "id": "moon-landing-hoax",
+  "sources": [
+   {
+    "title": "Third-party evidence for Apollo Moon landings",
+    "url": "https://en.wikipedia.org/wiki/Third-party_evidence_for_Apollo_Moon_landings",
+    "type": "news",
+    "stance": "disproves"
+   }
+  ]
+ },
+ {
+  "id": "climate-change-hoax",
+  "sources": [
+   {
+    "title": "Climatic Research Unit email controversy",
+    "url": "https://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "'Climategate' Scientists Cleared of Wrongdoing - Again",
+    "url": "https://www.forbes.com/sites/alexknapp/2011/08/24/climategate-scientists-cleared-of-wrongdoing-again/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "stuxnet-revival-studies",
+  "sources": [
+   {
+    "title": "Stuxnet explained: The first known cyberweapon",
+    "url": "https://www.csoonline.com/article/562691/stuxnet-explained-the-first-known-cyberweapon.html",
+    "type": "news",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "tesla-free-energy",
+  "sources": [
+   {
+    "title": "Wardenclyffe Tower",
+    "url": "https://en.wikipedia.org/wiki/Wardenclyffe_Tower",
+    "type": "news",
+    "stance": "context"
+   },
+   {
+    "title": "Tesla Tower, Wardenclyffe, and the Free Energy Myth",
+    "url": "https://geekhistory.com/content/tesla-tower-wardenclyffe-and-free-energy-myth",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "agenda-21",
+  "sources": [
+   {
+    "title": "Agenda 21: The UN, Sustainability and Right-Wing Conspiracy Theory",
+    "url": "https://www.splcenter.org/resources/reports/agenda-21-un-sustainability-and-right-wing-conspiracy-theory/",
+    "type": "advocacy",
+    "stance": "debunks"
+   },
+   {
+    "title": "Facebook post distorts UN's sustainable development goals",
+    "url": "https://www.politifact.com/factchecks/2020/jul/24/viral-image/facebook-post-distorts-uns-sustainable-development/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "well-poisoning-black-death",
+  "sources": [
+   {
+    "title": "Persecution of Jews during the Black Death",
+    "url": "https://en.wikipedia.org/wiki/Persecution_of_Jews_during_the_Black_Death",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "majestic-12",
+  "sources": [
+   {
+    "title": "The FBI Debunked the Majestic 12 UFO Documents in the Most Childish Way Possible",
+    "url": "https://slate.com/human-interest/2016/12/the-fbi-debunked-the-majestic-12-ufo-documents-in-the-most-childish-way-possible.html",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Conspiracy Weary: FBI's real-life \"X-Files\" document one of the Bureau's laziest investigations",
+    "url": "https://www.muckrock.com/news/archives/2017/jun/05/fbi-majestic-12/",
+    "type": "investigative",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "petrodollar-agreement-expired-hoax",
+  "sources": [
+   {
+    "title": "Fake news: Saudi petrodollar deal with U.S. ended this month",
+    "url": "https://www.ledgerinsights.com/fake-news-saudi-petrodollar-deal-with-u-s-ended-this-month/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "mass-govt-secrecy",
+  "sources": [
+   {
+    "title": "On the Viability of Conspiratorial Beliefs",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0147905",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "proto-humans",
+  "sources": [
+   {
+    "title": "Review: Forbidden Archaeology's Impact",
+    "url": "https://ncse.ngo/review-forbidden-archaeologys-impact",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "publius-enigma",
+  "sources": [
+   {
+    "title": "The Publius Enigma",
+    "url": "https://www.futilitycloset.com/2009/04/01/the-publius-enigma/",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "internet-created-for-crime",
+  "sources": [
+   {
+    "title": "ARPANET",
+    "url": "https://www.darpa.mil/news/features/arpanet",
+    "type": "government",
+    "stance": "debunks"
+   },
+   {
+    "title": "ARPANET",
+    "url": "https://en.wikipedia.org/wiki/ARPANET",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "bitcoin-government-creation",
+  "sources": [
+   {
+    "title": "Cornell Professor Claims Bitcoin Was An NSA Creation",
+    "url": "https://bitcoinist.com/cornell-professor-bitcoin-nsa-creation/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "planned-extinction-eco-triage",
+  "sources": [
+   {
+    "title": "Depopulation",
+    "url": "https://www.conspiracywatch.info/en/brieffing_notes/depopulation/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "human-hunting",
+  "sources": [
+   {
+    "title": "Robert Hansen",
+    "url": "https://en.wikipedia.org/wiki/Robert_Hansen",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "malbolge-programming",
+  "sources": [
+   {
+    "title": "Malbolge",
+    "url": "https://en.wikipedia.org/wiki/Malbolge",
+    "type": "news",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "the-tara-calico-picture",
+  "sources": [
+   {
+    "title": "Disappearance of Tara Calico",
+    "url": "https://en.wikipedia.org/wiki/Disappearance_of_Tara_Calico",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "the-cagots",
+  "sources": [
+   {
+    "title": "The Forgotten Untouchables of France",
+    "url": "https://daily.jstor.org/the-forgotten-untouchables-of-france/",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "soros-tent-astroturf-claim",
+  "sources": [
+   {
+    "title": "Fact-checking claims that George Soros is 'paying student radicals' involved in campus protests",
+    "url": "https://www.politifact.com/article/2024/may/02/fact-checking-claims-that-george-soros-is-paying-s/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ }
+]

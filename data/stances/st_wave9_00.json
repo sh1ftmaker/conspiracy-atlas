@@ -1,0 +1,97 @@
+[
+ {
+  "id": "illuminati",
+  "url": "https://en.wikipedia.org/wiki/Illuminati",
+  "st": "debunks"
+ },
+ {
+  "id": "hitler-survived-argentina",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29779904/",
+  "st": "disproves"
+ },
+ {
+  "id": "hitler-survived-argentina",
+  "url": "https://www.history.com/articles/hitler-death-cause-teeth-analysis",
+  "st": "debunks"
+ },
+ {
+  "id": "paul-is-dead",
+  "url": "https://www.rollingstone.com/music/music-features/paul-mccartney-is-dead-conspiracy-897189/",
+  "st": "debunks"
+ },
+ {
+  "id": "grusch-uap-crash-retrieval",
+  "url": "https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/",
+  "st": "debunks"
+ },
+ {
+  "id": "big-pharma",
+  "url": "https://en.wikipedia.org/wiki/Purdue_Pharma",
+  "st": "supports"
+ },
+ {
+  "id": "warming-pause-climategate",
+  "url": "https://e360.yale.edu/digest/climategate-panel-concludes-that-scientists-did-not-manipulate-data",
+  "st": "debunks"
+ },
+ {
+  "id": "warming-pause-climategate",
+  "url": "https://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy",
+  "st": "context"
+ },
+ {
+  "id": "number-stations",
+  "url": "https://en.wikipedia.org/wiki/Ana_Montes",
+  "st": "context"
+ },
+ {
+  "id": "cold-fusion-suppression",
+  "url": "https://www.nature.com/news/2004/041202/full/news041129-11.html",
+  "st": "debunks"
+ },
+ {
+  "id": "cold-fusion-suppression",
+  "url": "https://skepticalinquirer.org/2019/09/google-funds-cold-fusion-research-results-still-negative/",
+  "st": "debunks"
+ },
+ {
+  "id": "dyaltov-pass",
+  "url": "https://www.smithsonianmag.com/smart-news/scientists-may-have-finally-unraveled-mystery-dyatlov-pass-incident-180976886/",
+  "st": "debunks"
+ },
+ {
+  "id": "non-urban-testing-grounds",
+  "url": "https://www.fox13now.com/2016/05/12/a-rare-look-at-dugways-experiments-then-and-now",
+  "st": "supports"
+ },
+ {
+  "id": "gmo-population-control",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7443040/",
+  "st": "debunks"
+ },
+ {
+  "id": "plant-intelligence",
+  "url": "https://skepticalinquirer.org/2024/08/are-plants-conscious/",
+  "st": "debunks"
+ },
+ {
+  "id": "the-boy-in-the-box",
+  "url": "https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli",
+  "st": "disproves"
+ },
+ {
+  "id": "magic-of-the-state",
+  "url": "https://archive.org/details/magicofstate0000taus",
+  "st": "context"
+ },
+ {
+  "id": "false-gerrymandering",
+  "url": "https://en.wikipedia.org/wiki/Rucho_v._Common_Cause",
+  "st": "supports"
+ },
+ {
+  "id": "padma-mccord",
+  "url": "https://secretsofthedark.writeas.com/as-ive-mentioned-several-times-here-before-im-a-fan-of-certain-horror-9ln0",
+  "st": "context"
+ }
+]

@@ -1,0 +1,174 @@
+[
+ {
+  "id": "holocaust-denial",
+  "sources": [
+   {
+    "title": "Trial Judgement: Mr Justice Gray (Irving v Penguin Books & Lipstadt)",
+    "url": "https://www.hdot.org/judge/",
+    "type": "court",
+    "stance": "disproves"
+   },
+   {
+    "title": "The Techniques of Holocaust Denial - Nizkor",
+    "url": "https://www.nizkor.org/the-techniques-of-holocaust-denial/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "covid-bioweapon",
+  "sources": [
+   {
+    "title": "The proximal origin of SARS-CoV-2 (Nature Medicine, via PMC)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7095063/",
+    "type": "academic",
+    "stance": "debunks"
+   },
+   {
+    "title": "COVID-19 likely came from a lab, US committee finds",
+    "url": "https://www.aljazeera.com/news/2024/12/3/us-lawmakers-back-covid-lab-leak-theory-after-two-year-probe",
+    "type": "government",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "nj-drone-wave-2024",
+  "sources": [
+   {
+    "title": "DHS, FBI, FAA and DoD Respond to Reported Drone Sightings (joint federal statement)",
+    "url": "https://dronelife.com/2024/12/17/dhs-fbi-faa-and-dod-respond-to-reported-drone-sightings/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "men-in-black",
+  "sources": [
+   {
+    "title": "Men in Black - Skeptoid",
+    "url": "https://skeptoid.com/episodes/351",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "annunaki-puppet-show",
+  "sources": [
+   {
+    "title": "Zecharia Sitchin and the Mistranslation of Sumerian Texts",
+    "url": "https://ancientpedia.com/zecharia-sitchin-and-the-mistranslation-of-sumerian-texts/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "rendlesham-forest",
+  "sources": [
+   {
+    "title": "The Rendlesham Forest UFO case - Ian Ridpath (lighthouse/fireball explanation)",
+    "url": "http://www.ianridpath.com/ufo/rendlesham.html",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Information on the Rendlesham Forest Incident in 1980 (MoD FOI release)",
+    "url": "https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf",
+    "type": "declassified",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "panspermia",
+  "sources": [
+   {
+    "title": "Key Building Block for Organic Molecules Discovered in Meteorites - NASA",
+    "url": "https://www.nasa.gov/solar-system/key-building-block-for-organic-molecules-discovered-in-meteorites/",
+    "type": "government",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "bilderberg-meetings",
+  "sources": [
+   {
+    "title": "2025 Bilderberg Meeting Participant List (official press release mirror)",
+    "url": "https://publicintelligence.net/2025-bilderberg-participant-list/",
+    "type": "advocacy",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "congressional-insider-trading-pelosi",
+  "sources": [
+   {
+    "title": "Congressional Stock Trading, Explained - Brennan Center for Justice",
+    "url": "https://www.brennancenter.org/our-work/research-reports/congressional-stock-trading-explained",
+    "type": "academic",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "the-missing-cosmonauts",
+  "sources": [
+   {
+    "title": "Lost Cosmonauts - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lost_Cosmonauts",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "symbiogenesis",
+  "sources": [
+   {
+    "title": "Lynn Margulis and the endosymbiont hypothesis: 50 years later",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5426843/",
+    "type": "academic",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "mass-media-reality-control",
+  "sources": [
+   {
+    "title": "National Security Cinema: how Pentagon/CIA FOIA records show script influence over Hollywood",
+    "url": "https://www.wsws.org/en/articles/2020/02/27/nsec-f27.html",
+    "type": "investigative",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "homebuilder-land-banking-conspiracy",
+  "sources": [
+   {
+    "title": "Housebuilding market study - CMA final report (GOV.UK case page)",
+    "url": "https://www.gov.uk/cma-cases/housebuilding-market-study",
+    "type": "government",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "cat-nuns",
+  "sources": [
+   {
+    "title": "The Murky Truth About the Meowing French Nuns",
+    "url": "https://www.curiousarchive.com/the-murky-truth-about-the-meowing-french-nuns/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ }
+]

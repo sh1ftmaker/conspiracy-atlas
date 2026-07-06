@@ -1,0 +1,203 @@
+[
+ {
+  "id": "roswell",
+  "sources": [
+   {
+    "title": "Report of Air Force Research Regarding the \"Roswell Incident\" (1994)",
+    "url": "https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html",
+    "type": "declassified",
+    "stance": "disproves"
+   },
+   {
+    "title": "Roswell incident - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Roswell_incident",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "seth-rich-murder",
+  "sources": [
+   {
+    "title": "Murder of Seth Rich - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Murder_of_Seth_Rich",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Seth Rich's Parents Settle Their Blockbuster Lawsuit Against Fox News",
+    "url": "https://www.rollingstone.com/politics/politics-news/seth-rich-wikileaks-fox-news-sean-hannity-donald-trump-russia-1094896/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "pope-john-paul-i-murder",
+  "sources": [
+   {
+    "title": "Pope John Paul I conspiracy theories - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pope_John_Paul_I_conspiracy_theories",
+    "type": "news",
+    "stance": "context"
+   },
+   {
+    "title": "A Quiet Death in Rome: Was Pope John Paul I Murdered? - Crisis Magazine",
+    "url": "https://crisismagazine.com/opinion/a-quiet-death-in-rome-was-pope-john-paul-i-murdered",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "sandy-hook-hoax",
+  "sources": [
+   {
+    "title": "Supreme Court rejects Alex Jones' appeal of $1.4 billion defamation judgment in Sandy Hook shooting",
+    "url": "https://www.pbs.org/newshour/nation/supreme-court-rejects-alex-jones-appeal-of-1-4-billion-defamation-judgment-in-sandy-hook-shooting",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "twa-flight-800-missile",
+  "sources": [
+   {
+    "title": "TWA 800 Overview - NTSB",
+    "url": "https://www.ntsb.gov/news/events/documents/moriches_ny-TWA_800_Overview.pdf",
+    "type": "government",
+    "stance": "disproves"
+   },
+   {
+    "title": "TWA Flight 800 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/TWA_Flight_800",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "blood-libel",
+  "sources": [
+   {
+    "title": "Blood Libel: History and Impact - Holocaust Encyclopedia (USHMM)",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/blood-libel",
+    "type": "academic",
+    "stance": "disproves"
+   }
+  ]
+ },
+ {
+  "id": "mars-face-cydonia",
+  "sources": [
+   {
+    "title": "Cydonia: Two Years Later - NASA Science",
+    "url": "https://science.nasa.gov/photojournal/cydonia-two-years-later-8/",
+    "type": "government",
+    "stance": "disproves"
+   },
+   {
+    "title": "The face on Mars, from conspiracy to debunking - BBC Sky at Night Magazine",
+    "url": "https://www.skyatnightmagazine.com/space-science/face-on-mars",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "project-blue-beam",
+  "sources": [
+   {
+    "title": "What Is Project Blue Beam? Conspiracy Theory Over Drones - Newsweek",
+    "url": "https://www.newsweek.com/what-project-blue-beam-conspiracy-theory-erupts-over-drones-2001051",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "anti-fluoridation-communist",
+  "sources": [
+   {
+    "title": "Pipe Dreams: America's Fluoride Controversy - Science History Institute",
+    "url": "https://www.sciencehistory.org/distillations/magazine/pipe-dreams-americas-fluoride-controversy",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "transhumanism",
+  "sources": [
+   {
+    "title": "Human Enhancement - Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/enhancement/",
+    "type": "academic",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "cuneiform-language-in-technology",
+  "sources": [
+   {
+    "title": "ASU archaeologist debunks alien influence, other conspiracy theories in archaeology",
+    "url": "https://news.asu.edu/20190314-discoveries-asu-archaeologist-debunks-alien-influence-other-conspiracy-theories-archaeology",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Ancient astronauts - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ancient_astronauts",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "generational-leaps",
+  "sources": [
+   {
+    "title": "The Great Inheritors: How Three Families Shielded Their Fortunes From Taxes for Generations - ProPublica",
+    "url": "https://www.propublica.org/article/the-great-inheritors-how-three-families-shielded-their-fortunes-from-taxes-for-generations",
+    "type": "investigative",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "microdot-gif",
+  "sources": [
+   {
+    "title": "Myth: Subliminal Messages Can Change Your Behavior - Association for Psychological Science",
+    "url": "https://www.psychologicalscience.org/uncategorized/myth-you-can-be-influenced-by-things-outside-your-awareness.html",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "butterfly-effect",
+  "sources": [
+   {
+    "title": "Butterfly effect - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Butterfly_effect",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "real-intentions-of-road-to-roota",
+  "sources": [
+   {
+    "title": "The Road to Roota: Unmasking its Real Intentions - Wondergressive",
+    "url": "https://wondergressive.com/2023/08/04/the-road-to-roota-unmasking-its-real-intentions/",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ }
+]

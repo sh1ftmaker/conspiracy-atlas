@@ -1,0 +1,264 @@
+[
+ {
+  "id": "pizzagate",
+  "sources": [
+   {
+    "title": "Pizzagate conspiracy theory - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pizzagate_conspiracy_theory",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "North Carolina Man Sentenced to Four-Year Prison Term For Armed Assault at Northwest Washington Pizza Restaurant",
+    "url": "https://www.justice.gov/usao-dc/pr/north-carolina-man-sentenced-four-year-prison-term-armed-assault-northwest-washington",
+    "type": "government",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "federal-reserve-cabal",
+  "sources": [
+   {
+    "title": "The Meeting at Jekyll Island | Federal Reserve History",
+    "url": "https://www.federalreservehistory.org/essays/jekyll-island-conference",
+    "type": "government",
+    "stance": "context"
+   },
+   {
+    "title": "The Fed - Who owns the Federal Reserve?",
+    "url": "https://www.federalreserve.gov/faqs/about_14986.htm",
+    "type": "government",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "illuminati-are-the-good-guys",
+  "sources": [
+   {
+    "title": "Adam Weishaupt - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Adam_Weishaupt",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "larries-one-direction",
+  "sources": [
+   {
+    "title": "Larries - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Larries",
+    "type": "news",
+    "stance": "context"
+   },
+   {
+    "title": "Louis Tomlinson Realized 'There's Nothing I Can Do' About Fan Delusions That He's Dating Harry Styles",
+    "url": "https://www.rollingstone.com/music/music-news/louis-tomlinson-harry-styles-larry-conspiracy-1235001225/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "smartphones-listening-ads",
+  "sources": [
+   {
+    "title": "These Academics Spent the Last Year Testing Whether Your Phone Is Secretly Listening to You",
+    "url": "https://gizmodo.com/these-academics-spent-the-last-year-testing-whether-you-1826961188",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "extraterrestrial-benefactors",
+  "sources": [
+   {
+    "title": "Ancient astronauts - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ancient_astronauts",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "october-7-crisis-actors-denial",
+  "sources": [
+   {
+    "title": "Misinformation in the Gaza war - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Misinformation_in_the_Gaza_war",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "third-secret-fatima",
+  "sources": [
+   {
+    "title": "Three Secrets of Fátima - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Three_Secrets_of_F%C3%A1tima",
+    "type": "news",
+    "stance": "context"
+   },
+   {
+    "title": "Suppression of the Third Secret | The Fatima Center",
+    "url": "https://fatima.org/suppression-of-the-third-secret/",
+    "type": "advocacy",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "died-suddenly-vaccine-excess-deaths",
+  "sources": [
+   {
+    "title": "Viewpoint: COVID vaccines caused 'turbo cancers'? MAHA disinformers revive long-debunked claims",
+    "url": "https://geneticliteracyproject.org/2026/01/15/viewpoint-covid-vaccines-caused-turbo-cancers-maha-disinformers-revive-long-debunked-claims/",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Turbocancer Isn't Real and Can't Hurt You",
+    "url": "https://skepchick.org/2024/05/turbocancer-isnt-real-and-cant-hurt-you/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "baltic-sea-anomaly",
+  "sources": [
+   {
+    "title": "The Baltic Sea Anomaly: Glacial Geology Behind a 2011 Mystery",
+    "url": "https://esovitae.com/the-baltic-sea-anomaly/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "missing-children-forests",
+  "sources": [
+   {
+    "title": "Assessing the Missing 411 Conspiracy Theory: A Conversation with Data Skeptic Kyle Polich",
+    "url": "https://skepticalinquirer.org/exclusive/assessing-the-missing-411-conspiracy-theory-a-conversation-with-data-skeptic-kyle-polich/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "skull-and-bones",
+  "sources": [
+   {
+    "title": "Skull and Bones - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Skull_and_Bones",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "cigarettes-extreme-health-benefits",
+  "sources": [
+   {
+    "title": "Debunking the benefits of nicotine",
+    "url": "https://www.mdanderson.org/cancerwise/debunking-the-health-benefits-of-nicotine.h00-159856134.html",
+    "type": "academic",
+    "stance": "debunks"
+   },
+   {
+    "title": "Misperceptions of Nicotine and Nicotine Reduction: The Importance of Public Education to Maximize the Benefits of a Nicotine Reduction Standard",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6939783/",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "basement-tapes",
+  "sources": [
+   {
+    "title": "Columbine killers' 'basement tapes' destroyed in 2011, records request reveals",
+    "url": "https://coloradofoic.org/news/columbine-killers-basement-tapes-destroyed-2011-records-request-reveals/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "bill-gates-population-control",
+  "sources": [
+   {
+    "title": "Bill Gates didn't say he wanted to use vaccines to reduce the population",
+    "url": "https://www.politifact.com/factchecks/2021/oct/11/blog-posting/bill-gates-didnt-say-he-wanted-use-vaccines-reduce/",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Video Targets Gates With Old Clip, Misleading Edit",
+    "url": "https://www.factcheck.org/2021/03/scicheck-video-targets-gates-with-old-clip-misleading-edit/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "greek-magnetic-sky",
+  "sources": [
+   {
+    "title": "The Astronomical Orientation of Ancient Greek Temples",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0007903",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "antediluvian-society",
+  "sources": [
+   {
+    "title": "Antediluvian - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Antediluvian",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "real-myziam",
+  "sources": [
+   {
+    "title": "Myziam - Iceberg Database",
+    "url": "https://icebergdb.com/myziam-3/",
+    "type": "forum",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "deep-space-tech",
+  "sources": [
+   {
+    "title": "Ancient astronauts - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ancient_astronauts",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "santiago-interference",
+  "sources": [
+   {
+    "title": "Default mode network - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Default_mode_network",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ }
+]

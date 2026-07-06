@@ -1,0 +1,205 @@
+[
+ {
+  "id": "madeleine-mccann-theories",
+  "sources": [
+   {
+    "title": "Prime suspect in Madeleine McCann case, Christian Brueckner, released from German prison - CBS News",
+    "url": "https://www.cbsnews.com/news/madeleine-mccann-suspect-christian-brueckner-released-germany-prison/",
+    "type": "news",
+    "stance": "context"
+   },
+   {
+    "title": "Christian Brueckner, suspect in Maddie McCann case, acquitted on unrelated rape, sex abuse charges in Germany - CBS News",
+    "url": "https://www.cbsnews.com/news/christian-brueckner-suspect-maddie-mccann-case-germany-rape-sexual-abuse/",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "marilyn-monroe",
+  "sources": [
+   {
+    "title": "Death of Marilyn Monroe - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Death_of_Marilyn_Monroe",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "1982 Investigation Into the Death of Marilyn Monroe | District Attorney Files - The Marilyn Monroe Collection",
+    "url": "https://themarilynmonroecollection.com/marilyn-monroe-1982-death-investigation-report/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "jewish-bolshevism",
+  "sources": [
+   {
+    "title": "Jewish Bolshevism - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jewish_Bolshevism",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "A Specter Haunting Europe: The Myth of Judeo-Bolshevism by Paul Hanebrink - EuropeNow (book review)",
+    "url": "https://www.europenowjournal.org/2020/01/15/a-specter-haunting-europe-the-myth-of-judeo-bolshevism-by-paul-hanebrink/",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "mh17-coverup",
+  "sources": [
+   {
+    "title": "Three men convicted over downing of MH17 in eastern Ukraine in early days of Russia's war - CBS News",
+    "url": "https://www.cbsnews.com/news/mh17-malaysia-airlines-ukraine-russia-hague-court-guilty-three-men-buk-missile/",
+    "type": "court",
+    "stance": "disproves"
+   }
+  ]
+ },
+ {
+  "id": "roswell-alien-autopsy",
+  "sources": [
+   {
+    "title": "Alien Autopsy (1995 film) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Alien_Autopsy_(1995_film)",
+    "type": "news",
+    "stance": "disproves"
+   },
+   {
+    "title": "Filmmaker reveals how he faked infamous 'Roswell alien autopsy' footage in a London apartment - Fox News",
+    "url": "https://www.foxnews.com/science/filmmaker-reveals-how-he-faked-infamous-roswell-alien-autopsy-footage-in-a-london-apartment",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "rfid-mark-of-the-beast",
+  "sources": [
+   {
+    "title": "Microchip Implant Controversy: a Mark of the Beast or the Coming 'Singularity'? - CBS News",
+    "url": "https://www.cbsnews.com/news/microchip-implant-controversy-a-mark-of-the-beast-or-the-coming-singularity/",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Implanting Microchips: Sign of Progress or Mark of the Beast? - Loyola University Chicago",
+    "url": "https://www.luc.edu/digitalethics/researchinitiatives/essays/archive/2017/implantingmicrochipssignofprogressormarkofthebeast/",
+    "type": "academic",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "wow-signal",
+  "sources": [
+   {
+    "title": "Wow! mystery signal from space finally explained (comet hydrogen cloud hypothesis) - phys.org",
+    "url": "https://phys.org/news/2017-06-wow-mystery-space.html",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Wow! signal - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wow!_signal",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "gain-of-function-pandemic-risk",
+  "sources": [
+   {
+    "title": "Cambridge Working Group Consensus Statement on the Creation of Potential Pandemic Pathogens",
+    "url": "https://www.cambridgeworkinggroup.org/",
+    "type": "academic",
+    "stance": "supports"
+   },
+   {
+    "title": "Experts debate research pause, gain-of-function issues - CIDRAP",
+    "url": "https://www.cidrap.umn.edu/bioterrorism/experts-debate-research-pause-gain-function-issues",
+    "type": "news",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "phantom-time",
+  "sources": [
+   {
+    "title": "Phantom time conspiracy theory - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Phantom_time_conspiracy_theory",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Phantom Time Hypothesis Debunked: The Medieval Era That Wasn't Missing - Factual America",
+    "url": "https://www.factualamerica.com/conspiracy-critic/dark-ages-or-deleted-ages-unmasking-the-medieval-time-warp-theory",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "hypnosis",
+  "sources": [
+   {
+    "title": "Remembering what did not happen: the role of hypnosis in memory recall and false memories formation - Frontiers in Psychology",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1433762/full",
+    "type": "academic",
+    "stance": "supports"
+   },
+   {
+    "title": "Implanting False Memories - Psychology Today",
+    "url": "https://www.psychologytoday.com/us/blog/media-spotlight/201211/implanting-false-memories",
+    "type": "news",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "algal-biofuel-real-potential",
+  "sources": [
+   {
+    "title": "Updated Algae Report Analyzes National-Scale Prospects for Converting Microalgae to Biofuels and Bioproducts - U.S. Department of Energy",
+    "url": "https://www.energy.gov/cmei/fuels/articles/updated-algae-report-analyzes-national-scale-prospects-converting-microalgae",
+    "type": "government",
+    "stance": "supports"
+   },
+   {
+    "title": "Biofuels from algae: challenges and potential - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3152439/",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "roman-empire-still-rules-the-world",
+  "sources": [
+   {
+    "title": "The Roman Empire Shadow Rule Theory: Uncovering the Alleged Continuity - Wondergressive",
+    "url": "https://wondergressive.com/2023/07/02/the-roman-empire-shadow-rule-theory-uncovering-the-alleged-continuity/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "sycamore-knoll",
+  "sources": [
+   {
+    "title": "Underwater Alien Base Off Malibu? - Los Angeles Almanac",
+    "url": "http://www.laalmanac.com/mysterious/my722.php",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "moon-landing-hoax",
+  "url": "https://en.wikipedia.org/wiki/Third-party_evidence_for_Apollo_Moon_landings",
+  "st": "disproves"
+ },
+ {
+  "id": "climate-change-hoax",
+  "url": "https://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy",
+  "st": "debunks"
+ },
+ {
+  "id": "climate-change-hoax",
+  "url": "https://www.forbes.com/sites/alexknapp/2011/08/24/climategate-scientists-cleared-of-wrongdoing-again/",
+  "st": "debunks"
+ },
+ {
+  "id": "stuxnet-revival-studies",
+  "url": "https://www.csoonline.com/article/562691/stuxnet-explained-the-first-known-cyberweapon.html",
+  "st": "supports"
+ },
+ {
+  "id": "tesla-free-energy",
+  "url": "https://en.wikipedia.org/wiki/Wardenclyffe_Tower",
+  "st": "context"
+ },
+ {
+  "id": "tesla-free-energy",
+  "url": "https://geekhistory.com/content/tesla-tower-wardenclyffe-and-free-energy-myth",
+  "st": "debunks"
+ },
+ {
+  "id": "agenda-21",
+  "url": "https://www.splcenter.org/resources/reports/agenda-21-un-sustainability-and-right-wing-conspiracy-theory/",
+  "st": "debunks"
+ },
+ {
+  "id": "agenda-21",
+  "url": "https://www.politifact.com/factchecks/2020/jul/24/viral-image/facebook-post-distorts-uns-sustainable-development/",
+  "st": "debunks"
+ },
+ {
+  "id": "well-poisoning-black-death",
+  "url": "https://en.wikipedia.org/wiki/Persecution_of_Jews_during_the_Black_Death",
+  "st": "debunks"
+ },
+ {
+  "id": "majestic-12",
+  "url": "https://slate.com/human-interest/2016/12/the-fbi-debunked-the-majestic-12-ufo-documents-in-the-most-childish-way-possible.html",
+  "st": "debunks"
+ },
+ {
+  "id": "majestic-12",
+  "url": "https://www.muckrock.com/news/archives/2017/jun/05/fbi-majestic-12/",
+  "st": "context"
+ },
+ {
+  "id": "petrodollar-agreement-expired-hoax",
+  "url": "https://www.ledgerinsights.com/fake-news-saudi-petrodollar-deal-with-u-s-ended-this-month/",
+  "st": "debunks"
+ },
+ {
+  "id": "mass-govt-secrecy",
+  "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0147905",
+  "st": "debunks"
+ },
+ {
+  "id": "proto-humans",
+  "url": "https://ncse.ngo/review-forbidden-archaeologys-impact",
+  "st": "debunks"
+ },
+ {
+  "id": "publius-enigma",
+  "url": "https://www.futilitycloset.com/2009/04/01/the-publius-enigma/",
+  "st": "context"
+ },
+ {
+  "id": "internet-created-for-crime",
+  "url": "https://www.darpa.mil/news/features/arpanet",
+  "st": "debunks"
+ },
+ {
+  "id": "internet-created-for-crime",
+  "url": "https://en.wikipedia.org/wiki/ARPANET",
+  "st": "debunks"
+ },
+ {
+  "id": "bitcoin-government-creation",
+  "url": "https://bitcoinist.com/cornell-professor-bitcoin-nsa-creation/",
+  "st": "debunks"
+ },
+ {
+  "id": "planned-extinction-eco-triage",
+  "url": "https://www.conspiracywatch.info/en/brieffing_notes/depopulation/",
+  "st": "debunks"
+ },
+ {
+  "id": "human-hunting",
+  "url": "https://en.wikipedia.org/wiki/Robert_Hansen",
+  "st": "context"
+ },
+ {
+  "id": "malbolge-programming",
+  "url": "https://en.wikipedia.org/wiki/Malbolge",
+  "st": "supports"
+ },
+ {
+  "id": "the-tara-calico-picture",
+  "url": "https://en.wikipedia.org/wiki/Disappearance_of_Tara_Calico",
+  "st": "context"
+ },
+ {
+  "id": "the-cagots",
+  "url": "https://daily.jstor.org/the-forgotten-untouchables-of-france/",
+  "st": "context"
+ },
+ {
+  "id": "soros-tent-astroturf-claim",
+  "url": "https://www.politifact.com/article/2024/may/02/fact-checking-claims-that-george-soros-is-paying-s/",
+  "st": "debunks"
+ }
+]

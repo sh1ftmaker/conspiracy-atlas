@@ -1,0 +1,92 @@
+[
+ {
+  "id": "freemasons",
+  "url": "https://www.nationalgeographic.com/history/article/freemasons-history-conspiracy-secret",
+  "st": "debunks"
+ },
+ {
+  "id": "covid-lab-leak",
+  "url": "https://www.propublica.org/article/senate-report-covid-19-origin-wuhan-lab",
+  "st": "supports"
+ },
+ {
+  "id": "georgia-guidestones",
+  "url": "https://www.politifact.com/article/2022/jul/13/bombing-controversial-georgia-guidestones-fuels-on/",
+  "st": "debunks"
+ },
+ {
+  "id": "tupac-shakur-alive",
+  "url": "https://www.unilad.com/celebrity/news/proof-that-tupac-is-dead-to-be-shown-in-court-418556-20231022",
+  "st": "disproves"
+ },
+ {
+  "id": "nasa-hoax-capacity",
+  "url": "https://www.rmg.co.uk/stories/space-astronomy/moon-landing-conspiracy-theories-debunked",
+  "st": "debunks"
+ },
+ {
+  "id": "harold-holt-chinese-submarine",
+  "url": "https://en.wikipedia.org/wiki/The_Prime_Minister_Was_a_Spy",
+  "st": "debunks"
+ },
+ {
+  "id": "pyramids-built-by-the-templars-order",
+  "url": "https://www.history.co.uk/articles/pyramid-conspiracy-theories-debunked",
+  "st": "debunks"
+ },
+ {
+  "id": "new-chronology-fomenko",
+  "url": "https://en.wikipedia.org/wiki/New_chronology_(Fomenko)",
+  "st": "debunks"
+ },
+ {
+  "id": "6th-extinction",
+  "url": "https://www.sciencedaily.com/releases/2022/01/220113194911.htm",
+  "st": "supports"
+ },
+ {
+  "id": "6th-extinction",
+  "url": "https://www.sciencenews.org/article/sixth-mass-extinction-scientists-debate",
+  "st": "context"
+ },
+ {
+  "id": "mad-honey",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10226383/",
+  "st": "supports"
+ },
+ {
+  "id": "dyson-sphere-already-constructed",
+  "url": "https://phys.org/news/2024-05-dyson-spheres-astronomers-potential-candidates.html",
+  "st": "debunks"
+ },
+ {
+  "id": "ai-in-a-box",
+  "url": "https://arxiv.org/abs/1604.00545",
+  "st": "supports"
+ },
+ {
+  "id": "esoteric-recruitment",
+  "url": "https://theconversation.com/cicada-3301-the-mystery-keeping-cryptologists-awake-at-night-21407",
+  "st": "context"
+ },
+ {
+  "id": "dighton-rock",
+  "url": "https://www.historicmysteries.com/unexplained-mysteries/dighton-rock/24052/",
+  "st": "context"
+ },
+ {
+  "id": "new-chronologies-and-history-denials",
+  "url": "https://en.wikipedia.org/wiki/Pseudohistory",
+  "st": "debunks"
+ },
+ {
+  "id": "saturn-s-rings",
+  "url": "https://www.snexplores.org/article/saturns-rings-created-collision",
+  "st": "supports"
+ },
+ {
+  "id": "roman-metaphysics",
+  "url": "https://antigonejournal.com/2025/10/atomic-physics-lucretius/",
+  "st": "supports"
+ }
+]

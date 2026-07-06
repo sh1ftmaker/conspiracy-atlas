@@ -1,0 +1,239 @@
+[
+ {
+  "id": "bigfoot-cover-up",
+  "sources": [
+   {
+    "title": "Has Bigfoot Finally Been Debunked?",
+    "url": "https://www.forbes.com/sites/danidiplacido/2026/03/31/has-bigfoot-finally-been-debunked/",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Documentary's Devastating Bigfoot Debunking",
+    "url": "https://skepticalinquirer.org/exclusive/documentarys-devastating-bigfoot-debunking/",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Patterson–Gimlin film - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Patterson%E2%80%93Gimlin_film",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "rfk-assassination",
+  "sources": [
+   {
+    "title": "Robert F. Kennedy assassination conspiracy theories - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Robert_F._Kennedy_assassination_conspiracy_theories",
+    "type": "news",
+    "stance": "context"
+   },
+   {
+    "title": "Thomas Noguchi - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Thomas_Noguchi",
+    "type": "news",
+    "stance": "supports"
+   },
+   {
+    "title": "Assassination of Robert F. Kennedy - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Assassination_of_Robert_F._Kennedy",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "zog",
+  "sources": [
+   {
+    "title": "Zionist Occupation Government conspiracy theory - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Zionist_Occupation_Government_conspiracy_theory",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "ZOG | ADL Hate Symbol Database",
+    "url": "https://www.adl.org/resources/hate-symbol/zog",
+    "type": "advocacy",
+    "stance": "debunks"
+   },
+   {
+    "title": "The Order (white supremacist group) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Order_(white_supremacist_group)",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "deepwater-horizon-sabotage",
+  "sources": [
+   {
+    "title": "National Commission on the BP Deepwater Horizon Oil Spill and Offshore Drilling - Final Report",
+    "url": "https://www.govinfo.gov/content/pkg/GPO-OILCOMMISSION/pdf/GPO-OILCOMMISSION.pdf",
+    "type": "government",
+    "stance": "debunks"
+   },
+   {
+    "title": "Halliburton Agrees to Plead Guilty to Destruction of Evidence in Connection with Deepwater Horizon Tragedy",
+    "url": "https://www.justice.gov/archives/opa/pr/halliburton-agrees-plead-guilty-destruction-evidence-connection-deepwater-horizon-tragedy",
+    "type": "government",
+    "stance": "context"
+   },
+   {
+    "title": "The conspiracy theories behind the BP oil spill",
+    "url": "https://theweek.com/13253/conspiracy-theories-behind-bp-oil-spill",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "mh370-disappearance",
+  "sources": [
+   {
+    "title": "Malaysia Airlines Flight 370 disappearance theories - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370_disappearance_theories",
+    "type": "news",
+    "stance": "context"
+   },
+   {
+    "title": "MH370 final report a \"cover up\"",
+    "url": "https://www.airlineratings.com/articles/mh370-final-report-cover",
+    "type": "news",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "mh370-diego-garcia",
+  "sources": [
+   {
+    "title": "Malaysia Airlines Flight 370 disappearance theories - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370_disappearance_theories",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "john-lennon-assassination-conspiracy",
+  "sources": [
+   {
+    "title": "Murder of John Lennon - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Murder_of_John_Lennon",
+    "type": "news",
+    "stance": "context"
+   },
+   {
+    "title": "Did The CIA Target John Lennon In 1980?--Conclusion",
+    "url": "https://patch.com/new-york/upper-west-side-nyc/did-cia-target-john-lennon-1980-conclusion",
+    "type": "advocacy",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "bootes-void",
+  "sources": [
+   {
+    "title": "The Boötes void: Why the Universe has a mysterious hole 330 million light-years across",
+    "url": "https://www.sciencefocus.com/space/bootes-void",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "smart-dust",
+  "sources": [
+   {
+    "title": "Smartdust - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Smartdust",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "max-headroom-incident",
+  "sources": [
+   {
+    "title": "Max Headroom signal hijackings - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Max_Headroom_signal_hijacking",
+    "type": "news",
+    "stance": "context"
+   },
+   {
+    "title": "The Mystery of the Creepiest Television Hack",
+    "url": "https://www.vice.com/en/article/pgay3n/headroom-hacker",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "ethnopsychiatry",
+  "sources": [
+   {
+    "title": "Mechanisms of Epigenetic Inheritance in Post-Traumatic Stress Disorder",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10817356/",
+    "type": "academic",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "stone-head-of-guatemala",
+  "sources": [
+   {
+    "title": "The Mysterious Stone Head of Guatemala: A Case Study in Willful Ignorance and Deception",
+    "url": "https://www.jasoncolavito.com/blog/the-mysterious-stone-head-of-guatemala-a-case-study-in-willful-ignorance-and-deception",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "The Stone Head of Guatemala that History Wants to Forget",
+    "url": "https://www.ancient-origins.net/ancient-places-americas/stone-head-guatemala-history-wants-forget-001104",
+    "type": "advocacy",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "beacon-of-hate",
+  "sources": [
+   {
+    "title": "AA5TB - Beacon of Hate",
+    "url": "https://www.aa5tb.com/sig09.html",
+    "type": "forum",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "crank-incident",
+  "sources": [
+   {
+    "title": "Conspiracy: The Crank Incident",
+    "url": "https://www.vertigo22.com/2020/07/mystery-crank-incident.html",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "feelings-auto-suppression",
+  "sources": [
+   {
+    "title": "Expressive suppression - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Expressive_suppression",
+    "type": "academic",
+    "stance": "context"
+   }
+  ]
+ }
+]

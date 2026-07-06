@@ -1,0 +1,225 @@
+[
+ {
+  "id": "new-world-order",
+  "sources": [
+   {
+    "title": "New World Order conspiracy theory - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/New_World_Order_conspiracy_theory",
+    "type": "news",
+    "stance": "context"
+   },
+   {
+    "title": "The New World Order: The Historical Origins of a Dangerous Modern Conspiracy Theory - Middlebury Institute CTEC",
+    "url": "https://www.middlebury.edu/institute/academics/centers-initiatives/ctec/ctec-publications/new-world-order-historical-origins-dangerous",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "mh-370",
+  "sources": [
+   {
+    "title": "MH370 myths debunked - Airline Ratings",
+    "url": "https://www.airlineratings.com/articles/mh370-myths-debunked",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "fema-camps",
+  "sources": [
+   {
+    "title": "FEMA camps conspiracy theory - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/FEMA_camps_conspiracy_theory",
+    "type": "news",
+    "stance": "context"
+   },
+   {
+    "title": "Claim of FEMA 'prison camps' is part of long-running, thoroughly debunked conspiracy theory - PolitiFact",
+    "url": "https://www.politifact.com/factchecks/2022/jan/20/facebook-posts/claim-fema-prison-camps-part-long-running-thorough/",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Fear of FEMA - Southern Poverty Law Center",
+    "url": "https://www.splcenter.org/resources/reports/fear-fema/",
+    "type": "investigative",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "dead-internet-theory",
+  "sources": [
+   {
+    "title": "2024 Bad Bot Report - Imperva",
+    "url": "https://www.imperva.com/resources/resource-library/reports/2024-bad-bot-report/",
+    "type": "investigative",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "las-vegas-shooting",
+  "sources": [
+   {
+    "title": "Video doesn't prove two gunmen during the Las Vegas shooting. Authorities say he acted alone - PolitiFact",
+    "url": "https://www.politifact.com/factchecks/2022/oct/21/instagram-posts/video-doesnt-prove-two-gunmen-during-the-las-vegas/",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "FBI: Las Vegas gunman sought infamy, influenced by father's memory - Las Vegas Review-Journal",
+    "url": "https://www.reviewjournal.com/crime/shootings/fbi-las-vegas-gunman-sought-infamy-influenced-by-fathers-memory-1584677/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "technocracy-theory",
+  "sources": [
+   {
+    "title": "The Great Reset is not a conspiracy to force changes in economic systems - PolitiFact",
+    "url": "https://www.politifact.com/factchecks/2022/oct/11/liz-wheeler/great-reset-not-conspiracy-force-changes-economic-/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "melania-trump-body-double",
+  "sources": [
+   {
+    "title": "No, Melania Trump didn't use a body double during the US election - Euronews",
+    "url": "https://www.euronews.com/my-europe/2024/11/08/no-melania-trump-didnt-use-a-body-double-during-the-us-election",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Melania Trump's Appearance at Freedom 250 Reignites 'Fake Melania' Conspiracy Theory - IBTimes UK",
+    "url": "https://www.ibtimes.co.uk/melania-trump-july-4-fake-melania-theory-1806950",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "fwd-7",
+  "sources": [
+   {
+    "title": "7/7 Ripple Effect - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/7/7_Ripple_Effect",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "enneagram",
+  "sources": [
+   {
+    "title": "Why one popular personality test is 'pseudoscientific at best' - Inverse",
+    "url": "https://www.inverse.com/mind-body/enneagram-personality-test-experts-explain",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "phantom-time-hypothesis",
+  "sources": [
+   {
+    "title": "Phantom time conspiracy theory - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Phantom_time_conspiracy_theory",
+    "type": "news",
+    "stance": "context"
+   },
+   {
+    "title": "Explaining why the Phantom Time Hypothesis is all wrong - Medievalists.net",
+    "url": "https://www.medievalists.net/2020/04/why-phantom-time-hypothesis-wrong/",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "patomskiy-crater",
+  "sources": [
+   {
+    "title": "What Caused The Patomskiy Crater in Siberia? - Historic Mysteries",
+    "url": "https://www.historicmysteries.com/unexplained-mysteries/patomskiy-crater-what-caused-it/12988/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "spr-drained-for-elections",
+  "sources": [
+   {
+    "title": "Did releasing oil from the Strategic Petroleum Reserve impact gas prices? - USAFacts",
+    "url": "https://usafacts.org/articles/did-releasing-oil-from-the-strategic-petroleum-reserve-impact-gas-prices/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "experiments-on-humans",
+  "sources": [
+   {
+    "title": "Unethical human experimentation in the United States - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Unethical_human_experimentation_in_the_United_States",
+    "type": "academic",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "ural-relief-map",
+  "sources": [
+   {
+    "title": "The map of \"the Creator\" - Pravda",
+    "url": "https://english.pravda.ru/news/russia/42113-the_map_of_the_creator/",
+    "type": "advocacy",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "alien-religions",
+  "sources": [
+   {
+    "title": "Ancient astronauts - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ancient_astronauts",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "holotropic-breathwork",
+  "sources": [
+   {
+    "title": "Holotropic Breathwork: Usage, Safety, and More - Healthline",
+    "url": "https://www.healthline.com/health/holotropic-breathwork",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "obsolete-documents",
+  "sources": [
+   {
+    "title": "Limited hangout - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Limited_hangout",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ }
+]

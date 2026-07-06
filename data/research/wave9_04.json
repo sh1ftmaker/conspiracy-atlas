@@ -1,0 +1,195 @@
+[
+ {
+  "id": "freemasons",
+  "sources": [
+   {
+    "title": "What's the real history of the Freemasons?",
+    "url": "https://www.nationalgeographic.com/history/article/freemasons-history-conspiracy-secret",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "covid-lab-leak",
+  "sources": [
+   {
+    "title": "COVID-19 Origins: Investigating a 'Complex and Grave Situation' Inside a Wuhan Lab",
+    "url": "https://www.propublica.org/article/senate-report-covid-19-origin-wuhan-lab",
+    "type": "investigative",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "georgia-guidestones",
+  "sources": [
+   {
+    "title": "Bombing of controversial Georgia Guidestones fuels conspiracy theories",
+    "url": "https://www.politifact.com/article/2022/jul/13/bombing-controversial-georgia-guidestones-fuels-on/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "tupac-shakur-alive",
+  "sources": [
+   {
+    "title": "Proof that Tupac Shakur is dead to be presented at Keefe D's murder trial as court attempts to debunk conspiracy theories",
+    "url": "https://www.unilad.com/celebrity/news/proof-that-tupac-is-dead-to-be-shown-in-court-418556-20231022",
+    "type": "news",
+    "stance": "disproves"
+   }
+  ]
+ },
+ {
+  "id": "nasa-hoax-capacity",
+  "sources": [
+   {
+    "title": "Moon landing conspiracy theories, debunked",
+    "url": "https://www.rmg.co.uk/stories/space-astronomy/moon-landing-conspiracy-theories-debunked",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "harold-holt-chinese-submarine",
+  "sources": [
+   {
+    "title": "The Prime Minister Was a Spy",
+    "url": "https://en.wikipedia.org/wiki/The_Prime_Minister_Was_a_Spy",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "pyramids-built-by-the-templars-order",
+  "sources": [
+   {
+    "title": "5 pyramid conspiracy theories debunked",
+    "url": "https://www.history.co.uk/articles/pyramid-conspiracy-theories-debunked",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "new-chronology-fomenko",
+  "sources": [
+   {
+    "title": "New chronology (Fomenko)",
+    "url": "https://en.wikipedia.org/wiki/New_chronology_(Fomenko)",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "6th-extinction",
+  "sources": [
+   {
+    "title": "Strong evidence shows Sixth Mass Extinction of global biodiversity in progress",
+    "url": "https://www.sciencedaily.com/releases/2022/01/220113194911.htm",
+    "type": "academic",
+    "stance": "supports"
+   },
+   {
+    "title": "A sixth mass extinction? Not so fast, some scientists say",
+    "url": "https://www.sciencenews.org/article/sixth-mass-extinction-scientists-debate",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "mad-honey",
+  "sources": [
+   {
+    "title": "Mad Honey and the Poisoner King: A Case of Mass Grayanotoxin Poisoning in the Roman Military",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10226383/",
+    "type": "academic",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "dyson-sphere-already-constructed",
+  "sources": [
+   {
+    "title": "Dyson spheres: Astronomers report potential candidates for alien structures, and evidence against their existence",
+    "url": "https://phys.org/news/2024-05-dyson-spheres-astronomers-potential-candidates.html",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "ai-in-a-box",
+  "sources": [
+   {
+    "title": "The AGI Containment Problem",
+    "url": "https://arxiv.org/abs/1604.00545",
+    "type": "academic",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "esoteric-recruitment",
+  "sources": [
+   {
+    "title": "Cicada 3301: the mystery keeping cryptologists awake at night",
+    "url": "https://theconversation.com/cicada-3301-the-mystery-keeping-cryptologists-awake-at-night-21407",
+    "type": "academic",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "dighton-rock",
+  "sources": [
+   {
+    "title": "What are the Inscriptions on the Dighton Rock, and Who Wrote Them?",
+    "url": "https://www.historicmysteries.com/unexplained-mysteries/dighton-rock/24052/",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "new-chronologies-and-history-denials",
+  "sources": [
+   {
+    "title": "Pseudohistory",
+    "url": "https://en.wikipedia.org/wiki/Pseudohistory",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "saturn-s-rings",
+  "sources": [
+   {
+    "title": "Saturn's rings created by collision",
+    "url": "https://www.snexplores.org/article/saturns-rings-created-collision",
+    "type": "news",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "roman-metaphysics",
+  "sources": [
+   {
+    "title": "Atomic Physics, Ancient and Modern",
+    "url": "https://antigonejournal.com/2025/10/atomic-physics-lucretius/",
+    "type": "academic",
+    "stance": "supports"
+   }
+  ]
+ }
+]

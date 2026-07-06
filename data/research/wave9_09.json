@@ -1,0 +1,241 @@
+[
+ {
+  "id": "chemtrails",
+  "sources": [
+   {
+    "title": "Science Officially Debunks Chemtrails, But the Conspiracy Will Likely Live On",
+    "url": "https://www.smithsonianmag.com/smart-news/science-officially-debunks-chemtrails-conspiracy-live-180960139/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "mlk-assassination",
+  "sources": [
+   {
+    "title": "MLK's Family Feels Vindicated",
+    "url": "https://www.cbsnews.com/news/mlks-family-feels-vindicated/",
+    "type": "news",
+    "stance": "supports"
+   },
+   {
+    "title": "Civil Rights Division | Vii. King V. Jowers Conspiracy Allegations",
+    "url": "https://www.justice.gov/crt/vii-king-v-jowers-conspiracy-allegations",
+    "type": "government",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "tavistock",
+  "sources": [
+   {
+    "title": "DISINFO: The Tavistock Institute is involved in supporting colour revolutions",
+    "url": "https://euvsdisinfo.eu/report/the-tavistock-institute-is-largely-responsible-for-the-proliferation-of-perverts-all-over-the-world/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "kubrick-filmed-moon-landing",
+  "sources": [
+   {
+    "title": "Dark Side of the Moon (2002 film) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dark_Side_of_the_Moon_(2002_film)",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "biden-body-double-deepfake",
+  "sources": [
+   {
+    "title": "No, this video doesn't prove Biden has a body double",
+    "url": "https://www.politifact.com/factchecks/2022/sep/07/viral-image/no-video-doesnt-prove-biden-has-body-double/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "cultural-marxism",
+  "sources": [
+   {
+    "title": "The Cultural Marxism Conspiracy: Why the Right Blames the Frankfurt School for the Decline of the West",
+    "url": "https://www.versobooks.com/products/3239-the-cultural-marxism-conspiracy",
+    "type": "book",
+    "stance": "debunks"
+   },
+   {
+    "title": "Cultural Marxism conspiracy theory - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cultural_Marxism_conspiracy_theory",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "khazarian-mafia",
+  "sources": [
+   {
+    "title": "Antisemitic Conspiracy Theories Abound Around Russian Assault on Ukraine",
+    "url": "https://www.adl.org/resources/blog/antisemitic-conspiracy-theories-abound-around-russian-assault-ukraine",
+    "type": "advocacy",
+    "stance": "debunks"
+   },
+   {
+    "title": "An antisemitic conspiracy theory is being shared on Telegram to justify Russia's invasion of Ukraine",
+    "url": "https://www.isdglobal.org/digital-dispatch/an-antisemitic-conspiracy-theory-is-being-shared-on-telegram-to-justify-russias-invasion-of-ukraine/",
+    "type": "advocacy",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "titanic-olympic-switch",
+  "sources": [
+   {
+    "title": "The Titanic 'Switch' Theory: Exposed",
+    "url": "https://titanicswitch.com/evidence.html",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Titanic conspiracy theories - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Titanic_conspiracy_theories",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "nord-stream-us-sabotage-theory",
+  "sources": [
+   {
+    "title": "German prosecutors charge Ukrainian suspect over Nord Stream explosions",
+    "url": "https://www.aljazeera.com/news/2026/7/2/german-prosecutors-charge-ukrainian-suspect-over-nord-stream-explosions",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "all-religions-are-the-same",
+  "sources": [
+   {
+    "title": "Zecharia Sitchin - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Zecharia_Sitchin",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "feral-children",
+  "sources": [
+   {
+    "title": "Genie (feral child) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Genie_(feral_child)",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "deep-ecology-fascism",
+  "sources": [
+   {
+    "title": "Ecofascism - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ecofascism",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "cell-phone-emf-cancer",
+  "sources": [
+   {
+    "title": "WHO warns that the relationship between mobile phone use and cancer should be under surveillance",
+    "url": "https://www.isglobal.org/en/-/who-warns-that-the-relationship-between-mobile-phone-use-and-cancer-should-be-under-surveillance",
+    "type": "government",
+    "stance": "supports"
+   },
+   {
+    "title": "Do Cell Phones Cause Cancer? | American Cancer Society",
+    "url": "https://www.cancer.org/cancer/risk-prevention/radiation-exposure/cellular-phones.html",
+    "type": "advocacy",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "gold-standard-suppression",
+  "sources": [
+   {
+    "title": "Gold Price Manipulation Lawsuit Settled for $60 Million",
+    "url": "https://www.jckonline.com/editorial-article/gold-price-manipulation-lawsuit-settled-for-60-million/",
+    "type": "news",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "transhuman-authoritarianism",
+  "sources": [
+   {
+    "title": "From Democracies to Autocracies: How AI Systems Enable Authoritarianism by Design",
+    "url": "https://arxiv.org/pdf/2606.17286",
+    "type": "academic",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "the-mad-gasser-of-mattoon",
+  "sources": [
+   {
+    "title": "Mad Gasser of Mattoon - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mad_Gasser_of_Mattoon",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "disguised-aliens",
+  "sources": [
+   {
+    "title": "Space aliens are breeding with humans, university instructor says. Scientists say otherwise.",
+    "url": "https://www.nbcnews.com/mach/science/space-aliens-are-breeding-humans-university-instructor-says-scientists-say-ncna1008971",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "looking-at-dark-energy",
+  "sources": [
+   {
+    "title": "Could We Harness Dark Energy to Power the World?",
+    "url": "https://www.sciencenewstoday.org/could-we-harness-dark-energy-to-power-the-world",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "natural-park-closures",
+  "sources": [
+   {
+    "title": "The Missing 411 Mystery Has A Solution. You Won't Like It.",
+    "url": "https://thatjoescott.com/2024/11/26/the-missing-411-mystery-has-a-solution-you-wont-like-it/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ }
+]

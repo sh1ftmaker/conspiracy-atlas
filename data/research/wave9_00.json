@@ -1,0 +1,196 @@
+[
+ {
+  "id": "illuminati",
+  "sources": [
+   {
+    "title": "Illuminati - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Illuminati",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "hitler-survived-argentina",
+  "sources": [
+   {
+    "title": "The remains of Adolf Hitler: A biomedical analysis and definitive identification - PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29779904/",
+    "type": "academic",
+    "stance": "disproves"
+   },
+   {
+    "title": "Hitler's Teeth Reveal Nazi Dictator's Cause of Death | HISTORY",
+    "url": "https://www.history.com/articles/hitler-death-cause-teeth-analysis",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "paul-is-dead",
+  "sources": [
+   {
+    "title": "Paul McCartney Is Dead: Bizarre Story of Music's Most Notorious Rumor - Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-features/paul-mccartney-is-dead-conspiracy-897189/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "grusch-uap-crash-retrieval",
+  "sources": [
+   {
+    "title": "US Has 'No Evidence' of Alien Technology, New Pentagon Report Finds - Smithsonian Magazine",
+    "url": "https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "big-pharma",
+  "sources": [
+   {
+    "title": "Opioid Manufacturer Purdue Pharma Pleads Guilty to Fraud and Kickback Conspiracies - Purdue Pharma (Wikipedia summary of DOJ resolution)",
+    "url": "https://en.wikipedia.org/wiki/Purdue_Pharma",
+    "type": "news",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "warming-pause-climategate",
+  "sources": [
+   {
+    "title": "'Climategate' Panel Concludes That Scientists Did Not Manipulate Data - Yale E360",
+    "url": "https://e360.yale.edu/digest/climategate-panel-concludes-that-scientists-did-not-manipulate-data",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Climatic Research Unit email controversy - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "number-stations",
+  "sources": [
+   {
+    "title": "Ana Montes - Wikipedia (Cuban spy convicted; used numbers-station broadcasts for tasking instructions)",
+    "url": "https://en.wikipedia.org/wiki/Ana_Montes",
+    "type": "news",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "cold-fusion-suppression",
+  "sources": [
+   {
+    "title": "US review rekindles cold fusion debate - Nature News (2004 DOE review)",
+    "url": "https://www.nature.com/news/2004/041202/full/news041129-11.html",
+    "type": "news",
+    "stance": "debunks"
+   },
+   {
+    "title": "Google Funds Cold Fusion Research; Results Still Negative - Skeptical Inquirer",
+    "url": "https://skepticalinquirer.org/2019/09/google-funds-cold-fusion-research-results-still-negative/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "dyaltov-pass",
+  "sources": [
+   {
+    "title": "Have Scientists Finally Unraveled the 60-Year Mystery Surrounding Nine Russian Hikers' Deaths? - Smithsonian Magazine",
+    "url": "https://www.smithsonianmag.com/smart-news/scientists-may-have-finally-unraveled-mystery-dyatlov-pass-incident-180976886/",
+    "type": "news",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "non-urban-testing-grounds",
+  "sources": [
+   {
+    "title": "Dugway declassified: A rare look at the mysterious Utah site's experiments, then and now - Fox 13 Now",
+    "url": "https://www.fox13now.com/2016/05/12/a-rare-look-at-dugways-experiments-then-and-now",
+    "type": "news",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "gmo-population-control",
+  "sources": [
+   {
+    "title": "The Effect of Genetically Modified Food on Infertility Indices: A Systematic Review Study - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7443040/",
+    "type": "academic",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "plant-intelligence",
+  "sources": [
+   {
+    "title": "Are Plants Conscious? - Skeptical Inquirer",
+    "url": "https://skepticalinquirer.org/2024/08/are-plants-conscious/",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "the-boy-in-the-box",
+  "sources": [
+   {
+    "title": "Murder of Joseph Augustus Zarelli - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli",
+    "type": "news",
+    "stance": "disproves"
+   }
+  ]
+ },
+ {
+  "id": "magic-of-the-state",
+  "sources": [
+   {
+    "title": "The Magic of the State - Michael Taussig (Internet Archive)",
+    "url": "https://archive.org/details/magicofstate0000taus",
+    "type": "book",
+    "stance": "context"
+   }
+  ]
+ },
+ {
+  "id": "false-gerrymandering",
+  "sources": [
+   {
+    "title": "Rucho v. Common Cause - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rucho_v._Common_Cause",
+    "type": "court",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "padma-mccord",
+  "sources": [
+   {
+    "title": "Internet Mysteries: Padma G McCord - Secrets of the Dark",
+    "url": "https://secretsofthedark.writeas.com/as-ive-mentioned-several-times-here-before-im-a-fan-of-certain-horror-9ln0",
+    "type": "forum",
+    "stance": "context"
+   }
+  ]
+ }
+]
