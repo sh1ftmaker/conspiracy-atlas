@@ -774,7 +774,11 @@ const SUGGEST = (function(){
   function ensureTurnstile(){
     if(!TURNSTILE_KEY) return;
     const cont=$('#sg-ts'); if(!cont) return;
-    const render=()=>{ try{ window.turnstile.render(cont,{sitekey:TURNSTILE_KEY, callback:t=>{tsToken=t;}, 'error-callback':()=>{tsToken='';}}); }catch(e){} };
+    const sb=$('#sg-submit'), lbl=sb?sb.textContent:'';
+    if(sb){ sb.disabled=true; sb.textContent='verifying…'; }
+    const ready=()=>{ if(sb && sb.textContent==='verifying…'){ sb.disabled=false; sb.textContent=lbl; } };
+    setTimeout(ready, 15000);  // fail-open so nobody gets stuck; the server still enforces the token
+    const render=()=>{ try{ window.turnstile.render(cont,{sitekey:TURNSTILE_KEY, callback:t=>{tsToken=t; ready();}, 'error-callback':()=>{tsToken='';}, 'expired-callback':()=>{tsToken='';}}); }catch(e){} };
     if(window.turnstile && window.turnstile.render){ render(); return; }
     if(!document.getElementById('sg-ts-js')){
       const s=document.createElement('script'); s.id='sg-ts-js'; s.async=true; s.defer=true;
