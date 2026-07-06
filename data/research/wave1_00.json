@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "atlantis",
+    "sources": [
+      {
+        "title": "Atlantis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Atlantis",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Was Atlantis Real? 6 Theories About the Lost Civilization",
+        "url": "https://www.history.com/articles/top-6-theories-about-atlantis",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "'Lost' City of Atlantis: Fact & Fable - Live Science",
+        "url": "https://www.livescience.com/23217-lost-city-of-atlantis.html",
+        "type": "news",
+        "stance": "debunks"
+      },
+      {
+        "title": "Why the myth of Atlantis just won't die - National Geographic",
+        "url": "https://www.nationalgeographic.com/premium/article/atlantis-myth-plato-archaeology-false",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Atlantis",
+    "evidence_against": [
+      {
+        "text": "The scientific community has long held that a literal Atlantis never existed; modern archaeology and geology provide an unambiguous verdict that there was no Atlantic continent.",
+        "source": "https://www.livescience.com/23217-lost-city-of-atlantis.html"
+      },
+      {
+        "text": "Atlantis originates in Plato's Timaeus and Critias as a philosophical allegory about the hubris of nations, not as a historical account.",
+        "source": "https://en.wikipedia.org/wiki/Atlantis"
+      }
+    ]
+  },
+  {
+    "id": "monsanto",
+    "sources": [
+      {
+        "title": "Monsanto Alleged to Have Suppressed Roundup Cancer-Link Study - Courthouse News",
+        "url": "https://www.courthousenews.com/monsanto-alleged-to-have-suppressed-roundup-cancer-link-study/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Court Docs: Monsanto Paid Chemical Industry Front Group to Claim Cancer-Causing Weedkiller Safe - EWG",
+        "url": "https://www.ewg.org/news-insights/news/court-docs-monsanto-paid-chemical-industry-front-group-claim-cancer-causing",
+        "type": "news",
+        "stance": "supports"
+      },
+      {
+        "title": "Journal retracts weed killer study backed by Monsanto - Science/AAAS",
+        "url": "https://www.science.org/content/article/journal-retracts-weed-killer-study-backed-monsanto-citing-serious-ethical-concerns",
+        "type": "news",
+        "stance": "supports"
+      },
+      {
+        "title": "Cancer, Juries, and Scientific Certainty: The Monsanto Roundup Ruling Explained - Snopes",
+        "url": "https://www.snopes.com/news/2018/08/17/cancer-juries-scientific-certainty-monsanto-roundup-ruling-explained/",
+        "type": "debunker",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Court documents reveal Monsanto paid a chemical industry front group to counter evidence that glyphosate causes cancer, and that the company ghostwrote research published under academics' names.",
+        "source": "https://www.ewg.org/news-insights/news/court-docs-monsanto-paid-chemical-industry-front-group-claim-cancer-causing"
+      },
+      {
+        "text": "A 2000 paper that Monsanto had influence over was retracted in 2017 for serious ethical concerns after internal emails showed company employees helped draft it.",
+        "source": "https://www.science.org/content/article/journal-retracts-weed-killer-study-backed-monsanto-citing-serious-ethical-concerns"
+      }
+    ]
+  },
+  {
+    "id": "driver-killed-jfk",
+    "sources": [
+      {
+        "title": "The Greer Shot JFK Theory and the Persistence of JFK Assassination Conspiracies - History Tools",
+        "url": "https://www.historytools.org/stories/the-greer-shot-jfk-theory-and-the-persistence-of-jfk-assassination-conspiracies",
+        "type": "news",
+        "stance": "debunks"
+      },
+      {
+        "title": "John F. Kennedy assassination conspiracy theories - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_F._Kennedy_assassination_conspiracy_theories",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Did JFK's Irish driver cause his death? - IrishCentral",
+        "url": "https://www.irishcentral.com/roots/history/did-irish-william-greer-cause-jfks-death",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "New Kennedy Assassination Files Renew Claims of Driver's Involvement - Misbar",
+        "url": "https://www.misbar.com/en/editorial/2025/02/18/new-kennedy-assassination-files-renew-claims-driver%E2%80%99s-involvement",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_F._Kennedy_assassination_conspiracy_theories",
+    "truth": 8,
+    "evidence_against": [
+      {
+        "text": "The supposed gun in the Zapruder film has been identified as a reflection of sunlight off Greer's hair; higher-resolution copies and other film footage clearly show his hands never left the steering wheel.",
+        "source": "https://www.historytools.org/stories/the-greer-shot-jfk-theory-and-the-persistence-of-jfk-assassination-conspiracies"
+      },
+      {
+        "text": "Ballistic evidence confirms shots came from behind and an elevated position; if Greer had fired, entry angle and trajectory would have been completely different, which the autopsy does not show.",
+        "source": "https://www.historytools.org/stories/the-greer-shot-jfk-theory-and-the-persistence-of-jfk-assassination-conspiracies"
+      }
+    ]
+  },
+  {
+    "id": "demonic-presentism",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only — no Wikipedia article, news coverage, or academic treatment of this specific framing"
+  },
+  {
+    "id": "digital-aura-transmission",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only — search returned no pages treating this as a named theory"
+  },
+  {
+    "id": "internet-created-for-crime",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only — no distinct named theory with this framing exists in indexable sources"
+  },
+  {
+    "id": "masking-chemicals",
+    "sources": [
+      {
+        "title": "Chemtrail conspiracy theory - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chemtrail_conspiracy_theory",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Chemtrails are one of the most popular conspiracy theories - CNN",
+        "url": "https://www.cnn.com/us/chemtrails-conspiracy-theory-explained-cec",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Chemtrail_conspiracy_theory",
+    "research_note": "the specific 'masking chemicals' framing has no dedicated coverage; closest documented theory is the chemtrail conspiracy, which proposes aerial chemical dispersal for population or weather manipulation"
+  },
+  {
+    "id": "earth-hopping",
+    "sources": [],
+    "research_note": "no external coverage found for 'earth hopping' as a named theory; conceptually adjacent to the Welteislehre (World Ice Theory) and comparative flood mythology scholarship, neither of which supports the specific framing here"
+  },
+  {
+    "id": "smartphones-listening-ads",
+    "sources": [
+      {
+        "title": "In Leak, Facebook Partner Brags About Listening to Your Phone's Microphone to Serve Ads - Futurism",
+        "url": "https://futurism.com/the-byte/facebook-partner-phones-listening-microphone",
+        "type": "news",
+        "stance": "supports"
+      },
+      {
+        "title": "Facebook ad partner admits eavesdropping on conversations via phone mics for ad targeting - TechSpot",
+        "url": "https://www.techspot.com/news/104566-marketing-firm-admits-eavesdropping-conversations-phone-microphones-serve.html",
+        "type": "news",
+        "stance": "supports"
+      },
+      {
+        "title": "Facebook ad partner Cox could listen to a user's conversations - AppleInsider",
+        "url": "https://appleinsider.com/articles/24/09/03/facebook-ad-partner-may-have-tried-to-listen-into-your-conversations",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "truth": 38,
+    "evidence_for": [
+      {
+        "text": "Cox Media Group's leaked pitch deck described an 'Active Listening' product using AI to capture real-time intent data from device microphones, and listed Facebook, Google, and Amazon as clients.",
+        "source": "https://futurism.com/the-byte/facebook-partner-phones-listening-microphone"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Meta, Amazon, and Google all denied involvement with CMG's Active Listening product; CMG subsequently said the product was discontinued. Researchers who investigated the claim found no systematic backdoor microphone access by major ad platforms.",
+        "source": "https://appleinsider.com/articles/24/09/03/facebook-ad-partner-may-have-tried-to-listen-into-your-conversations"
+      }
+    ]
+  },
+  {
+    "id": "big-pharma",
+    "sources": [
+      {
+        "title": "Big Pharma conspiracy theories - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Big_Pharma_conspiracy_theories",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Some Think Big Pharma Is Suppressing A Cure For Cancer - Forbes",
+        "url": "https://www.forbes.com/sites/quora/2018/09/10/some-think-big-pharma-is-suppressing-a-cure-for-cancer-heres-why-that-could-never-happen/",
+        "type": "news",
+        "stance": "debunks"
+      },
+      {
+        "title": "Proof There's No FDA-Big Pharma Conspiracy Suppressing Cancer Cures - ACSH",
+        "url": "https://www.acsh.org/news/2016/06/11/proof-that-there-is-no-fda-big-pharma-conspiracy-to-suppress-cancer-cures",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Big_Pharma_conspiracy_theories",
+    "evidence_against": [
+      {
+        "text": "Cancer is not one disease but hundreds of related conditions with different mechanisms; a single hidden 'cancer cure' is scientifically incoherent, making blanket suppression of such a cure implausible.",
+        "source": "https://www.forbes.com/sites/quora/2018/09/10/some-think-big-pharma-is-suppressing-a-cure-for-cancer-heres-why-that-could-never-happen/"
+      }
+    ]
+  },
+  {
+    "id": "singularity",
+    "sources": [
+      {
+        "title": "Technological singularity - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Technological_singularity",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "What is the Technological Singularity? - IBM",
+        "url": "https://www.ibm.com/think/topics/technological-singularity",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Technological_singularity"
+  },
+  {
+    "id": "bloop",
+    "sources": [
+      {
+        "title": "Bloop - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bloop",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "What is the Bloop? - NOAA Ocean Service",
+        "url": "https://oceanservice.noaa.gov/facts/bloop.html",
+        "type": "government",
+        "stance": "debunks"
+      },
+      {
+        "title": "The Bloop: An Underwater Mystery That Took Nearly 20 Years to Solve - NOAA PMEL",
+        "url": "https://www.pmel.noaa.gov/acoustics/pmel-in-the-news/bloop-underwater-mystery-took-nearly-20-years-solve",
+        "type": "government",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bloop",
+    "truth": 10,
+    "evidence_against": [
+      {
+        "text": "NOAA concluded by 2012 that the Bloop was consistent with the sound of a large icequake — an iceberg cracking away from an Antarctic glacier — not any biological or artificial source.",
+        "source": "https://oceanservice.noaa.gov/facts/bloop.html"
+      }
+    ]
+  },
+  {
+    "id": "russian-sleep-experiment",
+    "sources": [
+      {
+        "title": "Russian Sleep Experiment - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Russian_Sleep_Experiment",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Russian Sleep Experiment - Creepypasta Wiki",
+        "url": "https://creepypasta.fandom.com/wiki/The_Russian_Sleep_Experiment",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "What Was the Russian Sleep Experiment? - Newsweek",
+        "url": "https://www.newsweek.com/russian-sleep-experiment-creepypasta-urban-legend-conspiracy-theory-1715222",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Russian_Sleep_Experiment",
+    "evidence_against": [
+      {
+        "text": "The Russian Sleep Experiment is a creepypasta story posted to the Creepypasta Wiki in August 2010 by a user named OrangeSoda; it is a work of fiction with no historical basis.",
+        "source": "https://www.newsweek.com/russian-sleep-experiment-creepypasta-urban-legend-conspiracy-theory-1715222"
+      }
+    ]
+  },
+  {
+    "id": "dmt-beings",
+    "sources": [
+      {
+        "title": "Dimethyltryptamine - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dimethyltryptamine",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Do You Really Encounter Supernatural Entities When You Take DMT? - Beckley Foundation",
+        "url": "https://www.beckleyfoundation.org/2017/06/28/do-you-really-encounter-supernatural-entities-when-you-take-dmt/",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Are DMT Entities Real? What Science Actually Says - ScienceInsights",
+        "url": "https://scienceinsights.org/are-dmt-entities-real-what-science-actually-says/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dimethyltryptamine",
+    "evidence_for": [
+      {
+        "text": "Rick Strassman's 1992 landmark research found that roughly half of DMT participants reported encounters with structured beings; subsequent surveys suggest 50–70% of breakthrough-dose users report entity contact.",
+        "source": "https://www.beckleyfoundation.org/2017/06/28/do-you-really-encounter-supernatural-entities-when-you-take-dmt/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Mainstream researchers including Robin Carhart-Harris conclude that DMT entities are consistent hallucinations arising from the drug's effects on specific brain regions, not contact with external beings.",
+        "source": "https://scienceinsights.org/are-dmt-entities-real-what-science-actually-says/"
+      }
+    ]
+  },
+  {
+    "id": "grand-unified-conspiracy-theory",
+    "sources": [
+      {
+        "title": "A Grand Unified Conspiracy Theory: The Illuminati, Ancient Aliens, and Pop Culture (book) - Amazon",
+        "url": "https://www.amazon.com/Grand-Unified-Conspiracy-Theory-Illuminati/dp/1493677632",
+        "type": "book",
+        "stance": "supports"
+      }
+    ],
+    "research_note": "no Wikipedia article for 'grand unified conspiracy theory' as a named concept; the term is mainly used as a label for works attempting to connect all major conspiracy theories into a single framework"
+  },
+  {
+    "id": "tri-lateral-commission",
+    "sources": [
+      {
+        "title": "Trilateral Commission - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Trilateral_Commission",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Trilateral Commission - Britannica",
+        "url": "https://www.britannica.com/topic/Trilateral-Commission",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "About Us - The Trilateral Commission (official)",
+        "url": "https://www.trilateral.org/about/",
+        "type": "government",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Trilateral_Commission",
+    "evidence_for": [
+      {
+        "text": "The Trilateral Commission is a real nongovernmental organization founded in 1973 by David Rockefeller, comprising 400+ influential politicians, banking executives, and media leaders from North America, Europe, and Asia-Pacific.",
+        "source": "https://en.wikipedia.org/wiki/Trilateral_Commission"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The Commission publishes its membership and meeting outcomes; critics accuse it of promoting elite consensus but it operates as an open think-tank, not a covert governing body.",
+        "source": "https://www.britannica.com/topic/Trilateral-Commission"
+      }
+    ]
+  },
+  {
+    "id": "secret-societies-today",
+    "sources": [
+      {
+        "title": "Skull and Bones - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Skull_and_Bones",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Five Secret Societies That Have Remained Shrouded in Mystery - History",
+        "url": "https://www.history.com/articles/secret-societies-freemasons-knights-templar",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Skull_and_Bones",
+    "evidence_for": [
+      {
+        "text": "Skull and Bones members have included Presidents William Howard Taft, George H.W. Bush, and George W. Bush, plus former Secretary of State John Kerry, demonstrating documented elite networking at the highest levels of U.S. politics.",
+        "source": "https://en.wikipedia.org/wiki/Skull_and_Bones"
+      }
+    ]
+  },
+  {
+    "id": "dead-internet-theory",
+    "sources": [
+      {
+        "title": "Dead Internet theory - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dead_Internet_theory",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Dead Internet Theory, Explained - Forbes",
+        "url": "https://www.forbes.com/sites/danidiplacido/2024/01/16/the-dead-internet-theory-explained/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "What is the dead internet theory? - Live Science",
+        "url": "https://www.livescience.com/technology/artificial-intelligence/what-is-the-dead-internet-conspiracy",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dead_Internet_theory",
+    "evidence_for": [
+      {
+        "text": "Independent bot-traffic reports (e.g., Imperva's annual Bad Bot Report) consistently find automated traffic constitutes roughly half of all internet traffic, providing a measurable basis for the theory's claims about non-human activity online.",
+        "source": "https://en.wikipedia.org/wiki/Dead_Internet_theory"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The theory's specific claim — that governments and corporations deliberately orchestrated a wholesale replacement of human users by coordinated AI since 2016 — has no corroborating evidence beyond anecdotal forum posts.",
+        "source": "https://www.livescience.com/technology/artificial-intelligence/what-is-the-dead-internet-conspiracy"
+      }
+    ]
+  },
+  {
+    "id": "illuminati-blood-banks",
+    "sources": [
+      {
+        "title": "Young blood transfusion - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Young_blood_transfusion",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Do Blood Transfusions Really Slow Aging? Discover the Science Behind It - NMN",
+        "url": "https://www.nmn.com/news/do-blood-transfusions-really-slow-aging-discover-the-science-behind-it",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Young_blood_transfusion",
+    "evidence_against": [
+      {
+        "text": "The FDA warned in 2019 against young donor plasma infusions as an unproven treatment; while parabiosis research on animals shows some age-related effects, there is no credible evidence of elite-organized blood banking.",
+        "source": "https://en.wikipedia.org/wiki/Young_blood_transfusion"
+      }
+    ]
+  },
+  {
+    "id": "thule",
+    "sources": [
+      {
+        "title": "Thule - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thule",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Thule - Greek Fictional Island - Mythology.net",
+        "url": "https://mythology.net/greek/greek-concepts/thule/",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "The Mysterious Island of Thule in Greek Mythology - GreekReporter",
+        "url": "https://greekreporter.com/2026/02/17/thule-greek-mythology/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Thule",
+    "evidence_against": [
+      {
+        "text": "Modern interpretations of Pytheas' account suggest Thule may have been Norway, Iceland, Shetland, or another northern location; classical scholars regard it as a real but misidentified place rather than a mystical or hidden one.",
+        "source": "https://en.wikipedia.org/wiki/Thule"
+      }
+    ]
+  },
+  {
+    "id": "kkk-funded-by-governments",
+    "sources": [
+      {
+        "title": "COINTELPRO - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/COINTELPRO",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "FBI leadership claimed Bureau was 'almost powerless' against KKK, despite making up one-fifth of its membership - MuckRock",
+        "url": "https://www.muckrock.com/news/archives/2017/dec/08/fbi-kkk/",
+        "type": "news",
+        "stance": "supports"
+      },
+      {
+        "title": "The U.S. Government's Secret War on the KKK - Newsweek",
+        "url": "https://www.newsweek.com/us-governments-secret-war-kkk-651458",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "To Ensure Domestic Tranquility: The FBI, COINTELPRO-WHITE HATE - Cambridge Core",
+        "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/51FBAAD8B3FDAE21004318F74DB6ADD9/S002187580400845Xa.pdf/to_ensure_domestic_tranquility_the_fbi_cointelprowhite_hate_and_political_discourse_19641971.pdf",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/COINTELPRO",
+    "evidence_for": [
+      {
+        "text": "More than 25% of active KKK members were FBI agents or informants, and FBI paid informant Gary Thomas Rowe participated in KKK violence including the attack on Freedom Riders, with FBI knowledge.",
+        "source": "https://www.muckrock.com/news/archives/2017/dec/08/fbi-kkk/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "COINTELPRO-WHITE HATE (1964-1971) was explicitly designed to disrupt and destroy the KKK, not sustain it; Klan membership fell from ~14,000 in 1964 to ~4,300 in 1971 as a direct result of the program.",
+        "source": "https://www.newsweek.com/us-governments-secret-war-kkk-651458"
+      }
+    ]
+  },
+  {
+    "id": "baltic-sea-anomaly",
+    "sources": [
+      {
+        "title": "Baltic Sea anomaly - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Baltic_Sea_anomaly",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Baltic Sea Anomaly: What Was The Mysterious Object Seen 90-Meters Underwater? - IFLScience",
+        "url": "https://www.iflscience.com/the-baltic-sea-anomaly-what-was-the-mysterious-object-seen-90-meters-underwater-77902",
+        "type": "news",
+        "stance": "debunks"
+      },
+      {
+        "title": "Was a UFO Found at the Bottom of the Baltic Sea? - Snopes",
+        "url": "https://www.snopes.com/fact-check/unidentified-submerged-object/",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Baltic_Sea_anomaly",
+    "truth": 8,
+    "evidence_against": [
+      {
+        "text": "Samples from the site were identified as granite, gneiss, and sandstone — rock types expected in a glacial basin. The sonar instrument used was described by Woods Hole Oceanographic Institution as 'virtually useless' due to calibration errors.",
+        "source": "https://www.iflscience.com/the-baltic-sea-anomaly-what-was-the-mysterious-object-seen-90-meters-underwater-77902"
+      }
+    ]
+  },
+  {
+    "id": "depopulation-funds",
+    "sources": [
+      {
+        "title": "Did Bill Gates 'Admit' Vaccinations Are Designed So Governments Can 'Depopulate' the World? - Snopes",
+        "url": "https://www.snopes.com/fact-check/bill-gates-vaccinations-depopulation/",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "Video Targets Gates With Old Clip, Misleading Edit - FactCheck.org",
+        "url": "https://www.factcheck.org/2021/03/scicheck-video-targets-gates-with-old-clip-misleading-edit/",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "Conspiracy chaos: coronavirus, Bill Gates, the UN and population - Population Matters",
+        "url": "https://populationmatters.org/news/2023/01/conspiracy-chaos-coronavirus-bill-gates-the-un-and-population/",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The claim that Gates called for mass death originates from a deceptively edited version of his 2010 TED Talk on energy; Gates' actual argument was that reducing child mortality leads to lower birth rates, stabilizing population.",
+        "source": "https://www.factcheck.org/2021/03/scicheck-video-targets-gates-with-old-clip-misleading-edit/"
+      }
+    ]
+  },
+  {
+    "id": "tor-owned-by-government",
+    "sources": [
+      {
+        "title": "History - The Tor Project",
+        "url": "https://www.torproject.org/about/history/",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "The Secret History of Tor: How a Military Project Became a Lifeline for Privacy - MIT Press Reader",
+        "url": "https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Tor was created at the US Naval Research Laboratory in 1995 by military researchers, and the Tor Project continues to receive significant US government funding to this day.",
+        "source": "https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Since 2006 Tor has been operated by an independent 501(c)(3) nonprofit. Its government-funding relationship is publicly disclosed, and the EFF and other civil liberties groups also fund and audit it.",
+        "source": "https://www.torproject.org/about/history/"
+      }
+    ]
+  },
+  {
+    "id": "red-rooms",
+    "sources": [
+      {
+        "title": "Red room - RationalWiki",
+        "url": "https://rationalwiki.org/wiki/Red_room",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "Are Dark-Web 'Red Rooms' Real or an Urban Legend? - Factually",
+        "url": "https://factually.co/fact-checks/entertainment/red-room-explained-meaning-and-references-d31154",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "Do 'Red Rooms' Really Exist Online? - Ranker",
+        "url": "https://www.ranker.com/list/do-red-rooms-really-exist/christopher-myers",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "truth": 5,
+    "evidence_against": [
+      {
+        "text": "No verified red room has ever been found; every claimed link resolves to a scam page collecting cryptocurrency, a shock site, or a dead URL. Tor's bandwidth limitations make simultaneous mass live-streaming implausible.",
+        "source": "https://rationalwiki.org/wiki/Red_room"
+      },
+      {
+        "text": "Law enforcement agencies have not published corroborating evidence for interactive live-torture streams, and the concept is considered an internet urban legend recycled across horror fiction and sensationalist reporting.",
+        "source": "https://factually.co/fact-checks/entertainment/red-room-explained-meaning-and-references-d31154"
+      }
+    ]
+  },
+  {
+    "id": "mh-370",
+    "sources": [
+      {
+        "title": "Malaysia Airlines Flight 370 disappearance theories - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370_disappearance_theories",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "MH370 Conspiracy Theories: Diego Garcia, CIA, Terrorists, North Korea and Aliens - IBTimes",
+        "url": "https://www.ibtimes.com/mh370-conspiracy-theories-diego-garcia-cia-terrorists-north-korea-aliens-all-have-2504065",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "French ex-airline boss claims cover-up on MH370 - France 24",
+        "url": "https://www.france24.com/en/20141218-dugain-malaysia-airlines-mh370-disappearance-diego-garcia-cover-up",
+        "type": "news",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370_disappearance_theories",
+    "evidence_against": [
+      {
+        "text": "Satellite handshake data from Inmarsat places the aircraft on a southward route — inconsistent with a diversion to Diego Garcia — and the White House press secretary specifically ruled out the Diego Garcia theory at a 2014 briefing.",
+        "source": "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370_disappearance_theories"
+      }
+    ]
+  },
+  {
+    "id": "elisa-lam",
+    "sources": [
+      {
+        "title": "Death of Elisa Lam - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_of_Elisa_Lam",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Elisa Lam Elevator Video At Cecil Hotel Spawned Wild Theories - Oxygen",
+        "url": "https://www.oxygen.com/true-crime-buzz/elisa-lam-elevator-video-at-cecil-hotel-spawned-wild-theories",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Death_of_Elisa_Lam",
+    "evidence_against": [
+      {
+        "text": "The Los Angeles County coroner ruled Elisa Lam's death an accidental drowning, with bipolar disorder listed as a significant contributing factor; the elevator behavior is consistent with a mental health episode, not supernatural intervention.",
+        "source": "https://en.wikipedia.org/wiki/Death_of_Elisa_Lam"
+      }
+    ]
+  },
+  {
+    "id": "operation-blue-beam",
+    "sources": [
+      {
+        "title": "Serge Monast - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Serge_Monast",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Project Blue Beam - RationalWiki",
+        "url": "https://rationalwiki.org/wiki/Project_Blue_Beam",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "What Is Project Blue Beam? Conspiracy Theory Over Drones - Newsweek",
+        "url": "https://www.newsweek.com/what-project-blue-beam-conspiracy-theory-erupts-over-drones-2001051",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Serge_Monast",
+    "truth": 5,
+    "evidence_against": [
+      {
+        "text": "The theory originates entirely from Serge Monast's 1994 self-published pamphlet with no corroborating sources; nearly all claims trace back to his original unsupported writings, and no physical or documentary evidence for the project has ever been found.",
+        "source": "https://rationalwiki.org/wiki/Project_Blue_Beam"
+      }
+    ]
+  },
+  {
+    "id": "operation-fishbowl",
+    "sources": [
+      {
+        "title": "Operation Fishbowl - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Operation_Fishbowl",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Preliminary Plan for Operation Fish Bowl - DTIC (US Defense Technical Information Center)",
+        "url": "https://apps.dtic.mil/sti/tr/pdf/ADA469481.pdf",
+        "type": "government",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Operation_Fishbowl",
+    "truth": 85,
+    "evidence_for": [
+      {
+        "text": "Operation Fishbowl is a fully documented 1962 US government program: five nuclear devices were detonated at high altitudes (up to 400 km) to study effects on the ionosphere and Earth's magnetic field, confirmed by declassified DTIC documents.",
+        "source": "https://apps.dtic.mil/sti/tr/pdf/ADA469481.pdf"
+      }
+    ]
+  },
+  {
+    "id": "genocide-denials",
+    "sources": [
+      {
+        "title": "Genocide denial - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Genocide_denial",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Historical negationism - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Historical_negationism",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Holocaust denial - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Holocaust_denial",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Genocide_denial",
+    "evidence_for": [
+      {
+        "text": "Prominent documented examples of genocide denial include the denial of the Armenian, Bosnian, Cambodian, Rwandan, and other genocides, carried out by state actors and political movements for ideological purposes.",
+        "source": "https://en.wikipedia.org/wiki/Genocide_denial"
+      }
+    ]
+  },
+  {
+    "id": "esoteric-knowledge",
+    "sources": [],
+    "research_note": "no external coverage found for 'esoteric knowledge' as a distinct named conspiracy theory; the concept of hidden or occult knowledge is a broad topic covered under general esotericism but not as a specific conspiracy with named sources or Wikipedia treatment"
+  },
+  {
+    "id": "hitler-escaped-inside-the-earth",
+    "sources": [
+      {
+        "title": "Conspiracy theories about Adolf Hitler's death - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Conspiracy_theories_about_Adolf_Hitler%27s_death",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Did Hitler Escape To Argentina In 1945? Mythbusting Berlin",
+        "url": "https://berlinexperiences.com/did-hitler-escape-to-argentina-in-1945-mythbusting-berlin/",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Conspiracy_theories_about_Adolf_Hitler%27s_death",
+    "evidence_against": [
+      {
+        "text": "Forensic and historical evidence confirms Hitler died by suicide in his Berlin bunker on 30 April 1945; the Argentine escape variant is dismissed by mainstream historians as unsupported, and the hollow-earth variant has no historical evidence at all.",
+        "source": "https://berlinexperiences.com/did-hitler-escape-to-argentina-in-1945-mythbusting-berlin/"
+      }
+    ]
+  },
+  {
+    "id": "sacred-geometry",
+    "sources": [
+      {
+        "title": "Sacred geometry - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sacred_geometry",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sacred_geometry",
+    "evidence_for": [
+      {
+        "text": "Sacred geometry has documented historical use in the design of religious structures including churches, temples, and mosques across multiple cultures and centuries, indicating widespread belief in geometric symbolism.",
+        "source": "https://en.wikipedia.org/wiki/Sacred_geometry"
+      }
+    ]
+  },
+  {
+    "id": "die-glocke",
+    "sources": [
+      {
+        "title": "Die Glocke (conspiracy theory) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Die_Glocke_(conspiracy_theory)",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Nazi Bell - Die Glocke: Secret Weapon or WWII Myth? - LegalClarity",
+        "url": "https://legalclarity.org/nazi-bell-die-glocke-secret-weapon-or-wwii-myth/",
+        "type": "news",
+        "stance": "debunks"
+      },
+      {
+        "title": "Die Glocke: The Nazi Bell Hoax - Historic Mysteries",
+        "url": "https://www.historicmysteries.com/myths-legends/nazi-bell/4095/",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Die_Glocke_(conspiracy_theory)",
+    "truth": 8,
+    "evidence_against": [
+      {
+        "text": "No physical evidence, wartime documentation, or Allied intelligence report confirming the existence of Die Glocke has ever surfaced; the story originates with Igor Witkowski, who claimed to have seen documents held by an unnamed intelligence contact.",
+        "source": "https://www.historicmysteries.com/myths-legends/nazi-bell/4095/"
+      },
+      {
+        "text": "Mainstream historians and reviewers describe Die Glocke as a hoax or wild exaggeration; the device plays no role in any verified WWII German weapons program.",
+        "source": "https://en.wikipedia.org/wiki/Die_Glocke_(conspiracy_theory)"
+      }
+    ]
+  },
+  {
+    "id": "lake-baikal",
+    "sources": [
+      {
+        "title": "Inhuman Monsters of the Deep: The Swimmers of Lake Baikal - Historic Mysteries",
+        "url": "https://www.historicmysteries.com/unexplained-mysteries/lake-baikal-swimmers/31276/",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Unexplained Objects: Soviet Submarine Witnesses Six Unknown Objects in Lake Baikal (1982) - UFO Report",
+        "url": "https://uforeport.com/the-lake-baikal-incident/",
+        "type": "lore",
+        "stance": "supports"
+      },
+      {
+        "title": "Lake Baikal UFO Sightings: What Declassified Soviet Files Actually Tell - Hangar1Publishing",
+        "url": "https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/lake-baikal-ufo-sightings",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "truth": 15,
+    "evidence_against": [
+      {
+        "text": "Managers of the naval base in question state the 1982 diver encounter story is 'absolute nonsense'; the town of Severobaikalsky only formally became a town in 1984, two years after the alleged incident, raising further doubts.",
+        "source": "https://www.historicmysteries.com/unexplained-mysteries/lake-baikal-swimmers/31276/"
+      }
+    ]
+  },
+  {
+    "id": "panspermia",
+    "sources": [
+      {
+        "title": "Panspermia - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Panspermia",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Directed panspermia - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Directed_panspermia",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Panspermia - EBSCO Research Starters",
+        "url": "https://www.ebsco.com/research-starters/biology/panspermia",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Panspermia",
+    "evidence_for": [
+      {
+        "text": "Pseudo-panspermia — that organic molecules originated in space and were delivered to Earth — is well-supported; microbes have survived simulated space-radiation exposure in laboratory tests supporting the plausibility of lithopanspermia.",
+        "source": "https://en.wikipedia.org/wiki/Panspermia"
+      }
+    ]
+  },
+  {
+    "id": "sea-people",
+    "sources": [
+      {
+        "title": "Sea Peoples - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sea_Peoples",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Sea Peoples - World History Encyclopedia",
+        "url": "https://www.worldhistory.org/Sea_Peoples/",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Late Bronze Age collapse - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sea_Peoples",
+    "evidence_for": [
+      {
+        "text": "The Sea Peoples are documented in Egyptian inscriptions as a real confederacy of raiders active c. 1276–1178 BCE; their role in the Bronze Age Collapse is debated but their historical existence is confirmed by primary sources.",
+        "source": "https://www.worldhistory.org/Sea_Peoples/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Modern scholarship identifies climate change, drought, disease, and economic disruption as co-contributors to the Bronze Age Collapse; the Sea Peoples are no longer viewed as the sole or even primary cause.",
+        "source": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse"
+      }
+    ]
+  },
+  {
+    "id": "falun-gong",
+    "sources": [
+      {
+        "title": "Falun Gong - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Falun_Gong",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Persecution of Falun Gong - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Persecution_of_Falun_Gong",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Falun Gong: Religious Freedom in China - Freedom House",
+        "url": "https://freedomhouse.org/report/2017/battle-china-spirit-falun-gong-religious-freedom",
+        "type": "news",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Falun_Gong",
+    "evidence_for": [
+      {
+        "text": "The Chinese government created an extrajudicial body (the 6-10 Office) specifically to suppress Falun Gong, and human rights organizations document systematic torture, forced labor, and credible reports of organ harvesting from practitioners.",
+        "source": "https://en.wikipedia.org/wiki/Persecution_of_Falun_Gong"
+      }
+    ]
+  },
+  {
+    "id": "perestroika-deception",
+    "sources": [
+      {
+        "title": "Anatoliy Golitsyn - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anatoliy_Golitsyn",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Perestroika Deception (book) - Internet Archive",
+        "url": "https://archive.org/details/AnatoliyGolitsyn",
+        "type": "archive",
+        "stance": "supports"
+      },
+      {
+        "title": "The Perestroika Deception (book) - Amazon",
+        "url": "https://www.amazon.com/Perestroika-Deception-Memoranda-Central-Intelligence/dp/189979803X",
+        "type": "book",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anatoliy_Golitsyn",
+    "evidence_for": [
+      {
+        "text": "Golitsyn's earlier book New Lies for Old accurately predicted several Soviet bloc political changes before they occurred, lending some retrospective credibility to his long-range deception thesis.",
+        "source": "https://en.wikipedia.org/wiki/Anatoliy_Golitsyn"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Golitsyn's specific predictions in The Perestroika Deception — including Soviet communism re-emerging as the dominant world ideology by 2000 — did not materialize, and most Western intelligence analysts rejected his thesis.",
+        "source": "https://en.wikipedia.org/wiki/Anatoliy_Golitsyn"
+      }
+    ]
+  },
+  {
+    "id": "esoteric-hitlerism",
+    "sources": [
+      {
+        "title": "Esoteric Hitlerism - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Esoteric_Hitlerism",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Miguel Serrano - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Miguel_Serrano",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Savitri Devi, Miguel Serrano and the global phenomenon of esoteric Hitlerism - ResearchGate",
+        "url": "https://www.researchgate.net/publication/293095306_Savitri_Devi_Miguel_Serrano_and_the_global_phenomenon_of_esoteric_hitlerism",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Esoteric_Hitlerism"
+  },
+  {
+    "id": "google-earth-blackzones",
+    "sources": [
+      {
+        "title": "List of satellite map images with missing or unclear data - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_satellite_map_images_with_missing_or_unclear_data",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "What Are Google Earth Black Zones, What Secrets Do They Hold? - Orbital Today",
+        "url": "https://orbitaltoday.com/2025/06/11/google-earth-black-zones-secrets/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Widespread Blurring of Satellite Images Reveals Secret Facilities - Federation of American Scientists",
+        "url": "https://fas.org/publication/widespread-blurring-of-satellite-images-reveals-secret-facilities/",
+        "type": "news",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_satellite_map_images_with_missing_or_unclear_data",
+    "truth": 70,
+    "evidence_for": [
+      {
+        "text": "The Federation of American Scientists documents that widespread blurring of commercial satellite imagery — often at government request — is a confirmed and routine practice used to conceal sensitive facilities including nuclear sites.",
+        "source": "https://fas.org/publication/widespread-blurring-of-satellite-images-reveals-secret-facilities/"
+      },
+      {
+        "text": "Dutch law required blurring of Volkel Air Base (rumored to store US nuclear weapons) until 2013; former Dutch PM Ruud Lubbers confirmed nuclear weapons were present there, validating that imagery censorship was shielding real secrets.",
+        "source": "https://orbitaltoday.com/2025/06/11/google-earth-black-zones-secrets/"
+      }
+    ]
+  },
+  {
+    "id": "panopticon",
+    "sources": [
+      {
+        "title": "Panopticon - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Panopticon",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "What Foucault's Panopticon Reveals About Hidden Power - The Collector",
+        "url": "https://www.thecollector.com/panopticon-foucault-surveillance-power/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Panopticon",
+    "evidence_for": [
+      {
+        "text": "Foucault's panopticism has been empirically applied to modern surveillance states: mass data collection and awareness of potential monitoring produce self-regulatory behavior in populations without continuous actual observation.",
+        "source": "https://www.thecollector.com/panopticon-foucault-surveillance-power/"
+      }
+    ]
+  },
+  {
+    "id": "empty-internet-to-empty-reality",
+    "sources": [],
+    "research_note": "no external coverage found for this specific framing; it extends Dead Internet Theory with a cloning element that has no distinct named presence in indexable sources — iceberg-chart lore only"
+  },
+  {
+    "id": "appendix-monkey-tail",
+    "sources": [
+      {
+        "title": "Evolution of the Appendix: A Biological Remnant No More - Duke Health",
+        "url": "https://corporate.dukehealth.org/news/evolution-appendix-biological-remnant-no-more",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Why do humans have an Appendix? - News-Medical.net",
+        "url": "https://www.news-medical.net/health/Why-do-Humans-have-an-Appendix.aspx",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "truth": 60,
+    "evidence_for": [
+      {
+        "text": "The appendix is widely recognized as a vestigial structure from ancestors who needed a larger cecum to digest plant fiber; it retains minor immune functions (as a reservoir for gut bacteria) but is not essential.",
+        "source": "https://corporate.dukehealth.org/news/evolution-appendix-biological-remnant-no-more"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The 'monkey tail' label is inaccurate: vestigial tail structures are represented by the coccyx, not the appendix. The appendix is a remnant of a cecal digestive pouch, not a locomotion organ.",
+        "source": "https://www.news-medical.net/health/Why-do-Humans-have-an-Appendix.aspx"
+      }
+    ]
+  },
+  {
+    "id": "dog-suicide-bridge",
+    "sources": [
+      {
+        "title": "Overtoun Bridge - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Overtoun_Bridge",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Overtoun Bridge: Solving The Mystery Of Scotland's Dog Suicide Hotspot - All That's Interesting",
+        "url": "https://allthatsinteresting.com/overtoun-bridge",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "What's Really Going on at the 'Dog Suicide Bridge'? - HowStuffWorks",
+        "url": "https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/dog-suicide-bridge.htm",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Overtoun_Bridge",
+    "truth": 35,
+    "evidence_for": [
+      {
+        "text": "The phenomenon is documented and real: at least 300 dogs have jumped from Overtoun Bridge since the 1950s, with at least 50 deaths, creating a genuine and unexplained behavioral pattern.",
+        "source": "https://en.wikipedia.org/wiki/Overtoun_Bridge"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "A canine psychologist concluded that the potent scent of male mink urine beneath the bridge parapet is the most probable explanation, luring dogs to leap toward the source — a naturalistic rather than supernatural cause.",
+        "source": "https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/dog-suicide-bridge.htm"
+      }
+    ]
+  }
+]

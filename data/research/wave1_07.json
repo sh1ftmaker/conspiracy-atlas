@@ -1,0 +1,639 @@
+[
+  {
+    "id": "bugchasing",
+    "sources": [
+      {
+        "title": "Bugchasing - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bugchasing",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Generationing, Stealthing, and Gift Giving: Intentional HIV Transmission - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4768590/",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Bug chasing and gift giving: the potential for HIV transmission - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17166076/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bugchasing",
+    "truth": 60,
+    "notoriety": 55,
+    "evidence_for": [
+      {
+        "text": "Multiple peer-reviewed studies document the bugchasing subculture among MSM, confirming it is a real though rare phenomenon.",
+        "source": "https://pubmed.ncbi.nlm.nih.gov/17166076/"
+      },
+      {
+        "text": "PMC research documents intentional HIV transmission practices including gift-giving, confirming non-consensual transmission variants exist.",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4768590/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Academic surveys find that while the fantasy is documented, the actual prevalence of deliberate seroconversion attempts is very low among barebackers generally.",
+        "source": "https://pubmed.ncbi.nlm.nih.gov/17166076/"
+      }
+    ]
+  },
+  {
+    "id": "apocalypse-virus",
+    "sources": [],
+    "research_note": "No external coverage found; iceberg-chart speculation extrapolating from the real historical observation that isolated populations had higher disease vulnerability. The globalist-conspiracy framing has no dedicated sourcing."
+  },
+  {
+    "id": "hostile-plants",
+    "sources": [],
+    "research_note": "No external coverage found; carnivorous plant biology is well-documented science, but the weaponized-plant experimentation claim is iceberg-chart lore with no verifiable sourcing."
+  },
+  {
+    "id": "fauna-to-flora-soul-transference",
+    "sources": [],
+    "truth": 5,
+    "notoriety": 10,
+    "research_note": "No external coverage found; deep iceberg-chart lore only. No credible framework exists for soul transference between animal and plant kingdoms."
+  },
+  {
+    "id": "upward-causality",
+    "sources": [],
+    "research_note": "No external coverage found; philosophical iceberg-chart speculation with no dedicated sourcing. Loosely echoes ideas in downward causation philosophy but the framing is original to the iceberg."
+  },
+  {
+    "id": "artificial-causality-stimulation",
+    "sources": [],
+    "truth": 10,
+    "research_note": "No external coverage found; deep iceberg-chart lore extending upward-causality and population-control theories. No dedicated external sourcing."
+  },
+  {
+    "id": "lithuanian-poems",
+    "sources": [
+      {
+        "title": "The Mysteries and Conspiracies Around Lithuanian Poetry - Wondergressive",
+        "url": "https://wondergressive.com/2023/08/23/the-mysteries-and-conspiracies-around-lithuanian-poetry/",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "truth": 10,
+    "notoriety": 15,
+    "evidence_for": [
+      {
+        "text": "A dedicated iceberg-explainer article catalogues the conspiracy theory that ancient Baltic dainas contain prophetic or extraterrestrial knowledge.",
+        "source": "https://wondergressive.com/2023/08/23/the-mysteries-and-conspiracies-around-lithuanian-poetry/"
+      }
+    ]
+  },
+  {
+    "id": "cryptic-premonitions",
+    "sources": [],
+    "truth": 10,
+    "research_note": "No external coverage found; iceberg-chart philosophical lore about divination and strategic obfuscation of foreknowledge. No dedicated sourcing."
+  },
+  {
+    "id": "aliens-caused-the-bubonic-plague",
+    "sources": [
+      {
+        "title": "The Black Death, aliens, and the role of chaos in history - Skeptophilia",
+        "url": "https://www.skeptophilia.com/2013/05/the-black-death-aliens-and-role-of.html",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "Plague-Bearing UFO - ObscUrban Legend Wikia",
+        "url": "https://obscurban-legend.fandom.com/wiki/Plague-Bearing_UFO",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "truth": 5,
+    "notoriety": 25,
+    "evidence_against": [
+      {
+        "text": "Scientific analysis has identified Yersinia pestis with well-understood terrestrial vectors; tissue samples from plague victims confirm a known bacterium, not an extraterrestrial pathogen.",
+        "source": "https://www.skeptophilia.com/2013/05/the-black-death-aliens-and-role-of.html"
+      }
+    ]
+  },
+  {
+    "id": "extra-terrestrial-evolution",
+    "sources": [],
+    "truth": 10,
+    "research_note": "No external coverage found for this specific iceberg framing. Loosely related to directed panspermia fringe hypotheses but no dedicated external sourcing."
+  },
+  {
+    "id": "enchanted-websites",
+    "sources": [
+      {
+        "title": "Ghost in the machine: inside the internet's paranormal history - Huck",
+        "url": "https://www.huckmag.com/article/is-the-internet-haunted-an-investigation",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "truth": 10,
+    "notoriety": 20,
+    "evidence_for": [
+      {
+        "text": "A journalism investigation documents the longstanding internet folklore tradition of haunted, magical, or occult-linked early websites as a genuine subculture.",
+        "source": "https://www.huckmag.com/article/is-the-internet-haunted-an-investigation"
+      }
+    ]
+  },
+  {
+    "id": "internet-old-magic",
+    "sources": [],
+    "truth": 10,
+    "research_note": "No external coverage found; iceberg-chart lore extending the Abandoned Internet theory with elite occult usage. No dedicated external sourcing."
+  },
+  {
+    "id": "sun-collapse",
+    "sources": [],
+    "truth": 5,
+    "notoriety": 10,
+    "research_note": "No external coverage found; iceberg-chart lore. Scientific consensus is that solar panels capture a negligible fraction of solar output and cannot affect stellar processes."
+  },
+  {
+    "id": "microchips-found-in-fossils",
+    "sources": [
+      {
+        "title": "False: Microchips have been found in fossils - Logically Facts",
+        "url": "https://www.logicallyfacts.com/en/fact-check/false-false-microchips-have-been-found-in-fossils-which-proves-an-ancient-advanced-civilization",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "250-million-years old microchip from Russia is fake news - Slovak Spectator",
+        "url": "https://spectator.sme.sk/c/20562926/250-million-years-old-microchip-from-russia-is-fake-news.html",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "truth": 5,
+    "notoriety": 30,
+    "evidence_against": [
+      {
+        "text": "The most cited example - a Russian fossil claimed to be a 250-million-year-old microchip - was identified by paleontologists as a crinoid (sea lily) cross-section, a common marine organism.",
+        "source": "https://spectator.sme.sk/c/20562926/250-million-years-old-microchip-from-russia-is-fake-news.html"
+      },
+      {
+        "text": "Fact-checkers formally rated the microchips-in-fossils claim as false, tracing all major examples to misidentified natural formations or hoaxes.",
+        "source": "https://www.logicallyfacts.com/en/fact-check/false-false-microchips-have-been-found-in-fossils-which-proves-an-ancient-advanced-civilization"
+      }
+    ]
+  },
+  {
+    "id": "time-travel-shrinkage",
+    "sources": [],
+    "truth": 5,
+    "research_note": "No external coverage found; deep iceberg-chart speculative lore about inter-timeline bleed effects from time travel. No dedicated sourcing."
+  },
+  {
+    "id": "the-black-snake-prophecy",
+    "sources": [
+      {
+        "title": "We must kill the black snake: Prophecy and prayer at Standing Rock - CBC News",
+        "url": "https://www.cbc.ca/news/canada/manitoba/dakota-access-pipeline-prayer-1.3887441",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Black snake prophecy at center of Dakota oil pipeline battle - Spokesman-Review",
+        "url": "https://www.spokesman.com/stories/2017/feb/28/black-snake-prophecy-at-center-of-dakota-oil-pipel/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "The Native American Prophecy of the Black Snake - Bioneers",
+        "url": "https://bioneers.org/the-native-american-prophecy-of-the-black-snake/",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "truth": 55,
+    "notoriety": 60,
+    "year": 2016,
+    "evidence_for": [
+      {
+        "text": "The ancient Lakota prophecy of a black snake desecrating sacred lands gained major media attention in 2016 when Standing Rock Sioux applied it to the Dakota Access Pipeline.",
+        "source": "https://www.cbc.ca/news/canada/manitoba/dakota-access-pipeline-prayer-1.3887441"
+      },
+      {
+        "text": "The Sioux Nation formally placed the Black Snake Prophecy at the center of their pipeline resistance narrative, reported by Bloomberg and regional press.",
+        "source": "https://www.spokesman.com/stories/2017/feb/28/black-snake-prophecy-at-center-of-dakota-oil-pipel/"
+      }
+    ]
+  },
+  {
+    "id": "modular-prophecies",
+    "sources": [],
+    "truth": 5,
+    "research_note": "No external coverage found; iceberg-chart theological speculation extending the Theosophist Geology theory. No dedicated external sourcing."
+  },
+  {
+    "id": "the-cavern-guardian",
+    "sources": [],
+    "truth": 5,
+    "research_note": "No external coverage found; iceberg-chart lore extending the Genesis Location theory about the Garden of Eden. No dedicated external sourcing."
+  },
+  {
+    "id": "biblical-aliens",
+    "sources": [
+      {
+        "title": "Ancient astronauts - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ancient_astronauts",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Ancient Aliens and the Bible - Christian Research Institute",
+        "url": "https://www.equip.org/articles/ancient-aliens-and-the-bible-what-the-popular-television-series-says-about-extraterrestrials-in-scripture/",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ancient_astronauts",
+    "truth": 10,
+    "notoriety": 70,
+    "evidence_against": [
+      {
+        "text": "The Christian Research Institute and mainstream scholars identify the ancient astronaut reading of scripture as a misinterpretation ignoring historical and linguistic context.",
+        "source": "https://www.equip.org/articles/ancient-aliens-and-the-bible-what-the-popular-television-series-says-about-extraterrestrials-in-scripture/"
+      }
+    ]
+  },
+  {
+    "id": "air-is-poison",
+    "sources": [
+      {
+        "title": "Oxygen Is Hallucinogenic - Iceberg Database",
+        "url": "http://icebergdb.com/oxygen-is-hallucinogenic/",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Oxygen as a Hallucinogen - Wondergressive",
+        "url": "https://wondergressive.com/2023/07/30/oxygen-as-a-hallucinogen/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "truth": 5,
+    "notoriety": 20
+  },
+  {
+    "id": "lunapark-tain-fire-demon",
+    "sources": [
+      {
+        "title": "1979 Sydney Ghost Train fire - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/1979_Sydney_Ghost_Train_fire",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Luna Park Ghost Train Fire - Paranormal Strange Wiki",
+        "url": "https://paranormal-strange.fandom.com/wiki/Luna_Park_Ghost_Train_Fire",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/1979_Sydney_Ghost_Train_fire",
+    "truth": 25,
+    "notoriety": 40,
+    "year": 1979,
+    "evidence_for": [
+      {
+        "text": "A photograph of child victim Damien Godson posing with a figure in a horned demonic mask before the fire fueled Moloch-sacrifice theories among conspiracy researchers.",
+        "source": "https://paranormal-strange.fandom.com/wiki/Luna_Park_Ghost_Train_Fire"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Wikipedia documents that investigators considered organised crime (Abe Saffron) the more credible arson motive; the Moloch connection was promoted by pop-artist Martin Sharp, not investigators.",
+        "source": "https://en.wikipedia.org/wiki/1979_Sydney_Ghost_Train_fire"
+      }
+    ]
+  },
+  {
+    "id": "postpartum-sacrifice",
+    "sources": [],
+    "truth": 5,
+    "research_note": "No external coverage found; iceberg-chart lore extending satanic-elite child sacrifice theories. No dedicated sourcing."
+  },
+  {
+    "id": "neanderthal-superiority",
+    "sources": [
+      {
+        "title": "Neanderthal extinction - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Neanderthal_extinction",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Neanderthals were not inferior to modern humans, study finds - ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2014/04/140430133054.htm",
+        "type": "news",
+        "stance": "supports"
+      },
+      {
+        "title": "Neandertal Demise: An Archaeological Analysis of the Modern Human Superiority Complex - PMC",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4005592/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Neanderthal_extinction",
+    "truth": 35,
+    "notoriety": 50,
+    "evidence_for": [
+      {
+        "text": "Recent research concludes Neanderthals were not cognitively inferior to modern humans, used symbolic art, and had larger average brain sizes.",
+        "source": "https://www.sciencedaily.com/releases/2014/04/140430133054.htm"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Academic analysis critiques the modern human superiority complex as an interpretive bias; no evidence establishes clear Neanderthal superiority either.",
+        "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4005592/"
+      }
+    ]
+  },
+  {
+    "id": "ufos-are-atmospheric-life-forms",
+    "sources": [
+      {
+        "title": "Extraterrestrial Life in the Thermosphere: Plasmas, UAP, Pre-Life - SCIRP",
+        "url": "https://www.scirp.org/journal/paperinformation?paperid=131506",
+        "type": "academic",
+        "stance": "supports"
+      },
+      {
+        "title": "Are UFOs Living Creatures in Higher Atmosphere? - Infinity Explorers",
+        "url": "https://www.infinityexplorers.com/ufos-living-creatures-biological-entities/",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "truth": 20,
+    "notoriety": 25,
+    "evidence_for": [
+      {
+        "text": "A paper in SCIRP proposes plasma-based entities in the thermosphere as a candidate explanation for some UAP sightings, citing NASA shuttle footage of plasma objects behaving like organisms.",
+        "source": "https://www.scirp.org/journal/paperinformation?paperid=131506"
+      }
+    ]
+  },
+  {
+    "id": "earths-divine-aura",
+    "sources": [],
+    "truth": 5,
+    "research_note": "No external coverage found; deep iceberg-chart lore extending the Nephilim Earth and aura theories. No dedicated external sourcing."
+  },
+  {
+    "id": "expanding-earth",
+    "sources": [
+      {
+        "title": "Expanding Earth - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Expanding_Earth",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Expanding Earth: The Strange (And Wrong) Hypothesis - IFLScience",
+        "url": "https://www.iflscience.com/expanding-earth-the-strange-pre-tectonics-hypothesis-that-the-earth-is-expanding-like-a-balloon-79596",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Expanding_Earth",
+    "truth": 10,
+    "notoriety": 50,
+    "evidence_against": [
+      {
+        "text": "The Expanding Earth hypothesis was superseded and discredited once plate tectonics became the accepted geological model in the 1960s; satellite observations confirm no net size increase.",
+        "source": "https://www.iflscience.com/expanding-earth-the-strange-pre-tectonics-hypothesis-that-the-earth-is-expanding-like-a-balloon-79596"
+      }
+    ]
+  },
+  {
+    "id": "hell-excavation",
+    "sources": [],
+    "truth": 5,
+    "research_note": "No external coverage found; iceberg-chart lore extending the Strip Mining Hell theory. Original truth score of 75 appears to be a data entry error; no sources support any component of this claim."
+  },
+  {
+    "id": "forest-stairs",
+    "sources": [
+      {
+        "title": "Search and Rescue Woods - TV Tropes",
+        "url": "https://tvtropes.org/pmwiki/pmwiki.php/WebOriginal/SearchAndRescueWoods",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Stairs To Nowhere: When Creepypasta Becomes Urban Legend - EverythingGP",
+        "url": "https://everythinggp.com/2022/06/16/stairs-to-nowhere-when-creepypasta-becomes-urban-legend/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "truth": 10,
+    "notoriety": 40,
+    "evidence_for": [
+      {
+        "text": "The creepypasta originated from the Reddit /r/nosleep series Search and Rescue Woods (2015) by Kerry Hammond, which spawned a widespread trend of reported staircase sightings in national forests.",
+        "source": "https://tvtropes.org/pmwiki/pmwiki.php/WebOriginal/SearchAndRescueWoods"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Analysis of the phenomenon notes a near-total absence of photographic evidence; the stories trace back to a fictional nosleep series and anecdotal accounts.",
+        "source": "https://everythinggp.com/2022/06/16/stairs-to-nowhere-when-creepypasta-becomes-urban-legend/"
+      }
+    ]
+  },
+  {
+    "id": "ghost-memories",
+    "sources": [],
+    "truth": 10,
+    "research_note": "No external coverage found; iceberg-chart lore combining field-consciousness and ghost theories. No dedicated external sourcing."
+  },
+  {
+    "id": "nephilim-protocols",
+    "sources": [],
+    "truth": 10,
+    "research_note": "No external coverage found; deep iceberg-chart lore about inaccessible deep-web data repositories. No dedicated external sourcing."
+  },
+  {
+    "id": "digital-demon-summoning",
+    "sources": [],
+    "truth": 5,
+    "research_note": "No external coverage found; iceberg-chart lore extending the Chthonic Noosphere theory. No dedicated external sourcing."
+  },
+  {
+    "id": "atomic-renovation",
+    "sources": [],
+    "truth": 10,
+    "research_note": "No external coverage found; iceberg-chart fringe theory about nuclear weapons as elite land-reclamation tools. No dedicated external sourcing."
+  },
+  {
+    "id": "studying-divinity",
+    "sources": [],
+    "truth": 5,
+    "research_note": "No external coverage found; deep iceberg-chart lore extending the Earths Divine Aura theory. No dedicated external sourcing."
+  },
+  {
+    "id": "senses-programming",
+    "sources": [],
+    "research_note": "No external coverage found for this specific framing; loosely related to predictive-programming and perception-manipulation theories but no dedicated sourcing."
+  },
+  {
+    "id": "memetic-entities-control-humanity",
+    "sources": [],
+    "truth": 10,
+    "research_note": "No external coverage found; iceberg-chart lore extending field-consciousness and memetic theory. No dedicated external sourcing."
+  },
+  {
+    "id": "paradigm-recalescence",
+    "sources": [
+      {
+        "title": "Technological singularity - Transhumanism Wiki",
+        "url": "https://transhumanism.fandom.com/wiki/Technological_singularity",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "truth": 25,
+    "notoriety": 20,
+    "evidence_for": [
+      {
+        "text": "The concept maps onto the technological singularity and transhumanist expansion of human perception and capability, a concept seriously discussed in futurist and academic circles.",
+        "source": "https://transhumanism.fandom.com/wiki/Technological_singularity"
+      }
+    ]
+  },
+  {
+    "id": "npc-paradigm",
+    "sources": [
+      {
+        "title": "How The NPC Meme Tries To Dehumanize - Kotaku",
+        "url": "https://kotaku.com/how-the-npc-meme-tries-to-dehumanize-sjws-1829552261",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "The politics of the NPC meme: Reactionary subcultural practice and vernacular theory - SAGE Journals",
+        "url": "https://journals.sagepub.com/doi/10.1177/20539517231172422",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "truth": 10,
+    "notoriety": 50,
+    "evidence_against": [
+      {
+        "text": "Academic analysis situates the NPC meme as a dehumanising reactionary subcultural practice; the inner-voice research it relies on was widely misinterpreted to support soullessness claims.",
+        "source": "https://journals.sagepub.com/doi/10.1177/20539517231172422"
+      }
+    ]
+  },
+  {
+    "id": "neolithics-contraptions",
+    "sources": [
+      {
+        "title": "Out-of-place artifact - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Out-of-place_artifact",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "17 Out-of-Place Artifacts Said to Suggest High-Tech Prehistoric Civilizations - Ancient Origins",
+        "url": "https://www.ancient-origins.net/unexplained-phenomena/out-place-artifacts-020544",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Out-of-place_artifact",
+    "truth": 20,
+    "notoriety": 45,
+    "evidence_for": [
+      {
+        "text": "Claimed OOPArts such as the Antikythera mechanism genuinely surprised researchers with their sophistication, providing a kernel of fact for the broader advanced-ancient-tech narrative.",
+        "source": "https://www.ancient-origins.net/unexplained-phenomena/out-place-artifacts-020544"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Wikipedia notes most purported OOPArts result from misidentification, wishful thinking, or deliberate hoaxes rather than evidence of suppressed advanced technology.",
+        "source": "https://en.wikipedia.org/wiki/Out-of-place_artifact"
+      }
+    ]
+  },
+  {
+    "id": "erratas",
+    "sources": [],
+    "research_note": "No external coverage found; iceberg-chart lore about corporate employee surveillance and disappearing investigators. No dedicated external sourcing."
+  },
+  {
+    "id": "social-media-esotericism",
+    "sources": [],
+    "truth": 5,
+    "research_note": "No external coverage found for this specific framing; extends the iceberg NPC Paradigm theory. No dedicated external sourcing."
+  },
+  {
+    "id": "diseases-worship",
+    "sources": [
+      {
+        "title": "Religious Responses to the Black Death - World History Encyclopedia",
+        "url": "https://www.worldhistory.org/article/1541/religious-responses-to-the-black-death/",
+        "type": "academic",
+        "stance": "supports"
+      },
+      {
+        "title": "Comets, omens and fear: understanding plague in the Middle Ages - Oxford Faculty of English",
+        "url": "https://www.english.ox.ac.uk/article/comets-omens-and-fear-understanding-plague-in-the-middle-ages",
+        "type": "academic",
+        "stance": "supports"
+      }
+    ],
+    "truth": 55,
+    "notoriety": 40,
+    "evidence_for": [
+      {
+        "text": "Medieval and ancient communities routinely attributed epidemic disease to divine will, organising religious processions and rituals around disease events - a documented historical reality.",
+        "source": "https://www.worldhistory.org/article/1541/religious-responses-to-the-black-death/"
+      },
+      {
+        "text": "Oxford scholarship documents how medieval chroniclers framed plague as divine communication, interpreting comets as omens and linking outbreaks to supernatural agency.",
+        "source": "https://www.english.ox.ac.uk/article/comets-omens-and-fear-understanding-plague-in-the-middle-ages"
+      }
+    ]
+  },
+  {
+    "id": "mundane-reincarnation",
+    "sources": [],
+    "truth": 10,
+    "research_note": "No external coverage found; iceberg-chart speculative spiritual theory about natural-process reincarnation across species. No dedicated external sourcing."
+  },
+  {
+    "id": "animal-plant-hybrids",
+    "sources": [],
+    "research_note": "No external coverage found; iceberg-chart speculative evolutionary convergence theory. No dedicated external sourcing."
+  },
+  {
+    "id": "ecological-revivification",
+    "sources": [],
+    "truth": 5,
+    "research_note": "No external coverage found; deep iceberg-chart lore extending the Mundane Reincarnation theory. No dedicated external sourcing."
+  },
+  {
+    "id": "sky-snag-theory",
+    "sources": [],
+    "truth": 20,
+    "research_note": "No external coverage found for the term sky snag specifically. The theory is a variant of atmospheric-mirage and chemtrail UFO-explanation theories, both of which have independent coverage, but this specific name and framing appears to be original iceberg-chart lore."
+  }
+]

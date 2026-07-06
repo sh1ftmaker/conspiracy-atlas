@@ -23,20 +23,20 @@
   .panel{background:var(--panel);backdrop-filter:blur(10px);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);
     display:flex;flex-direction:column}
   /* draggable header shared by controls/legend/timebar */
-  .phd{display:flex;align-items:center;gap:8px;padding:9px 12px;border-bottom:1px solid var(--line);cursor:grab;user-select:none;flex:none}
+  .phd{display:flex;align-items:center;gap:8px;padding:9px 12px;border-bottom:1px solid var(--line);cursor:grab;user-select:none;flex:none;touch-action:none}
   .phd:active{cursor:grabbing}
   .phd .grip{color:var(--dim2);font-size:13px;letter-spacing:-1px}
   .phd b{font-size:11px;text-transform:uppercase;letter-spacing:1.1px;color:var(--dim);font-weight:650}
   .phd .sp{flex:1}
   .mini{border:1px solid var(--line);background:transparent;color:var(--dim);border-radius:6px;cursor:pointer;
-    width:22px;height:22px;font-size:13px;line-height:1;display:flex;align-items:center;justify-content:center;flex:none}
+    width:22px;height:22px;font-size:13px;line-height:1;display:flex;align-items:center;justify-content:center;flex:none;touch-action:none}
   .mini:hover{color:var(--txt);border-color:rgba(255,255,255,.25)}
   .pbody{padding:12px 14px;overflow:auto;flex:1;min-height:0}
   .panel.collapsed .pbody, .panel.collapsed .bd{display:none}
-  .panel.collapsed{height:auto!important}
-  .rsz{position:absolute;right:2px;bottom:2px;width:16px;height:16px;cursor:nwse-resize;z-index:2;
+  .panel.collapsed{height:auto!important;max-height:none!important}
+  .rsz{position:absolute;right:2px;bottom:2px;width:16px;height:16px;cursor:nwse-resize;z-index:2;touch-action:none;
     background:linear-gradient(135deg,transparent 0 40%,rgba(255,255,255,.25) 40% 55%,transparent 55% 65%,rgba(255,255,255,.25) 65% 78%,transparent 78%)}
-  @media(max-width:760px){.rsz{display:none}}
+  @media(max-width:760px){.rsz{width:30px;height:30px;right:0;bottom:0}}
   /* header bar */
   #top{position:fixed;top:0;left:0;right:0;z-index:6;padding:12px 18px;display:flex;align-items:center;gap:18px;
     background:linear-gradient(180deg,rgba(7,8,14,.92),rgba(7,8,14,0));backdrop-filter:blur(3px);pointer-events:none}
@@ -81,7 +81,7 @@
   /* year slider */
   #timebar{bottom:14px;left:50%;transform:translateX(-50%);width:min(640px,92vw);flex-direction:row;align-items:center;
     padding:7px 14px 7px 8px;gap:8px}
-  #timebar .grip{color:var(--dim2);cursor:grab;padding:0 2px;font-size:13px}
+  #timebar .grip{color:var(--dim2);cursor:grab;padding:0 2px;font-size:13px;touch-action:none}
   #timebar .yl{font-variant-numeric:tabular-nums;color:var(--accent);font-weight:650;font-size:12.5px;min-width:82px;text-align:center}
   #timebar input{flex:1;accent-color:var(--accent)}
   #play{border:1px solid var(--line);background:transparent;color:var(--dim);border-radius:8px;cursor:pointer;
@@ -90,7 +90,7 @@
   /* detail card */
   #card{top:74px;right:16px;width:350px;max-height:calc(100vh - 100px);min-width:260px;min-height:200px;padding:0;display:none}
   #card.show{display:flex}
-  #card .hd{padding:13px 16px 11px;border-bottom:1px solid var(--line);flex:none;cursor:grab;user-select:none;display:flex;align-items:flex-start;gap:8px}
+  #card .hd{padding:13px 16px 11px;border-bottom:1px solid var(--line);flex:none;cursor:grab;user-select:none;display:flex;align-items:flex-start;gap:8px;touch-action:none}
   #card .hd:active{cursor:grabbing}
   #card .hd .grip{color:var(--dim2);font-size:13px;margin-top:2px}
   #card .htxt{flex:1;min-width:0}
@@ -204,7 +204,7 @@
 </section>
 
 <div id="card" class="hud panel">
-  <div class="hd"><span class="grip">⠿</span><div class="htxt"><h3 id="cTitle"></h3><div class="sub" id="cSub"></div></div><span class="close" id="cClose">×</span></div>
+  <div class="hd"><span class="grip">⠿</span><div class="htxt"><h3 id="cTitle"></h3><div class="sub" id="cSub"></div></div><button class="mini" id="cardCollapse">–</button><span class="close" id="cClose">×</span></div>
   <div class="bd" id="cBody"></div>
   <div class="rsz"></div>
 </div>
@@ -237,7 +237,7 @@ const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
 const isMobile=()=>innerWidth<=760;
 const SCALE=60;
 
-fetch('data.json?v=3').then(r=>r.json()).then(d=>{
+fetch('data.json?v=4').then(r=>r.json()).then(d=>{
   DATA=d; T=d.theories; META=d.meta; GEN=META.genres;
   T.forEach(t=>byId[t.id]=t);
   GEN.forEach(g=>activeGenres.add(g.key));
@@ -697,12 +697,20 @@ function showCard(t){
   h+=bar('How true',t.truth,statusCol(t.truth));
   h+=bar('Impact if true',t.impact,'#60a5fa');
   h+=bar('Notoriety',t.notoriety,'#a855f7');
-  if(t.evidence_for.length){ h+=`<h4>Evidence / claims for</h4><ul class="ev for">${t.evidence_for.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`; }
-  if(t.evidence_against.length){ h+=`<h4>Evidence against</h4><ul class="ev against">${t.evidence_against.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`; }
+  const evLi=x=>{const txt=typeof x==='string'?x:(x.text||''), su=typeof x==='object'&&x?x.source:null;
+    return `<li>${esc(txt)}${su?` <a class="src" href="${esc(su)}" target="_blank" rel="noopener" title="source">↗</a>`:''}</li>`;};
+  if(t.evidence_for.length){ h+=`<h4>Evidence / claims for</h4><ul class="ev for">${t.evidence_for.map(evLi).join('')}</ul>`; }
+  if(t.evidence_against.length){ h+=`<h4>Evidence against</h4><ul class="ev against">${t.evidence_against.map(evLi).join('')}</ul>`; }
   if(t.depends_on.length){ h+=`<h4>⚛ Requires (load-bearing)</h4><div class="chips">${relChips(t.depends_on)}</div>`; }
   if(t.dependents&&t.dependents.length){ h+=`<h4>Supports these theories</h4><div class="chips">${relChips(t.dependents)}</div>`; }
   if(t.related.length){ h+=`<h4>Related</h4><div class="chips">${relChips(t.related)}</div>`; }
-  if(t.wikipedia){ h+=`<div style="margin-top:14px"><a class="src" href="${t.wikipedia}" target="_blank" rel="noopener">Wikipedia ↗</a></div>`; }
+  const srcs=(t.sources||[]).slice();
+  if(t.wikipedia && !srcs.some(s=>s.url===t.wikipedia)) srcs.unshift({title:'Wikipedia',url:t.wikipedia,type:'wikipedia'});
+  if(srcs.length){
+    h+=`<h4>Sources (${srcs.length})</h4>`+srcs.map(s=>
+      `<div style="padding:2px 0"><a class="src" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title||s.url)} ↗</a>`+
+      (s.type?` <span style="color:var(--dim2);font-size:10px">${esc(s.type)}</span>`:'')+`</div>`).join('');
+  }
   const bd=document.getElementById('cBody'); bd.innerHTML=h;
   bd.querySelectorAll('.chip').forEach(c=>c.onclick=()=>{ select(byId[c.dataset.id]); focusOn(byId[c.dataset.id]); });
 }
@@ -758,43 +766,54 @@ function updateLegend(){
 // ============================================================
 // panel drag / resize / collapse
 // ============================================================
+// pointer-driven so mouse AND touch share one path; works on mobile too.
+let zTop=20;
+function freezePanel(p){
+  const r=p.getBoundingClientRect(), s=(k,v)=>p.style.setProperty(k,v,'important');
+  s('position','fixed'); s('left',r.left+'px'); s('top',r.top+'px');
+  s('right','auto'); s('bottom','auto'); s('width',r.width+'px'); s('transform','none');
+  p.classList.add('freed');
+}
+function raise(p){ p.style.setProperty('z-index',(++zTop),'important'); }
 function makeDraggable(panel, handle){
   let sx=0,sy=0,ox=0,oy=0,active=false;
   handle.addEventListener('pointerdown',e=>{
-    if(e.target.closest('button,input,select,a,.close')) return;
-    if(isMobile()) return;
-    active=true; sx=e.clientX; sy=e.clientY;
-    const r=panel.getBoundingClientRect(); ox=r.left; oy=r.top;
-    panel.style.left=ox+'px'; panel.style.top=oy+'px'; panel.style.right='auto'; panel.style.bottom='auto';
-    handle.setPointerCapture(e.pointerId);
+    if(e.target.closest('button,input,select,a,.close,.rsz')) return;
+    active=true; freezePanel(panel); raise(panel);
+    const r=panel.getBoundingClientRect(); ox=r.left; oy=r.top; sx=e.clientX; sy=e.clientY;
+    handle.setPointerCapture(e.pointerId); e.stopPropagation();
   });
-  handle.addEventListener('pointermove',e=>{ if(!active) return;
+  handle.addEventListener('pointermove',e=>{ if(!active) return; e.stopPropagation();
     let nx=ox+(e.clientX-sx), ny=oy+(e.clientY-sy);
     nx=Math.max(4,Math.min(innerWidth-panel.offsetWidth-4,nx));
     ny=Math.max(4,Math.min(innerHeight-panel.offsetHeight-4,ny));
-    panel.style.left=nx+'px'; panel.style.top=ny+'px';
+    panel.style.setProperty('left',nx+'px','important'); panel.style.setProperty('top',ny+'px','important');
   });
-  handle.addEventListener('pointerup',()=>{ active=false; });
+  const end=e=>{ if(active){ active=false; e.stopPropagation(); } };
+  handle.addEventListener('pointerup',end); handle.addEventListener('pointercancel',end);
 }
 function makeResizable(panel, grip, minW,minH,maxW,maxH){
   let sx=0,sy=0,ow=0,oh=0,active=false;
-  grip.addEventListener('pointerdown',e=>{ if(isMobile()) return;
-    active=true; sx=e.clientX; sy=e.clientY;
-    const r=panel.getBoundingClientRect(); ow=r.width; oh=r.height;
-    panel.style.left=r.left+'px'; panel.style.top=r.top+'px'; panel.style.right='auto'; panel.style.bottom='auto';
-    grip.setPointerCapture(e.pointerId); e.stopPropagation();
+  grip.addEventListener('pointerdown',e=>{
+    active=true; freezePanel(panel); raise(panel);
+    const r=panel.getBoundingClientRect(); ow=r.width; oh=r.height; sx=e.clientX; sy=e.clientY;
+    grip.setPointerCapture(e.pointerId); e.stopPropagation(); e.preventDefault();
   });
-  grip.addEventListener('pointermove',e=>{ if(!active) return;
-    const nw=Math.max(minW,Math.min(maxW,ow+(e.clientX-sx)));
-    const nh=Math.max(minH,Math.min(maxH,oh+(e.clientY-sy)));
-    panel.style.width=nw+'px'; panel.style.height=nh+'px'; panel.style.maxHeight=nh+'px';
-    e.stopPropagation();
+  grip.addEventListener('pointermove',e=>{ if(!active) return; e.stopPropagation();
+    const nw=Math.max(minW,Math.min(Math.min(maxW,innerWidth-8),ow+(e.clientX-sx)));
+    const nh=Math.max(minH,Math.min(Math.min(maxH,innerHeight-8),oh+(e.clientY-sy)));
+    panel.style.setProperty('width',nw+'px','important');
+    panel.style.setProperty('height',nh+'px','important');
+    panel.style.setProperty('max-height',nh+'px','important');
   });
-  grip.addEventListener('pointerup',e=>{ active=false; e.stopPropagation(); });
+  const end=e=>{ if(active){ active=false; e.stopPropagation(); } };
+  grip.addEventListener('pointerup',end); grip.addEventListener('pointercancel',end);
 }
 function makeCollapsible(panel, btn){
+  btn.addEventListener('pointerdown',e=>e.stopPropagation());
   btn.addEventListener('click',e=>{ e.stopPropagation();
-    const collapsed=panel.classList.toggle('collapsed'); btn.textContent=collapsed?'+':'–'; });
+    const c=panel.classList.toggle('collapsed'); btn.textContent=c?'+':'–';
+    panel.style.removeProperty('height'); panel.style.removeProperty('max-height'); });
 }
 (function initPanels(){
   const controls=document.getElementById('controls'), card=document.getElementById('card'), legend=document.getElementById('legend'), timebar=document.getElementById('timebar');
@@ -802,11 +821,12 @@ function makeCollapsible(panel, btn){
   makeDraggable(legend, legend.querySelector('.phd'));
   makeDraggable(card, card.querySelector('.hd'));
   makeDraggable(timebar, timebar);
-  makeResizable(controls, controls.querySelector('.rsz'), 200,160,480,innerHeight*0.85);
-  makeResizable(legend, legend.querySelector('.rsz'), 170,110,420,innerHeight*0.7);
-  makeResizable(card, card.querySelector('.rsz'), 260,200,560,innerHeight*0.85);
+  makeResizable(controls, controls.querySelector('.rsz'), 200,160,480,innerHeight*0.9);
+  makeResizable(legend, legend.querySelector('.rsz'), 170,110,420,innerHeight*0.85);
+  makeResizable(card, card.querySelector('.rsz'), 260,200,560,innerHeight*0.9);
   makeCollapsible(controls, document.getElementById('controlsCollapse'));
   makeCollapsible(legend, document.getElementById('legendCollapse'));
+  makeCollapsible(card, document.getElementById('cardCollapse'));
 })();
 // mobile bottom-sheet toggles
 document.getElementById('btnFilters').onclick=()=>{ document.getElementById('legend').classList.remove('mobopen');

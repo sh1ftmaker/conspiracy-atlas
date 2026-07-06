@@ -1,0 +1,1291 @@
+[
+  {
+    "id": "quantum-suicide-immortality",
+    "sources": [
+      {
+        "title": "Quantum suicide and immortality - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Quantum_suicide_and_immortality",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Many-Worlds Interpretations Can Not Imply Quantum Immortality (arXiv)",
+        "url": "https://arxiv.org/pdf/0902.0187",
+        "type": "academic",
+        "stance": "debunks"
+      },
+      {
+        "title": "The Many-Worlds Theory - How Quantum Suicide Works",
+        "url": "https://science.howstuffworks.com/innovation/science-questions/quantum-suicide3.htm",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Quantum_suicide_and_immortality",
+    "evidence_against": [
+      {
+        "text": "Virtually all physicists and philosophers of science underscore that the experiment relies on contrived, idealized circumstances and that its premises are controversial even among MWI supporters.",
+        "source": "https://arxiv.org/pdf/0902.0187"
+      },
+      {
+        "text": "The surviving experimenter branch has lower measure than the pre-experiment world, making subjective immortality physically incoherent under standard MWI.",
+        "source": "https://arxiv.org/pdf/0902.0187"
+      }
+    ]
+  },
+  {
+    "id": "feral-children",
+    "sources": [
+      {
+        "title": "Feral child - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Feral_child",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "What Is a Feral Child? Definition and Documented Cases",
+        "url": "https://scienceinsights.org/what-is-a-feral-child-definition-and-documented-cases/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Feral children - Britannica",
+        "url": "https://www.britannica.com/topic/feral-children",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Feral_child",
+    "truth": 55,
+    "evidence_for": [
+      {
+        "text": "Well-documented cases such as Victor of Aveyron (1800) and Genie (1970) confirm that children raised in isolation develop severe cognitive and linguistic deficits and show unusual behavioral patterns tied to their surrogate environment.",
+        "source": "https://en.wikipedia.org/wiki/Feral_child"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Several famous cases, including the alleged wolf-raised sisters Amala and Kamala (1926), were later demonstrated to be likely frauds, raising skepticism about the most dramatic claims.",
+        "source": "https://scienceinsights.org/what-is-a-feral-child-definition-and-documented-cases/"
+      }
+    ]
+  },
+  {
+    "id": "charles-fort",
+    "sources": [
+      {
+        "title": "Charles Fort - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Charles_Fort",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Strange Gods: Charles Fort's Book of the Damned (1919) - Public Domain Review",
+        "url": "https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Charles Fort: Pioneer in the Search for Scientific Anomalies - Ancient Origins",
+        "url": "https://www.ancient-origins.net/history-famous-people/charles-fort-pioneer-search-scientific-anomalies-or-anti-dogmatist-who-020782",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Fort",
+    "truth": 50,
+    "notoriety": 55,
+    "evidence_for": [
+      {
+        "text": "Charles Fort (1874-1932) systematically catalogued thousands of reported anomalous phenomena from scientific literature and newspapers, publishing four influential books beginning with The Book of the Damned (1919) that challenged scientific orthodoxy.",
+        "source": "https://en.wikipedia.org/wiki/Charles_Fort"
+      }
+    ]
+  },
+  {
+    "id": "the-black-pope-prophecy",
+    "sources": [
+      {
+        "title": "Prophecy of the Popes - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Prophecy_of_the_Popes",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "What is the prophecy of St. Malachy? - GotQuestions.org",
+        "url": "https://www.gotquestions.org/malachy-prophecy.html",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "CNA explains: What is the St. Malachy prophecy? - Catholic World Report",
+        "url": "https://www.catholicworldreport.com/2025/04/28/cna-explains-what-is-the-st-malachy-prophecy-and-why-are-people-talking-about-it/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Prophecy_of_the_Popes",
+    "year": 1595,
+    "evidence_against": [
+      {
+        "text": "Historians generally conclude the prophecy is a pseudepigraphic fabrication composed shortly before its 1595 publication; contemporary biographer Saint Bernard of Clairvaux made no mention of it.",
+        "source": "https://en.wikipedia.org/wiki/Prophecy_of_the_Popes"
+      },
+      {
+        "text": "The prophecy's descriptions of popes are accurate only up to approximately 1590 and become vague or inaccurate for all subsequent popes.",
+        "source": "https://www.gotquestions.org/malachy-prophecy.html"
+      }
+    ]
+  },
+  {
+    "id": "usa-is-an-experiment",
+    "sources": [
+      {
+        "title": "Why Franklin, Washington and Lincoln considered American democracy an experiment - Ohio Capital Journal",
+        "url": "https://ohiocapitaljournal.com/2023/12/07/why-franklin-washington-and-lincoln-considered-american-democracy-an-experiment/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Founding Fathers Quotes on Government, Democracy, and Placing Power in the People",
+        "url": "https://ammo.com/articles/founding-fathers-quotes-democracy-government-power-in-people",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "truth": 45,
+    "notoriety": 50,
+    "evidence_for": [
+      {
+        "text": "Benjamin Franklin's famous 'A republic, if you can keep it' and Lincoln's July 4, 1861 address both explicitly framed American democracy as an experiment of uncertain outcome, indicating the founders themselves used this language.",
+        "source": "https://ohiocapitaljournal.com/2023/12/07/why-franklin-washington-and-lincoln-considered-american-democracy-an-experiment/"
+      }
+    ]
+  },
+  {
+    "id": "john-babacombe-lee",
+    "sources": [
+      {
+        "title": "John Babbacombe Lee - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_Babbacombe_Lee",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Weird Story of 'The Man They Couldn't Hang' - Smithsonian Magazine",
+        "url": "https://www.smithsonianmag.com/smart-news/weird-story-man-they-couldnt-hang-180962210/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Babbacombe_Lee",
+    "truth": 80,
+    "evidence_for": [
+      {
+        "text": "On 23 February 1885, three separate attempts to hang Lee at Exeter Prison failed because the trapdoor would not open, despite working perfectly in tests without Lee present - a documented historical fact corroborated by multiple prison witnesses.",
+        "source": "https://www.smithsonianmag.com/smart-news/weird-story-man-they-couldnt-hang-180962210/"
+      }
+    ]
+  },
+  {
+    "id": "oz-factor",
+    "sources": [
+      {
+        "title": "Oz Factor - Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/oz-factor",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Jenny Randles - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jenny_Randles",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Oz Factor - HowStuffWorks",
+        "url": "https://science.howstuffworks.com/space/aliens-ufos/oz-factor-ufo.htm",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "year": 1983,
+    "evidence_for": [
+      {
+        "text": "UFO researcher Jenny Randles coined 'Oz Factor' in 1983 to describe the dissociative state - silence, time distortion, altered perception - commonly reported by close-encounter witnesses; it has become a recognized descriptive term in ufology.",
+        "source": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/oz-factor"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Derealization and dissociation are well-documented psychological phenomena; the Oz Factor is more parsimoniously explained as a stress/perceptual response than as evidence for parallel universes or altered physical reality.",
+        "source": "https://science.howstuffworks.com/space/aliens-ufos/oz-factor-ufo.htm"
+      }
+    ]
+  },
+  {
+    "id": "quantum-jumping",
+    "sources": [
+      {
+        "title": "Quantum Jumping by Burt Goldman - Mindvalley",
+        "url": "https://www.mindvalley.com/quantum",
+        "type": "lore",
+        "stance": "supports"
+      },
+      {
+        "title": "Quantum Jumping: Burt Goldman's Go-To Guide - MindValley Blog",
+        "url": "https://blog.mindvalley.com/quantum-jumping/",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Quantum Jumping is a commercial self-help visualization product by Burt Goldman with no support from physics or peer-reviewed psychology. Mindvalley itself notes users need not believe in literal alternate realities for the exercises to work.",
+        "source": "https://blog.mindvalley.com/quantum-jumping/"
+      }
+    ]
+  },
+  {
+    "id": "lord-pakals-time-machine",
+    "sources": [
+      {
+        "title": "K'inich Janaab' Pakal - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/K%CA%BCinich_Janaab%CA%BC_Pakal",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Pacal's Rocket - Ancient Aliens Debunked",
+        "url": "https://www.ancientaliensdebunked.com/pacal-s-rocket",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "Pacal's Sarcophagus - Ancient Mayan King Rocket Ship",
+        "url": "https://www.dgipl.com/blog/pacals-sarcophagus-ancient-mayan-king-rocket-ship/",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/K%CA%BCinich_Janaab%CA%BC_Pakal",
+    "evidence_against": [
+      {
+        "text": "The 'astronaut' interpretation originates with Erich von Daniken's 1968 Chariots of the Gods. Mainstream Mayanists identify the lid as depicting Pakal's descent into Xibalba (the underworld) - a standard Mayan cosmological scene with no technological elements.",
+        "source": "https://www.ancientaliensdebunked.com/pacal-s-rocket"
+      }
+    ]
+  },
+  {
+    "id": "king-babylons-world-control",
+    "sources": [
+      {
+        "title": "Babylon in Bible Prophecy - Liberty University Digital Commons",
+        "url": "https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1090&context=pretrib_arch",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Does Revelation predict a New World Order? - Signs of the Times",
+        "url": "https://signsmag.com/2021/12/does-revelation-predict-a-new-world-order/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Multiple evangelical scholars hold that Revelation 17-18 depicts a future world-dominating commercial and political power called 'Mystery Babylon'; many identify it with a revived empire or global system.",
+        "source": "https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1090&context=pretrib_arch"
+      }
+    ]
+  },
+  {
+    "id": "dolphin-intelligence",
+    "sources": [
+      {
+        "title": "Cetacean intelligence - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cetacean_intelligence",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "How dolphins see the world: A comparison with chimpanzees and humans (PMC)",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3893789/",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Are Dolphins Smarter Than Humans? - Biology Insights",
+        "url": "https://biologyinsights.com/are-dolphins-smarter-than-humans-a-scientific-comparison/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Cetacean_intelligence",
+    "truth": 38,
+    "evidence_for": [
+      {
+        "text": "Dolphins pass the mirror self-recognition test and respond correctly to semantically reversible sentences at a level comparable to a human child of 5-7 years; their limbic systems may surpass human development for emotional processing.",
+        "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3893789/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Human intelligence is distinguished by cumulative culture and complex symbolic thought; no credible evidence exists of dolphin language, civilization, or intelligence equal to adult humans.",
+        "source": "https://biologyinsights.com/are-dolphins-smarter-than-humans-a-scientific-comparison/"
+      }
+    ]
+  },
+  {
+    "id": "presentism",
+    "sources": [
+      {
+        "title": "Presentism - Sustainability Directory",
+        "url": "https://lifestyle.sustainability-directory.com/term/presentism/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Instant Gratification - The American Scholar",
+        "url": "https://theamericanscholar.org/instant-gratification/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "How the Internet's Instant Gratification Culture Is Fueling the Mental Health Crisis",
+        "url": "https://simplyputpsych.co.uk/global-psych/the-internet-instant-gratification-and-the-mental-health-crisis-a-global-cultural-shift",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "truth": 35,
+    "evidence_for": [
+      {
+        "text": "Research confirms that social media platforms are engineered for immediate reward; corporate quarterly earnings, political cycles, and media news cycles all reinforce short-term thinking over long-term planning.",
+        "source": "https://simplyputpsych.co.uk/global-psych/the-internet-instant-gratification-and-the-mental-health-crisis-a-global-cultural-shift"
+      }
+    ]
+  },
+  {
+    "id": "fracking-deaths",
+    "sources": [
+      {
+        "title": "Hydraulic Fracturing & Health - NIEHS",
+        "url": "https://www.niehs.nih.gov/health/topics/agents/fracking",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "Living near fracking wells linked to early death - EHN",
+        "url": "https://www.ehn.org/fracking-health-risks-2656482452.html",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "New Research Documents Fracking's Health Effects on Workers and Communities - EESI",
+        "url": "https://www.eesi.org/articles/view/new-research-documents-frackings-health-effects-on-workers-and-communities",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "truth": 30,
+    "evidence_for": [
+      {
+        "text": "A 2022 study found that people aged 65+ living near fracking sites face elevated early mortality risk; a 2023 study estimated 7,500 excess deaths and $77 billion in health impacts from oil and gas air pollution in 2016 alone.",
+        "source": "https://www.ehn.org/fracking-health-risks-2656482452.html"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "No credible evidence supports that fracking deaths are deliberately engineered to target specific communities; documented harms result from industrial pollution, not intentional government targeting.",
+        "source": "https://www.niehs.nih.gov/health/topics/agents/fracking"
+      }
+    ]
+  },
+  {
+    "id": "prison-planets",
+    "sources": [
+      {
+        "title": "The Earth as a Prison for Humans: A Philosophical and Existential Exploration - Medium",
+        "url": "https://medium.com/@TheGodLie/the-earth-as-a-prison-for-humans-a-philosophical-and-existential-exploration-the-god-lie-e3822555d2c4",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "research_note": "Prison planet as a fringe cosmological claim has no mainstream coverage; only a speculative Medium essay discusses the philosophical concept. No academic or news sources substantiate it. Iceberg/fringe lore only."
+  },
+  {
+    "id": "thomas-pynchon",
+    "sources": [
+      {
+        "title": "Thomas Pynchon - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Pynchon",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Crying of Lot 49 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Crying_of_Lot_49",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Pynchon",
+    "truth": 20,
+    "notoriety": 42,
+    "evidence_for": [
+      {
+        "text": "Pynchon is a documented real author who weaves scientific concepts (entropy, Maxwell's Demon) and conspiracy themes into literary fiction; The Crying of Lot 49 (1966) centers on a protagonist uncovering a centuries-old underground network.",
+        "source": "https://en.wikipedia.org/wiki/Thomas_Pynchon"
+      }
+    ]
+  },
+  {
+    "id": "bunkers-in-mars",
+    "sources": [
+      {
+        "title": "NASA Orbiter Finds Possible Cave Skylights on Mars - NASA Science",
+        "url": "https://science.nasa.gov/solar-system/planets/mars/nasa-orbiter-finds-possible-cave-skylights-on-mars/",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "Caves of Mars Project - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Caves_of_Mars_Project",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "NASA's Mars Reconnaissance Orbiter identified dark circular openings 100-250 m in diameter with temperature profiles consistent with underground spaces; AI analysis has since identified 61 potential cave entrances.",
+        "source": "https://science.nasa.gov/solar-system/planets/mars/nasa-orbiter-finds-possible-cave-skylights-on-mars/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "All identified openings are natural lava-tube skylights or karst features; NASA researchers study them for future human habitation and biosignature preservation, not as evidence of artificial bunkers.",
+        "source": "https://science.nasa.gov/solar-system/planets/mars/nasa-orbiter-finds-possible-cave-skylights-on-mars/"
+      }
+    ]
+  },
+  {
+    "id": "icbm-decoys",
+    "sources": [
+      {
+        "title": "Real Fake Missiles: North Korea's ICBM Mockups Are Getting Scary Good - 38 North",
+        "url": "https://www.38north.org/2013/11/lewis-schilling110513/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Did North Korea Really Fake an ICBM Test in March? - The Diplomat",
+        "url": "https://thediplomat.com/2022/12/did-north-korea-really-fake-an-icbm-test-in-march/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Why Is North Korea Showing Off Its ICBMs? - RAND",
+        "url": "https://www.rand.org/pubs/commentary/2023/02/why-is-north-korea-showing-off-its-icbms.html",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "truth": 50,
+    "evidence_for": [
+      {
+        "text": "North Korea has a documented history of displaying missile mock-ups in parades; Russia used fake parade missiles during the Cold War for strategic deception; analysts have identified footage of likely doctored or failed ICBM tests staged as successes.",
+        "source": "https://www.38north.org/2013/11/lewis-schilling110513/"
+      }
+    ]
+  },
+  {
+    "id": "entertainment-abstraction",
+    "sources": [
+      {
+        "title": "Bread and circuses - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bread_and_circuses",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Role of Bread and Circuses: Social Control in the Roman Empire and Modern America - Academia.edu",
+        "url": "https://www.academia.edu/127343127/The_Role_of_Bread_and_Circuses_Social_Control_in_the_Roman_Empire_and_Modern_America",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Bread and Circuses: Power, Distraction, and Control Explained - Doolly",
+        "url": "https://www.doolly.com/blog/bread-and-circuses-power-distraction-and-control-explained",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bread_and_circuses",
+    "truth": 35,
+    "evidence_for": [
+      {
+        "text": "The concept of 'bread and circuses' as deliberate political distraction dates to Roman poet Juvenal; contemporary media, social media, and political theater are widely analyzed as modern equivalents diverting attention from structural inequality.",
+        "source": "https://www.academia.edu/127343127/The_Role_of_Bread_and_Circuses_Social_Control_in_the_Roman_Empire_and_Modern_America"
+      }
+    ]
+  },
+  {
+    "id": "bloodletting-magic",
+    "sources": [
+      {
+        "title": "Bloodletting in Mesoamerica - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bloodletting_in_Mesoamerica",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Blood ritual - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Blood_ritual",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Forensics of Sacrifice: A Symbolic Analysis of Ritualistic Crime - Anthropoetics",
+        "url": "http://anthropoetics.ucla.edu/ap0902/sacrifice-2/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bloodletting_in_Mesoamerica",
+    "truth": 12,
+    "evidence_for": [
+      {
+        "text": "Bloodletting was a documented elite ritual in ancient Mesoamerican cultures used to legitimize rulership; blood sacrifice for magical power is attested across multiple unconnected cultures worldwide.",
+        "source": "https://en.wikipedia.org/wiki/Bloodletting_in_Mesoamerica"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "No credible evidence links historical bloodletting practices to modern elite kidnappings or ritual murders; conspiracy claims of organized elite blood sacrifice have never been substantiated by law enforcement.",
+        "source": "http://anthropoetics.ucla.edu/ap0902/sacrifice-2/"
+      }
+    ]
+  },
+  {
+    "id": "crowdfunded-assassinations",
+    "sources": [
+      {
+        "title": "Meet The Assassination Market Creator Who's Crowdfunding Murder With Bitcoins - Forbes",
+        "url": "https://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Dark Web Site Aims to Finance Assassinations - OCCRP",
+        "url": "https://www.occrp.org/en/news/dark-web-site-aims-to-finance-assassinations",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Crowdfunded Assassinations and Propaganda by Dark Web Cyber Criminals - ResearchGate",
+        "url": "https://www.researchgate.net/publication/360638718_Crowdfunded_Assassinations_and_Propaganda_by_Dark_Web_Cyber_Criminals",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "truth": 22,
+    "evidence_for": [
+      {
+        "text": "'Assassination Market,' a Bitcoin-funded dark web bounty site, was documented by Forbes in 2013; it accepted bounties targeting government officials though no verified killings resulted.",
+        "source": "https://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "No verified killings have been traced to crowdfunded assassination markets; most such sites are scams or law-enforcement honeypots; Europol tracks and arrests would-be contract killers through cryptocurrency analysis.",
+        "source": "https://www.occrp.org/en/news/dark-web-site-aims-to-finance-assassinations"
+      }
+    ]
+  },
+  {
+    "id": "inunaki-village",
+    "sources": [
+      {
+        "title": "Inunaki Village - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Inunaki_Village",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Inunaki Village: Hidden village where madmen lurk - Japan Urban Legend",
+        "url": "https://japan-makes-me-scared.com/inunaki-village/",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Inunaki Village - Creepy Folklore Wiki (Fandom)",
+        "url": "https://creepy-folklore.fandom.com/wiki/Inunaki_Village",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Inunaki_Village",
+    "truth": 5,
+    "evidence_against": [
+      {
+        "text": "Inunaki Village is a 1990s Japanese internet urban legend; the real historical village was submerged by the Inunaki Dam in 1986 and has no documented occult history. The legend originated from an anonymous 1999 letter to Nippon TV.",
+        "source": "https://en.wikipedia.org/wiki/Inunaki_Village"
+      }
+    ]
+  },
+  {
+    "id": "john-titor-project",
+    "sources": [
+      {
+        "title": "John Titor - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_Titor",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Meet John Titor, The Time Traveler Sent To Save The World - All That's Interesting",
+        "url": "https://allthatsinteresting.com/john-titor",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "John Titor: The Internet's Most Mysterious Time Traveller - Discovery UK",
+        "url": "https://www.discoveryuk.com/mysteries/john-titor-the-internets-most-mysterious-time-traveller/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Titor",
+    "truth": 4,
+    "notoriety": 55,
+    "evidence_against": [
+      {
+        "text": "Almost none of John Titor's predictions came true; the predicted 2004 civil war and 2015 nuclear WWIII did not occur. The posts are widely considered a creative internet hoax from 2000-2001.",
+        "source": "https://en.wikipedia.org/wiki/John_Titor"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "IBM engineers later confirmed that the IBM 5100's undocumented ability to translate older programming languages, which Titor described accurately, was a detail known only to a small number of engineers at the time.",
+        "source": "https://allthatsinteresting.com/john-titor"
+      }
+    ]
+  },
+  {
+    "id": "russian-crime-dungeons",
+    "sources": [
+      {
+        "title": "Gulag - Britannica",
+        "url": "https://www.britannica.com/place/Gulag",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "The Soviet Gulag: 18 Million Prisoners, One System Hidden in Plain Sight - History Collection",
+        "url": "https://historycollection.com/soviet-gulag-history-facts-system-explained/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Gulag - History Research Starters - EBSCO",
+        "url": "https://www.ebsco.com/research-starters/history/gulag",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "truth": 72,
+    "notoriety": 55,
+    "evidence_for": [
+      {
+        "text": "Approximately 18 million people passed through the Soviet Gulag system; located in Siberia and the Arctic, camps were deliberately placed in remote, lethal environments. Between 1.6 and 15 million deaths are estimated. The system operated from 1919 to the late 1950s.",
+        "source": "https://www.britannica.com/place/Gulag"
+      }
+    ]
+  },
+  {
+    "id": "memphis-rap",
+    "sources": [
+      {
+        "title": "Memphis rap - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Memphis_rap",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "How '90s Memphis rap tapes gave rise to a chilling legend - Treble",
+        "url": "https://www.treblezine.com/memphis-rap-tapes-90s-chilling-legend/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "6 Feet Deep: hidden history of horror and occult imagery in rap music - Design Observer",
+        "url": "https://designobserver.com/6-feet-deep-the-hidden-history-of-horror-and-occult-imagery-in-rap-music/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Memphis_rap",
+    "truth": 12,
+    "evidence_for": [
+      {
+        "text": "Three 6 Mafia's 1995 debut Mystic Stylez featured explicit Satanic imagery, horror-film samples, and occult lyrical content; the group originally operated under the name 'Triple 6 Mafia.'",
+        "source": "https://en.wikipedia.org/wiki/Memphis_rap"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "DJ Paul confirmed the Satanic imagery was purely aesthetic and metaphorical - a reflection of the group's love of horror movies rather than actual occult practice or ritual.",
+        "source": "https://www.treblezine.com/memphis-rap-tapes-90s-chilling-legend/"
+      }
+    ]
+  },
+  {
+    "id": "psychotropic-warfare",
+    "sources": [
+      {
+        "title": "MKUltra - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/MKUltra",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The CIA's Appalling Human Experiments With Mind Control - HISTORY",
+        "url": "https://www.history.com/mkultra-operation-midnight-climax-cia-lsd-experiments",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Psychedelics and the Military: What a Long, Strange Trip It's Been - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9896363/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/MKUltra",
+    "truth": 60,
+    "notoriety": 65,
+    "evidence_for": [
+      {
+        "text": "CIA MKUltra (1950s-early 1960s) and US Army BZ research documented the development of hallucinogens as potential weapons; Operation Midnight Climax dosed unwitting civilians with LSD. The military's research ended in 1963 only because unpredictability prevented weaponization.",
+        "source": "https://www.history.com/mkultra-operation-midnight-climax-cia-lsd-experiments"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "No evidence exists of successful deployment of psychotropic agents against enemy populations in warfare; research ended because of operational impracticality, not completion.",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9896363/"
+      }
+    ]
+  },
+  {
+    "id": "human-hunting",
+    "sources": [
+      {
+        "title": "The Human Hunting Conspiracy Theory: Tracing The Unthinkable Possibility - Wondergressive",
+        "url": "https://wondergressive.com/2023/07/28/the-human-hunting-conspiracy-theory-tracing-the-unthinkable-possibility/",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Hunting the Most Dangerous Game - TV Tropes",
+        "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/HuntingTheMostDangerousGame",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Despite conspiracy theorists citing dark web sources, no verifiable evidence has been produced that organized elite human-hunting operations exist in modern times; alleged examples typically cite fictional works as source material.",
+        "source": "https://wondergressive.com/2023/07/28/the-human-hunting-conspiracy-theory-tracing-the-unthinkable-possibility/"
+      }
+    ]
+  },
+  {
+    "id": "report-from-iron-mountain",
+    "sources": [
+      {
+        "title": "The Report from Iron Mountain - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Report_from_Iron_Mountain",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Report from Iron Mountain - Museum of Hoaxes",
+        "url": "https://hoaxes.org/archive/permalink/report_from_iron_mountain",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "Report from Iron Mountain on the Possibility and Desirability of Peace - Goodreads",
+        "url": "https://www.goodreads.com/book/show/5359338",
+        "type": "book",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Report_from_Iron_Mountain",
+    "truth": 25,
+    "notoriety": 50,
+    "evidence_against": [
+      {
+        "text": "Leonard Lewin publicly revealed in a 1972 New York Times article that he authored the entire Report from Iron Mountain as a satirical hoax; John Kenneth Galbraith and Victor Navasky assisted in its creation.",
+        "source": "https://hoaxes.org/archive/permalink/report_from_iron_mountain"
+      }
+    ]
+  },
+  {
+    "id": "npc-possession",
+    "sources": [
+      {
+        "title": "NPC (meme) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/NPC_(meme)",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The politics of the NPC meme: Reactionary subcultural practice and vernacular theory - SAGE Journals",
+        "url": "https://journals.sagepub.com/doi/10.1177/20539517231172422",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/NPC_(meme)",
+    "evidence_against": [
+      {
+        "text": "The NPC/soulless human concept originated as a 4chan meme in 2016 and was weaponized as a right-wing political insult; the demonic possession extension is unfounded fringe theology with no documented cases or credible support.",
+        "source": "https://en.wikipedia.org/wiki/NPC_(meme)"
+      }
+    ]
+  },
+  {
+    "id": "real-fluoride-dangers",
+    "sources": [
+      {
+        "title": "Developmental Fluoride Neurotoxicity: A Systematic Review and Meta-Analysis - PMC",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3491930/",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Impact of fluoride on neurological development in children - Harvard T.H. Chan School of Public Health",
+        "url": "https://hsph.harvard.edu/news/fluoride-childrens-health-grandjean-choi/",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Hydraulic Fracturing & Health - NIEHS",
+        "url": "https://www.niehs.nih.gov/health/topics/agents/fracking",
+        "type": "government",
+        "stance": "documents"
+      }
+    ],
+    "truth": 30,
+    "evidence_for": [
+      {
+        "text": "A Harvard/China Medical University meta-analysis of 27 studies found strong indications fluoride adversely affects cognitive development in children; a National Toxicology Program review raised concerns about neurodevelopmental effects at levels near current US safety limits.",
+        "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3491930/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Reviewed studies primarily involved populations exposed to naturally high fluoride levels well above the 0.7 mg/L used in US water fluoridation; mainstream health agencies maintain that fluoridation at approved levels is safe.",
+        "source": "https://hsph.harvard.edu/news/fluoride-childrens-health-grandjean-choi/"
+      }
+    ]
+  },
+  {
+    "id": "artificial-conspiracy-pipelines",
+    "sources": [
+      {
+        "title": "Tactics of Disinformation - CISA",
+        "url": "https://www.cisa.gov/sites/default/files/publications/tactics-of-disinformation_508.pdf",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "Conspiracy Theories and Disinformation Operations: Unveiling the Links",
+        "url": "https://www.disinformation.ch/Conspiracy_Theories_Disinformation_Operations.html",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "The Internet, Psychological Warfare, and Mass Conspiracy - Psychology Today",
+        "url": "https://www.psychologytoday.com/us/blog/psych-unseen/201803/the-internet-psychological-warfare-and-mass-conspiracy",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "truth": 30,
+    "evidence_for": [
+      {
+        "text": "CISA documents that disinformation actors inject narratives aligned with conspiracy worldviews to misdirect investigators; intelligence services have historically used manufactured rumors and controlled opposition to confuse genuine dissidents.",
+        "source": "https://www.cisa.gov/sites/default/files/publications/tactics-of-disinformation_508.pdf"
+      }
+    ]
+  },
+  {
+    "id": "extreme-conditioning",
+    "sources": [
+      {
+        "title": "Unit 731 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Unit_731",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Inside Unit 731, Japan's Disturbing Human Experiments Program During WWII - All That's Interesting",
+        "url": "https://allthatsinteresting.com/unit-731",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "The Nazi and Japanese Human Experimentation Programmes - Casemate Publishers",
+        "url": "https://www.casematepublishers.com/9781399082099/the-nazi-and-japanese-human-experimentation-programmes/",
+        "type": "book",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Unit_731",
+    "truth": 75,
+    "notoriety": 55,
+    "evidence_for": [
+      {
+        "text": "Unit 731 (1932-1945) systematically tested human endurance limits through freezing, pressure chambers, vivisection, and disease exposure on over 10,000 prisoners; Nazi doctors independently conducted parallel experiments on concentration camp inmates.",
+        "source": "https://allthatsinteresting.com/unit-731"
+      }
+    ]
+  },
+  {
+    "id": "tavistock",
+    "sources": [
+      {
+        "title": "Tavistock Institute - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tavistock_Institute",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Tavistock Institute: Social Engineering the Masses - Daniel Estulin (Amazon)",
+        "url": "https://www.amazon.com/Tavistock-Institute-Social-Engineering-Masses/dp/163424043X",
+        "type": "book",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tavistock_Institute",
+    "truth": 32,
+    "evidence_for": [
+      {
+        "text": "The Tavistock Institute has received UK government contracts for social psychology research since 1946; conspiracy claims of cultural subversion were popularized in John Coleman's 2006 book and Daniel Estulin's 2015 book.",
+        "source": "https://en.wikipedia.org/wiki/Tavistock_Institute"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The Tavistock Institute is a registered UK nonprofit applying social science to organizational problems; no credible evidence supports claims that it directed youth rebellion campaigns or systematically subverted Western culture.",
+        "source": "https://en.wikipedia.org/wiki/Tavistock_Institute"
+      }
+    ]
+  },
+  {
+    "id": "noosphere-lords",
+    "sources": [
+      {
+        "title": "Noosphere - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Noosphere",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "research_note": "The specific claim that the devil controls the noosphere is fringe theological speculation with no external coverage. The noosphere concept itself (Teilhard de Chardin/Vernadsky) is well-documented, but the demonic control variant is original iceberg-chart lore."
+  },
+  {
+    "id": "faust-non-fiction",
+    "sources": [
+      {
+        "title": "Faust - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Faust",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Real Dr. Faustus: Who Was Johann Georg Faust? - Crazy Alchemist",
+        "url": "https://www.crazyalchemist.com/dark-history/the-real-dr-faustus-johann-georg-faust/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Faust - New World Encyclopedia",
+        "url": "https://www.newworldencyclopedia.org/entry/Faust",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Faust",
+    "truth": 12,
+    "evidence_for": [
+      {
+        "text": "A real Johann Georg Faust (c.1466-c.1540) was documented across southern Germany between 1507-1540 as an itinerant alchemist and magician; his strange death in what appears to have been an alchemical explosion fed legends of a pact with the devil.",
+        "source": "https://www.crazyalchemist.com/dark-history/the-real-dr-faustus-johann-georg-faust/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Historians confirm the devil-pact is a literary elaboration of contemporary rumors; the 'demonic' elements of Faust's death are consistent with an ordinary mercury/sulfur alchemical accident.",
+        "source": "https://www.newworldencyclopedia.org/entry/Faust"
+      }
+    ]
+  },
+  {
+    "id": "shanyna-isom",
+    "sources": [
+      {
+        "title": "Woman's Hair Turns to Black Fingernails, Baffling Her Doctors - ABC News",
+        "url": "https://abcnews.com/Health/memphis-woman-world-fingernails-growing-hair/story?id=16974423",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Shanyna Isom Grows Nails Instead Of Hair Due To Skin Condition - HuffPost",
+        "url": "https://www.huffpost.com/entry/shanya-isom-grows-nails-head-hair_n_1760293",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "truth": 40,
+    "evidence_for": [
+      {
+        "text": "Shanyna Isom's condition is medically documented and unique: her hair follicles produce fingernail-like material at 12x the normal rate following a steroid allergic reaction in 2009; Johns Hopkins confirmed she was the only known case worldwide.",
+        "source": "https://abcnews.com/Health/memphis-woman-world-fingernails-growing-hair/story?id=16974423"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Doctors attributed the condition to an unusual allergic reaction to steroids combined with vitamin deficiencies; no evidence of military bioweapon testing was raised by medical investigators.",
+        "source": "https://abcnews.com/Health/memphis-woman-world-fingernails-growing-hair/story?id=16974423"
+      }
+    ]
+  },
+  {
+    "id": "mk-ultra-supernatural-detection",
+    "sources": [
+      {
+        "title": "Stargate Project - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The CIA Recruited Mind Readers to Spy on the Soviets in the 1970s - HISTORY",
+        "url": "https://www.history.com/articles/cia-esp-espionage-soviet-union-cold-war",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)",
+    "truth": 28,
+    "evidence_for": [
+      {
+        "text": "CIA MKUltra investigated telepathy and psychokinesis; the separate Project Stargate (1977-1995) at Fort Meade explicitly researched remote viewing as a military intelligence tool, confirming government interest in identifying psychically sensitive subjects.",
+        "source": "https://www.history.com/articles/cia-esp-espionage-soviet-union-cold-war"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "A 1995 CIA review concluded Project Stargate failed to demonstrate the existence of paranormal phenomena and was terminated as operationally useless.",
+        "source": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+      }
+    ]
+  },
+  {
+    "id": "noosphere-surveillance",
+    "sources": [],
+    "research_note": "No external coverage found; the specific claim that governments or demons monitor collective field consciousness is original iceberg-chart lore derived from the noosphere concept. The legitimate noosphere concept does not include surveillance elements."
+  },
+  {
+    "id": "spiritual-auras",
+    "sources": [],
+    "research_note": "No external coverage found for the specific claim that isolation removes aura protection enabling demonic vulnerability. Aura beliefs are documented in New Age and Theosophical literature but this specific framing is iceberg-chart lore only."
+  },
+  {
+    "id": "demonic-memory-erasure",
+    "sources": [],
+    "research_note": "No external coverage found; the claim that emergency broadcast systems function as demon-powered neuralizers is original iceberg-chart lore with no findable sources in news, academic, or fringe media."
+  },
+  {
+    "id": "martian-eden",
+    "sources": [
+      {
+        "title": "Life on Mars and the Garden of Eden - HuffPost",
+        "url": "https://www.huffpost.com/entry/life-on-mars-and-the-gard_b_1724746",
+        "type": "lore",
+        "stance": "supports"
+      },
+      {
+        "title": "Lost on Mars - The New Atlantis",
+        "url": "https://www.thenewatlantis.com/publications/lost-on-mars",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Ufologist Brinsley Le Poer Trench proposed in his 1960 book The Sky People that the rivers of Genesis match the canal system long theorized to exist on Mars, making Mars the site of Eden.",
+        "source": "https://www.huffpost.com/entry/life-on-mars-and-the-gard_b_1724746"
+      }
+    ]
+  },
+  {
+    "id": "rapture-already-happened",
+    "sources": [
+      {
+        "title": "Preterism - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Preterism",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Preterism: Has All Prophecy Been Fulfilled? - The Gospel Coalition",
+        "url": "https://www.thegospelcoalition.org/essay/preterism-prophecy-fulfilled/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Preterism",
+    "truth": 8,
+    "evidence_for": [
+      {
+        "text": "Full preterism (hyperpreterism) is a documented theological position holding that all end-times prophecy including the resurrection and return of Christ already occurred in AD 70; some preterists posit a physical rapture occurred in AD 66.",
+        "source": "https://en.wikipedia.org/wiki/Preterism"
+      }
+    ]
+  },
+  {
+    "id": "greiders-endgame",
+    "sources": [
+      {
+        "title": "Secrets of the Temple: How the Federal Reserve Runs the Country - Simon & Schuster",
+        "url": "https://www.simonandschuster.com/books/Secrets-of-the-Temple/William-Greider/9780671675561",
+        "type": "book",
+        "stance": "documents"
+      },
+      {
+        "title": "New World Order conspiracy theory - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/New_World_Order_conspiracy_theory",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/New_World_Order_conspiracy_theory",
+    "truth": 25,
+    "evidence_for": [
+      {
+        "text": "William Greider's 1988 book Secrets of the Temple critically analyzed Federal Reserve opacity and power, arguing the institution operates with minimal democratic accountability - providing fuel for later conspiracy theories though Greider himself dismissed conspiratorial readings.",
+        "source": "https://www.simonandschuster.com/books/Secrets-of-the-Temple/William-Greider/9780671675561"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Greider explicitly dismissed the conspiracy interpretation of the Fed in the opening of his book; the NWO banking conspiracy conflates legitimate criticism of central bank opacity with unfounded claims of secret cabal control.",
+        "source": "https://en.wikipedia.org/wiki/New_World_Order_conspiracy_theory"
+      }
+    ]
+  },
+  {
+    "id": "bicameralism",
+    "sources": [
+      {
+        "title": "The Origin of Consciousness in the Breakdown of the Bicameral Mind - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Overview of Julian Jaynes's Theory of Consciousness and the Bicameral Mind - Julian Jaynes Society",
+        "url": "https://www.julianjaynes.org/about/about-jaynes-theory/overview/",
+        "type": "academic",
+        "stance": "supports"
+      },
+      {
+        "title": "Reflections on Julian Jaynes's Bicameral Mind Theory Revisited - ResearchGate",
+        "url": "https://www.researchgate.net/publication/352549942_Reflections_on_the_Dawn_of_Consciousness_Julian_Jaynes_s_Bicameral_Mind_Theory_Revisited",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind",
+    "truth": 18,
+    "notoriety": 45,
+    "evidence_for": [
+      {
+        "text": "Julian Jaynes's 1976 book The Origin of Consciousness in the Breakdown of the Bicameral Mind proposes ancient humans heard auditory hallucinations from the right hemisphere interpreted as god-commands; the theory draws on Homer's Iliad and other ancient texts as evidence.",
+        "source": "https://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Mainstream neuroscience and psychology have not accepted bicameralism; the theory relies on selective literary interpretation rather than neurological or archaeological evidence.",
+        "source": "https://www.researchgate.net/publication/352549942_Reflections_on_the_Dawn_of_Consciousness_Julian_Jaynes_s_Bicameral_Mind_Theory_Revisited"
+      }
+    ]
+  },
+  {
+    "id": "ancient-structure-purpose",
+    "sources": [
+      {
+        "title": "Megalith - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Megalith",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Decoding the Giants: Unraveling the Mysteries of Ancient Megaliths - FactSpark",
+        "url": "https://www.factspark.blog/posts/decoding-the-giants-unraveling-the-mysteries-of-ancient-megaliths",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Megalith",
+    "evidence_for": [
+      {
+        "text": "Many megalithic sites contain precise astronomical alignments (e.g., Stonehenge solstice alignment, Newgrange winter-solstice passage) indicating sophisticated astronomical knowledge; exact construction methods and some purposes remain debated among mainstream scholars.",
+        "source": "https://en.wikipedia.org/wiki/Megalith"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Mainstream archaeology documents the construction methods (stone tools, timber levers, coordinated labor) and interprets megalithic structures as ceremonial, funerary, or astronomical observatories; no evidence of institutional suppression of alternative findings.",
+        "source": "https://www.factspark.blog/posts/decoding-the-giants-unraveling-the-mysteries-of-ancient-megaliths"
+      }
+    ]
+  },
+  {
+    "id": "leylines-true-purpose",
+    "sources": [
+      {
+        "title": "Ley line - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ley_line",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Lore and Lure of Ley Lines - Live Science",
+        "url": "https://www.livescience.com/41349-ley-lines.html",
+        "type": "news",
+        "stance": "debunks"
+      },
+      {
+        "title": "What Are Ley Lines? - HowStuffWorks",
+        "url": "https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/ley-lines.htm",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ley_line",
+    "evidence_against": [
+      {
+        "text": "Ley lines were proposed by Alfred Watkins in 1921 as prehistoric trade routes with no mystical intent; scientists find no instrumental evidence for energy pathways, and critics note that straight-line alignments between multiple landmarks arise easily by chance on any populated map.",
+        "source": "https://www.livescience.com/41349-ley-lines.html"
+      }
+    ]
+  }
+]

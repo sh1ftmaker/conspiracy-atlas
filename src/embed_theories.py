@@ -30,7 +30,9 @@ def load_rows(data_json: Path):
     ids, texts = [], []
     for t in d["theories"]:
         parts = [t["name"], t.get("summary", "")]
-        parts += t.get("evidence_for", [])[:3]
+        ev = [x if isinstance(x, str) else (x.get("text") or "")
+              for x in t.get("evidence_for", []) if x]
+        parts += ev[:3]
         text = " ".join(p.strip() for p in parts if p and p.strip())
         if len(text) > 6000:
             text = text[:6000]

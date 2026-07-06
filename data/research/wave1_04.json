@@ -1,0 +1,1111 @@
+[
+  {
+    "id": "young-blood",
+    "sources": [
+      {
+        "title": "No Longer a Conspiracy Theory: Elite Openly Paying to Ingest the Blood of the Young",
+        "url": "https://thefreethoughtproject.com/health/elite-ingesting-blood-conspiracy",
+        "type": "news",
+        "stance": "supports"
+      },
+      {
+        "title": "No longer a conspiracy theory: Elite openly paying to ingest the blood of the young to live longer",
+        "url": "https://www.sott.net/article/352993-No-longer-a-conspiracy-theory-Elite-openly-paying-to-ingest-the-blood-of-the-young-to-live-longer",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "truth": 20,
+    "notoriety": 45,
+    "evidence_for": [
+      {
+        "text": "Ambrosia startup offered young blood transfusions to ~100 paying customers; Peter Thiel publicly expressed interest in parabiosis as life extension.",
+        "source": "https://thefreethoughtproject.com/health/elite-ingesting-blood-conspiracy"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Stanford neuroscientist Tony Wyss-Coray stated there is 'just no clinical evidence' that young blood transfusions provide health benefits.",
+        "source": "https://www.sott.net/article/352993-No-longer-a-conspiracy-theory-Elite-openly-paying-to-ingest-the-blood-of-the-young-to-live-longer"
+      }
+    ]
+  },
+  {
+    "id": "serpent-seed",
+    "sources": [
+      {
+        "title": "Serpent seed - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Serpent_seed",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "What is the Serpent Seed doctrine?",
+        "url": "https://www.gotquestions.org/serpent-seed.html",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "Serpent's Seed - William Branham Historical Research",
+        "url": "https://william-branham.org/research/serpents_seed",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Serpent_seed",
+    "notoriety": 40,
+    "evidence_against": [
+      {
+        "text": "Mainstream theology holds the Bible is explicit that Adam was Cain's father; 'child of the devil' denotes spiritual rebellion, not genetics.",
+        "source": "https://www.gotquestions.org/serpent-seed.html"
+      },
+      {
+        "text": "The doctrine was created by William Branham as a rebranding of Christian Identity theology associated with white supremacy groups in the 1950s-60s.",
+        "source": "https://william-branham.org/research/serpents_seed"
+      }
+    ]
+  },
+  {
+    "id": "corporates-kill-list",
+    "sources": [],
+    "research_note": "no external coverage found; fringe financial conspiracy with no dedicated journalism or academic treatment"
+  },
+  {
+    "id": "nephilim-earth",
+    "sources": [
+      {
+        "title": "Nephilim - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nephilim",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Who Are the Nephilim?",
+        "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/who-are-the-nephilim/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Nephilim",
+    "evidence_for": [
+      {
+        "text": "The Book of Jubilees states that removing the Nephilim was one of God's purposes for the biblical flood, acknowledging them as a unique pre-flood population.",
+        "source": "https://en.wikipedia.org/wiki/Nephilim"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Mainstream biblical archaeology treats the Nephilim as mythological or referring to unusually large humans; no physical evidence of giants has been confirmed.",
+        "source": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/who-are-the-nephilim/"
+      }
+    ]
+  },
+  {
+    "id": "bitcoin-created-by-banks",
+    "sources": [
+      {
+        "title": "The 10 Most Popular Cryptocurrency Conspiracy Theories",
+        "url": "https://blog.mexc.com/the-10-most-popular-cryptocurrency-conspiracy-theories-creator-kubiat/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Bitcoin 'Conspiracy Theory' Alleges Virtual Currency is NSA or CIA Project",
+        "url": "https://www.ibtimes.co.uk/bitcoin-suspected-be-nsa-cia-project-1460439",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "truth": 15,
+    "evidence_against": [
+      {
+        "text": "Bitcoin's genesis block contains an explicit anti-bank message referencing a Times headline about bank bailouts, pointing to an anti-establishment rather than bank-controlled origin.",
+        "source": "https://blog.mexc.com/the-10-most-popular-cryptocurrency-conspiracy-theories-creator-kubiat/"
+      }
+    ]
+  },
+  {
+    "id": "matrix-realism",
+    "sources": [
+      {
+        "title": "What Is Simulation Theory? Are We Living in a Simulation?",
+        "url": "https://builtin.com/hardware/simulation-theory",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Simulation Theory Debunked",
+        "url": "https://thethink.institute/articles/simulation-theory-debunked",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "notoriety": 40,
+    "evidence_against": [
+      {
+        "text": "Simulation theory claims require 'significant further testing and verification before even being considered plausible'; researchers have published as many refutations as papers supporting digital existence.",
+        "source": "https://thethink.institute/articles/simulation-theory-debunked"
+      }
+    ]
+  },
+  {
+    "id": "windshield-pitting-epidemic",
+    "sources": [
+      {
+        "title": "Seattle windshield pitting epidemic - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Seattle_windshield_pitting_epidemic",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Windshield pitting incidents in Washington reach fever pitch on April 15, 1954",
+        "url": "https://www.historylink.org/File/5136",
+        "type": "archive",
+        "stance": "documents"
+      },
+      {
+        "title": "The Windshield-Pitting Mystery Of 1954",
+        "url": "https://www.npr.org/sections/npr-history-dept/2015/05/28/410085713/the-windshield-pitting-mystery-of-1954",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Seattle_windshield_pitting_epidemic",
+    "truth": 40,
+    "notoriety": 55,
+    "evidence_for": [
+      {
+        "text": "Close to 3,000 windshields were reported pitted in Seattle in a single day (April 15, 1954); the event is a well-documented textbook case of collective delusion.",
+        "source": "https://en.wikipedia.org/wiki/Seattle_windshield_pitting_epidemic"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Seattle Police crime lab concluded the damage was '5 percent hoodlum-ism and 95 percent public hysteria'; no government weapon or external cause was identified.",
+        "source": "https://www.historylink.org/File/5136"
+      }
+    ]
+  },
+  {
+    "id": "north-korea-ghost-ships",
+    "sources": [
+      {
+        "title": "North Korean ghost ships - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/North_Korean_ghost_ships",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "How North Korea Built a Fleet of Ghost Ships",
+        "url": "https://hakaimagazine.com/features/how-north-korea-built-a-fleet-of-ghost-ships/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "First 'ghost ship' of 2018 washes up in Japan with dead North Koreans",
+        "url": "https://www.cnn.com/2018/01/17/asia/japan-north-korea-ghost-ship-intl/index.html",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/North_Korean_ghost_ships",
+    "truth": 65,
+    "notoriety": 55,
+    "evidence_for": [
+      {
+        "text": "Approximately 500 vessels from North Korea have appeared off Japan's coastline since 2011; 2017 saw a record 104 boats with at least 31 bodies.",
+        "source": "https://en.wikipedia.org/wiki/North_Korean_ghost_ships"
+      },
+      {
+        "text": "Kim Jong Un's documented pressure on the military to fish farther out to sea, combined with old boats lacking GPS, directly drives crew deaths.",
+        "source": "https://hakaimagazine.com/features/how-north-korea-built-a-fleet-of-ghost-ships/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Investigators attribute crew deaths to overfishing-driven resource depletion and starvation at sea rather than deliberate government sacrifice operations.",
+        "source": "https://hakaimagazine.com/features/how-north-korea-built-a-fleet-of-ghost-ships/"
+      }
+    ]
+  },
+  {
+    "id": "nwo-militarism",
+    "sources": [
+      {
+        "title": "New World Order conspiracy theory - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/New_World_Order_conspiracy_theory",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The 'New World Order' - ISD Global",
+        "url": "https://www.isdglobal.org/isd-explainer/the-new-world-order/",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/New_World_Order_conspiracy_theory",
+    "evidence_against": [
+      {
+        "text": "The FBI has found that NWO conspiracy theories motivate domestic extremists to commit violence; no evidence of organized NWO kidnapping-for-military-training programs has been documented.",
+        "source": "https://en.wikipedia.org/wiki/New_World_Order_conspiracy_theory"
+      }
+    ]
+  },
+  {
+    "id": "stuxnet-revival-studies",
+    "sources": [
+      {
+        "title": "Stuxnet - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Stuxnet",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Real Story of Stuxnet",
+        "url": "https://spectrum.ieee.org/the-real-story-of-stuxnet",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "What is Stuxnet?",
+        "url": "https://www.kaspersky.com/resource-center/definitions/what-is-stuxnet",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Stuxnet",
+    "truth": 45,
+    "notoriety": 55,
+    "evidence_for": [
+      {
+        "text": "Stuxnet was modified over time to target multiple infrastructure types beyond Iranian centrifuges, demonstrating ongoing active development by its state-actor creators.",
+        "source": "https://en.wikipedia.org/wiki/Stuxnet"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Cybersecurity researchers have not confirmed active deployment of Stuxnet variants post-2012; documented successors (Duqu, Flame) had separate specific targets.",
+        "source": "https://spectrum.ieee.org/the-real-story-of-stuxnet"
+      }
+    ]
+  },
+  {
+    "id": "quantum-entanglement",
+    "sources": [
+      {
+        "title": "Quantum mind - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Quantum_mind",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Experiments Prepare to Test Whether Consciousness Arises from Quantum Weirdness",
+        "url": "https://www.scientificamerican.com/article/experiments-prepare-to-test-whether-consciousness-arises-from-quantum/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Quantum Entanglement in Neurons May Actually Explain Consciousness",
+        "url": "https://www.sciencealert.com/quantum-entanglement-in-neurons-may-actually-explain-consciousness",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Quantum_mind",
+    "notoriety": 50,
+    "evidence_for": [
+      {
+        "text": "Research published in ScienceAlert suggests quantum entanglement in neurons may play a role in consciousness, keeping the hypothesis scientifically active.",
+        "source": "https://www.sciencealert.com/quantum-entanglement-in-neurons-may-actually-explain-consciousness"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Physicist Max Tegmark argues the brain is 'too warm, wet, and noisy' for quantum states to persist, with decoherence timescales far too short for meaningful quantum processing.",
+        "source": "https://www.scientificamerican.com/article/experiments-prepare-to-test-whether-consciousness-arises-from-quantum/"
+      }
+    ]
+  },
+  {
+    "id": "ussr-never-collapsed",
+    "sources": [
+      {
+        "title": "Anatoliy Golitsyn - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anatoliy_Golitsyn",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "What if an ex-KGB officer predicted that the USSR would fake its own collapse",
+        "url": "https://www.theblaze.com/news/2014/03/19/what-if-an-ex-kgb-officer-predicted-that-the-ussr-would-fake-its-own-collapse-to-ultimately-defeat-the-west-and-no-one-listened",
+        "type": "news",
+        "stance": "supports"
+      },
+      {
+        "title": "Unredacted JFK files reveal details of 'most valuable defector' in Cold War",
+        "url": "https://www.newsweek.com/unredacted-jfk-files-reveal-details-most-valuable-defector-cold-war-anatoliy-golitsyn-2047298",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anatoliy_Golitsyn",
+    "evidence_against": [
+      {
+        "text": "MI5 historian Christopher Andrew described Golitsyn as an 'unreliable conspiracy theorist' who convinced Western intelligence 'they were falling victim to a vast KGB deception from which only he could save them'.",
+        "source": "https://en.wikipedia.org/wiki/Anatoliy_Golitsyn"
+      }
+    ]
+  },
+  {
+    "id": "kundalini-energy",
+    "sources": [
+      {
+        "title": "Investigation of the phenomenology, physiology and impact of spiritually transformative experiences - kundalini awakening",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S1550830720302238",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Kundalini Awakening: What Are the Signs?",
+        "url": "https://www.yogajournal.com/yoga-101/types-of-yoga/kundalini/kundalini-awakening/",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "notoriety": 40,
+    "evidence_for": [
+      {
+        "text": "A peer-reviewed ScienceDirect study formally investigated the phenomenology and physiology of kundalini awakening events, finding measurable physiological and psychological changes in subjects.",
+        "source": "https://www.sciencedirect.com/science/article/abs/pii/S1550830720302238"
+      }
+    ]
+  },
+  {
+    "id": "the-ummo-case",
+    "sources": [
+      {
+        "title": "The Enigma of the Ummo Case: Letters from the Stars or a Complex Hoax?",
+        "url": "https://encyclopediastrange.com/2024/11/30/the-enigma-of-the-ummo-case-letters-from-the-stars-or-a-complex-hoax/",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "An Immoral Experiment: The Spiritual, Political, and Ufological Significance of the UMMO Letters",
+        "url": "https://wearethemutants.com/2019/02/12/an-immoral-experiment-the-spiritual-political-and-ufological-significance-of-the-ummo-letters/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "year": 1966,
+    "truth": 10,
+    "evidence_against": [
+      {
+        "text": "Jose Luis Jordan Pena, the perpetrator, later confessed to fabricating the entire Ummo affair as an elaborate psychological and sociological hoax.",
+        "source": "https://encyclopediastrange.com/2024/11/30/the-enigma-of-the-ummo-case-letters-from-the-stars-or-a-complex-hoax/"
+      }
+    ]
+  },
+  {
+    "id": "fake-fluoride",
+    "sources": [
+      {
+        "title": "Opposition to water fluoridation - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Opposition_to_water_fluoridation",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Debating Water Fluoridation Before Dr. Strangelove",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4504307/",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "The Fluoride Controversy",
+        "url": "https://www.mcgill.ca/oss/article/medical-critical-thinking-history/fluoride-controversy",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Opposition_to_water_fluoridation",
+    "notoriety": 45,
+    "evidence_against": [
+      {
+        "text": "A 2018 review found no evidence for higher rates of hip fractures, cancer, or Down's syndrome in fluoridated areas; IQ studies used regions with endemic fluoride far exceeding drinking water levels.",
+        "source": "https://www.mcgill.ca/oss/article/medical-critical-thinking-history/fluoride-controversy"
+      }
+    ]
+  },
+  {
+    "id": "humans-zoos",
+    "sources": [
+      {
+        "title": "Human zoo - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Human_zoo",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Human Zoos - Jim Crow Museum",
+        "url": "https://jimcrowmuseum.ferris.edu/question/2006/october.htm",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "How Colonial Powers Presented People in 'Human Zoos'",
+        "url": "https://livewire.thewire.in/livewire/how-colonial-powers-presented-people-in-human-zoos/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_zoo",
+    "truth": 75,
+    "notoriety": 55,
+    "evidence_for": [
+      {
+        "text": "Between 1877 and 1912 approximately 30 ethnological exhibitions were held at the Jardin zoologique d'acclimatation in Paris; the 1889 World's Fair displayed 400 indigenous people before 28 million visitors.",
+        "source": "https://en.wikipedia.org/wiki/Human_zoo"
+      }
+    ]
+  },
+  {
+    "id": "puppet-show-simulation",
+    "sources": [
+      {
+        "title": "What Is Simulation Theory? Are We Living in a Simulation?",
+        "url": "https://builtin.com/hardware/simulation-theory",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "'Simulation theory' brings an AI twist out of 'The Matrix'",
+        "url": "https://theconversation.com/simulation-theory-brings-an-ai-twist-out-of-the-matrix-to-ideas-mystics-and-religious-scholars-have-voiced-for-centuries-269335",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Simulation theory claims require 'significant further testing and verification before even being considered plausible'; no evidence supports specific individuals holding reality-manipulation powers.",
+        "source": "https://builtin.com/hardware/simulation-theory"
+      }
+    ]
+  },
+  {
+    "id": "dietary-control",
+    "sources": [
+      {
+        "title": "Connections Between Food Additives and Psychiatric Disorders",
+        "url": "https://www.psychiatrictimes.com/view/connections-between-food-additives-and-psychiatric-disorders",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Panics in Our Plates: Contemporary Legends and Conspiracy Theories on Food",
+        "url": "https://www.researchgate.net/publication/377204605_Panics_in_Our_Plates_Contemporary_Legends_and_Conspiracy_Theories_on_Food",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Peer-reviewed research identifies specific food additives (emulsifiers, synthetic flavors) that measurably alter gut microbiota and affect neuropeptide expression and mood.",
+        "source": "https://www.psychiatrictimes.com/view/connections-between-food-additives-and-psychiatric-disorders"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Academic analysis classifies the 'deliberate spiritual suppression through food' narrative as a contemporary legend, not a documented policy.",
+        "source": "https://www.researchgate.net/publication/377204605_Panics_in_Our_Plates_Contemporary_Legends_and_Conspiracy_Theories_on_Food"
+      }
+    ]
+  },
+  {
+    "id": "mediums",
+    "sources": [
+      {
+        "title": "What is Mediumship? Understanding Connections to Spirit",
+        "url": "https://www.richardstuttle.com/what-is-mediumship/",
+        "type": "lore",
+        "stance": "supports"
+      },
+      {
+        "title": "11 Common Myths About Mediumship & Mediums",
+        "url": "https://manmitkumarr.com/myths-about-mediumship-and-mediums/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "cultic-rite-of-passages",
+    "sources": [
+      {
+        "title": "Lifting the Veil: The Rites and Rituals of Secret Society Clubs",
+        "url": "https://spyscape.com/article/lifting-the-veil-rites-and-rituals-of-the-worlds-most-secret-societies",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Secret societies that may have committed murders",
+        "url": "https://www.crimeandinvestigation.co.uk/articles/secret-societies-may-have-committed-murders",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Documented cases include Nigerian campus confraternities responsible for an estimated 250 murders in a decade, and the Thuggee cult who killed thousands as ritual sacrifices.",
+        "source": "https://www.crimeandinvestigation.co.uk/articles/secret-societies-may-have-committed-murders"
+      }
+    ]
+  },
+  {
+    "id": "alternate-world-ending",
+    "sources": [
+      {
+        "title": "When Prophecy Fails - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/When_Prophecy_Fails",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Cognitive Dissonance & the May 21st Apocalypse",
+        "url": "https://www.discovermagazine.com/cognitive-dissonance-and-the-may-21st-apocalypse-10951",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/When_Prophecy_Fails",
+    "evidence_against": [
+      {
+        "text": "Festinger's classic study found failed-prophecy believers doubled down through cognitive dissonance; the alternate-timeline explanation is a rationalization mechanism, not evidence of real intervention.",
+        "source": "https://en.wikipedia.org/wiki/When_Prophecy_Fails"
+      }
+    ]
+  },
+  {
+    "id": "singularity-already-happened",
+    "sources": [
+      {
+        "title": "Technological singularity - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Technological_singularity",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "How AGI became the most consequential conspiracy theory of our time",
+        "url": "https://www.technologyreview.com/2025/10/30/1127057/agi-conspiracy-theory-artifcial-general-intelligence/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Technological_singularity",
+    "truth": 10,
+    "evidence_against": [
+      {
+        "text": "MIT Technology Review concludes that belief in secret AGI functions as a conspiracy theory serving Silicon Valley profit motives; no credible evidence of a secretly achieved singularity exists.",
+        "source": "https://www.technologyreview.com/2025/10/30/1127057/agi-conspiracy-theory-artifcial-general-intelligence/"
+      }
+    ]
+  },
+  {
+    "id": "synchronicity",
+    "sources": [
+      {
+        "title": "Synchronicity - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Synchronicity",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Carl Jung's Theory of Meaningful Coincidences",
+        "url": "https://alsett.com/carl-jungs-theory-of-meaningful-coincidences/",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Synchronicity",
+    "notoriety": 45,
+    "evidence_against": [
+      {
+        "text": "Scientists attribute synchronistic experiences to confirmation bias and the human mind's innate pattern-recognition tendency rather than any intentional orchestration.",
+        "source": "https://en.wikipedia.org/wiki/Synchronicity"
+      }
+    ]
+  },
+  {
+    "id": "mars-slave-colonies",
+    "sources": [
+      {
+        "title": "New Conspiracy Theory: Children Kidnapped for Mars Slave Colony",
+        "url": "https://www.space.com/37366-mars-slave-colony-alex-jones.html",
+        "type": "news",
+        "stance": "debunks"
+      },
+      {
+        "title": "NASA denies Infowars claim that the agency runs a child slave colony on Mars",
+        "url": "https://www.salon.com/2017/06/30/nasa-denies-infowars-claim-that-the-agency-runs-a-child-slave-colony-on-mars/",
+        "type": "news",
+        "stance": "debunks"
+      },
+      {
+        "title": "NASA Swears They Aren't Hiding Slave Children on Mars",
+        "url": "https://www.vice.com/en/article/nasa-swears-they-arent-hiding-slave-children-on-mars-vgtrn/",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "year": 2017,
+    "truth": 5,
+    "notoriety": 50,
+    "evidence_against": [
+      {
+        "text": "NASA officially stated 'There are no humans on Mars'; the theory's claimed 20-year travel time is physically impossible given the actual 6-9 month transit.",
+        "source": "https://www.salon.com/2017/06/30/nasa-denies-infowars-claim-that-the-agency-runs-a-child-slave-colony-on-mars/"
+      }
+    ]
+  },
+  {
+    "id": "great-electronic-conspiracy",
+    "sources": [
+      {
+        "title": "New World Order conspiracy theory - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/New_World_Order_conspiracy_theory",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The 'New World Order' - ISD Global",
+        "url": "https://www.isdglobal.org/isd-explainer/the-new-world-order/",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ]
+  },
+  {
+    "id": "divine-leylines",
+    "sources": [
+      {
+        "title": "Ley line - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ley_line",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ley_line"
+  },
+  {
+    "id": "real-dowsing-rhabdomancy",
+    "sources": [
+      {
+        "title": "Dowsing - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dowsing",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Water Dowsing",
+        "url": "https://www.usgs.gov/water-science-school/science/water-dowsing",
+        "type": "government",
+        "stance": "debunks"
+      },
+      {
+        "title": "Is there any scientific evidence for dowsing?",
+        "url": "https://www.sciencefocus.com/science/is-there-any-scientific-evidence-for-dowsing",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dowsing",
+    "truth": 10,
+    "notoriety": 40,
+    "evidence_against": [
+      {
+        "text": "30 expert dowsers tested in a 1990 controlled study in Kassel, Germany failed to outperform random chance locating buried water pipes.",
+        "source": "https://en.wikipedia.org/wiki/Dowsing"
+      },
+      {
+        "text": "The USGS states controlled scientific studies have 'repeatedly found that water dowsing does not work' and attribute rod movement to the ideomotor effect.",
+        "source": "https://www.usgs.gov/water-science-school/science/water-dowsing"
+      }
+    ]
+  },
+  {
+    "id": "demonic-leylines",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only"
+  },
+  {
+    "id": "amazon-rainforest-was-built",
+    "sources": [
+      {
+        "title": "Pre-Columbian agriculture in the Amazon Basin - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pre-Columbian_agriculture_in_the_Amazon_Basin",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Intentional creation of carbon-rich dark earth soils in the Amazon",
+        "url": "https://www.science.org/doi/10.1126/sciadv.adh8499",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Terra preta - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Terra_preta",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Terra_preta",
+    "truth": 40,
+    "notoriety": 40,
+    "evidence_for": [
+      {
+        "text": "Peer-reviewed research in Science Advances (2023) confirms Amazonian peoples intentionally created terra preta dark-earth soils for large-scale agriculture over millennia, fundamentally reshaping forest composition.",
+        "source": "https://www.science.org/doi/10.1126/sciadv.adh8499"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Mainstream archaeology frames Amazon domestication as incremental cultivation, not deliberate wholesale construction; vast areas of the forest show no pre-Columbian human modification.",
+        "source": "https://en.wikipedia.org/wiki/Pre-Columbian_agriculture_in_the_Amazon_Basin"
+      }
+    ]
+  },
+  {
+    "id": "public-target-practice-biological",
+    "sources": [
+      {
+        "title": "MKUltra - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/MKUltra",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Unethical human experimentation in the United States - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Unethical_human_experimentation_in_the_United_States",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The CIA's Appalling Human Experiments With Mind Control",
+        "url": "https://www.history.com/mkultra-operation-midnight-climax-cia-lsd-experiments",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/MKUltra",
+    "truth": 45,
+    "notoriety": 55,
+    "evidence_for": [
+      {
+        "text": "MKUltra (1953-1964) is a documented CIA program that secretly dosed civilians and mental patients with LSD and other agents through at least 80 institutions without consent.",
+        "source": "https://en.wikipedia.org/wiki/MKUltra"
+      },
+      {
+        "text": "US government programs including Operation Sea-Spray conducted documented open-air biological agent tests on civilian populations in San Francisco.",
+        "source": "https://en.wikipedia.org/wiki/Unethical_human_experimentation_in_the_United_States"
+      }
+    ]
+  },
+  {
+    "id": "concrete-enemas",
+    "sources": [
+      {
+        "title": "Friday Weird Science: The Concrete Enema",
+        "url": "https://blogs.scientificamerican.com/scicurious-brain/friday-weird-science-the-concrete-enema/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Concrete Enemas: An Unconventional and Dangerous Practice",
+        "url": "https://wondergressive.com/2023/08/04/concrete-enemas-an-unconventional-and-dangerous-practice/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The documented medical case was attributed to consensual sexual activity between adults; no clustering of such cases or secret society connection has been reported in medical literature.",
+        "source": "https://blogs.scientificamerican.com/scicurious-brain/friday-weird-science-the-concrete-enema/"
+      }
+    ]
+  },
+  {
+    "id": "afterlife-duality",
+    "sources": [],
+    "research_note": "fringe spiritual-cosmological noosphere variant; no external secular or academic coverage found; spiritual community lore only"
+  },
+  {
+    "id": "anti-religious-warfare",
+    "sources": [
+      {
+        "title": "Religious war - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Religious_war",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Religious Wars and Religious Freedom: A Troubled History",
+        "url": "https://www.libertymagazine.org/article/religious-wars-and-religious-freedom-a-troubled-history",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Religious_war",
+    "truth": 35,
+    "evidence_for": [
+      {
+        "text": "Documented conquests including Tudor suppression of Catholic Irish spiritual practices and Antiochus IV's banning of Jewish rites (167 BCE) show deliberate targeting of religion to break population resistance.",
+        "source": "https://www.libertymagazine.org/article/religious-wars-and-religious-freedom-a-troubled-history"
+      }
+    ]
+  },
+  {
+    "id": "limbic-brain",
+    "sources": [
+      {
+        "title": "Social isolation impairs adult neurogenesis in the limbic system and alters behaviors",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3565461/",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "How social isolation transforms the brain",
+        "url": "https://www.sciencedaily.com/releases/2018/05/180517113856.htm",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "truth": 40,
+    "evidence_for": [
+      {
+        "text": "Peer-reviewed research confirms social isolation activates dysfunction in the limbic system and ventral striatum, increasing anxiety-like and aggressive behaviors in isolated subjects.",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3565461/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Neuroscience shows isolation affects limbic function as part of an integrated network, not a singular takeover; effects vary significantly by individual, duration, and species.",
+        "source": "https://www.sciencedaily.com/releases/2018/05/180517113856.htm"
+      }
+    ]
+  },
+  {
+    "id": "fated-reincarnations",
+    "sources": [
+      {
+        "title": "How The 'NPC' Meme Tries To Dehumanize 'SJWs'",
+        "url": "https://kotaku.com/how-the-npc-meme-tries-to-dehumanize-sjws-1829552261",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Reincarnation and world population - Do the numbers add up?",
+        "url": "https://personalityspirituality.net/2012/02/29/reincarnation-and-world-population-do-the-numbers-add-up/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The claim that population growth outruns available souls is an arithmetic myth; the number who died in the last century alone exceeds current living population.",
+        "source": "https://personalityspirituality.net/2012/02/29/reincarnation-and-world-population-do-the-numbers-add-up/"
+      },
+      {
+        "text": "The NPC-soul theory originated from a 4chan post combining bogus physics and speculative religion, spreading as a dehumanizing meme rather than a serious spiritual framework.",
+        "source": "https://kotaku.com/how-the-npc-meme-tries-to-dehumanize-sjws-1829552261"
+      }
+    ]
+  },
+  {
+    "id": "inorganic-beings",
+    "sources": [
+      {
+        "title": "A Few Words About The Flyers",
+        "url": "https://www.essencediaries.com/post/a-few-words-about-the-flyers",
+        "type": "lore",
+        "stance": "supports"
+      },
+      {
+        "title": "Inorganic beings - Riverwalker Press",
+        "url": "https://riverwalkerpress.com/on/inorganic-beings/",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "id": "job-revelations",
+    "sources": [],
+    "research_note": "fringe biblical hermeneutic theory; no external secular or academic coverage found; niche theological speculation only"
+  },
+  {
+    "id": "weighted-perception",
+    "sources": [
+      {
+        "title": "How The 'NPC' Meme Tries To Dehumanize 'SJWs'",
+        "url": "https://kotaku.com/how-the-npc-meme-tries-to-dehumanize-sjws-1829552261",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "demonic-communication",
+    "sources": [
+      {
+        "title": "Can Demons Surf The Web? Exploring Digital Demonic Possibilities",
+        "url": "https://quartzmountain.org/article/can-demons-travel-through-the-internet",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "A Demon in a Box? Unspooling the Dark Mythology of AI",
+        "url": "https://thereader.mitpress.mit.edu/a-demon-in-a-box-unspooling-the-dark-mythology-of-ai/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Catholic theological analysis attributes smartphone-related harms to human design choices rather than demonic agency, absent specific evidence for supernatural causation.",
+        "source": "https://quartzmountain.org/article/can-demons-travel-through-the-internet"
+      }
+    ]
+  },
+  {
+    "id": "real-intentions-of-road-to-roota",
+    "sources": [
+      {
+        "title": "The Road to Roota Theory",
+        "url": "https://www.roadtoroota.com/public/190.cfm",
+        "type": "lore",
+        "stance": "supports"
+      },
+      {
+        "title": "Who Is Bix Weir of Road to Roota?",
+        "url": "https://financhill.com/blog/investing/bix-weir-road-to-roota",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Bix Weir's theory centers on a Federal Reserve Bank of Boston comic book (Wishes and Rainbows, 1981) interpreted as a coded document signaling insider plans for a gold/silver monetary reset.",
+        "source": "https://www.roadtoroota.com/public/190.cfm"
+      }
+    ]
+  },
+  {
+    "id": "drug-perception",
+    "sources": [
+      {
+        "title": "Psychedelics alter metaphysical beliefs",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8611059/",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Psychedelic experience - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Psychedelic_experience",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Psychedelic_experience",
+    "truth": 25,
+    "evidence_for": [
+      {
+        "text": "A peer-reviewed Scientific Reports study found psychedelic use significantly shifted metaphysical beliefs away from materialism toward panpsychism and fatalism, with changes lasting at least 6 months.",
+        "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8611059/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Psychedelic researchers attribute altered perception to serotonin receptor agonism rather than access to a separate spiritual dimension; effects are consistent with documented hallucination mechanics.",
+        "source": "https://en.wikipedia.org/wiki/Psychedelic_experience"
+      }
+    ]
+  },
+  {
+    "id": "proto-humans",
+    "sources": [
+      {
+        "title": "Forbidden Archeology - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Forbidden_Archeology",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The human skull that challenges the Out of Africa theory",
+        "url": "https://www.ancient-origins.net/human-origins-science/human-skull-challenges-out-africa-theory-001283",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Forbidden_Archeology",
+    "evidence_against": [
+      {
+        "text": "Mainstream scholars describe Forbidden Archeology as pseudoscience; ongoing legitimate fossil and genetic discoveries are actively expanding rather than suppressing the proto-human evolutionary record.",
+        "source": "https://en.wikipedia.org/wiki/Forbidden_Archeology"
+      }
+    ]
+  },
+  {
+    "id": "reset-facilitated-eugenics",
+    "sources": [
+      {
+        "title": "Ancient astronauts - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ancient_astronauts",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Pseudoarchaeology and the ancient astronaut theory",
+        "url": "https://digitalcommons.csumb.edu/cgi/viewcontent.cgi?article=1391&context=caps_thes",
+        "type": "academic",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ancient_astronauts",
+    "evidence_against": [
+      {
+        "text": "Scientific consensus holds the ancient astronaut hypothesis is 'unjustified and unnecessary'; critics note it consistently underestimates documented human capabilities in archaeology and genetics.",
+        "source": "https://en.wikipedia.org/wiki/Ancient_astronauts"
+      }
+    ]
+  },
+  {
+    "id": "earth-is-a-cosmic-leyline",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only"
+  },
+  {
+    "id": "tulpa-surveillance",
+    "sources": [
+      {
+        "title": "Tulpa - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tulpa",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Thoughtforms",
+        "url": "https://psi-encyclopedia.spr.ac.uk/articles/thoughtforms/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tulpa",
+    "evidence_against": [
+      {
+        "text": "76.5% of tulpa community practitioners attribute the phenomenon to neurological or psychological mechanisms; no empirical evidence supports mass fear of surveillance manifesting real supernatural surveillance entities.",
+        "source": "https://en.wikipedia.org/wiki/Tulpa"
+      }
+    ]
+  }
+]

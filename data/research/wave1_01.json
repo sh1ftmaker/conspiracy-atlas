@@ -1,0 +1,1163 @@
+[
+  {
+    "id": "cloud-farming",
+    "sources": [
+      {
+        "title": "Cloud seeding - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cloud_seeding",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Chemtrail conspiracy theory - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chemtrail_conspiracy_theory",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Fact check: Debunking weather modification claims - NOAA",
+        "url": "https://www.noaa.gov/news/fact-check-debunking-weather-modification-claims",
+        "type": "government",
+        "stance": "debunks"
+      },
+      {
+        "title": "Why it's so hard to bust the weather control conspiracy theory - MIT Technology Review",
+        "url": "https://www.technologyreview.com/2025/10/30/1126467/weather-control-conspiracy-theory-cloud-seeding-floods/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Chemtrail_conspiracy_theory",
+    "evidence_for": [
+      {
+        "text": "At least nine US states have active government-contracted cloud seeding programs, documented in a 2024 GAO report.",
+        "source": "https://www.noaa.gov/news/fact-check-debunking-weather-modification-claims"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "NOAA states no technology exists to create, modify, strengthen, or steer hurricanes; NOAA does not fund or oversee cloud seeding or weather modification activities.",
+        "source": "https://www.noaa.gov/news/fact-check-debunking-weather-modification-claims"
+      }
+    ]
+  },
+  {
+    "id": "prison-earth",
+    "sources": [
+      {
+        "title": "Hollow Moon - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hollow_Moon",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Controversial Theory: Is Earth a Prison Planet and the Moon Its Guardian? - Learning Mind",
+        "url": "https://www.learning-mind.com/is-earth-a-prison-planet-and-the-moon-its-guardian/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hollow_Moon",
+    "notoriety": 30,
+    "evidence_against": [
+      {
+        "text": "Seismic data from lunar missions shows the Moon has a solid, differentiated interior with thin crust, extensive mantle, and dense core, contradicting the hollow artificial construct claim.",
+        "source": "https://en.wikipedia.org/wiki/Hollow_Moon"
+      }
+    ]
+  },
+  {
+    "id": "annunaki-puppet-show",
+    "sources": [
+      {
+        "title": "Zecharia Sitchin - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zecharia_Sitchin",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Why Some Say One Of History's First Civilizations Was Actually Created By Ancient Aliens - All That's Interesting",
+        "url": "https://allthatsinteresting.com/anunnaki",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Zecharia_Sitchin",
+    "evidence_against": [
+      {
+        "text": "Sitchin's Anunnaki theories have been universally rejected by mainstream Sumerologists, Orientalists, and Assyriologists as pseudohistory based on deliberately mistranslated and out-of-context Sumerian texts.",
+        "source": "https://en.wikipedia.org/wiki/Zecharia_Sitchin"
+      }
+    ]
+  },
+  {
+    "id": "soy-spraying-weaponized-soy",
+    "sources": [
+      {
+        "title": "Inside the 'soy boy' conspiracy theory - Salon",
+        "url": "https://www.salon.com/2018/11/14/the-soy-boy-conspiracy-theory-alt-right-thinks-left-wing-has-it-out-for-them-with-soybeans_partner/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Origins of the Soy Feminization Myth - SNI Global",
+        "url": "https://sniglobal.org/origins-of-the-soy-feminization-myth/",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "Debunking the soy-estrogen problem and other soy myths - ZME Science",
+        "url": "https://www.zmescience.com/feature-post/health/food-and-nutrition/debunking-the-soy-estrogen-problem-and-other-soy-myths/",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "A 2021 meta-analysis of 41 clinical studies with 1,753 participants found neither soy nor soy isoflavones affect testosterone or estrogen levels in men.",
+        "source": "https://www.zmescience.com/feature-post/health/food-and-nutrition/debunking-the-soy-estrogen-problem-and-other-soy-myths/"
+      }
+    ]
+  },
+  {
+    "id": "doveland-wisconsin",
+    "sources": [
+      {
+        "title": "Doveland, Wisconsin: The Town That Wasn't There - Historic Mysteries",
+        "url": "https://www.historicmysteries.com/unexplained-mysteries/doveland/36068/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Was Doveland, Wisconsin a Real Place and Did It Vanish in the 1990s? - America Is Weird",
+        "url": "https://www.americaisweird.com/was-doveland-wisconsin-a-real-place-and-did-it-vanish-in-the-1990s/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Doveland, Wisconsin - ObscUrban Legend Wikia",
+        "url": "https://obscurban-legend.fandom.com/wiki/Doveland,_Wisconsin",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "No historical maps, records, or documents confirm Doveland's existence; the name confusion likely stems from similarly-named Wisconsin towns such as Dodgeville, Dodgeland, and Delevan.",
+        "source": "https://www.historicmysteries.com/unexplained-mysteries/doveland/36068/"
+      }
+    ]
+  },
+  {
+    "id": "number-stations",
+    "sources": [
+      {
+        "title": "Numbers station - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Numbers_station",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Number Stations - Priyom.org",
+        "url": "https://priyom.org/number-stations",
+        "type": "archive",
+        "stance": "documents"
+      },
+      {
+        "title": "Do Shortwave Numbers Stations Really Instruct Spies? - Radio World",
+        "url": "https://www.radioworld.com/news-and-business/do-shortwave-numbers-stations-really-instruct-spies",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Explaining the Mystery of Numbers Stations - War on the Rocks",
+        "url": "https://warontherocks.com/2018/05/explaining-the-mystery-of-numbers-stations/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Numbers_station",
+    "truth": 55,
+    "evidence_for": [
+      {
+        "text": "Convictions of the Cuban Five (2001) and members of the Russian Illegals Program (2010) confirmed that shortwave number broadcasts were used to transmit one-time-pad instructions to intelligence agents.",
+        "source": "https://en.wikipedia.org/wiki/Numbers_station"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "No credible evidence links number stations to nuclear weapons triggering systems; all confirmed uses involve conventional spy communications.",
+        "source": "https://warontherocks.com/2018/05/explaining-the-mystery-of-numbers-stations/"
+      }
+    ]
+  },
+  {
+    "id": "2012-mayan-prophecy-shift",
+    "sources": [
+      {
+        "title": "2012 phenomenon - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2012_phenomenon",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Neither the Maya Calendar nor the World Ends on December 21, 2012 - Scientific American",
+        "url": "https://www.scientificamerican.com/article/neither-maya-nor-world-calendar-ends-december-21-2012/",
+        "type": "news",
+        "stance": "debunks"
+      },
+      {
+        "title": "End of World in 2012? Maya Doomsday Calendar Explained - National Geographic",
+        "url": "https://www.nationalgeographic.com/science/article/111220-end-of-world-2012-maya-calendar-explained-ancient-science",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/2012_phenomenon",
+    "truth": 80,
+    "notoriety": 75,
+    "evidence_for": [
+      {
+        "text": "Maya Grand Elder Wandering Wolf stated in 2011 that 2012 marked a calendar cycle end, not an apocalypse; a new 13-baktun cycle simply begins.",
+        "source": "https://www.scientificamerican.com/article/neither-maya-nor-world-calendar-ends-december-21-2012/"
+      },
+      {
+        "text": "December 21, 2012 was the end of the Long Count calendar's 13th baktun cycle, equivalent to an odometer rolling over; Mayan inscriptions mention the date without apocalyptic context.",
+        "source": "https://www.nationalgeographic.com/science/article/111220-end-of-world-2012-maya-calendar-explained-ancient-science"
+      }
+    ]
+  },
+  {
+    "id": "the-furry-conspiracy",
+    "sources": [
+      {
+        "title": "Reptilian shapeshifting - The Conspiracy Wiki",
+        "url": "https://conspiracy.fandom.com/wiki/Reptilian_shapeshifting",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Inside the misunderstood culture of furries - CNN",
+        "url": "https://www.cnn.com/2018/11/14/us/furries-culture",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "notoriety": 20,
+    "research_note": "No dedicated coverage found linking furry media normalization to reptilian disclosure preparation. The reptilian shapeshifting conspiracy (David Icke) and furry fandom are independently documented but no source connects them as described; iceberg-chart lore only."
+  },
+  {
+    "id": "field-consciousness",
+    "sources": [
+      {
+        "title": "Global Consciousness Project - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Global_Consciousness_Project",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Rupert Sheldrake - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rupert_Sheldrake",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Morphic Resonance: Research and Papers - Sheldrake.org",
+        "url": "https://www.sheldrake.org/research/morphic-resonance",
+        "type": "news",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Global_Consciousness_Project"
+  },
+  {
+    "id": "taured",
+    "sources": [
+      {
+        "title": "The Mystery of the Man from Taured - Snopes",
+        "url": "https://www.snopes.com/fact-check/man-from-taured-parallel-universe/",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "A man who arrived in Japan with a fake passport did not mysteriously vanish - Full Fact",
+        "url": "https://fullfact.org/online/man-from-parallel-universe/",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "The Mysterious Man from Taured - Ancient Origins",
+        "url": "https://www.ancient-origins.net/unexplained-phenomena/the-man-from-taured-005788",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "truth": 5,
+    "notoriety": 40,
+    "evidence_against": [
+      {
+        "text": "Japanese newspaper archives from 1960-61 document the real case: John Allen Kuchar Zegrus, arrested for entering Japan with a forged passport and cashing forged checks, sentenced to one year in prison, no paranormal vanishing.",
+        "source": "https://fullfact.org/online/man-from-parallel-universe/"
+      }
+    ]
+  },
+  {
+    "id": "rosicrucianism",
+    "sources": [
+      {
+        "title": "Rosicrucianism - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rosicrucianism",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Rosicrucian - Britannica",
+        "url": "https://www.britannica.com/topic/Rosicrucians",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosicrucianism",
+    "notoriety": 55
+  },
+  {
+    "id": "spirit-science",
+    "sources": [
+      {
+        "title": "The Spirit Science - RationalWiki",
+        "url": "https://rationalwiki.org/wiki/The_Spirit_Science",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "RationalWiki documents Spirit Science (Jordan Duchnycz / Jordan Pearce) as promoting quantum woo, crystal healing, and pseudohistory with no scientific basis, with over 1 million YouTube subscribers.",
+        "source": "https://rationalwiki.org/wiki/The_Spirit_Science"
+      }
+    ]
+  },
+  {
+    "id": "missing-children-forests",
+    "sources": [
+      {
+        "title": "David Paulides - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/David_Paulides",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Official Missing 411 - David Paulides",
+        "url": "https://missing411.com/",
+        "type": "archive",
+        "stance": "supports"
+      },
+      {
+        "title": "How 1,600 People Went Missing from Our Public Lands Without a Trace - Outside Online",
+        "url": "https://www.outsideonline.com/2164446/leave-no-trace",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Paulides",
+    "research_note": "David Paulides' Missing 411 project documents unexplained wilderness disappearances across North American national parks and wilderness areas broadly; the specific LA County forests claim in the summary is not separately documented in found sources."
+  },
+  {
+    "id": "solipsism",
+    "sources": [
+      {
+        "title": "Solipsism - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Solipsism",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Solipsism - Britannica",
+        "url": "https://www.britannica.com/topic/solipsism",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Solipsism",
+    "notoriety": 65,
+    "evidence_against": [
+      {
+        "text": "Historically no serious philosopher maintained solipsism as a genuine belief; it functions as a thought experiment probing the limits of epistemology, not a practical ontological position.",
+        "source": "https://en.wikipedia.org/wiki/Solipsism"
+      }
+    ]
+  },
+  {
+    "id": "dancing-plague",
+    "sources": [
+      {
+        "title": "Dancing plague of 1518 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dancing_plague_of_1518",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Dancing plague of 1518 - Britannica",
+        "url": "https://www.britannica.com/event/dancing-plague-of-1518",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "What Was the Dancing Plague of 1518? - HISTORY",
+        "url": "https://www.history.com/articles/what-was-the-dancing-plague-of-1518",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dancing_plague_of_1518",
+    "truth": 75,
+    "notoriety": 65,
+    "evidence_for": [
+      {
+        "text": "City of Strasbourg chronicles from July-September 1518 document the outbreak; within a month, up to 400 people were dancing uncontrollably in the streets, some reportedly dying from exhaustion.",
+        "source": "https://en.wikipedia.org/wiki/Dancing_plague_of_1518"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The leading scientific explanation is stress-induced mass hysteria triggered by famine and epidemic disease (smallpox, syphilis), not memetic weaponization or engineered pathogen.",
+        "source": "https://www.history.com/articles/what-was-the-dancing-plague-of-1518"
+      }
+    ]
+  },
+  {
+    "id": "webdriver-torso",
+    "sources": [
+      {
+        "title": "Webdriver Torso - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Webdriver_Torso",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Google and the accidental mystery of Webdriver Torso - Engadget",
+        "url": "https://www.engadget.com/2014-06-06-this-is-the-truth-behind-webdriver-torso.html",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Webdriver_Torso",
+    "truth": 5,
+    "notoriety": 55,
+    "evidence_against": [
+      {
+        "text": "YouTube officially confirmed in 2014 that Webdriver Torso is Google's internal automated testing account, uploading comparison clips to verify upload quality consistency.",
+        "source": "https://www.engadget.com/2014-06-06-this-is-the-truth-behind-webdriver-torso.html"
+      }
+    ]
+  },
+  {
+    "id": "toxoplasmosis",
+    "sources": [
+      {
+        "title": "Toxoplasmosis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Toxoplasmosis",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Toxoplasma Made Me Do It: How Parasites Influence Behavior - ASM",
+        "url": "https://asm.org/home-page/featured/toxoplasma-made-me-do-it-how-parasites-influence-b",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "How a cat parasite can change your personality - Medical News Today",
+        "url": "https://www.medicalnewstoday.com/articles/322594",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Toxoplasmosis",
+    "truth": 60,
+    "evidence_for": [
+      {
+        "text": "T. gondii is correlated in human studies with increased impulsivity, risk-taking behavior, rage disorder, and links to schizophrenia, operating partly via dopamine pathway alteration.",
+        "source": "https://asm.org/home-page/featured/toxoplasma-made-me-do-it-how-parasites-influence-b"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The behavioral shifts serve a specific evolutionary purpose (making rodents fearless of cats to complete the parasite's lifecycle) rather than any mass-psychological manipulation agenda.",
+        "source": "https://www.medicalnewstoday.com/articles/322594"
+      }
+    ]
+  },
+  {
+    "id": "shavers-writings",
+    "sources": [
+      {
+        "title": "Richard Sharpe Shaver - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Richard_Sharpe_Shaver",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Ray Palmer and the Shaver Mystery - The Pulp",
+        "url": "https://thepulp.net/pulp-articles/ray-palmer-and-the-shaver-mystery/",
+        "type": "archive",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Sharpe_Shaver",
+    "notoriety": 30
+  },
+  {
+    "id": "porn-control",
+    "sources": [],
+    "research_note": "No dedicated source coverage found for a government-run pornography proliferation conspiracy. The theory circulates in online forums but has no Wikipedia article, news investigation, or academic treatment connecting it to documented government programs."
+  },
+  {
+    "id": "grey-goo",
+    "sources": [
+      {
+        "title": "Gray goo - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gray_goo",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Grey goo - Britannica",
+        "url": "https://www.britannica.com/technology/grey-goo",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Nanotechnology Pioneer Slays Grey Goo Myths - ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2004/06/040609072100.htm",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gray_goo",
+    "evidence_for": [
+      {
+        "text": "The scenario was coined by nanotechnology pioneer Eric Drexler in Engines of Creation (1986) and is considered a genuine theoretical possibility under known physics.",
+        "source": "https://en.wikipedia.org/wiki/Gray_goo"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Drexler himself later stated that self-replicating nanomachines are not necessary for molecular manufacturing and that nanotechnology-based fabrication can be inherently safe; uncontrolled replicators are considered highly improbable.",
+        "source": "https://www.sciencedaily.com/releases/2004/06/040609072100.htm"
+      }
+    ]
+  },
+  {
+    "id": "deathworm",
+    "sources": [
+      {
+        "title": "Mongolian death worm - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mongolian_death_worm",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Inside the Decades Long Hunt for the Mongolian Death Worm - Atlas Obscura",
+        "url": "https://www.atlasobscura.com/articles/mongolian-death-worm",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mongolian_death_worm",
+    "evidence_against": [
+      {
+        "text": "In 1983, a specimen of Tartar sand boa (Eryx tataricus) was shown to local witnesses who confirmed it matched what they described; no verifiable specimen or photograph of the actual creature has ever been recovered.",
+        "source": "https://en.wikipedia.org/wiki/Mongolian_death_worm"
+      }
+    ]
+  },
+  {
+    "id": "titanic-didnt-sink",
+    "sources": [
+      {
+        "title": "Titanic conspiracy theories - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Titanic_conspiracy_theories",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Craziest Titanic Conspiracy Theories - HISTORY",
+        "url": "https://www.history.com/articles/titanic-sinking-conspiracy-myths-jp-morgan-olympic",
+        "type": "news",
+        "stance": "debunks"
+      },
+      {
+        "title": "The sinking of the Titanic wasn't a crafty insurance con - The Skeptic",
+        "url": "https://www.skeptic.org.uk/2025/10/the-sinking-of-the-titanic-wasnt-a-crafty-insurance-con-it-was-a-real-tragedy/",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Titanic_conspiracy_theories",
+    "truth": 5,
+    "evidence_against": [
+      {
+        "text": "Artifacts recovered from the wreck bear yard construction number 401 (Titanic's build number), not 400 (Olympic's), directly disproving the ship-swap claim.",
+        "source": "https://www.history.com/articles/titanic-sinking-conspiracy-myths-jp-morgan-olympic"
+      },
+      {
+        "text": "The insurance payout of £1 million was less than Titanic's £1.5 million construction cost, making the alleged fraud a net financial loss for White Star Line.",
+        "source": "https://www.skeptic.org.uk/2025/10/the-sinking-of-the-titanic-wasnt-a-crafty-insurance-con-it-was-a-real-tragedy/"
+      }
+    ]
+  },
+  {
+    "id": "smithsonian-suppression",
+    "sources": [
+      {
+        "title": "Did the Smithsonian Destroy Thousands of Giant Human Skeletons? - Snopes",
+        "url": "https://www.snopes.com/fact-check/smithsonian-giant-skeletons/",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "Giant human skeletons - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Giant_human_skeletons",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Giant_human_skeletons",
+    "truth": 15,
+    "evidence_against": [
+      {
+        "text": "The originating 2014 claim came from the satirical website World News Daily Report; no Supreme Court ruling on Smithsonian giant skeletons exists, and the alleged AIAA organization making the claims cannot be independently verified.",
+        "source": "https://www.snopes.com/fact-check/smithsonian-giant-skeletons/"
+      }
+    ]
+  },
+  {
+    "id": "vimana",
+    "sources": [
+      {
+        "title": "Vimana - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vimana",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Vaimānika Shāstra - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vaim%C4%81nika_Sh%C4%81stra",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Vimana",
+    "evidence_for": [
+      {
+        "text": "Multiple ancient Sanskrit texts including the Mahabharata, Ramayana, and Samarangana Sutradhara describe flying craft with detailed specifications including mercury-engine propulsion.",
+        "source": "https://en.wikipedia.org/wiki/Vimana"
+      }
+    ]
+  },
+  {
+    "id": "north-korea-utopia",
+    "sources": [
+      {
+        "title": "Five crazy theories that could totally explain North Korea - Washington Post",
+        "url": "https://www.washingtonpost.com/posteverything/wp/2014/10/09/five-crazy-theories-that-could-totally-explain-north-korea/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "notoriety": 30,
+    "evidence_against": [
+      {
+        "text": "The utopia narrative originates from North Korean state propaganda; extensive defector testimonies and human rights documentation describe severe repression, famine, and political imprisonment.",
+        "source": "https://www.washingtonpost.com/posteverything/wp/2014/10/09/five-crazy-theories-that-could-totally-explain-north-korea/"
+      }
+    ]
+  },
+  {
+    "id": "planned-extinction-eco-triage",
+    "sources": [
+      {
+        "title": "Ecological triage - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ecological_triage",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ecological_triage",
+    "research_note": "Ecological triage as a conservation prioritization concept has Wikipedia coverage. The conspiracy extension (elites actively facilitating human extinction) has no dedicated external coverage; iceberg-chart lore."
+  },
+  {
+    "id": "scps-based-on-real-life",
+    "sources": [
+      {
+        "title": "SCP Foundation - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/SCP_Foundation",
+        "type": "wikipedia",
+        "stance": "debunks"
+      },
+      {
+        "title": "The SCP Foundation: Declassified - PBS Monstrum",
+        "url": "https://www.pbs.org/video/the-scp-foundation-declassified-azefrt/",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/SCP_Foundation",
+    "evidence_against": [
+      {
+        "text": "SCP Foundation administrators explicitly and frequently acknowledge the project as collaborative fiction; it originated on 4chan's /x/ board in 2007 with a single creative writing post (SCP-173) by an anonymous user.",
+        "source": "https://en.wikipedia.org/wiki/SCP_Foundation"
+      }
+    ]
+  },
+  {
+    "id": "bootes-void",
+    "sources": [
+      {
+        "title": "Boötes Void - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bo%C3%B6tes_Void",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Exploration Mysteries: Boötes Void - ExplorersWeb",
+        "url": "https://explorersweb.com/exploration-mysteries-bootes-void/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bo%C3%B6tes_Void",
+    "evidence_for": [
+      {
+        "text": "The Boötes Void spans approximately 330 million light-years and contains only ~60 known galaxies versus the ~2,000 expected by average cosmic density, a deficit that prompted alien-harvesting speculation.",
+        "source": "https://en.wikipedia.org/wiki/Bo%C3%B6tes_Void"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The prevailing scientific hypothesis is natural formation through coalescence of smaller cosmic voids over billions of years, not intelligent-civilization resource extraction.",
+        "source": "https://en.wikipedia.org/wiki/Bo%C3%B6tes_Void"
+      }
+    ]
+  },
+  {
+    "id": "extraterrestrial-benefactors",
+    "sources": [
+      {
+        "title": "UFO conspiracy theories - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/UFO_conspiracy_theories",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/UFO_conspiracy_theories",
+    "evidence_against": [
+      {
+        "text": "A February 2024 AARO (All-domain Anomaly Resolution Office) report found no evidence of extraterrestrial intelligence, alien spacecraft, or government technology-transfer agreements with non-human entities.",
+        "source": "https://en.wikipedia.org/wiki/UFO_conspiracy_theories"
+      }
+    ]
+  },
+  {
+    "id": "planned-obsolescence",
+    "sources": [
+      {
+        "title": "Planned obsolescence - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Planned_obsolescence",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Designed to break: planned obsolescence as corporate environmental crime - Springer",
+        "url": "https://link.springer.com/article/10.1007/s10611-022-10023-4",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Built to fail: is planned obsolescence really happening? - Consumers International",
+        "url": "https://www.consumersinternational.org/news-resources/blog/posts/built-to-fail-is-planned-obsolescence-really-happening/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Planned_obsolescence",
+    "truth": 65,
+    "notoriety": 65,
+    "evidence_for": [
+      {
+        "text": "The Phoebus cartel (1920s) is a documented case of major lightbulb manufacturers deliberately standardizing and shortening bulb lifespans to drive repeat purchases.",
+        "source": "https://en.wikipedia.org/wiki/Planned_obsolescence"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Planned obsolescence is a documented corporate practice but extension to deliberate government social-control policy is speculative and unsupported by evidence.",
+        "source": "https://www.consumersinternational.org/news-resources/blog/posts/built-to-fail-is-planned-obsolescence-really-happening/"
+      }
+    ]
+  },
+  {
+    "id": "antikythera-mechanism",
+    "sources": [
+      {
+        "title": "Antikythera mechanism - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Antikythera Mechanism - World History Encyclopedia",
+        "url": "https://www.worldhistory.org/Antikythera_Mechanism/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+    "truth": 78,
+    "notoriety": 65,
+    "evidence_for": [
+      {
+        "text": "The mechanism contains 30 gear wheels and could predict astronomical positions decades in advance; comparable mechanical complexity was not achieved again until medieval cathedral clocks, roughly 1,400 years later.",
+        "source": "https://en.wikipedia.org/wiki/Antikythera_mechanism"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Mainstream archaeology attributes the mechanism to Greek craftsmen around 205-60 BCE; no alien or anachronistic origin is required given documented Greek mathematical and mechanical sophistication.",
+        "source": "https://www.worldhistory.org/Antikythera_Mechanism/"
+      }
+    ]
+  },
+  {
+    "id": "dogon-tribe",
+    "sources": [
+      {
+        "title": "The Sirius Mystery - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Sirius_Mystery",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Did Ancient Aliens Impart Advanced Astronomical Knowledge to the Dogon Tribe? - Ancient Origins",
+        "url": "https://www.ancient-origins.net/news-mysterious-phenomena/did-ancient-aliens-impart-advanced-astronomical-knowledge-dogon-tribe-021403",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Sirius_Mystery",
+    "evidence_against": [
+      {
+        "text": "Anthropologist Walter van Beek's 1991 follow-up study found Dogon informants disagreed about which star was meant and confirmed they had learned of Sirius B from Griaule himself, not from ancestral tradition.",
+        "source": "https://en.wikipedia.org/wiki/The_Sirius_Mystery"
+      },
+      {
+        "text": "The Dogon knowledge closely mirrors late-1920s European astronomical speculation, suggesting cultural transfer from European expedition visitors before Griaule's fieldwork in the 1930s.",
+        "source": "https://www.ancient-origins.net/news-mysterious-phenomena/did-ancient-aliens-impart-advanced-astronomical-knowledge-dogon-tribe-021403"
+      }
+    ]
+  },
+  {
+    "id": "conspiracy-psyops",
+    "sources": [
+      {
+        "title": "Exploring psyop-based conspiracy theories on social media - Tandfonline",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2483827",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Conspiracy Theories and Disinformation Operations - Disinformation.ch",
+        "url": "https://www.disinformation.ch/Conspiracy_Theories_Disinformation_Operations.html",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Secret Government Programs, Psyops and Conspiracy Theories - Doolly",
+        "url": "https://www.doolly.com/blog/secret-government-programs-psyops-conspiracy-theories-exposed",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Documented programs like MKUltra and COINTELPRO establish a historical precedent for covert government psychological operations against civilian populations.",
+        "source": "https://www.doolly.com/blog/secret-government-programs-psyops-conspiracy-theories-exposed"
+      }
+    ]
+  },
+  {
+    "id": "new-age-esotericism",
+    "sources": [
+      {
+        "title": "New Age - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/New_Age",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/New_Age",
+    "notoriety": 55
+  },
+  {
+    "id": "akashic-records",
+    "sources": [
+      {
+        "title": "Akashic Records - Theosophy Wiki",
+        "url": "https://theosophy.wiki/en/Akashic_Records",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Akashic Records - Occult World",
+        "url": "https://occult-world.com/akashic-records/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "emergency-broadcast-neuralyzers",
+    "sources": [
+      {
+        "title": "Anti-Vaxxers Think an Emergency Phone Alert Will Cause a Zombie Apocalypse - Rolling Stone",
+        "url": "https://www.rollingstone.com/culture/culture-news/oct-4-fema-alert-test-5g-anti-vaxx-conspiracy-theory-1234838377/",
+        "type": "news",
+        "stance": "debunks"
+      },
+      {
+        "title": "Zombie Conspiracy Theories Spread Ahead of Emergency Test - Newsweek",
+        "url": "https://www.newsweek.com/conspiracy-theories-emergency-alert-test-zombies-fema-1831850",
+        "type": "news",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs-helped-build-the-pyramids",
+    "sources": [],
+    "truth": 2,
+    "research_note": "No dedicated external coverage found. The theory is scientifically impossible: non-avian dinosaurs went extinct approximately 66 million years ago, while the Egyptian pyramids were constructed roughly 4,500 years ago. No Wikipedia article, academic source, or news investigation addresses this specific claim; iceberg-chart lore only."
+  },
+  {
+    "id": "religious-hijacking",
+    "sources": [
+      {
+        "title": "CIA MKUltra Mind Control Experiments - CIA Reading Room",
+        "url": "https://www.cia.gov/readingroom/docs/CIA-RDP88-01070R000301530003-5.pdf",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project - House Oversight Committee",
+        "url": "https://oversight.house.gov/hearing/mind-control-and-accountability-uncovering-the-truth-of-the-cias-mkultra-project/",
+        "type": "government",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "CIA MKUltra (1953-1973) documented the use of LSD, hypnosis, and psychological manipulation on unwitting subjects, establishing a real precedent for covert government mind-alteration programs.",
+        "source": "https://oversight.house.gov/hearing/mind-control-and-accountability-uncovering-the-truth-of-the-cias-mkultra-project/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "MKUltra documented mind-control experiments but no declassified evidence links these programs to systematic infiltration or control of religious authorities or congregations.",
+        "source": "https://www.cia.gov/readingroom/docs/CIA-RDP88-01070R000301530003-5.pdf"
+      }
+    ]
+  },
+  {
+    "id": "staring-anxiety",
+    "sources": [
+      {
+        "title": "Screen time and mental health: ABCD Study - BMC Public Health / Springer",
+        "url": "https://link.springer.com/article/10.1186/s12889-024-20102-x",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Effects of Excessive Screen Time on Neurodevelopment - ResearchGate / Neophytou et al.",
+        "url": "https://www.researchgate.net/profile/Eliana-Neophytou/publication/337961200_Effects_of_Excessive_Screen_Time_on_Neurodevelopment_Learning_Memory_Mental_Health_and_Neurodegeneration_a_Scoping_Review/links/5e6085b0a6fdccbeba1c9934/Effects-of-Excessive-Screen-Time-on-Neurodevelopment-Learning-Memory-Mental-Health-and-Neurodegeneration-a-Scoping-Review.pdf",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Academic research links excessive passive screen time to lowered self-esteem, increased mental health issues, slowed learning, and accelerated cognitive decline risk, though effect sizes are modest.",
+        "source": "https://link.springer.com/article/10.1186/s12889-024-20102-x"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Research shows effect sizes are modest; active screen use is associated with better cognitive outcomes; no scientific basis exists for the proposed 'electromagnetic demon interface' mechanism.",
+        "source": "https://link.springer.com/article/10.1186/s12889-024-20102-x"
+      }
+    ]
+  },
+  {
+    "id": "looking-at-dark-energy",
+    "sources": [
+      {
+        "title": "Could we ever tap into dark energy as a power source? - HowStuffWorks",
+        "url": "https://science.howstuffworks.com/environmental/energy/dark-energy3.htm",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "While dark energy constitutes approximately 68% of the universe's total energy, the quantity harvestable in any local context is far too small to be beneficial or even detectable with current technology.",
+        "source": "https://science.howstuffworks.com/environmental/energy/dark-energy3.htm"
+      }
+    ]
+  },
+  {
+    "id": "aeromorphist-psyops",
+    "sources": [
+      {
+        "title": "Aeromorphist Psyops - Wondergressive",
+        "url": "https://wondergressive.com/2023/08/04/aeromorphist-psyops-exploring-the-unconventional-tactics-of-psychological-operations/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Aeromorphs are a PsyOp Theory - Know Your Meme",
+        "url": "https://knowyourmeme.com/photos/2384935-4chan",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Aeromorphists Psyops - Iceberg Database",
+        "url": "https://icebergdb.com/aeromorphists-psyops-2/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "notoriety": 15,
+    "research_note": "Theory is documented on 4chan-derived iceberg charts and a handful of blog/wiki sources. No mainstream news coverage or academic treatment found; essentially internet lore."
+  },
+  {
+    "id": "disneyland-secret-tunnels",
+    "sources": [
+      {
+        "title": "Disney utilidor system - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disney_utilidor_system",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Inside The Secret Underground World Of Tunnels Below Disney's Magic Kingdom - All That's Interesting",
+        "url": "https://allthatsinteresting.com/disney-underground-tunnels",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Disney_utilidor_system",
+    "truth": 55,
+    "evidence_for": [
+      {
+        "text": "Disney World's utilidor tunnel system is real, covers 390,000+ sq ft, and is officially documented; its existence is openly acknowledged and even offered as a paid tour.",
+        "source": "https://en.wikipedia.org/wiki/Disney_utilidor_system"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The tunnels' documented purpose is staff logistics and immersive guest experience; no credible evidence supports claims of kidnappings or covert elite activities.",
+        "source": "https://allthatsinteresting.com/disney-underground-tunnels"
+      }
+    ]
+  },
+  {
+    "id": "earth-is-bigger-than-the-sun",
+    "sources": [
+      {
+        "title": "How Do We Know the Earth Isn't Flat? We Asked a NASA Expert - NASA",
+        "url": "https://www.nasa.gov/earth/how-do-we-know-the-earth-isnt-flat-we-asked-a-nasa-expert-episode-53/",
+        "type": "government",
+        "stance": "debunks"
+      },
+      {
+        "title": "Flat Earth - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Flat_Earth",
+        "type": "wikipedia",
+        "stance": "debunks"
+      }
+    ],
+    "truth": 2,
+    "evidence_against": [
+      {
+        "text": "The Sun is approximately 109 Earth-diameters across; this is confirmed independently by parallax measurement, solar physics, stellar observation, and spacecraft imagery from dozens of space agencies globally.",
+        "source": "https://www.nasa.gov/earth/how-do-we-know-the-earth-isnt-flat-we-asked-a-nasa-expert-episode-53/"
+      }
+    ]
+  },
+  {
+    "id": "ocean-doesnt-exist",
+    "sources": [
+      {
+        "title": "Ocean - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ocean",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Say Ocean, not oceans: Why there is only one Ocean - Ocean Generation",
+        "url": "https://oceangeneration.org/ocean-not-oceans/",
+        "type": "news",
+        "stance": "supports"
+      },
+      {
+        "title": "Borders of the oceans - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Borders_of_the_oceans",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ocean",
+    "truth": 35,
+    "evidence_for": [
+      {
+        "text": "Oceanographers describe a single interconnected World Ocean; the five named oceans are administrative and geographic subdivisions of one continuous body of saltwater, openly acknowledged in oceanographic literature.",
+        "source": "https://oceangeneration.org/ocean-not-oceans/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Separating oceans is a practical navigational and scientific convention that is publicly documented, not a concealed singular-entity revelation; the interconnection is freely taught in schools.",
+        "source": "https://en.wikipedia.org/wiki/Ocean"
+      }
+    ]
+  },
+  {
+    "id": "hivemind-induction",
+    "sources": [
+      {
+        "title": "Cybernetic Hive Minds: A Review - MDPI AI",
+        "url": "https://www.mdpi.com/2673-2688/3/2/27",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Electronic hive minds on social media - APA PsycNet",
+        "url": "https://psycnet.apa.org/record/2019-36200-000",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Peer-reviewed research on 'electronic hive minds' documents that social media algorithms facilitate homogenization of opinion, group-think, and reduced individual epistemic autonomy.",
+        "source": "https://psycnet.apa.org/record/2019-36200-000"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Documented social media influence effects are emergent algorithmic phenomena, not evidence of an intentional, deliberate consciousness-merger program by coordinating tech corporations.",
+        "source": "https://www.mdpi.com/2673-2688/3/2/27"
+      }
+    ]
+  }
+]

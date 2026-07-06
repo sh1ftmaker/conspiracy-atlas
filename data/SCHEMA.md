@@ -13,12 +13,53 @@ Every theory is one object in `data/theories.json`. Fields:
 | `impact` | int 0–100 | If it were TRUE, how world-altering. See rubric. |
 | `notoriety` | int 0–100 | How widely known (drives point size). |
 | `summary` | string | 1–3 sentence neutral description of the claim. |
-| `evidence_for` | string[] | Points cited by proponents / genuine anomalies. |
-| `evidence_against` | string[] | Debunkings, refutations, mainstream explanation. |
+| `evidence_for` | (string \| evidence)[] | Points cited by proponents / genuine anomalies. |
+| `evidence_against` | (string \| evidence)[] | Debunkings, refutations, mainstream explanation. |
+
+An `evidence` item links a claim to the source that documents it:
+`{"text": "2023 DOJ OIG report found no evidence of foul play", "source": "https://oig.justice.gov/..."}`.
+Plain strings are still valid (legacy / no source yet); prefer the object form
+whenever a source exists, and the `source` URL should also appear in `sources`.
 | `related` | string[] | ids of thematically related theories (undirected). |
 | `depends_on` | string[] | ids this theory **requires to be true** (load-bearing, directed). |
 | `wikidata` | string? | Q-id if known. |
 | `wikipedia` | string? | URL if known. |
+| `sources` | source[] | Structured citations, see below. Open-ended — add as many as exist. |
+| `research_note` | string? | Free-text provenance note (e.g. "no external coverage found; iceberg-chart lore only"). |
+
+## `sources` entries
+
+```json
+{ "title": "Jeffrey Epstein — Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Jeffrey_Epstein",
+  "type": "wikipedia",
+  "stance": "documents" }
+```
+
+- `type`: `wikipedia` | `news` | `academic` | `government` | `debunker` (Snopes, RationalWiki…) | `book` | `archive` | `lore` (fan wikis, iceberg explainers — for entries that exist only as internet folklore).
+- `stance`: `documents` (neutral coverage of the theory's existence) | `supports` (presents evidence for the claim) | `debunks`.
+- URLs must be real pages that were actually visited/seen in search results — never constructed from memory.
+
+## Research overlays (`data/research/*.json`) — how to contribute
+
+Base records live in `data/theories.seed.json` and `data/enriched/batch_*.json`.
+**Don't edit those to add sources.** Instead drop a new file in `data/research/`
+containing an array of *partial* records:
+
+```json
+[ { "id": "epstein-killed",
+    "sources": [ ... ],
+    "truth": 55,
+    "evidence_against": ["2023 DOJ OIG report found no evidence of foul play"] } ]
+```
+
+`build.py` applies overlays on top of the base records: scalar fields
+(`truth`, `notoriety`, `summary`, `wikipedia`, …) overwrite; `evidence_for`/
+`evidence_against` append (deduplicated, capped at 8); `sources` append
+(deduplicated by URL). Later overlay files win over earlier ones
+(alphabetical order). One id can appear in many overlay files — that's the
+point: research accumulates modularly, and community contributions are just
+new overlay files.
 
 ## Truth rubric (X axis)
 - **0–10 Debunked** — flat earth, moon-landing hoax, reptilians.

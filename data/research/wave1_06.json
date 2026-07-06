@@ -1,0 +1,777 @@
+[
+  {
+    "id": "oneworldness",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only"
+  },
+  {
+    "id": "fukushimas-gateway",
+    "sources": [
+      {
+        "title": "FUKUSHIMA & NUTTY NUCLEAR CONSPIRACY THEORIES",
+        "url": "https://nuclear.foe.org.au/wp-content/uploads/Fukushima-Geoff-Russell-conspiracy.pdf",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "Skeptoid: More Fukushima Scaremongering Debunked",
+        "url": "https://skeptoid.com/blog/2013/10/28/more-fukushima-scaremongering-debunked/",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "year": 2011,
+    "truth": 15,
+    "evidence_against": [
+      {
+        "text": "Multiple fact-checkers and scientists have debunked Fukushima conspiracy narratives; the disaster resulted from the 2011 tsunami disabling cooling systems, not an intentional event.",
+        "source": "https://skeptoid.com/blog/2013/10/28/more-fukushima-scaremongering-debunked/"
+      }
+    ]
+  },
+  {
+    "id": "grand-nuclear-cryptid-theory",
+    "sources": [
+      {
+        "title": "UFO sightings linked with nuclear weapons testing, US study claims",
+        "url": "https://interestingengineering.com/space/ufo-reports-nuclear-weapons-tests-link",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "truth": 15,
+    "evidence_for": [
+      {
+        "text": "A US study found transient aerial phenomena were 45% more likely to be observed within a day of a nuclear weapons test, suggesting an unexplained statistical correlation.",
+        "source": "https://interestingengineering.com/space/ufo-reports-nuclear-weapons-tests-link"
+      }
+    ]
+  },
+  {
+    "id": "lottery-exists-to-catch-time-travelers",
+    "sources": [
+      {
+        "title": "Why some people think the lottery was invented for time travelers",
+        "url": "https://www.lotteryusa.com/news/why-people-think-lottery-invented-time-travelers",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "truth": 5,
+    "notoriety": 30
+  },
+  {
+    "id": "warfare-is-obsolete",
+    "sources": [
+      {
+        "title": "Proxy Wars - How Major Powers Fight Without Direct Conflict",
+        "url": "https://defensefeeds.com/analysis/conflicts/proxy-war/",
+        "type": "news",
+        "stance": "debunks"
+      },
+      {
+        "title": "In Pursuit of a General Theory of Proxy Warfare",
+        "url": "https://www.ausa.org/publications/pursuit-general-theory-proxy-warfare",
+        "type": "academic",
+        "stance": "debunks"
+      }
+    ],
+    "truth": 10,
+    "evidence_against": [
+      {
+        "text": "Proxy warfare is the predominant form of modern conflict; major powers continue to wage war through intermediaries, showing warfare has evolved rather than become obsolete.",
+        "source": "https://www.ausa.org/publications/pursuit-general-theory-proxy-warfare"
+      }
+    ]
+  },
+  {
+    "id": "psyops-dont-exist",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only"
+  },
+  {
+    "id": "contemporary-cognitohazards",
+    "sources": [
+      {
+        "title": "Infohazard vs. Cognitohazard - What's the Difference?",
+        "url": "https://www.askdifference.com/infohazard-vs-cognitohazard/",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "A point of clarification on infohazard terminology",
+        "url": "https://www.lesswrong.com/posts/Rut5wZ7qyHoj3dj4k/a-point-of-clarification-on-infohazard-terminology",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "truth": 20,
+    "evidence_for": [
+      {
+        "text": "Nick Bostrom's 2011 infohazard framework identifies belief hazards - true or false information that causes harm through psychological effects - as a formally recognised class.",
+        "source": "https://www.lesswrong.com/posts/Rut5wZ7qyHoj3dj4k/a-point-of-clarification-on-infohazard-terminology"
+      }
+    ]
+  },
+  {
+    "id": "vertical-universe",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only"
+  },
+  {
+    "id": "5th-dimensional-astral-projection",
+    "sources": [
+      {
+        "title": "Astral projection - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Astral_projection",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Astral_projection",
+    "truth": 15
+  },
+  {
+    "id": "prophecies-enforcing-agency",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only"
+  },
+  {
+    "id": "prophecies-are-cognitohazards",
+    "sources": [
+      {
+        "title": "Self-fulfilling prophecy - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Self-fulfilling_prophecy",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Cognitohazards pt 1 - An Introduction to Infohazards",
+        "url": "https://www.zevulsarcanum.com/post/cognitohazards-pt-1---an-introduction-to-infohazards",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Self-fulfilling_prophecy",
+    "truth": 30,
+    "evidence_for": [
+      {
+        "text": "Self-fulfilling prophecy is a well-documented psychological phenomenon: a false expectation causes behaviour that makes the expectation come true, matching the core claim that prophecies shape reality through belief.",
+        "source": "https://en.wikipedia.org/wiki/Self-fulfilling_prophecy"
+      }
+    ]
+  },
+  {
+    "id": "consciousness-beamed-from-moon-base",
+    "sources": [
+      {
+        "title": "Fact or Fiction: Is There a Secret Base on the Dark Side of the Moon?",
+        "url": "https://vocal.media/01/fact-or-fiction-is-there-a-secret-base-on-the-dark-side-of-the-moon",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "truth": 10,
+    "evidence_against": [
+      {
+        "text": "China's Chang'e-4 mission landed on the lunar far side in 2019 and found no evidence of artificial structures, alien bases, or monitoring equipment.",
+        "source": "https://vocal.media/01/fact-or-fiction-is-there-a-secret-base-on-the-dark-side-of-the-moon"
+      }
+    ]
+  },
+  {
+    "id": "post-reset-operation-blue-beam",
+    "sources": [
+      {
+        "title": "What Is Project Blue Beam? Conspiracy Theory Over Drones",
+        "url": "https://www.newsweek.com/what-project-blue-beam-conspiracy-theory-erupts-over-drones-2001051",
+        "type": "news",
+        "stance": "debunks"
+      },
+      {
+        "title": "Project Blue Beam: The 1990s Conspiracy Theory That Told of Hologram Alien Invasions",
+        "url": "https://www.iflscience.com/project-blue-beam-the-1990s-conspiracy-theory-that-told-of-hologram-alien-invasions-and-a-new-world-order-83240",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "What Is Operation Blue Beam? Origins, Stages, and Claims",
+        "url": "https://legalclarity.org/what-is-operation-blue-beam-origins-stages-and-claims/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "truth": 20,
+    "notoriety": 45,
+    "evidence_against": [
+      {
+        "text": "Projecting convincing sky-wide holograms globally is beyond current or near-future technology; no credible documentation or whistleblower testimony has ever supported Project Blue Beam's existence.",
+        "source": "https://www.iflscience.com/project-blue-beam-the-1990s-conspiracy-theory-that-told-of-hologram-alien-invasions-and-a-new-world-order-83240"
+      }
+    ]
+  },
+  {
+    "id": "soul-entrapment",
+    "sources": [
+      {
+        "title": "The Reincarnation Soul-Recycling Matrix Trap - Is Earth A Soul-Entrapment Prison?",
+        "url": "https://veilofreality.com/2024/01/28/the-reincarnation-soul-recycling-matrix-trap-is-earth-a-soul-entrapment-prison/",
+        "type": "lore",
+        "stance": "supports"
+      },
+      {
+        "title": "The Soul Trap, the Matrix, and the Simulation",
+        "url": "https://medium.com/@findinggnosis/the-soul-trap-the-matrix-and-the-simulation-ancient-truths-in-modern-disguise-f13a4f690d72",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "truth": 15,
+    "notoriety": 30
+  },
+  {
+    "id": "panurgic-men",
+    "sources": [
+      {
+        "title": "Panurgic Men - Iceberg Database",
+        "url": "https://icebergdb.com/panurgic-men-7/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "truth": 15,
+    "notoriety": 20
+  },
+  {
+    "id": "quantum-coagulation",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only"
+  },
+  {
+    "id": "elite-controls-the-population-with-their-permission",
+    "sources": [
+      {
+        "title": "New World Order conspiracy theory - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/New_World_Order_conspiracy_theory",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Population control - JITSUVAX",
+        "url": "https://jitsuvax.info/conspiracist-ideation/population-control/",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/New_World_Order_conspiracy_theory",
+    "truth": 15,
+    "notoriety": 55
+  },
+  {
+    "id": "class-divided-propaganda",
+    "sources": [],
+    "research_note": "no external coverage found for this specific framing; broader research on digital divide and media inequality exists but does not document this named theory"
+  },
+  {
+    "id": "bugsy",
+    "sources": [
+      {
+        "title": "Bugsy - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bugsy",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Bugsy movie review & film summary - Roger Ebert",
+        "url": "https://www.rogerebert.com/reviews/bugsy-1991",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bugsy",
+    "truth": 20,
+    "evidence_for": [
+      {
+        "text": "Critics noted the film presents an idealized, glamorous portrayal of mobster Bugsy Siegel and Las Vegas's founding, which some argue romanticises the city's criminal origins.",
+        "source": "https://www.rogerebert.com/reviews/bugsy-1991"
+      }
+    ]
+  },
+  {
+    "id": "mass-media-reality-control",
+    "sources": [
+      {
+        "title": "How the Mass Media Controls Consensus Reality",
+        "url": "https://wakingtimes.com/2017/10/19/mass-media-controls-consensus-reality",
+        "type": "lore",
+        "stance": "supports"
+      },
+      {
+        "title": "Mass Media Mind Control",
+        "url": "https://www.gaia.com/article/mass-media-mind-control",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "truth": 25
+  },
+  {
+    "id": "timecube",
+    "sources": [
+      {
+        "title": "Time Cube - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Time_Cube",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Time Cube | Know Your Meme",
+        "url": "https://knowyourmeme.com/memes/the-time-cube",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Gene Ray - RationalWiki",
+        "url": "https://rationalwiki.org/wiki/Gene_Ray",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Time_Cube",
+    "truth": 5,
+    "notoriety": 55,
+    "year": 1997,
+    "evidence_against": [
+      {
+        "text": "Gene Ray's original Time Cube (1997) posited four simultaneous days per Earth rotation - a pseudoscientific claim with no mathematical support; the iceberg version adapts the name for a distinct four-universe theory.",
+        "source": "https://en.wikipedia.org/wiki/Time_Cube"
+      }
+    ]
+  },
+  {
+    "id": "reality-oscillation",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only"
+  },
+  {
+    "id": "technocracy-theory",
+    "sources": [
+      {
+        "title": "Technocracy movement - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Technocracy_movement",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Technocracy, Fear-Mongers, and the Conspiracy",
+        "url": "https://brownstone.org/articles/technocracy-fear-mongers-and-the-conspiracy/",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Technocracy_movement",
+    "truth": 30,
+    "notoriety": 45,
+    "evidence_for": [
+      {
+        "text": "Technocracy as a political concept has a documented movement history from the 1930s; contemporary academics raise concerns about algorithmic governance reducing meaningful human decision-making.",
+        "source": "https://en.wikipedia.org/wiki/Technocracy_movement"
+      }
+    ]
+  },
+  {
+    "id": "demonic-technocracy",
+    "sources": [
+      {
+        "title": "Telecommunications and the occult | National Science and Media Museum",
+        "url": "https://www.scienceandmediamuseum.org.uk/objects-and-stories/telecommunications-and-occult",
+        "type": "archive",
+        "stance": "documents"
+      },
+      {
+        "title": "Technology and the Demonic",
+        "url": "https://theforestrebellion.substack.com/p/technology-and-the-demonic",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "truth": 10,
+    "evidence_for": [
+      {
+        "text": "Historically, early telegraph lines were popularly associated with spiritualism and the occult; physicist Sir Oliver Lodge was simultaneously a wireless pioneer and president of the London Society for Psychical Research.",
+        "source": "https://www.scienceandmediamuseum.org.uk/objects-and-stories/telecommunications-and-occult"
+      }
+    ]
+  },
+  {
+    "id": "wetiko",
+    "sources": [
+      {
+        "title": "Wetiko: the Virus of Selfishness According to Native Americans",
+        "url": "https://exploringyourmind.com/wetiko-virus-selfishness-native-americans/",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Seeing Wetiko: On Capitalism, Mind Viruses, and Antidotes for a World in Transition",
+        "url": "https://kosmosjournal.org/article/seeing-wetiko-on-capitalism-mind-viruses-and-antidotes-for-a-world-in-transition/",
+        "type": "lore",
+        "stance": "supports"
+      },
+      {
+        "title": "Dispelling Wetiko: Breaking the Curse of Evil",
+        "url": "https://www.theosophical.org/publications/quest-magazine/dispelling-wetiko-breaking-the-curse-of-evil",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "truth": 40,
+    "notoriety": 45,
+    "evidence_for": [
+      {
+        "text": "Wetiko (cognate Windigo) is a documented concept in Algonquin traditions describing a psychospiritual condition of destructive selfishness; indigenous author Jack Forbes examined it in Columbus and Other Cannibals.",
+        "source": "https://kosmosjournal.org/article/seeing-wetiko-on-capitalism-mind-viruses-and-antidotes-for-a-world-in-transition/"
+      }
+    ]
+  },
+  {
+    "id": "ancestral-vengeance",
+    "sources": [
+      {
+        "title": "Tulpa - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tulpa",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Tulpas, Ghost Hunting & The Paranormal Phenomenon Of Thought-Created Beings",
+        "url": "https://www.higgypop.com/news/tulpas-and-ghost-hunting/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tulpa",
+    "truth": 15
+  },
+  {
+    "id": "water-is-not-from-earth",
+    "sources": [
+      {
+        "title": "Study Offers New Insights into Extraterrestrial Origins of Earth's Water",
+        "url": "https://www.sci.news/space/earths-water-extraterrestrial-origins-11749.html",
+        "type": "news",
+        "stance": "supports"
+      },
+      {
+        "title": "Scientists find evidence that overturns theories of the origin of water on Earth",
+        "url": "https://www.ox.ac.uk/news/2025-04-16-scientists-find-evidence-overturns-theories-origin-water-earth",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Extraterrestrial liquid water - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Extraterrestrial_liquid_water",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Extraterrestrial_liquid_water",
+    "truth": 65,
+    "notoriety": 50,
+    "evidence_for": [
+      {
+        "text": "Multiple peer-reviewed studies support the hypothesis that Earth's water arrived via outer-solar-system asteroid/comet bombardment; grain analysis from asteroid Itokawa supports extraterrestrial water delivery.",
+        "source": "https://www.sci.news/space/earths-water-extraterrestrial-origins-11749.html"
+      },
+      {
+        "text": "Oxford University research (April 2025) found Earth's primordial material was richer in hydrogen than previously believed, reinforcing that water has non-local origins.",
+        "source": "https://www.ox.ac.uk/news/2025-04-16-scientists-find-evidence-overturns-theories-origin-water-earth"
+      }
+    ]
+  },
+  {
+    "id": "runescape-conspiracies",
+    "sources": [
+      {
+        "title": "Runescape Conspiracies (Nyc) - Iceberg Database",
+        "url": "https://icebergdb.com/runescape-conspiracies-nyc",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "truth": 10,
+    "notoriety": 20
+  },
+  {
+    "id": "concrete-people-of-callugasi",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only"
+  },
+  {
+    "id": "involuntary-cognitohazards",
+    "sources": [
+      {
+        "title": "Cognitohazard | SCP Database Wiki | Fandom",
+        "url": "https://scp-db.fandom.com/wiki/Cognitohazard",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "A point of clarification on infohazard terminology",
+        "url": "https://www.lesswrong.com/posts/Rut5wZ7qyHoj3dj4k/a-point-of-clarification-on-infohazard-terminology",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "truth": 15
+  },
+  {
+    "id": "codification",
+    "sources": [
+      {
+        "title": "Gerrymandering Explained | Brennan Center for Justice",
+        "url": "https://www.brennancenter.org/our-work/research-reports/gerrymandering-explained",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Gerrymandering - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gerrymandering",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerrymandering",
+    "truth": 65,
+    "notoriety": 50,
+    "evidence_for": [
+      {
+        "text": "Gerrymandering - manipulating district boundaries to favour specific electoral outcomes - is a thoroughly documented, real political practice employed by both major US parties.",
+        "source": "https://www.brennancenter.org/our-work/research-reports/gerrymandering-explained"
+      }
+    ]
+  },
+  {
+    "id": "false-gerrymandering",
+    "sources": [
+      {
+        "title": "Gerrymandering Explained | Brennan Center for Justice",
+        "url": "https://www.brennancenter.org/our-work/research-reports/gerrymandering-explained",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "truth": 5,
+    "evidence_against": [
+      {
+        "text": "Redistricting is a studied, partisan political practice; there is no evidence it is deployed as a centralised government scheme to manage population through forced migration.",
+        "source": "https://www.brennancenter.org/our-work/research-reports/gerrymandering-explained"
+      }
+    ]
+  },
+  {
+    "id": "inverted-humans",
+    "sources": [],
+    "research_note": "no external coverage found for this specific conspiracy; inverted figures appear in various spiritual art traditions but no source documents this as a named conspiracy theory"
+  },
+  {
+    "id": "italian-language",
+    "sources": [
+      {
+        "title": "Italian Languages and DNA Shaping Techniques: A Journey into Linguistic Genetics",
+        "url": "https://wondergressive.com/2023/08/23/italian-languages-and-dna-shaping-techniques-a-journey-into-linguistic-genetics/",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "truth": 10,
+    "notoriety": 15,
+    "evidence_against": [
+      {
+        "text": "Scientific research shows genes and language are transmitted through separate pathways; Italian-speaking populations show no unique genetic markers attributable to language use.",
+        "source": "https://wondergressive.com/2023/08/23/italian-languages-and-dna-shaping-techniques-a-journey-into-linguistic-genetics/"
+      }
+    ]
+  },
+  {
+    "id": "sanctified-speech",
+    "sources": [
+      {
+        "title": "Language: Sacred Language | Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/language-sacred-language",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "truth": 15
+  },
+  {
+    "id": "saint-olvins-creations",
+    "sources": [
+      {
+        "title": "Schnell Online: The Ghost MMO That Harvests Minds on the Dark Web",
+        "url": "https://wondergressive.com/2023/08/23/schnell-online-the-unfinished-legacy-of-saint-olvin/",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "/x/ - Paranormal: original Schnell Online thread",
+        "url": "https://archive.4plebs.org/x/thread/20543957/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "truth": 15,
+    "notoriety": 20,
+    "evidence_for": [
+      {
+        "text": "The Schnell Online legend originated in a 4chan /x/ post in 2018 and grew into an internet creepypasta about a suppressed MMO linked to dark web activity and developer Olvin Weplanis (alias: Saint).",
+        "source": "https://wondergressive.com/2023/08/23/schnell-online-the-unfinished-legacy-of-saint-olvin/"
+      }
+    ]
+  },
+  {
+    "id": "90-of-books-written-by-one-author",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only"
+  },
+  {
+    "id": "extradimensional-homogeneity",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only"
+  },
+  {
+    "id": "anti-earth-biology",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only"
+  },
+  {
+    "id": "holy-grail-found-centuries-ago",
+    "sources": [
+      {
+        "title": "Holy Grail - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Holy_Grail",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The True Story Behind The Holy Grail",
+        "url": "https://allthatsinteresting.com/holy-grail",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "10 Fascinating Holy Grail Theories That Will Leave You Intrigued",
+        "url": "https://milliondollarsense.com/fascinating-holy-grail-theories",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Holy_Grail",
+    "truth": 10,
+    "evidence_against": [
+      {
+        "text": "Medieval historian Carlos de Ayala states the Grail legend is a 12th-century literary invention with no historical basis; no excavation has produced credible physical evidence of the Grail.",
+        "source": "https://allthatsinteresting.com/holy-grail"
+      }
+    ]
+  },
+  {
+    "id": "essence-consumption-essence-feeding",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only"
+  },
+  {
+    "id": "bovine-hormone-conditioning",
+    "sources": [
+      {
+        "title": "Opposition to the Use of Hormone Growth Promoters in Beef and Dairy Cattle Production - APHA",
+        "url": "https://www.apha.org/policy-and-advocacy/public-health-policy-briefs/policy-database/2014/07/09/13/42/opposition-to-the-use-of-hormone-growth-promoters-in-beef-and-dairy-cattle-production",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Recombinant Bovine Growth Hormone | American Cancer Society",
+        "url": "https://www.cancer.org/cancer/risk-prevention/chemicals/recombinant-bovine-growth-hormone.html",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Bovine somatotropin - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bovine_somatotropin",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bovine_somatotropin",
+    "truth": 30,
+    "notoriety": 40,
+    "evidence_for": [
+      {
+        "text": "The American Public Health Association formally opposes hormone growth promoters in cattle, citing concerns over elevated IGF-1 levels linked to cancer risk and increased antibiotic-resistant bacteria.",
+        "source": "https://www.apha.org/policy-and-advocacy/public-health-policy-briefs/policy-database/2014/07/09/13/42/opposition-to-the-use-of-hormone-growth-promoters-in-beef-and-dairy-cattle-production"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The FDA, WHO, and NIH have independently concluded that meat and dairy from rBST-treated cows is safe for human consumption; evidence for significant population harm is not conclusive.",
+        "source": "https://www.cancer.org/cancer/risk-prevention/chemicals/recombinant-bovine-growth-hormone.html"
+      }
+    ]
+  },
+  {
+    "id": "clone-consumption",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only"
+  },
+  {
+    "id": "xra-psyops",
+    "sources": [
+      {
+        "title": "Xavier: Renegade Angel - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Xavier:_Renegade_Angel",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Xavier:_Renegade_Angel",
+    "truth": 10,
+    "evidence_against": [
+      {
+        "text": "Show co-creator Vernon Chatman described it as a warning about the dangers of spirituality; no evidence of psyop intent or ties to cult promotion has been documented.",
+        "source": "https://en.wikipedia.org/wiki/Xavier:_Renegade_Angel"
+      }
+    ]
+  },
+  {
+    "id": "media-division",
+    "sources": [
+      {
+        "title": "Publics in Emerging Economies Worry Social Media Sow Division",
+        "url": "https://www.pewresearch.org/internet/2019/05/13/publics-in-emerging-economies-worry-social-media-sow-division-even-as-they-offer-new-chances-for-political-engagement/",
+        "type": "academic",
+        "stance": "supports"
+      },
+      {
+        "title": "The algorithm has primacy over media - Harvard Law School",
+        "url": "https://hls.harvard.edu/today/the-algorithm-has-primacy-over-media-over-each-of-us-and-it-controls-what-we-do/",
+        "type": "academic",
+        "stance": "supports"
+      },
+      {
+        "title": "How social media polarizes us | Allianz",
+        "url": "https://www.allianz.com/en/mediacenter/news/articles/241118-how-social-media-polarizes-us-by-christopher-andrew-bail.html",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "truth": 40,
+    "notoriety": 45,
+    "evidence_for": [
+      {
+        "text": "64% of Americans believe social media platforms do more to divide than unite; research confirms algorithms maximise engagement by amplifying outrageous and divisive content.",
+        "source": "https://hls.harvard.edu/today/the-algorithm-has-primacy-over-media-over-each-of-us-and-it-controls-what-we-do/"
+      }
+    ]
+  }
+]

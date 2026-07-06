@@ -56,6 +56,53 @@ for bf in sorted(glob.glob(p("data", "enriched", "batch_*.json"))):
     for r in data:
         add(r, os.path.basename(bf))
 
+def ev_text(x):
+    """Evidence items are either a plain string or {"text": ..., "source": url}."""
+    if isinstance(x, str):
+        return x
+    if isinstance(x, dict):
+        return x.get("text") or ""
+    return ""
+
+# ---- apply research overlays (data/research/*.json) ----
+# Overlay files are arrays of PARTIAL records keyed by id: scalars overwrite,
+# evidence arrays append (deduped), sources append (deduped by url). This is
+# the contribution path for source research: drop a new overlay file, rebuild.
+for rf in sorted(glob.glob(p("data", "research", "*.json"))):
+    try:
+        data = load(rf)
+    except Exception as e:
+        warnings.append(f"could not parse {os.path.basename(rf)}: {e}")
+        continue
+    for o in data:
+        rid = o.get("id")
+        r = records.get(rid)
+        if not r:
+            warnings.append(f"{os.path.basename(rf)}: unknown id '{rid}'")
+            continue
+        for fld in ("summary", "wikipedia", "wikidata", "year",
+                    "truth", "impact", "notoriety", "research_note"):
+            if fld in o and o[fld] not in (None, ""):
+                r[fld] = o[fld]
+        for fld in ("evidence_for", "evidence_against"):
+            if isinstance(o.get(fld), list):
+                base = [x for x in (r.get(fld) or []) if ev_text(x)]
+                seen = {ev_text(x).strip().lower() for x in base}
+                for x in o[fld]:
+                    key = ev_text(x).strip().lower()
+                    if key and key not in seen:
+                        base.append(x)
+                        seen.add(key)
+                r[fld] = base[:8]
+        if isinstance(o.get("sources"), list):
+            cur = r.get("sources") if isinstance(r.get("sources"), list) else []
+            urls = {s.get("url") for s in cur if isinstance(s, dict)}
+            for s_ in o["sources"]:
+                if isinstance(s_, dict) and s_.get("url") and s_["url"] not in urls:
+                    cur.append({k: s_[k] for k in ("title", "url", "type", "stance") if k in s_})
+                    urls.add(s_["url"])
+            r["sources"] = cur
+
 # ---- validate / normalize ----
 def clampi(v, lo, hi, default):
     try:
@@ -83,9 +130,11 @@ for rid in order:
     r["year"] = clampi(r.get("year"), -3000, 2100, 2000)
     for fld in ("summary",):
         r.setdefault(fld, "")
-    for fld in ("evidence_for", "evidence_against", "related", "depends_on"):
+    for fld in ("evidence_for", "evidence_against", "related", "depends_on", "sources"):
         v = r.get(fld)
         r[fld] = v if isinstance(v, list) else []
+    for fld in ("evidence_for", "evidence_against"):
+        r[fld] = [x for x in r[fld] if ev_text(x).strip()]
 
 ids = set(records)
 
@@ -131,9 +180,12 @@ def status_of(t):
         if s["min"] <= t <= s["max"]:
             return s["label"]
     return "?"
+sourced = 0
 for r in theories:
     by_genre[r["genre"]] = by_genre.get(r["genre"], 0) + 1
     by_status[status_of(r["truth"])] = by_status.get(status_of(r["truth"]), 0) + 1
+    if r["sources"] or r.get("wikipedia"):
+        sourced += 1
 
 out = {
     "meta": {
@@ -143,6 +195,7 @@ out = {
         "impact_scale": tax["impact_scale"],
         "by_genre": by_genre,
         "by_status": by_status,
+        "sourced": sourced,
     },
     "theories": theories,
 }

@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "most-drugs-are-benevolent",
+    "sources": [
+      {
+        "title": "Arguments for and against drug prohibition - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Arguments_for_and_against_drug_prohibition",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Beyond Prohibition of Plant Medicines",
+        "url": "https://chacruna.net/beyond-prohibition-of-plant-medicines/",
+        "type": "news",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Arguments_for_and_against_drug_prohibition",
+    "evidence_for": [
+      {
+        "text": "Most psychoactive drugs now prohibited in modern societies had documented medical uses historically, including opium, coca, cannabis, mescaline, and psilocybin, spanning thousands of years across multiple cultures.",
+        "source": "https://en.wikipedia.org/wiki/Arguments_for_and_against_drug_prohibition"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The drug prohibition debate acknowledges documented harms from many prohibited substances; 'most drugs are benevolent' ignores substantial evidence of addiction, toxicity, and overdose mortality.",
+        "source": "https://en.wikipedia.org/wiki/Arguments_for_and_against_drug_prohibition"
+      }
+    ]
+  },
+  {
+    "id": "perception-monopoly",
+    "sources": [
+      {
+        "title": "Are You An NPC? The NPC Theory Explained",
+        "url": "https://aglowlifestyle.com/npc-theory/",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "The politics of the NPC meme: Reactionary subcultural practice and vernacular theory",
+        "url": "https://journals.sagepub.com/doi/10.1177/20539517231172422",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Academic analysis identifies the NPC meme as a reactionary political frame that reduces political opponents to automatons; no evidence supports the claim that elites actually monopolise reality-altering power by concentrating soulless NPCs.",
+        "source": "https://journals.sagepub.com/doi/10.1177/20539517231172422"
+      }
+    ]
+  },
+  {
+    "id": "everest-cover-ups",
+    "sources": [
+      {
+        "title": "10 Mysterious And Creepy Events On Mount Everest",
+        "url": "https://listverse.com/2017/07/02/10-mysterious-and-creepy-events-on-mount-everest/",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Mystery surrounds disappearance of bodies on Mount Everest",
+        "url": "https://www.unexplained-mysteries.com/news/376618/mystery-surrounds-disappearance-of-bodies-on-mount-everest",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Multiple accounts document anomalous body preservation or disappearance on Everest—some mummified in proximity to decomposed remains—fuelling claims that environmental variation alone does not fully explain the phenomena.",
+        "source": "https://listverse.com/2017/07/02/10-mysterious-and-creepy-events-on-mount-everest/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Extreme cold and dry air preserve most Everest bodies as mummies; differential decomposition results from variable sun exposure, wind, and microbiological activity—standard environmental factors without need for supernatural explanation.",
+        "source": "https://www.unexplained-mysteries.com/news/376618/mystery-surrounds-disappearance-of-bodies-on-mount-everest"
+      }
+    ]
+  },
+  {
+    "id": "towel-conspiracy",
+    "sources": [
+      {
+        "title": "Woman finds iPhone secretly filming her in bathroom's paper towel dispenser",
+        "url": "https://www.dailydot.com/news/woman-finds-iphone-filming-in-paper-towel-dispenser/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "A documented criminal case confirmed an iPhone was hidden inside a restaurant bathroom paper towel dispenser actively recording a woman, proving the concealment method is operationally viable.",
+        "source": "https://www.dailydot.com/news/woman-finds-iphone-filming-in-paper-towel-dispenser/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Confirmed cases involve individual criminal actors—no documented evidence exists of a systematic government infrastructure deploying bathroom dispensers for mass totalitarian surveillance.",
+        "source": "https://www.dailydot.com/news/woman-finds-iphone-filming-in-paper-towel-dispenser/"
+      }
+    ]
+  },
+  {
+    "id": "all-religions-are-the-same",
+    "sources": [
+      {
+        "title": "Perennial philosophy - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Perennial_philosophy",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Perennial_philosophy",
+    "evidence_for": [
+      {
+        "text": "The perennial philosophy—traced from Renaissance thinkers through Aldous Huxley—argues that world religions share a common metaphysical origin and converging truths, supported by centuries of comparative religious scholarship.",
+        "source": "https://en.wikipedia.org/wiki/Perennial_philosophy"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Comparative scholars note major doctrinal incompatibilities between world religions; the single-source hypothesis is a philosophical position without archaeological or historical proof of an alien or primordial ur-religion.",
+        "source": "https://en.wikipedia.org/wiki/Perennial_philosophy"
+      }
+    ]
+  },
+  {
+    "id": "advanced-cryptozoology",
+    "sources": [
+      {
+        "title": "Interdimensional: Consciousness, Cryptids And The Hidden Architecture Of Reality",
+        "url": "https://www.bigfoottimes.net/books/interdimensional-consciousness-cryptids-and-the-hidden-architecture-of-reality/",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "id": "2006-volleyball-incident",
+    "sources": [
+      {
+        "title": "2006 Volleyball Incident - Know Your Meme",
+        "url": "https://knowyourmeme.com/memes/2006-volleyball-incident",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "The '2006 Volleyball Incident' — The Mysterious School Shooting that Never Happened",
+        "url": "https://www.curiousarchive.com/2006-volleyball-incident/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "No news reports of a mass shooting at a volleyball game with 14–24 casualties were published in 2006; the story originated in a 2017 4chan /pol/ post and spread as an internet phenomenon with no verifiable documentation.",
+        "source": "https://www.curiousarchive.com/2006-volleyball-incident/"
+      },
+      {
+        "text": "Proponents' false memories likely trace to the Platte Canyon High School hostage incident on September 27, 2006, in Colorado (one student death)—a real event that could seed collective misremembering via the Mandela Effect.",
+        "source": "https://knowyourmeme.com/memes/2006-volleyball-incident"
+      }
+    ]
+  },
+  {
+    "id": "warlords-are-time-travellers",
+    "sources": [
+      {
+        "title": "Sea Peoples - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sea_Peoples",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sea_Peoples",
+    "evidence_against": [
+      {
+        "text": "The Sea Peoples remain a genuine historical mystery; mainstream archaeologists attribute their sudden emergence to Bronze Age population movements, climate change, and societal collapse—not time travel.",
+        "source": "https://en.wikipedia.org/wiki/Sea_Peoples"
+      }
+    ]
+  },
+  {
+    "id": "new-zealand-8th-continent",
+    "sources": [
+      {
+        "title": "Zealandia - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zealandia",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Zealandia: Earth's Hidden Continent",
+        "url": "https://www.geosociety.org/gsatoday/archive/27/3/article/GSATG321A.1.htm",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Zealandia",
+    "truth": 20,
+    "notoriety": 55,
+    "evidence_for": [
+      {
+        "text": "In 2017, eleven geologists confirmed that Zealandia fulfils all criteria for a separate submerged continent, distinct from Australia, spanning 4.9 million square kilometres with 94% below sea level—making New Zealand the exposed tip of an eighth continent.",
+        "source": "https://www.geosociety.org/gsatoday/archive/27/3/article/GSATG321A.1.htm"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "No credible geological evidence supports hollow-Earth passages beneath New Zealand; Zealandia is submerged but conventionally structured with no anomalous voids or hidden civilisations detected.",
+        "source": "https://en.wikipedia.org/wiki/Zealandia"
+      }
+    ]
+  },
+  {
+    "id": "the-moon-was-the-ark",
+    "sources": [
+      {
+        "title": "Hollow Moon - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hollow_Moon",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Moon is a space 'Noah's Ark' and someone left it long ago",
+        "url": "https://www.planet-today.com/2022/11/the-moon-is-space-noahs-ark-and-someone.html",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hollow_Moon",
+    "evidence_against": [
+      {
+        "text": "Seismic data and lunar sample analysis conclusively show the Moon is not hollow; its density and internal structure are consistent with a rocky differentiated body, refuting the hollow spacecraft hypothesis.",
+        "source": "https://en.wikipedia.org/wiki/Hollow_Moon"
+      }
+    ]
+  },
+  {
+    "id": "bacterial-humanity",
+    "sources": [],
+    "research_note": "No dedicated external coverage found; the 'Earth immune response against humanity' framing circulates in deep ecology and conspiracy iceberg contexts but no specific sourced treatment was identified."
+  },
+  {
+    "id": "ancient-glyphs-on-saturns-moons",
+    "sources": [
+      {
+        "title": "Ancient Glyphs on Saturn's Moons: An Intriguing Possibility",
+        "url": "https://wondergressive.com/2023/08/04/ancient-glyphs-on-saturns-moons-an-intriguing-possibility/",
+        "type": "lore",
+        "stance": "supports"
+      },
+      {
+        "title": "Ancient Glyphs On Saturn's Moons - Iceberg Database",
+        "url": "https://icebergdb.com/ancient-glyphs-on-saturns-moons-7/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Iapetus's equatorial ridge is explained by early rapid rotation that froze an equatorial bulge as the moon cooled; the 'artificial glyph' appearance is a pareidolia effect applied to natural geological formations imaged by NASA's Cassini spacecraft.",
+        "source": "https://wondergressive.com/2023/08/04/ancient-glyphs-on-saturns-moons-an-intriguing-possibility/"
+      }
+    ]
+  },
+  {
+    "id": "memetic-existence",
+    "sources": [],
+    "research_note": "No external coverage found; this is iceberg-chart lore combining Berkeley idealism, simulation theory, and NPC theory. No dedicated sourcing identified beyond online philosophy forums."
+  },
+  {
+    "id": "science-fiction-cultural-shifts",
+    "sources": [
+      {
+        "title": "Materialized Science Fiction: The Tech Oligarchy's Blueprint for a New Global Order",
+        "url": "https://academic.oup.com/isagsq/article/6/1/ksag002/8508721",
+        "type": "academic",
+        "stance": "supports"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Oxford Academic research documents that tech elites have adopted science fiction narratives as operational ideological frameworks, using them to normalise visions of control, human enhancement, and private governance structures.",
+        "source": "https://academic.oup.com/isagsq/article/6/1/ksag002/8508721"
+      }
+    ]
+  },
+  {
+    "id": "ashtar-high-command",
+    "sources": [
+      {
+        "title": "Ashtar Sheran - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ashtar_Sheran",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Ashtar Command Conspiracy Theory",
+        "url": "https://conspiracydata.com/conspiracies/the-ashtar-command-conspiracy-theory/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashtar_Sheran",
+    "notoriety": 55,
+    "year": 1952,
+    "evidence_against": [
+      {
+        "text": "George Van Tassel's 1952 channeling claims were followed by failed predictions of alien landings; dozens of competing claimants subsequently produced contradictory 'Ashtar messages', and no verifiable extraterrestrial contact was ever established.",
+        "source": "https://en.wikipedia.org/wiki/Ashtar_Sheran"
+      }
+    ]
+  },
+  {
+    "id": "pelagic-giants",
+    "sources": [
+      {
+        "title": "Top 10 Deep Sea Conspiracy Theories",
+        "url": "https://www.watchmojo.com/articles/top-10-deep-sea-conspiracy-theories",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "bioma-over-genoma",
+    "sources": [
+      {
+        "title": "Genetics or lifestyle: What is it that shapes our microbiome?",
+        "url": "https://www.sciencedaily.com/releases/2018/02/180228131043.htm",
+        "type": "news",
+        "stance": "supports"
+      },
+      {
+        "title": "A systematic framework for understanding the microbiome in human health and disease",
+        "url": "https://www.nature.com/articles/s41392-024-01946-6",
+        "type": "academic",
+        "stance": "supports"
+      }
+    ],
+    "truth": 55,
+    "evidence_for": [
+      {
+        "text": "Research shows that for many clinical measures the association with the gut microbiome was at least as strong as, and in some cases stronger than, the association with the host's human genome.",
+        "source": "https://www.sciencedaily.com/releases/2018/02/180228131043.htm"
+      },
+      {
+        "text": "Diet and lifestyle are identified as the primary dominant factors shaping gut microbiome composition, more influential than host genetics in many health contexts.",
+        "source": "https://www.sciencedaily.com/releases/2018/02/180228131043.htm"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Scientific consensus holds that genetics and microbiome interact rather than one being dominant; 'biome overrides genome' is an oversimplification of a complex bidirectional relationship.",
+        "source": "https://www.nature.com/articles/s41392-024-01946-6"
+      }
+    ]
+  },
+  {
+    "id": "npc-astroturfing",
+    "sources": [
+      {
+        "title": "The politics of the NPC meme: Reactionary subcultural practice and vernacular theory",
+        "url": "https://journals.sagepub.com/doi/10.1177/20539517231172422",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Are You An NPC? The NPC Theory Explained",
+        "url": "https://aglowlifestyle.com/npc-theory/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Academic study of the NPC meme identifies it as a reactionary political tool to dehumanise democratic participants; no evidence of literal 'soulless NPC preservation infrastructure' for elite population control exists.",
+        "source": "https://journals.sagepub.com/doi/10.1177/20539517231172422"
+      }
+    ]
+  },
+  {
+    "id": "doom-ecology",
+    "sources": [
+      {
+        "title": "Voluntary Human Extinction Movement - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Voluntary_Human_Extinction_Movement",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "About the Voluntary Human Extinction Movement",
+        "url": "https://www.vhemt.org/aboutvhemt.htm",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Voluntary_Human_Extinction_Movement",
+    "notoriety": 50,
+    "evidence_for": [
+      {
+        "text": "The Voluntary Human Extinction Movement (VHEMT), founded 1991, formally advocates for voluntary human extinction through abstaining from reproduction, framing it as an ecological necessity to preserve all other life on Earth.",
+        "source": "https://en.wikipedia.org/wiki/Voluntary_Human_Extinction_Movement"
+      }
+    ]
+  },
+  {
+    "id": "human-extinction",
+    "sources": [
+      {
+        "title": "Human extinction - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Human_extinction",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Digital Eugenics and the Extinction of Humanity",
+        "url": "https://www.techpolicy.press/digital-eugenics-and-the-extinction-of-humanity/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_extinction",
+    "evidence_against": [
+      {
+        "text": "No credible evidence shows elites planning human extinction for deification; transhumanist and AI-successor framings discussed in tech policy circles are philosophical positions, not active conspiracies.",
+        "source": "https://www.techpolicy.press/digital-eugenics-and-the-extinction-of-humanity/"
+      }
+    ]
+  },
+  {
+    "id": "secret-human-organs",
+    "sources": [
+      {
+        "title": "New Human 'Organ' Was Hiding in Plain Sight",
+        "url": "https://www.nationalgeographic.com/science/article/interstitium-fluid-cells-organ-found-cancer-spd",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Scientists discover possible new organ in the human throat",
+        "url": "https://www.cnn.com/2020/10/21/health/new-organ-throat-scn-wellness",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Scientists discovered the interstitium in 2018—a fluid-filled network previously missed because standard tissue preparation collapsed it—demonstrating that mainstream science has genuinely overlooked major anatomical structures.",
+        "source": "https://www.nationalgeographic.com/science/article/interstitium-fluid-cells-organ-found-cancer-spd"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "New organ discoveries result from improved imaging and honest scientific revision, not deliberate suppression; tubarial glands and the mesentery were reclassified as medical understanding matured, not concealed.",
+        "source": "https://www.cnn.com/2020/10/21/health/new-organ-throat-scn-wellness"
+      }
+    ]
+  },
+  {
+    "id": "the-phone-mafia",
+    "sources": [
+      {
+        "title": "How criminal syndicates traffic, torture and enslave people to send scam text messages",
+        "url": "https://www.npr.org/2024/08/08/nx-s1-5058798/how-criminal-syndicates-traffic-torture-and-enslave-people-to-send-scam-text-messages",
+        "type": "news",
+        "stance": "supports"
+      },
+      {
+        "title": "Scam Empire: How Criminal Call Centers Make Millions From Investment Scams",
+        "url": "https://www.occrp.org/en/project/scam-empire",
+        "type": "news",
+        "stance": "supports"
+      },
+      {
+        "title": "Telemarketing fraud - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Telemarketing_fraud",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Telemarketing_fraud",
+    "truth": 65,
+    "notoriety": 50,
+    "evidence_for": [
+      {
+        "text": "OCCRP investigative journalism documents large-scale transnational criminal syndicates in Southeast Asia and Eastern Europe operating coordinated fraud call centres, often using trafficked labour—directly matching the 'phone mafia' description.",
+        "source": "https://www.occrp.org/en/project/scam-empire"
+      },
+      {
+        "text": "NPR reports that criminal syndicates in Myanmar borderlands traffic and enslave people to staff scam operations, with Chinese fugitives running semi-state criminal enterprises generating billions annually.",
+        "source": "https://www.npr.org/2024/08/08/nx-s1-5058798/how-criminal-syndicates-traffic-torture-and-enslave-people-to-send-scam-text-messages"
+      }
+    ]
+  },
+  {
+    "id": "incorruptible-saints",
+    "sources": [
+      {
+        "title": "Incorruptibility - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Incorruptibility",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Too Good to Rot? Saints with Incorrupt Bodies",
+        "url": "https://www.britannica.com/story/too-good-to-rot-saints-with-incorrupt-bodies",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Incorruptibility",
+    "truth": 20,
+    "notoriety": 55,
+    "evidence_for": [
+      {
+        "text": "The Catholic Church has documented over 300 cases of saints whose exhumed bodies showed unusual resistance to decomposition; some bodies remained flexible and emitted pleasant odours despite no embalming or special burial conditions.",
+        "source": "https://en.wikipedia.org/wiki/Incorruptibility"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Incorruptibility is no longer counted toward sainthood in Catholic canon law, acknowledging that cool crypts, airless vaults, and saponification can naturally preserve bodies; many 'incorrupt' saints' remains later deteriorated.",
+        "source": "https://www.britannica.com/story/too-good-to-rot-saints-with-incorrupt-bodies"
+      }
+    ]
+  },
+  {
+    "id": "rokos-basilisk",
+    "sources": [
+      {
+        "title": "Roko's basilisk - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Roko%27s_basilisk",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Roko's Basilisk on LessWrong",
+        "url": "https://www.lesswrong.com/w/rokos-basilisk",
+        "type": "archive",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Roko%27s_basilisk",
+    "notoriety": 60,
+    "evidence_against": [
+      {
+        "text": "LessWrong co-founder Eliezer Yudkowsky, who originally banned discussion of the basilisk, later clarified that the argument contains fundamental logical errors in decision theory and should not be treated as a real threat.",
+        "source": "https://en.wikipedia.org/wiki/Roko%27s_basilisk"
+      }
+    ]
+  },
+  {
+    "id": "publius-enigma",
+    "sources": [
+      {
+        "title": "Publius Enigma - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Publius_Enigma",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Publius Enigma: Pink Floyd's greatest marketing ploy",
+        "url": "https://faroutmagazine.co.uk/pubulis-enigma-pink-floyd-greatest-marketing-ploy/",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Publius_Enigma",
+    "notoriety": 55,
+    "evidence_against": [
+      {
+        "text": "David Gilmour dismissed the Publius Enigma in a 2002 webchat as 'some silly record company thing'; Nick Mason confirmed it was a marketing initiative by EMI, with a proposed prize of tree planting rather than a revelation of hidden messages.",
+        "source": "https://faroutmagazine.co.uk/pubulis-enigma-pink-floyd-greatest-marketing-ploy/"
+      }
+    ]
+  },
+  {
+    "id": "the-plain-of-jars",
+    "sources": [
+      {
+        "title": "Plain of Jars - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Plain_of_Jars",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Megalithic Jar Sites in Xiengkhuang – Plain of Jars - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1587/",
+        "type": "government",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Plain_of_Jars",
+    "truth": 55,
+    "notoriety": 60,
+    "evidence_for": [
+      {
+        "text": "The Plain of Jars contains over 2,100 confirmed stone jars dated via OSL to potentially 3,000+ years old; their exact purpose remains archaeologically unresolved, with funerary use as the leading but unconfirmed hypothesis.",
+        "source": "https://en.wikipedia.org/wiki/Plain_of_Jars"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "UNESCO and international archaeologists have excavated multiple sites finding human remains and bronze artefacts consistent with funerary use; the 'giants created them' legend is local oral tradition not supported by physical evidence.",
+        "source": "https://whc.unesco.org/en/list/1587/"
+      }
+    ]
+  },
+  {
+    "id": "anti-natalism",
+    "sources": [
+      {
+        "title": "Antinatalism - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Antinatalism",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Anti-Natalism - Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/anti-natalism/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Antinatalism",
+    "notoriety": 60,
+    "evidence_for": [
+      {
+        "text": "Anti-natalism is a legitimate philosophical movement with academic literature, most prominently David Benatar's asymmetry argument, published in peer-reviewed philosophy journals.",
+        "source": "https://iep.utm.edu/anti-natalism/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Anti-natalism as a philosophical position is fundamentally distinct from government-promoted population control; no governments openly advocate it, and most politically face pressure to increase birth rates.",
+        "source": "https://en.wikipedia.org/wiki/Antinatalism"
+      }
+    ]
+  },
+  {
+    "id": "deep-sea-lab-techs",
+    "sources": [
+      {
+        "title": "US Navy's Secrecy Likely Stalled Ocean Science Progress for Decades",
+        "url": "https://www.livescience.com/64292-military-classified-geoscience.html",
+        "type": "news",
+        "stance": "supports"
+      },
+      {
+        "title": "The Navy's Deep-Ocean Grab",
+        "url": "https://www.usni.org/magazines/naval-history-magazine/2013/january/navys-deep-ocean-grab",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "truth": 55,
+    "evidence_for": [
+      {
+        "text": "Classified Navy deep-sea programs (including Project Winter Wind bathyscaph operations) ran from 1963 to 1971; scientists were forbidden from sharing classified bathymetric data with colleagues lacking security clearances, confirming covert oceanographic research continued beyond public knowledge.",
+        "source": "https://www.livescience.com/64292-military-classified-geoscience.html"
+      }
+    ]
+  },
+  {
+    "id": "natural-park-closures",
+    "sources": [
+      {
+        "title": "An Investigation of the Missing411 Conspiracy",
+        "url": "https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Skeptical Inquirer investigation found that Missing411 disappearance cases are statistically consistent with expected missing-persons rates in wilderness areas; claims of unusual patterns or government obstruction were not substantiated.",
+        "source": "https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/"
+      }
+    ]
+  },
+  {
+    "id": "online-video-game-monitoring",
+    "sources": [
+      {
+        "title": "Spy Games: NSA and CIA Tried to Recruit World of Warcraft and Second Life Players",
+        "url": "https://techland.time.com/2013/12/09/spy-games-the-nsa-and-cia-allegedly-tried-to-recruit-world-of-warcraft-and-second-life-players/",
+        "type": "news",
+        "stance": "supports"
+      },
+      {
+        "title": "World of Spycraft: NSA and CIA Spied in Online Games",
+        "url": "https://www.propublica.org/article/world-of-spycraft-intelligence-agencies-spied-in-online-games",
+        "type": "news",
+        "stance": "supports"
+      },
+      {
+        "title": "NSA, CIA target online games, reports say",
+        "url": "https://www.washingtonpost.com/business/technology/nsa-cia-other-intelligence-agencies-target-online-games-reports-say/2013/12/09/dc4cf9d4-60e0-11e3-94ad-004fefa61ee6_story.html",
+        "type": "news",
+        "stance": "supports"
+      }
+    ],
+    "truth": 75,
+    "notoriety": 60,
+    "evidence_for": [
+      {
+        "text": "Classified NSA documents leaked by Edward Snowden and reported by ProPublica, The Guardian, and The New York Times in December 2013 confirm CIA and NSA agents operated inside World of Warcraft, Second Life, and Xbox Live to monitor for terrorism-related communications.",
+        "source": "https://www.propublica.org/article/world-of-spycraft-intelligence-agencies-spied-in-online-games"
+      },
+      {
+        "text": "A 2008 NSA memo described online gaming as a 'target-rich communications network'; so many intelligence agents infiltrated games that they were reportedly surveilling each other.",
+        "source": "https://techland.time.com/2013/12/09/spy-games-the-nsa-and-cia-allegedly-tried-to-recruit-world-of-warcraft-and-second-life-players/"
+      }
+    ]
+  },
+  {
+    "id": "fulcanelli",
+    "sources": [
+      {
+        "title": "Fulcanelli - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fulcanelli",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Fulcanelli",
+    "notoriety": 50,
+    "evidence_for": [
+      {
+        "text": "The OSS (precursor to the CIA) reportedly searched for Fulcanelli after WWII, suggesting some institutional interest in his alleged alchemical knowledge; his two published books remain significant texts in esoteric literature.",
+        "source": "https://en.wikipedia.org/wiki/Fulcanelli"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Most researchers conclude Fulcanelli was likely Jean-Julien Champagne or a collective pseudonym; no verified physical transmutation was demonstrated and 'Projection Powder' transmutation claims are unsubstantiated.",
+        "source": "https://en.wikipedia.org/wiki/Fulcanelli"
+      }
+    ]
+  },
+  {
+    "id": "dzopa-tribe-dropa-stones",
+    "sources": [
+      {
+        "title": "Dropa stones - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dropa_stones",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "10 Most Not-So-Puzzling Ancient Artifacts #2: The Dropa Stones",
+        "url": "https://www.science20.com/archyfantasies/10_most_notsopuzzling_ancient_artifacts_2_dropa_stones-91343",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dropa_stones",
+    "notoriety": 45,
+    "evidence_against": [
+      {
+        "text": "Extensive inquiries found no record of Dropa stones in any museum worldwide and no verifiable existence of persons alleged to have discovered or translated them; the originating book was revealed by its own author to be a hoax and satire.",
+        "source": "https://www.science20.com/archyfantasies/10_most_notsopuzzling_ancient_artifacts_2_dropa_stones-91343"
+      },
+      {
+        "text": "Photographs of the alleged discs show objects resembling ordinary bi discs—ancient Chinese jade artefacts—not extraterrestrial artefacts with prime-number inscriptions.",
+        "source": "https://en.wikipedia.org/wiki/Dropa_stones"
+      }
+    ]
+  },
+  {
+    "id": "meat-showers",
+    "sources": [
+      {
+        "title": "Kentucky meat shower - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kentucky_meat_shower",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Great Kentucky Meat Shower mystery unwound by projectile vulture vomit",
+        "url": "https://www.scientificamerican.com/blog/running-ponies/the-great-kentucky-meat-shower-mystery-unwound-by-projectile-vulture-vomit/",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kentucky_meat_shower",
+    "notoriety": 60,
+    "evidence_for": [
+      {
+        "text": "The 1876 Kentucky meat shower is a documented historical event; original meat specimens preserved in alcohol were studied and displayed in museums, confirmed by contemporary newspaper accounts including the New York Times.",
+        "source": "https://en.wikipedia.org/wiki/Kentucky_meat_shower"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Scientific American identifies the most credible explanation as a flock of vultures startled into regurgitating partially digested food simultaneously—explaining the species diversity across meat samples without any floating-city mechanism.",
+        "source": "https://www.scientificamerican.com/blog/running-ponies/the-great-kentucky-meat-shower-mystery-unwound-by-projectile-vulture-vomit/"
+      }
+    ]
+  },
+  {
+    "id": "civil-war-sightings",
+    "sources": [
+      {
+        "title": "Ghosts of the American Civil War - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ghosts_of_the_American_Civil_War",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Gettysburg: Ghost Stories From the Civil War Battlefield",
+        "url": "https://www.history.com/articles/gettysburg-battlefield-ghosts",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghosts_of_the_American_Civil_War",
+    "evidence_for": [
+      {
+        "text": "A century of visitor accounts at Gettysburg document phantom soldiers in formation, sounds of combat, cameras malfunctioning at specific sites, and figures appearing in photographs—forming a large consistent body of experiential reports.",
+        "source": "https://www.history.com/articles/gettysburg-battlefield-ghosts"
+      }
+    ]
+  },
+  {
+    "id": "mirl-cults",
+    "sources": [
+      {
+        "title": "MIRL Cults - Iceberg Database",
+        "url": "https://icebergdb.com/mirl-cults",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Onlife Extremism: Dynamic Integration of Digital and Physical Spaces in Radicalization",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7109393/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Academic research confirms that online radicalization routinely transitions to real-world activity through a hybrid 'onlife' space; documented cases such as the Nth room crime ring in South Korea exemplify internet-originated criminal communities that materialised in physical space.",
+        "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7109393/"
+      }
+    ]
+  },
+  {
+    "id": "toronto-protocol",
+    "sources": [
+      {
+        "title": "Serge Monast - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Serge_Monast",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Toronto Protocols (6.6.6.) - Internet Archive",
+        "url": "https://dn720001.ca.archive.org/0/items/toronto_protocols_666_20230218_1604/toronto_protocols_666.pdf",
+        "type": "archive",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Serge_Monast",
+    "evidence_against": [
+      {
+        "text": "The Toronto Protocol originates with Serge Monast, a Canadian conspiracy theorist also known for Project Blue Beam; no original elite meeting document has been authenticated, and the text shares the unverifiable structure of other Protocols-style fabrications.",
+        "source": "https://en.wikipedia.org/wiki/Serge_Monast"
+      }
+    ]
+  },
+  {
+    "id": "plant-intelligence",
+    "sources": [
+      {
+        "title": "Plant intelligence - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Consciousness and cognition in plants",
+        "url": "https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1578",
+        "type": "academic",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Plant_intelligence",
+    "truth": 35,
+    "notoriety": 45,
+    "evidence_for": [
+      {
+        "text": "Peer-reviewed research documents that Mimosa pudica retains stimulus-specific suppression for up to 28 days—meeting behavioural definitions of memory—and that plants demonstrate measurable habituation without neural tissue.",
+        "source": "https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1578"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Mainstream plant biologists distinguish adaptive signalling responses from consciousness or intelligence in the human sense; 'plant neurobiology' remains controversial within botany.",
+        "source": "https://en.wikipedia.org/wiki/Plant_intelligence"
+      }
+    ]
+  },
+  {
+    "id": "last-thursdayism",
+    "sources": [
+      {
+        "title": "Omphalos hypothesis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Omphalos_hypothesis",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Omphalos_hypothesis",
+    "evidence_against": [
+      {
+        "text": "Last Thursdayism is both unfalsifiable and unprovable—it cannot increase any model's predictive power because it posits that all empirical data was created to look exactly as it does; it is therefore scientifically inert.",
+        "source": "https://en.wikipedia.org/wiki/Omphalos_hypothesis"
+      }
+    ]
+  },
+  {
+    "id": "abiogenic-oil",
+    "sources": [
+      {
+        "title": "Abiogenic petroleum origin - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Abiogenic_petroleum_origin",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Deep-seated abiogenic origin of petroleum: From geological assessment to physical theory",
+        "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008RG000270",
+        "type": "academic",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Abiogenic_petroleum_origin",
+    "truth": 30,
+    "notoriety": 50,
+    "evidence_for": [
+      {
+        "text": "A 2010 peer-reviewed paper in Wiley Reviews of Geophysics presents a physical theory for deep-seated abiogenic petroleum origin; Russian geologists developed and substantially supported the theory from the 1950s onward.",
+        "source": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008RG000270"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Modern petroleum geology consensus holds that no current commercially profitable deposit has convincing evidence of abiotic origin; biogenic theory is supported by isotopic signatures, biomarker compounds, and stratigraphic patterns.",
+        "source": "https://en.wikipedia.org/wiki/Abiogenic_petroleum_origin"
+      }
+    ]
+  },
+  {
+    "id": "malta-catacombs",
+    "sources": [
+      {
+        "title": "Hal Saflieni Hypogeum - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/%C4%A6al_Saflieni_Hypogeum",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Debunking Urban Legends – The Hypogeum Myths",
+        "url": "https://heritagemalta.mt/news/debunking-urban-legends-the-hypogeum-myths/",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/%C4%A6al_Saflieni_Hypogeum",
+    "notoriety": 45,
+    "evidence_for": [
+      {
+        "text": "The Hal Saflieni Hypogeum does contain elongated skulls described by original excavator Sir Temi Zammit as 'of the long-headed type'—real morphological anomalies that remain the subject of ongoing scientific study.",
+        "source": "https://en.wikipedia.org/wiki/%C4%A6al_Saflieni_Hypogeum"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Heritage Malta officially debunks the 'giant humanoid entity' urban legend; elongated skulls are naturally dolichocephalic human remains, and claims about missing schoolchildren and monster encounters are fabricated.",
+        "source": "https://heritagemalta.mt/news/debunking-urban-legends-the-hypogeum-myths/"
+      }
+    ]
+  },
+  {
+    "id": "animism",
+    "sources": [
+      {
+        "title": "Animism - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Animism",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Animism",
+    "notoriety": 65,
+    "evidence_against": [
+      {
+        "text": "Animism as a religious and cognitive phenomenon is well-documented; cognitive science confirms anthropomorphism is a persistent feature of human cognition, but there is no evidence that collective anthropomorphisation causes inanimate objects to become literally alive.",
+        "source": "https://en.wikipedia.org/wiki/Animism"
+      }
+    ]
+  },
+  {
+    "id": "false-flag-propagation",
+    "sources": [
+      {
+        "title": "False flag - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/False_flag",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "False flags are real, but far less widespread than social media suggest",
+        "url": "https://www.politifact.com/article/2022/feb/08/false-flags-theyre-real-far-less-widespread-social/",
+        "type": "debunker",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/False_flag",
+    "notoriety": 60,
+    "evidence_for": [
+      {
+        "text": "Documented historical false flag operations (Gleiwitz incident 1939, Gulf of Tonkin 1964) demonstrate that governments have used staged provocations to manufacture public consent for military actions—confirming the propaganda function of false flags.",
+        "source": "https://en.wikipedia.org/wiki/False_flag"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Politifact and fact-checkers find that actual false flags in recent history are far less common than conspiracy claims allege; most modern 'false flag' accusations are applied without evidence to real traumatic events.",
+        "source": "https://www.politifact.com/article/2022/feb/08/false-flags-theyre-real-far-less-widespread-social/"
+      }
+    ]
+  },
+  {
+    "id": "enneagram",
+    "sources": [
+      {
+        "title": "Enneagram of Personality - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fourth_Way_enneagram",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Traditional Enneagram History - The Enneagram Institute",
+        "url": "https://www.enneagraminstitute.com/the-traditional-enneagram/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Fourth_Way_enneagram",
+    "notoriety": 65,
+    "evidence_for": [
+      {
+        "text": "The enneagram symbol was introduced by Gurdjieff from esoteric teachings gathered across Central Asia and the Middle East; its integration with personality typology via Ichazo and Naranjo explicitly draws on Sufi, Kabbalistic, and Christian mystical frameworks.",
+        "source": "https://www.enneagraminstitute.com/the-traditional-enneagram/"
+      }
+    ]
+  },
+  {
+    "id": "max-spiers",
+    "sources": [
+      {
+        "title": "Death of Max Spiers - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_of_Max_Spiers",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "What happened to conspiracy theorist Max Spiers?",
+        "url": "https://theweek.com/77649/what-happened-to-conspiracy-theorist-max-spiers",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Death_of_Max_Spiers",
+    "notoriety": 50,
+    "evidence_for": [
+      {
+        "text": "Before his death, Spiers sent a text to his mother stating 'your boy's in trouble; if anything happens to me, investigate'; his laptop was found wiped and he vomited black fluid prior to death—details that fuelled credible suspicion.",
+        "source": "https://theweek.com/77649/what-happened-to-conspiracy-theorist-max-spiers"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Polish authorities released the official cause of death in January 2019 as drugs and pneumonia; toxicology found potentially fatal oxycodone levels plus twice the therapeutic dose of a benzodiazepine, with a documented history of opioid use disorder.",
+        "source": "https://en.wikipedia.org/wiki/Death_of_Max_Spiers"
+      }
+    ]
+  },
+  {
+    "id": "acoustic-attacks",
+    "sources": [
+      {
+        "title": "Long-range acoustic device - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Long-range_acoustic_device",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Health Impacts of Crowd-Control Weapons: Acoustic Weapons",
+        "url": "https://phr.org/our-work/resources/health-impacts-of-crowd-control-weapons-acoustic-weapons/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-range_acoustic_device",
+    "truth": 55,
+    "notoriety": 60,
+    "evidence_for": [
+      {
+        "text": "LRADs are documented military and law-enforcement weapons; PHR documents that acoustic crowd-control devices cause pain, disorientation, nausea, migraines, and permanent hearing damage when deployed.",
+        "source": "https://phr.org/our-work/resources/health-impacts-of-crowd-control-weapons-acoustic-weapons/"
+      },
+      {
+        "text": "US military deployed LRADs in Iraq from 2004; NPR reported in 2025 that an alleged sonic weapon was used against protesters in Serbia, and Havana Syndrome research continues to investigate acoustic injury mechanisms.",
+        "source": "https://en.wikipedia.org/wiki/Long-range_acoustic_device"
+      }
+    ]
+  }
+]

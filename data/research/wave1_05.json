@@ -1,0 +1,795 @@
+[
+  {
+    "id": "inverse-religious-hijacking",
+    "sources": [],
+    "research_note": "No external coverage found; iceberg-chart lore only."
+  },
+  {
+    "id": "demonic-tulpas",
+    "sources": [
+      {
+        "title": "Tulpa - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tulpa",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tulpa",
+    "notoriety": 42,
+    "evidence_against": [
+      {
+        "text": "76.5% of tulpa practitioners in surveys endorse a neurological/psychological explanation; only 8.5% support a metaphysical explanation, undermining the demonic-entity framing.",
+        "source": "https://en.wikipedia.org/wiki/Tulpa"
+      }
+    ]
+  },
+  {
+    "id": "asian-overlords-triad",
+    "sources": [
+      {
+        "title": "Triad (organised crime) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Triad_(organised_crime)",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Chinese organized crime front serves Beijing's interests - Washington Post",
+        "url": "https://www.washingtonpost.com/world/interactive/2025/china-hongmen-organized-crime-geopolitics/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Triad_(organised_crime)",
+    "notoriety": 42,
+    "evidence_against": [
+      {
+        "text": "Triads are real transnational criminal organizations active in drug trafficking, gambling, and extortion, but no evidence supports covert sovereign global authority over governments.",
+        "source": "https://en.wikipedia.org/wiki/Triad_(organised_crime)"
+      }
+    ]
+  },
+  {
+    "id": "artificial-aliens",
+    "sources": [],
+    "research_note": "No external coverage found; fringe extraterrestrial speculation with no identifiable source community or named proponent."
+  },
+  {
+    "id": "secret-mongolian-empire",
+    "sources": [],
+    "research_note": "No external coverage found; iceberg-chart alt-history lore only."
+  },
+  {
+    "id": "protein-qrd-1451",
+    "sources": [],
+    "research_note": "No external coverage found; 'Protein QRD 1451' does not correspond to any known protein designation or suppressed research claim."
+  },
+  {
+    "id": "quantum-death",
+    "sources": [
+      {
+        "title": "Inside Quantum Immortality, The Mind-Bending Theory That Suggests Consciousness Never Dies",
+        "url": "https://allthatsinteresting.com/quantum-immortality",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Quantum Immortality Theory: Living Forever in a Multiverse?",
+        "url": "https://sensationaltech.com/culture/quantum-immortality-theory/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "notoriety": 42,
+    "evidence_against": [
+      {
+        "text": "Quantum immortality is widely regarded as highly speculative; while the many-worlds interpretation is a real physics framework, there is currently no evidence consciousness migrates between universes at death.",
+        "source": "https://allthatsinteresting.com/quantum-immortality"
+      }
+    ]
+  },
+  {
+    "id": "earthly-inhospitality",
+    "sources": [
+      {
+        "title": "The Billionaire Bunkers: Are the Elite Preparing for the End?",
+        "url": "https://medium.com/the-thought-collection/the-billionaire-bunkers-9549366623d4",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Billionaires are building bunkers and buying islands - prepping or pioneering a new feudalism?",
+        "url": "https://theconversation.com/billionaires-are-building-bunkers-and-buying-islands-but-are-they-prepping-for-the-apocalypse-or-pioneering-a-new-feudalism-223987",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Analysts argue billionaire bunker construction reflects anxiety and wealth privilege rather than foreknowledge of a coordinated depopulation program; no evidence for intentional environmental destruction as cover for elite retreat.",
+        "source": "https://theconversation.com/billionaires-are-building-bunkers-and-buying-islands-but-are-they-prepping-for-the-apocalypse-or-pioneering-a-new-feudalism-223987"
+      }
+    ]
+  },
+  {
+    "id": "abaka-alignment",
+    "sources": [
+      {
+        "title": "Pyramids Aligned with Stars: Ancient Egyptian Sky Secrets",
+        "url": "https://www.astronomy.com/science/are-the-egyptian-pyramids-aligned-with-the-stars/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The Orion correlation theory (pyramid-star alignment) is considered fringe; no physical evidence for pyramid alignment with lunar far-side structures exists, and Egyptian texts contain no references to multi-planetary coordinated design.",
+        "source": "https://www.astronomy.com/science/are-the-egyptian-pyramids-aligned-with-the-stars/"
+      }
+    ]
+  },
+  {
+    "id": "cosmic-demons",
+    "sources": [],
+    "research_note": "No external coverage found; religious-fringe speculation with no identified source community or named proponent."
+  },
+  {
+    "id": "the-charley-project",
+    "sources": [
+      {
+        "title": "The Charley Project",
+        "url": "https://charleyproject.org/",
+        "type": "archive",
+        "stance": "documents"
+      },
+      {
+        "title": "5 chilling missing persons cases from The Charley Project",
+        "url": "https://www.crimeandinvestigation.co.uk/articles/-missing-persons-cases-charley-project",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "truth": 10,
+    "evidence_against": [
+      {
+        "text": "The Charley Project is a legitimate cold-case missing persons database profiling over 16,000 cases; its sole stated purpose is publicity for neglected cases, with no connection to NPC or soul-tracking theories.",
+        "source": "https://charleyproject.org/"
+      }
+    ]
+  },
+  {
+    "id": "grain-situation",
+    "sources": [],
+    "research_note": "No external coverage found; fringe biotech/occult speculation with no identifiable source or documented proponent."
+  },
+  {
+    "id": "geometric-algorithmic-shortcuts",
+    "sources": [
+      {
+        "title": "Sacred geometry - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sacred_geometry",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sacred_geometry",
+    "evidence_for": [
+      {
+        "text": "Sacred geometry has documented historical applications in architecture, philosophy, and religion where geometric proportions were used to encode divine meaning; the Golden Ratio appears across natural and human-designed forms.",
+        "source": "https://en.wikipedia.org/wiki/Sacred_geometry"
+      }
+    ]
+  },
+  {
+    "id": "earthly-aura-control",
+    "sources": [],
+    "research_note": "No external coverage found; spiritual-fringe lore with no identifiable source community."
+  },
+  {
+    "id": "chthonic-noosphere",
+    "sources": [
+      {
+        "title": "Noosphere - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Noosphere",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Noosphere",
+    "evidence_against": [
+      {
+        "text": "The noosphere concept (Teilhard de Chardin, Vernadsky) is a philosophical/scientific framework for collective human cognition; the internet-as-demonic-aggregate interpretation has no scholarly or documented basis.",
+        "source": "https://en.wikipedia.org/wiki/Noosphere"
+      }
+    ]
+  },
+  {
+    "id": "tomoki-uemiya",
+    "sources": [
+      {
+        "title": "Tomoki Uemiya - Kook Science",
+        "url": "https://hatch.kookscience.com/wiki/Tomoki_Uemiya",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Unfurling the Cosmos: The Incredible Journey of Tomoki Uemiya",
+        "url": "https://wondergressive.com/2023/08/05/unfurling-the-cosmos-the-incredible-journey-of-tomoki-uemiya/",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Tomoki Uemiya is a documented Japanese contactee/channeler who has published multiple Japanese-language books about extraterrestrial communications since 1994, primarily attributed to Pleiadian sources.",
+        "source": "https://hatch.kookscience.com/wiki/Tomoki_Uemiya"
+      }
+    ]
+  },
+  {
+    "id": "earth-abandonment",
+    "sources": [],
+    "research_note": "No external coverage found; fringe elite-alien defection lore with no identifiable source community."
+  },
+  {
+    "id": "nuclear-grid-theory",
+    "sources": [
+      {
+        "title": "The Controversial History Of Ley Lines",
+        "url": "https://allthatsinteresting.com/ley-lines",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Ley lines | Spirituality, Archeology, Origin & Skepticism | Britannica",
+        "url": "https://www.britannica.com/topic/Ley-lines",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Academic archaeologists do not accept ley line theory; statistical analysis shows alignments are no more meaningful than random chance, and no literature connects nuclear detonations to ley line creation.",
+        "source": "https://www.britannica.com/topic/Ley-lines"
+      }
+    ]
+  },
+  {
+    "id": "de-patterning",
+    "sources": [
+      {
+        "title": "Psychic driving - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Psychic_driving",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Montreal experiments - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Montreal_experiments",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Montreal MKULTRA Experiments | The Canadian Encyclopedia",
+        "url": "https://www.thecanadianencyclopedia.ca/en/article/mkultra",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Psychic_driving",
+    "truth": 85,
+    "notoriety": 65,
+    "evidence_for": [
+      {
+        "text": "CIA-funded depatterning experiments by Dr. Ewen Cameron at McGill's Allan Memorial Institute (1957-1964) are documented through declassified MKUltra files; patients received massive ECT doses, LSD, and psychic driving, causing lasting harm.",
+        "source": "https://en.wikipedia.org/wiki/Montreal_experiments"
+      },
+      {
+        "text": "Partial compensation was paid by both the Canadian government and CIA to survivors of Cameron's depatterning program, confirming institutional acknowledgment of the experiments.",
+        "source": "https://www.thecanadianencyclopedia.ca/en/article/mkultra"
+      }
+    ]
+  },
+  {
+    "id": "demonic-interrogation",
+    "sources": [
+      {
+        "title": "MKUltra - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/MKUltra",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/MKUltra",
+    "evidence_for": [
+      {
+        "text": "The base premise that drugs and psychological stress can break down personality for interrogation purposes is substantiated by declassified MKUltra records; the demonic-noosphere extension remains unsubstantiated.",
+        "source": "https://en.wikipedia.org/wiki/MKUltra"
+      }
+    ]
+  },
+  {
+    "id": "illuminati-are-the-good-guys",
+    "sources": [
+      {
+        "title": "Illuminati - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Illuminati",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Bavarian Illuminati | History, Secret Societies | Britannica",
+        "url": "https://www.britannica.com/topic/Bavarian-illuminati",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "The Secretive Origins of the Illuminati | HISTORY",
+        "url": "https://www.history.com/articles/illuminati-origins-bavarian-secret-society",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Illuminati",
+    "notoriety": 60,
+    "evidence_for": [
+      {
+        "text": "The historical Bavarian Illuminati (founded 1776 by Weishaupt) explicitly opposed superstition, religious influence on public life, and abuses of state power - consistent with the 'good guys' reading of their stated liberal-Enlightenment goals.",
+        "source": "https://www.britannica.com/topic/Bavarian-illuminati"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The Bavarian Illuminati was dissolved by 1785; no substantiated evidence exists for a continuous modern successor organization operating to benefit the public.",
+        "source": "https://en.wikipedia.org/wiki/Illuminati"
+      }
+    ]
+  },
+  {
+    "id": "demolition-elves",
+    "sources": [
+      {
+        "title": "Demolition Elves | ObscUrban Legend Wikia",
+        "url": "https://obscurban-legend.fandom.com/wiki/Demolition_Elves",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Demolition Elves - Iceberg Database",
+        "url": "https://icebergdb.com/demolition-elves-2/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Reports of small humanoid figures at disaster sites have been collected across multiple incidents including 9/11 and the Silver Bridge collapse; Icelandic law formally recognizes elves as entities with territorial rights.",
+        "source": "https://obscurban-legend.fandom.com/wiki/Demolition_Elves"
+      }
+    ]
+  },
+  {
+    "id": "involuntary-tulpas",
+    "sources": [
+      {
+        "title": "Tulpa - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tulpa",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tulpa"
+  },
+  {
+    "id": "war-is-fake",
+    "sources": [
+      {
+        "title": "List of conspiracy theories - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Fact-checkers consistently debunk staged-war claims; researchers attribute belief in fabricated wars to the broader New World Order conspiracy framework rather than verified supernatural motivations.",
+        "source": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+      }
+    ]
+  },
+  {
+    "id": "proxy-battlefields",
+    "sources": [
+      {
+        "title": "Proxy war - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Proxy_war",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Rethinking Proxy Warfare - New America",
+        "url": "https://www.newamerica.org/insights/twenty-first-century-proxy-warfare-confronting-strategic-innovation-multipolar-world/rethinking-proxy-warfare/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Proxy_war",
+    "truth": 65,
+    "notoriety": 55,
+    "evidence_for": [
+      {
+        "text": "Political science research confirms that nuclear-armed states show increased rates of proxy conflict instead of direct war; nuclear costs foreclose direct hostilities, pushing rivals into surrogate competition.",
+        "source": "https://www.newamerica.org/insights/twenty-first-century-proxy-warfare-confronting-strategic-innovation-multipolar-world/rethinking-proxy-warfare/"
+      }
+    ]
+  },
+  {
+    "id": "tesseract-earthuniverse",
+    "sources": [
+      {
+        "title": "What Is the Fourth Dimension and Why You're Already In It | Gaia",
+        "url": "https://www.gaia.com/article/what-is-the-fourth-dimension",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Mainstream physics (special relativity) treats time as a 4th dimension, supporting the premise that 4D structure pervades the universe but is not perceivable or freely navigable by ordinary human senses.",
+        "source": "https://www.gaia.com/article/what-is-the-fourth-dimension"
+      }
+    ]
+  },
+  {
+    "id": "4th-dimensional-astral-projection",
+    "sources": [
+      {
+        "title": "Astral projection - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Astral_projection",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Astral Projection, the Astral Body, and the Fourth Dimension - Brotherhood of the White Temple",
+        "url": "https://brotherhoodofthewhitetemple.com/product/astral-projection-the-astral-body-the-fourth-dimension/",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Astral_projection",
+    "evidence_against": [
+      {
+        "text": "There is no scientific evidence that consciousness can separate from the body and make verifiable observations of the physical universe; astral projection experiences are explained through neurological frameworks.",
+        "source": "https://en.wikipedia.org/wiki/Astral_projection"
+      }
+    ]
+  },
+  {
+    "id": "jfk-shot-himself",
+    "sources": [
+      {
+        "title": "John F. Kennedy assassination conspiracy theories - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_F._Kennedy_assassination_conspiracy_theories",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_F._Kennedy_assassination_conspiracy_theories",
+    "truth": 10,
+    "evidence_against": [
+      {
+        "text": "No variant of a self-inflicted shot appears among the documented JFK conspiracy theories; all catalogued variants involve external assassins, and physical evidence is inconsistent with self-infliction.",
+        "source": "https://en.wikipedia.org/wiki/John_F._Kennedy_assassination_conspiracy_theories"
+      }
+    ]
+  },
+  {
+    "id": "moai-statues-were-rapa-nuians",
+    "sources": [
+      {
+        "title": "Moai - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Moai",
+        "type": "wikipedia",
+        "stance": "debunks"
+      },
+      {
+        "title": "Everything to know about Easter Island's iconic statues | National Geographic",
+        "url": "https://www.nationalgeographic.com/history/article/everything-to-know-about-easter-islands-iconic-statues",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Moai",
+    "truth": 5,
+    "evidence_against": [
+      {
+        "text": "Archaeological evidence confirms moai are carved volcanic stone monuments representing Rapa Nui ancestors; they are not fossilized remains. Around 1,000 statues were quarried from Rano Raraku volcano approximately 900 years ago.",
+        "source": "https://en.wikipedia.org/wiki/Moai"
+      }
+    ]
+  },
+  {
+    "id": "mathacker",
+    "sources": [
+      {
+        "title": "If the Universe is a Computer Simulation, Can We Hack It? | Gaia",
+        "url": "https://www.gaia.com/article/universe-is-a-simulation-can-we-hack-it",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Mathematical proof debunks the idea that the universe is a computer simulation",
+        "url": "https://phys.org/news/2025-10-mathematical-proof-debunks-idea-universe.html",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Mathematical analysis using Godel's incompleteness theorem demonstrates the universe cannot be a computer simulation, undermining the premise that numeric patterns can grant reality-manipulation capabilities.",
+        "source": "https://phys.org/news/2025-10-mathematical-proof-debunks-idea-universe.html"
+      }
+    ]
+  },
+  {
+    "id": "hyper-acting-tulpa-creation",
+    "sources": [
+      {
+        "title": "Tulpa - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tulpa",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tulpa"
+  },
+  {
+    "id": "deep-soy",
+    "sources": [
+      {
+        "title": "Queer, Toxic Soybeans and Estrogen Panic: Gendered Food Fearmongering",
+        "url": "https://mediaenviron.org/article/37271-queer-toxic-soybeans-and-estrogen-panic-gendered-food-fearmongering",
+        "type": "academic",
+        "stance": "debunks"
+      },
+      {
+        "title": "Does Soy Kill Testosterone? The Myth, Debunked",
+        "url": "https://scienceinsights.org/does-soy-kill-testosterone-the-myth-debunked/",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "truth": 15,
+    "evidence_against": [
+      {
+        "text": "Multiple clinical meta-analyses confirm soy isoflavones do not significantly alter testosterone or estrogen levels in men; the soy feminization fear originates from extreme outlier cases and media amplification of misread science.",
+        "source": "https://scienceinsights.org/does-soy-kill-testosterone-the-myth-debunked/"
+      }
+    ]
+  },
+  {
+    "id": "hyper-active-tulpa-induction",
+    "sources": [
+      {
+        "title": "Tulpa - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tulpa",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tulpa"
+  },
+  {
+    "id": "tibetan-slut-stocks",
+    "sources": [
+      {
+        "title": "Prostitution in Tibet - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Prostitution_in_Tibet",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Traffickers Prey on Tibetan Girls, Women - Radio Free Asia",
+        "url": "https://www.rfa.org/english/news/social/135875-20040513.html",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Prostitution_in_Tibet",
+    "evidence_for": [
+      {
+        "text": "Researchers document that Chinese authorities tacitly condone prostitution in Tibet as a tool of social control, with some sources reporting brothels service occupying Chinese military personnel.",
+        "source": "https://en.wikipedia.org/wiki/Prostitution_in_Tibet"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "No evidence supports the specific claim of a coordinated global political client network; documented exploitation is linked to trafficking, poverty, and Chinese occupation dynamics rather than an organized elite influence operation.",
+        "source": "https://www.rfa.org/english/news/social/135875-20040513.html"
+      }
+    ]
+  },
+  {
+    "id": "demonic-media-conglomerates",
+    "sources": [],
+    "research_note": "No external coverage found; iceberg-chart religious-fringe lore only."
+  },
+  {
+    "id": "fire-is-alive",
+    "sources": [
+      {
+        "title": "Fire is Alive Hypothesis: Exposing the Ignis Sapiens",
+        "url": "https://wondergressive.com/2023/08/21/fire-is-alive-hypothesis-a-flaming-debate/",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Is Fire Alive? | WFCA",
+        "url": "https://wfca.com/wildfire-articles/is-fire-living-or-non-living/",
+        "type": "lore",
+        "stance": "debunks"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Fire meets several informal biological criteria (consumes fuel, produces waste, reproduces, responds to environment); the 'Ignis sapiens' movement argues fire participates in planetary carbon cycling and homeostasis.",
+        "source": "https://wondergressive.com/2023/08/21/fire-is-alive-hypothesis-a-flaming-debate/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Biologists classify fire as non-living because it is not composed of cells and lacks genuine biological metabolism; its life-like behaviors are exothermic chemical chain reactions, not biological processes.",
+        "source": "https://wfca.com/wildfire-articles/is-fire-living-or-non-living/"
+      }
+    ]
+  },
+  {
+    "id": "satan-prometheus",
+    "sources": [
+      {
+        "title": "Prometheus - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Prometheus",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Loki, Satan, and Prometheus: Are They Connected? | MysteryLores",
+        "url": "https://mysterylores.com/news/loki-satan-prometheus-connection/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Prometheus",
+    "evidence_for": [
+      {
+        "text": "Scholarly comparison of Prometheus and Lucifer dates to Zvi Werblowsky's 1952 work 'Lucifer and Prometheus'; both figures represent forbidden knowledge and divine rebellion, and some Gnostic traditions identify theft of heavenly fire with the fall of Lucifer.",
+        "source": "https://en.wikipedia.org/wiki/Prometheus"
+      }
+    ]
+  },
+  {
+    "id": "eating-food-makes-you-age",
+    "sources": [
+      {
+        "title": "Caloric Restriction in Humans: Impact on Physiological, Psychological, and Behavioral Outcomes - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3014770/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Caloric restriction studies confirm that reducing food intake extends lifespan and delays aging biomarkers across multiple species, providing partial scientific support for a causal link between food consumption rate and aging.",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3014770/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Mainstream science attributes aging to multiple independent mechanisms (telomere erosion, oxidative stress, DNA repair failure); food intake is a contributing variable, not the singular cause of aging.",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3014770/"
+      }
+    ]
+  },
+  {
+    "id": "the-panurgic-protocols",
+    "sources": [],
+    "research_note": "No external coverage found; iceberg-chart lore only; 'panurgic' is not a recognized term in government or esoteric surveillance research contexts."
+  },
+  {
+    "id": "antarctica-prevarication",
+    "sources": [
+      {
+        "title": "Investigating The Secrets Of Antarctica: Are Travel Restrictions Covering Up A Global Conspiracy?",
+        "url": "https://quartzmountain.org/article/antarctica-conspiracy-travel-restricted",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Antarctica: The Forbidden Land of Secrets, Conspiracies, and Hidden Truths",
+        "url": "https://intpolicydigest.org/the-platform/antarctica-the-forbidden-land-of-secrets-conspiracies-and-hidden-truths/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Travel restrictions are governed by the Antarctic Treaty (signed 1959, ratified 1961), which limits access primarily for environmental protection and scientific preservation, not concealment of hidden civilizations or structures.",
+        "source": "https://quartzmountain.org/article/antarctica-conspiracy-travel-restricted"
+      }
+    ]
+  },
+  {
+    "id": "non-euclidian-4th-dimensional-topography",
+    "sources": [],
+    "research_note": "No external coverage found; fringe extension combining hollow earth and 4th dimension frameworks with no identifiable source community."
+  },
+  {
+    "id": "1800s-technology",
+    "sources": [
+      {
+        "title": "Ghosts in the Machines: The Devices and Daring Mediums That Spoke for the Dead | Collectors Weekly",
+        "url": "https://www.collectorsweekly.com/articles/ghosts-in-the-machines-the-devices-and-defiant-mediums-that-spoke-for-the-spirits/",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Late 1800s Fringe Electrotherapeutic Devices: Comparative Electrical Capabilities - PMC",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9566499/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Documented Victorian-era fringe electrotherapeutic devices and spiritualist instruments were designed around concepts of animal magnetism, odic force, and ether, confirming that pre-electric technology did develop in directions oriented toward aura/energy frameworks.",
+        "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9566499/"
+      }
+    ]
+  },
+  {
+    "id": "field-consciousness-transference",
+    "sources": [
+      {
+        "title": "Noosphere - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Noosphere",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Noosphere"
+  },
+  {
+    "id": "door-dogs",
+    "sources": [
+      {
+        "title": "Door Dogs | ObscUrban Legend Wikia",
+        "url": "https://obscurban-legend.fandom.com/wiki/Door_Dogs",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Theresa's Haunted History of the Tri-State: Door Dogs",
+        "url": "http://theresashauntedhistoryofthetri-state.blogspot.com/2022/01/door-dogs.html",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Door Dogs are documented in North African (Tangiers, Morocco) folklore as small silent death-omen canines visible to others when a person is near death; William S. Burroughs wrote extensively about this legend in 'The Western Lands', drawing on his time in Tangiers.",
+        "source": "https://obscurban-legend.fandom.com/wiki/Door_Dogs"
+      }
+    ]
+  },
+  {
+    "id": "4th-dimensional-tulpas",
+    "sources": [
+      {
+        "title": "Tulpa - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tulpa",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tulpa"
+  }
+]

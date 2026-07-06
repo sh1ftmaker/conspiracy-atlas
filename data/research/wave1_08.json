@@ -1,0 +1,1130 @@
+[
+  {
+    "id": "welteislehre",
+    "sources": [
+      {
+        "title": "Welteislehre - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Welteislehre",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Why Hitler and other Nazis thought the world was really made of ice - Big Think",
+        "url": "https://bigthink.com/surprising-science/the-weird-ice-world-cosmology-passionately-believed-by-hitler-and-other-top-nazis/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Hanns Horbiger - RationalWiki",
+        "url": "https://rationalwiki.org/wiki/Hanns_H%C3%B6rbiger",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Welteislehre",
+    "truth": 3,
+    "notoriety": 50,
+    "year": 1912,
+    "evidence_for": [
+      {
+        "text": "Nazi leadership including Hitler and Himmler embraced Welteislehre as official cosmological doctrine, demonstrating its cultural influence in the Third Reich.",
+        "source": "https://bigthink.com/surprising-science/the-weird-ice-world-cosmology-passionately-believed-by-hitler-and-other-top-nazis/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The theory is universally rejected by modern astronomy and physics as pseudoscience with no observational support.",
+        "source": "https://rationalwiki.org/wiki/Hanns_H%C3%B6rbiger"
+      }
+    ]
+  },
+  {
+    "id": "cosmic-censorship-cottage",
+    "sources": [
+      {
+        "title": "Cosmic censorship hypothesis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cosmic_censorship_hypothesis",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Mathematicians Disprove Conjecture Made to Save Black Holes - Quanta Magazine",
+        "url": "https://www.quantamagazine.org/mathematicians-disprove-conjecture-made-to-save-black-holes-20180517/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "The Strong Cosmic Censorship Conjecture - arXiv",
+        "url": "https://arxiv.org/abs/2501.13180",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Cosmic_censorship_hypothesis",
+    "truth": 50,
+    "notoriety": 45,
+    "year": 1969,
+    "evidence_for": [
+      {
+        "text": "Roger Penrose proposed in 1969 that singularities formed during gravitational collapse are always hidden behind event horizons; the conjecture remains one of the most important unsolved problems in general relativity.",
+        "source": "https://en.wikipedia.org/wiki/Cosmic_censorship_hypothesis"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Mathematicians have disproved specific versions of the conjecture under certain physical conditions, showing naked singularities can form in models of rotating charged black holes.",
+        "source": "https://www.quantamagazine.org/mathematicians-disprove-conjecture-made-to-save-black-holes-20180517/"
+      }
+    ]
+  },
+  {
+    "id": "cosmic-censorship-corruption",
+    "sources": [],
+    "research_note": "No external coverage found; speculative extension of the Cosmic Censorship Hypothesis concept — iceberg-chart lore only."
+  },
+  {
+    "id": "tree-swastika",
+    "sources": [
+      {
+        "title": "Forest swastika - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Forest_swastika",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Planted in 1933, this mysterious forest swastika remained unnoticed until 1992 - The Vintage News",
+        "url": "https://www.thevintagenews.com/2018/03/18/mysterious-wwii/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Horticultural Hate: The Mystery of the Forest Swastikas - ABC News",
+        "url": "https://abcnews.com/International/horticultural-hate-mystery-forest-swastikas/story?id=19588288",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Forest_swastika",
+    "truth": 90,
+    "notoriety": 52,
+    "evidence_for": [
+      {
+        "text": "The forest swastika is confirmed real: 100 larch trees planted circa 1938 near Zernikow, Brandenburg, Germany, visible from the air each autumn when their yellow-brown needles contrasted with surrounding pines; discovered in aerial photographs in 1992.",
+        "source": "https://en.wikipedia.org/wiki/Forest_swastika"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The location is Germany (Brandenburg), not Russia as sometimes misreported; authorities removed most trees in 1995 and 2000 to prevent it becoming a neo-Nazi pilgrimage site.",
+        "source": "https://www.thevintagenews.com/2018/03/18/mysterious-wwii/"
+      }
+    ]
+  },
+  {
+    "id": "sinkholes",
+    "sources": [
+      {
+        "title": "What causes sinkholes? A Spiritual Perspective - Spiritual Science Research Foundation",
+        "url": "https://www.spiritualresearchfoundation.org/spiritual-research/global-issues/what-causes-sinkholes/",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "truth": 8,
+    "notoriety": 15
+  },
+  {
+    "id": "archons",
+    "sources": [
+      {
+        "title": "Archon (Gnosticism) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Archon_(Gnosticism)",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Archon - Britannica",
+        "url": "https://www.britannica.com/topic/Archon-Gnosticism",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Archon_(Gnosticism)",
+    "notoriety": 42,
+    "evidence_for": [
+      {
+        "text": "Archons are well-documented theological entities in ancient Gnostic texts such as the Hypostasis of the Archons (Nag Hammadi, 2nd-3rd century CE), described as seven planetary rulers who obstruct human spiritual ascent.",
+        "source": "https://en.wikipedia.org/wiki/Archon_(Gnosticism)"
+      }
+    ]
+  },
+  {
+    "id": "road-to-roota",
+    "sources": [
+      {
+        "title": "The Road to Roota - Federal Reserve Bank of Boston - Internet Archive",
+        "url": "https://archive.org/details/gov.frb.boston.comic.roota",
+        "type": "archive",
+        "stance": "documents"
+      },
+      {
+        "title": "The Road to Roota Theory - roadtoroota.com",
+        "url": "https://www.roadtoroota.com/public/190.cfm",
+        "type": "lore",
+        "stance": "supports"
+      },
+      {
+        "title": "New York Fed Educational Comic Books",
+        "url": "https://www.newyorkfed.org/outreach-and-education/comic-books",
+        "type": "government",
+        "stance": "documents"
+      }
+    ],
+    "truth": 20,
+    "year": 1981,
+    "notoriety": 25,
+    "evidence_for": [
+      {
+        "text": "The Federal Reserve Bank of Boston published a children's comic ('Wishes and Rainbows', 1981) and an accompanying teacher's guide titled 'The Road to Roota'; this unusual publication is the genuine seed of the conspiracy theory.",
+        "source": "https://archive.org/details/gov.frb.boston.comic.roota"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The Federal Reserve openly acknowledges all its educational comic books; no evidence supports the interpretation that they encode a secret plan to return to a gold standard.",
+        "source": "https://www.newyorkfed.org/outreach-and-education/comic-books"
+      }
+    ]
+  },
+  {
+    "id": "arnolds-real-height",
+    "sources": [
+      {
+        "title": "The Ongoing Mystery of Arnold Schwarzenegger's Actual Height - Mental Floss",
+        "url": "https://www.mentalfloss.com/article/66782/ongoing-mystery-arnold-schwarzeneggers-actual-height",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Arnold Height Truthers Think the Governator Is Telling a Very Tall Tale - MEL Magazine",
+        "url": "https://melmagazine.com/en-us/story/arnold-schwarzenegger-height",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Multiple journalists and measurements produced height estimates ranging from 5'6\" to 6'3\"; Men's Health concluded he was 5'10\" rather than his claimed 6'2\", and critic Roger Ebert reportedly disputed the official figure.",
+        "source": "https://www.mentalfloss.com/article/66782/ongoing-mystery-arnold-schwarzeneggers-actual-height"
+      }
+    ]
+  },
+  {
+    "id": "introspection-rundown",
+    "sources": [
+      {
+        "title": "Introspection Rundown - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Introspection_Rundown",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Death of Lisa McPherson - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_of_Lisa_McPherson",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Scientology cult Introspection Rundown in the wrongful death of Lisa McPherson - WikiLeaks",
+        "url": "https://wikileaks.org/wiki/Scientology_cult_%22Introspection_Rundown%22_as_used_in_the_wrongful_death_of_Lisa_McPherson_(1991)",
+        "type": "archive",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Introspection_Rundown",
+    "truth": 65,
+    "year": 1974,
+    "notoriety": 55,
+    "evidence_for": [
+      {
+        "text": "Lisa McPherson died in 1995 after 17 days under the Introspection Rundown at Scientology's Flag Land Base; autopsy found severe dehydration and a pulmonary embolism consistent with prolonged enforced bed rest and isolation.",
+        "source": "https://en.wikipedia.org/wiki/Death_of_Lisa_McPherson"
+      }
+    ]
+  },
+  {
+    "id": "temporary-autonomous-zone",
+    "sources": [
+      {
+        "title": "Temporary Autonomous Zone - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Temporary_Autonomous_Zone",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "T.A.Z.: The Temporary Autonomous Zone - The Anarchist Library",
+        "url": "https://theanarchistlibrary.org/library/hakim-bey-t-a-z-the-temporary-autonomous-zone-ontological-anarchy-poetic-terrorism",
+        "type": "archive",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Temporary_Autonomous_Zone",
+    "truth": 50,
+    "year": 1991,
+    "notoriety": 48,
+    "evidence_for": [
+      {
+        "text": "The TAZ concept has been practically implemented in autonomous zones, rave communities, and protest encampments worldwide since Hakim Bey's 1991 book; the notion of temporary spaces evading state control is documented across multiple political movements.",
+        "source": "https://en.wikipedia.org/wiki/Temporary_Autonomous_Zone"
+      }
+    ]
+  },
+  {
+    "id": "deep-ecology-fascism",
+    "sources": [
+      {
+        "title": "Deep ecology - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Deep_ecology",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Deep Ecology - Britannica",
+        "url": "https://www.britannica.com/topic/deep-ecology",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Deep_ecology",
+    "year": 1973,
+    "notoriety": 38
+  },
+  {
+    "id": "bitcoin-government-creation",
+    "sources": [
+      {
+        "title": "No, the NSA Did Not Invent Bitcoin - Bitcoin News",
+        "url": "https://news.bitcoin.com/no-the-nsa-did-not-invent-bitcoin/",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "NSA Paper Debunked As Bitcoin Origin Theory - ainvest",
+        "url": "https://www.ainvest.com/news/nsa-paper-debunked-as-bitcoin-origin-theory-2507101014418ac2a32b92a6/",
+        "type": "news",
+        "stance": "debunks"
+      },
+      {
+        "title": "Did the NSA Invent Bitcoin? A 1996 Research Paper Reignites the Debate - Bitcoin News",
+        "url": "https://news.bitcoin.com/did-the-nsa-invent-bitcoin-a-1996-research-paper-reignites-the-debate/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "notoriety": 45,
+    "evidence_against": [
+      {
+        "text": "The 1996 NSA paper describes centralized e-cash schemes and does not propose Bitcoin's decentralized blockchain architecture; no credible link between the NSA and Satoshi Nakamoto's identity has ever been established.",
+        "source": "https://news.bitcoin.com/no-the-nsa-did-not-invent-bitcoin/"
+      }
+    ]
+  },
+  {
+    "id": "cybersquatting-time-travelers",
+    "sources": [],
+    "research_note": "No external coverage found; iceberg-chart lore only."
+  },
+  {
+    "id": "hermeneutics",
+    "sources": [
+      {
+        "title": "Hermeneutics - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hermeneutics",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Hermeneutics (Stanford Encyclopedia of Philosophy)",
+        "url": "https://plato.stanford.edu/entries/hermeneutics/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hermeneutics",
+    "truth": 45,
+    "notoriety": 48,
+    "evidence_for": [
+      {
+        "text": "Hermeneutics is a well-established academic discipline documented in the Stanford Encyclopedia of Philosophy, covering the methodology of interpretation in theology, law, and literary criticism.",
+        "source": "https://plato.stanford.edu/entries/hermeneutics/"
+      }
+    ]
+  },
+  {
+    "id": "neg-entropy",
+    "sources": [
+      {
+        "title": "Negentropy - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Negentropy",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Negentropy",
+    "truth": 10,
+    "year": 1944,
+    "notoriety": 22,
+    "evidence_against": [
+      {
+        "text": "Schrodinger's negentropy concept describes how living organisms maintain order by exporting entropy; it does not permit perpetual motion or infinite energy — the Second Law of Thermodynamics remains inviolable.",
+        "source": "https://en.wikipedia.org/wiki/Negentropy"
+      }
+    ]
+  },
+  {
+    "id": "himalayan-zombies",
+    "sources": [
+      {
+        "title": "Ro-langs - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ro-langs",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Ro-Langs: The Risen Dead of the Himalayas - Historic Mysteries",
+        "url": "https://www.historicmysteries.com/myths-legends/ro-langs/35491/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ro-langs",
+    "notoriety": 22,
+    "evidence_for": [
+      {
+        "text": "Ro-langs (risen corpses) are genuine documented folklore entities in Tibetan, Bhutanese, and Sikkimese tradition, appearing in religious texts and historical accounts of dark sorcery.",
+        "source": "https://en.wikipedia.org/wiki/Ro-langs"
+      }
+    ]
+  },
+  {
+    "id": "bouvet-island-lifeboat",
+    "sources": [
+      {
+        "title": "Abandoned Lifeboat on Bouvet Island: Mystery Solved! - Historic Mysteries",
+        "url": "https://www.historicmysteries.com/unexplained-mysteries/lifeboat-on-bouvet-island/1038/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "An abandoned lifeboat at world's end - Mike Dash History",
+        "url": "https://mikedashhistory.com/2011/02/13/an-abandoned-lifeboat-at-worlds-end/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Bouvet Island - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bouvet_Island",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bouvet_Island",
+    "truth": 35,
+    "year": 1964,
+    "notoriety": 35,
+    "evidence_for": [
+      {
+        "text": "An abandoned, unmarked lifeboat was genuinely discovered on the remote Bouvet Island lagoon by HMS Protector in April 1964 with no trace of survivors; Bouvet is the world's most remote island.",
+        "source": "https://www.historicmysteries.com/unexplained-mysteries/lifeboat-on-bouvet-island/1038/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The most credible explanation is that the lifeboat was abandoned by the Soviet whaling flotilla Slava during an emergency evacuation caused by an unexpected hurricane in November 1958.",
+        "source": "https://mikedashhistory.com/2011/02/13/an-abandoned-lifeboat-at-worlds-end/"
+      }
+    ]
+  },
+  {
+    "id": "phantom-kangaroos",
+    "sources": [
+      {
+        "title": "Does America Have a Secret Kangaroo Population? - Atlas Obscura",
+        "url": "https://www.atlasobscura.com/articles/does-america-have-a-secret-kangaroo-population",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Cryptid Profile: Phantom Kangaroos - Pine Barrens Institute",
+        "url": "https://pinebarrensinstitute.com/cryptids/2018/8/18/cryptid-profile-phantom-kangaroos",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "notoriety": 25,
+    "evidence_against": [
+      {
+        "text": "Most documented phantom kangaroo cases are traceable to escaped exotic animals; some Midwestern sightings resulted in actual kangaroos being captured and sent to zoos, deflating the cryptid or conspiracy explanation.",
+        "source": "https://www.atlasobscura.com/articles/does-america-have-a-secret-kangaroo-population"
+      }
+    ]
+  },
+  {
+    "id": "patomskiy-crater",
+    "sources": [
+      {
+        "title": "Patomskiy crater - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Patomskiy_crater",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Patomskiy Crater Mystery - Discovery UK",
+        "url": "https://www.discoveryuk.com/mysteries/the-patomskiy-crater-mystery-siberias-unexplained-formation/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Patomskiy_crater",
+    "truth": 25,
+    "notoriety": 35,
+    "evidence_for": [
+      {
+        "text": "The Patomskiy crater is a real, scientifically-documented formation in Irkutsk, Siberia; dendrochronology confirmed it is approximately 300-350 years old and its cone-shaped limestone structure has no direct conventional geological analogue.",
+        "source": "https://en.wikipedia.org/wiki/Patomskiy_crater"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Three scientific expeditions concluded the most likely formation mechanism is underground methane or hydrogen gas emissions, not supernatural or extraterrestrial causes.",
+        "source": "https://www.discoveryuk.com/mysteries/the-patomskiy-crater-mystery-siberias-unexplained-formation/"
+      }
+    ]
+  },
+  {
+    "id": "dighton-rock",
+    "sources": [
+      {
+        "title": "Dighton Rock - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dighton_Rock",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Who Made the Petroglyphs on the Mysterious Dighton Rock? - Ancient Origins",
+        "url": "https://www.ancient-origins.net/unexplained-phenomena/who-made-petroglyphs-mysterious-dighton-rock-004991",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dighton_Rock",
+    "truth": 25,
+    "notoriety": 40,
+    "evidence_for": [
+      {
+        "text": "Dighton Rock is a confirmed historical artifact in Berkley, Massachusetts with documented petroglyphs first recorded in 1680; the intentional nature of the carvings is not disputed — only the authorship.",
+        "source": "https://en.wikipedia.org/wiki/Dighton_Rock"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Mainstream archaeologists attribute the carvings to local Wampanoag Native Americans; similar indigenous petroglyphs are documented throughout the northeastern United States.",
+        "source": "https://www.ancient-origins.net/unexplained-phenomena/who-made-petroglyphs-mysterious-dighton-rock-004991"
+      }
+    ]
+  },
+  {
+    "id": "manichaeism",
+    "sources": [
+      {
+        "title": "Manichaeism - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Manichaeism",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Manichaeism - Britannica",
+        "url": "https://www.britannica.com/topic/Manichaeism",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Manichaeism",
+    "notoriety": 58,
+    "evidence_for": [
+      {
+        "text": "Manichaeism was a historically significant world religion founded by the prophet Mani (~216-274 CE) that syncretized elements of Christianity, Zoroastrianism, and Buddhism; at its height it spread from North Africa to China.",
+        "source": "https://en.wikipedia.org/wiki/Manichaeism"
+      }
+    ]
+  },
+  {
+    "id": "valis",
+    "sources": [
+      {
+        "title": "VALIS (novel) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Valis_(novel)",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Valis_(novel)",
+    "notoriety": 45,
+    "evidence_for": [
+      {
+        "text": "Philip K. Dick's 1981 novel VALIS draws directly from his documented '2-3-74' mystical experiences; Dick spent approximately 8,000 pages in his Exegesis analyzing whether these visions were divine, alien, or neurological in origin.",
+        "source": "https://en.wikipedia.org/wiki/Valis_(novel)"
+      }
+    ]
+  },
+  {
+    "id": "gods-plan",
+    "sources": [],
+    "research_note": "Broad theological concept with no distinct conspiracy-theory coverage; general Christian eschatology and free-will debate rather than a discrete iceberg entry."
+  },
+  {
+    "id": "population-exploitation",
+    "sources": [],
+    "research_note": "No external coverage found; iceberg-chart lore only."
+  },
+  {
+    "id": "interdimensional-bigfoot",
+    "sources": [
+      {
+        "title": "Bigfoot and Portals: Unveiling the Interdimensional Theory - Connect Paranormal",
+        "url": "https://connectparanormal.net/2024/06/23/bigfoot-and-portals-unveiling-the-interdimensional-theory/",
+        "type": "lore",
+        "stance": "supports"
+      },
+      {
+        "title": "Bigfoot and UFO Sightings Often Coincide - Gaia",
+        "url": "https://www.gaia.com/article/ufos-bigfoot-evidence-interdimensional-connection",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "notoriety": 28,
+    "evidence_against": [
+      {
+        "text": "No scientific evidence exists for interdimensional travel; mainstream cryptozoologists consider standard physical-animal hypotheses far more parsimonious than dimensional portal theories.",
+        "source": "https://connectparanormal.net/2024/06/23/bigfoot-and-portals-unveiling-the-interdimensional-theory/"
+      }
+    ]
+  },
+  {
+    "id": "organic-black-helicopters",
+    "sources": [
+      {
+        "title": "Black helicopter - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Black_helicopter",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Black helicopters - RationalWiki",
+        "url": "https://rationalwiki.org/wiki/Black_helicopters",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_helicopter",
+    "notoriety": 32,
+    "evidence_against": [
+      {
+        "text": "Black unmarked helicopters used by US law enforcement and military agencies (CBP, DEA, FBI) are extensively documented; no evidence supports alien or biological-organism origin claims for these aircraft.",
+        "source": "https://rationalwiki.org/wiki/Black_helicopters"
+      }
+    ]
+  },
+  {
+    "id": "christian-illuminati",
+    "sources": [
+      {
+        "title": "Dominion theology - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dominion_theology",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Christian Dominionism and Pat Robertson's Shadow Government - Christian Democrats of America",
+        "url": "https://christiandemocratsofamerica.org/blog/2019/03/01/christian-dominionism-and-pat-robertsons-shadow-government/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dominion_theology"
+  },
+  {
+    "id": "asian-blood-types",
+    "sources": [
+      {
+        "title": "Blood type personality theory - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Blood_type_personality_theory",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "ABO Blood Type and Personality Traits in Healthy Japanese Subjects - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4433257/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Blood_type_personality_theory",
+    "truth": 15,
+    "notoriety": 55,
+    "evidence_against": [
+      {
+        "text": "A 2015 PMC study of healthy Japanese subjects found no significant association between ABO blood type and personality traits, consistent with the scientific consensus that the theory lacks empirical support.",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4433257/"
+      }
+    ]
+  },
+  {
+    "id": "ural-relief-map",
+    "sources": [
+      {
+        "title": "The Controversial Dashka Stone: 120 Million-Year-Old Map? - Ancient Origins",
+        "url": "https://www.ancient-origins.net/artifacts-ancient-writings/dashka-stone-006589",
+        "type": "lore",
+        "stance": "supports"
+      },
+      {
+        "title": "Is The Dashka Stone A Hoax? - Weird History Facts",
+        "url": "https://weird-history-facts.com/is-the-dashka-stone-a-hoax/",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "truth": 12,
+    "notoriety": 25,
+    "evidence_for": [
+      {
+        "text": "The Dashka Stone, discovered by Bashkir State University researchers in 1999, appears to show detailed topographic features of the Ural region including rivers and channels; its origins remain contested.",
+        "source": "https://www.ancient-origins.net/artifacts-ancient-writings/dashka-stone-006589"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "No reliable dating methodology has been published for the artifact; the 120-million-year age claim has no peer-reviewed support and many researchers consider it a hoax or misidentification of natural rock formations.",
+        "source": "https://weird-history-facts.com/is-the-dashka-stone-a-hoax/"
+      }
+    ]
+  },
+  {
+    "id": "hidden-history",
+    "sources": [
+      {
+        "title": "Forbidden Archeology - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Forbidden_Archeology",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "No, There Isn't a Conspiracy to Hide the Truth about Ancient History - Tales of Times Forgotten",
+        "url": "https://talesoftimesforgotten.com/2020/02/27/no-there-isnt-a-conspiracy-to-hide-the-truth-about-ancient-history/",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Forbidden_Archeology",
+    "notoriety": 35,
+    "evidence_against": [
+      {
+        "text": "Academic archaeologists actively benefit from discovering paradigm-changing evidence; institutional incentives run counter to systematic suppression, making a global cover-up of archaeological evidence implausible.",
+        "source": "https://talesoftimesforgotten.com/2020/02/27/no-there-isnt-a-conspiracy-to-hide-the-truth-about-ancient-history/"
+      }
+    ]
+  },
+  {
+    "id": "chinas-real-population",
+    "sources": [
+      {
+        "title": "China Is Hiding A Population Secret, Analyst Claims - Newsweek",
+        "url": "https://www.newsweek.com/china-hiding-population-secret-1926834",
+        "type": "news",
+        "stance": "supports"
+      },
+      {
+        "title": "How Reliable Are China's Statistics? - The Diplomat",
+        "url": "https://thediplomat.com/2022/03/how-reliable-are-chinas-statistics/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "China's population numbers are almost certainly inflated - South China Morning Post",
+        "url": "https://www.scmp.com/comment/opinion/article/3018829/chinas-population-numbers-are-almost-certainly-inflated-hide",
+        "type": "news",
+        "stance": "supports"
+      }
+    ],
+    "truth": 35,
+    "notoriety": 38,
+    "evidence_for": [
+      {
+        "text": "Demographer Yi Fuxian (University of Wisconsin-Madison) documented systematic discrepancies in China's census data; tuberculosis vaccination records for newborns implied ~9.9 million births in 2018 vs. the official 15.23 million.",
+        "source": "https://www.newsweek.com/china-hiding-population-secret-1926834"
+      }
+    ]
+  },
+  {
+    "id": "arizona-ghost-radio",
+    "sources": [
+      {
+        "title": "Ghost Radio - Phoenix New Times",
+        "url": "https://www.phoenixnewtimes.com/news/ghost-radio-6407630/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "KCDX - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/KCDX",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/KCDX",
+    "truth": 35,
+    "notoriety": 28,
+    "evidence_for": [
+      {
+        "text": "KCDX (103.1 FM) is a real FCC-licensed radio station broadcasting from Globe/Florence, Arizona, airing obscure album rock with no DJ, no commercials, and an owner (Ted Tucker) who deliberately maintained public mystery about his motivations.",
+        "source": "https://www.phoenixnewtimes.com/news/ghost-radio-6407630/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "KCDX is a legitimate FCC-licensed commercial station; its unusual format and secretive owner are documented but entirely legal and explicable as a personal broadcasting project.",
+        "source": "https://en.wikipedia.org/wiki/KCDX"
+      }
+    ]
+  },
+  {
+    "id": "contemporary-sacrifices",
+    "sources": [
+      {
+        "title": "Satanic panic - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Satanic_panic",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Blood libel - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Blood_libel",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Satanic_panic",
+    "truth": 5,
+    "notoriety": 38,
+    "evidence_against": [
+      {
+        "text": "The Satanic panic produced over 12,000 claims of ritual abuse in the US during the 1980s-90s; investigators found no material evidence of organized cult-based human sacrifice in any of the cases.",
+        "source": "https://en.wikipedia.org/wiki/Satanic_panic"
+      }
+    ]
+  },
+  {
+    "id": "non-urban-testing-grounds",
+    "sources": [
+      {
+        "title": "Unethical human experimentation in the United States - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Unethical_human_experimentation_in_the_United_States",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The U.S. Government's Secret Experimentation with Biological and Chemical Warfare - nospray.org",
+        "url": "https://nospray.org/the-u-s-governments-secret-experimentation-with-biological-and-chemical-warfare/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Unethical_human_experimentation_in_the_United_States",
+    "truth": 30,
+    "notoriety": 28,
+    "evidence_for": [
+      {
+        "text": "Between 1949 and 1974 the US government conducted hundreds of biological weapons tests on unsuspecting populations, including spraying bacterial tracers over cities and releasing agents in rural areas of Alaska.",
+        "source": "https://nospray.org/the-u-s-governments-secret-experimentation-with-biological-and-chemical-warfare/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "While documented secret rural experiments did occur, there is no credible evidence they involved cryptid creation; the cryptid-correlation element of this theory is unsupported.",
+        "source": "https://en.wikipedia.org/wiki/Unethical_human_experimentation_in_the_United_States"
+      }
+    ]
+  },
+  {
+    "id": "transhumanist-reality",
+    "sources": [],
+    "research_note": "No external coverage found; iceberg-chart lore only."
+  },
+  {
+    "id": "transhuman-authoritarianism",
+    "sources": [
+      {
+        "title": "Transhumanism - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Transhumanism",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Super-intelligence and eternal life: transhumanism's faithful follow it blindly into a future for the elite - The Conversation",
+        "url": "https://theconversation.com/super-intelligence-and-eternal-life-transhumanisms-faithful-follow-it-blindly-into-a-future-for-the-elite-78538",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Transhumanism"
+  },
+  {
+    "id": "brain-in-a-jar",
+    "sources": [
+      {
+        "title": "Brain in a vat - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Brain_in_a_vat",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Brain in a Vat Argument - Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/brain-in-a-vat-argument/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Brain_in_a_vat",
+    "notoriety": 58,
+    "evidence_for": [
+      {
+        "text": "Hilary Putnam's 1981 formalization of the brain-in-a-vat scenario is a cornerstone of analytic epistemology; the scenario is logically unfalsifiable by design, which is why it continues to attract serious philosophical attention.",
+        "source": "https://en.wikipedia.org/wiki/Brain_in_a_vat"
+      }
+    ]
+  },
+  {
+    "id": "segregated-internet",
+    "sources": [
+      {
+        "title": "Filter bubble - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Filter_bubble",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Through the Newsfeed Glass: Rethinking Filter Bubbles and Echo Chambers - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8923337/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Filter_bubble",
+    "truth": 35,
+    "notoriety": 45,
+    "evidence_for": [
+      {
+        "text": "Filter bubble research by Eli Pariser (2011) and subsequent studies confirm algorithmic personalization produces demonstrably different content streams for different users, consistent with the 'segregated internet' observation.",
+        "source": "https://en.wikipedia.org/wiki/Filter_bubble"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Empirical studies show social media users generally encounter a more centrist, diverse content diet than offline audiences; the claim that segregation is intentionally engineered by elites to prevent unified opposition lacks direct evidence.",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8923337/"
+      }
+    ]
+  },
+  {
+    "id": "cannibalism-psyops",
+    "sources": [
+      {
+        "title": "Human cannibalism - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Human_cannibalism",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Why Is Cannibalism Taboo Across Almost Every Culture? - ScienceInsights",
+        "url": "https://scienceinsights.org/why-is-cannibalism-taboo-across-almost-every-culture/",
+        "type": "news",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_cannibalism",
+    "truth": 5,
+    "notoriety": 15,
+    "evidence_against": [
+      {
+        "text": "The cannibalism taboo is biologically adaptive: prion diseases like kuru are transmitted through consumption of human brain tissue, providing a clear evolutionary explanation for the taboo independent of any government conspiracy.",
+        "source": "https://scienceinsights.org/why-is-cannibalism-taboo-across-almost-every-culture/"
+      }
+    ]
+  },
+  {
+    "id": "the-cosmic-butterfly",
+    "sources": [
+      {
+        "title": "The Cosmic Butterfly (Rosalind Ballingal) - Iceberg Database",
+        "url": "https://icebergdb.com/the-cosmic-butterfly-rosalind-ballingal/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "truth": 5,
+    "notoriety": 10,
+    "research_note": "Coverage limited to iceberg charting databases; no mainstream news or independent coverage found."
+  },
+  {
+    "id": "bogandoff",
+    "sources": [
+      {
+        "title": "Bogdanov affair - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bogdanov_affair",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Bogdanoff Twins - Know Your Meme",
+        "url": "https://knowyourmeme.com/memes/people/bogdanoff-twins",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bogdanov_affair",
+    "notoriety": 42,
+    "evidence_for": [
+      {
+        "text": "The Bogdanov twins (Igor and Grichka) were embroiled in a genuine academic scandal when their physics PhD theses were found to contain nonsensical but peer-review-passing content; a CNRS internal report concluded the theses had no scientific value.",
+        "source": "https://en.wikipedia.org/wiki/Bogdanov_affair"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The 'Bogpill' internet meme claiming the brothers control world finance and are archangels is a 4chan ironic conspiracy meme with no factual basis; the brothers were science TV hosts, not shadow rulers.",
+        "source": "https://knowyourmeme.com/memes/people/bogdanoff-twins"
+      }
+    ]
+  },
+  {
+    "id": "npc-false-flags",
+    "sources": [
+      {
+        "title": "The politics of the NPC meme - SAGE Journals",
+        "url": "https://journals.sagepub.com/doi/10.1177/20539517231172422",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "How The NPC Meme Tries To Dehumanize SJWs - Kotaku",
+        "url": "https://kotaku.com/how-the-npc-meme-tries-to-dehumanize-sjws-1829552261",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "truth": 8,
+    "notoriety": 28,
+    "evidence_against": [
+      {
+        "text": "Researchers identify the NPC meme as a dehumanization strategy from reactionary internet subcultures; the soulless-false-flag-agents extension has no evidentiary basis.",
+        "source": "https://kotaku.com/how-the-npc-meme-tries-to-dehumanize-sjws-1829552261"
+      }
+    ]
+  },
+  {
+    "id": "animal-spying",
+    "sources": [
+      {
+        "title": "United States Navy Marine Mammal Program - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/United_States_Navy_Marine_Mammal_Program",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The CIA's Most Highly-Trained Spies Weren't Even Human - Smithsonian Magazine",
+        "url": "https://www.smithsonianmag.com/history/the-cias-most-highly-trained-spies-werent-even-human-20149/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Military marine mammal - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Military_marine_mammal",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/United_States_Navy_Marine_Mammal_Program",
+    "truth": 85,
+    "notoriety": 60,
+    "evidence_for": [
+      {
+        "text": "The US Navy Marine Mammal Program (NMMP), begun in 1960, is a publicly acknowledged program using trained dolphins and sea lions for mine detection and harbor security, deployed in the Vietnam and Iraq wars.",
+        "source": "https://en.wikipedia.org/wiki/United_States_Navy_Marine_Mammal_Program"
+      },
+      {
+        "text": "The CIA's Cold War Project OXYGAS trained dolphins as ship-saboteurs; multiple declassified animal espionage programs are documented in Smithsonian research.",
+        "source": "https://www.smithsonianmag.com/history/the-cias-most-highly-trained-spies-werent-even-human-20149/"
+      }
+    ]
+  },
+  {
+    "id": "dark-city-non-fiction",
+    "sources": [
+      {
+        "title": "Dark City (1998 film) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dark_City_(1998_film)",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dark_City_(1998_film)",
+    "truth": 3,
+    "notoriety": 22,
+    "evidence_against": [
+      {
+        "text": "Dark City is a documented 1998 science fiction film by director Alex Proyas; no credible evidence supports treating its alien memory-manipulation plot as literally non-fictional.",
+        "source": "https://en.wikipedia.org/wiki/Dark_City_(1998_film)"
+      }
+    ]
+  },
+  {
+    "id": "memetic-virus-infection",
+    "sources": [
+      {
+        "title": "Memetic warfare - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Memetic_warfare",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Information hazards - Memetics - Miraheze",
+        "url": "https://memetics.miraheze.org/wiki/Information_hazards",
+        "type": "lore",
+        "stance": "supports"
+      },
+      {
+        "title": "Memetic Warfare: What's Real and How It Works - Fordham Political Review",
+        "url": "https://fordhampoliticalreview.org/memetic-warfare-whats-real-and-how-it-works/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Memetic_warfare",
+    "truth": 20,
+    "notoriety": 28,
+    "evidence_for": [
+      {
+        "text": "Memetic warfare is a documented concept in psychological operations; a 2005 US Marine Corps dissertation explicitly discussed weaponizing memes to embed ideas into adversary populations.",
+        "source": "https://fordhampoliticalreview.org/memetic-warfare-whats-real-and-how-it-works/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The specific claim that hidden codes in images can trigger targeted emotional states as a 'virus' lacks neurological support; subliminal advertising studies consistently show minimal population-scale effects.",
+        "source": "https://en.wikipedia.org/wiki/Memetic_warfare"
+      }
+    ]
+  }
+]

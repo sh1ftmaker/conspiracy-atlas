@@ -1,0 +1,1072 @@
+[
+  {
+    "id": "subjective-reality",
+    "sources": [
+      {
+        "title": "Solipsism - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Solipsism",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Subjective Reality Simplified - Steve Pavlina",
+        "url": "https://stevepavlina.com/blog/2007/09/subjective-reality-simplified/",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Solipsism",
+    "notoriety": 40,
+    "evidence_for": [
+      {
+        "text": "Solipsism, defended by philosophers including George Berkeley and Ludwig Wittgenstein, establishes the formal philosophical basis for subjective reality claims: only one's own mind is certain to exist, making shared objective reality formally unverifiable.",
+        "source": "https://en.wikipedia.org/wiki/Solipsism"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Solipsism is widely regarded as unfalsifiable and practically useless; most epistemologists reject it as an unhelpful extreme position rather than a meaningful description of reality.",
+        "source": "https://en.wikipedia.org/wiki/Solipsism"
+      }
+    ]
+  },
+  {
+    "id": "caimeo",
+    "sources": [
+      {
+        "title": "CAIMEO - RationalWiki",
+        "url": "https://rationalwiki.org/wiki/CAIMEO",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "Exposing CAIMEO Lore and Backstory - Steemit",
+        "url": "https://steemit.com/ai/@j1337/exposing-caimeo-lore-and-backstory-extra-notes-what-4chan-and-internet-thinks",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "truth": 10,
+    "notoriety": 20,
+    "evidence_against": [
+      {
+        "text": "RationalWiki classifies CAIMEO as an elaborate internet hoax or early creepypasta; no evidence for PROJECT CAPPUCINO has emerged, and the described AI algorithm is mathematically incoherent.",
+        "source": "https://rationalwiki.org/wiki/CAIMEO"
+      }
+    ]
+  },
+  {
+    "id": "q-source",
+    "sources": [
+      {
+        "title": "Q source - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Q_source",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Q | biblical literature - Britannica",
+        "url": "https://www.britannica.com/topic/Q-biblical-literature",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Q Source Hypothesis - Bart Ehrman",
+        "url": "https://www.bartehrman.com/q-source-hypothesis/",
+        "type": "academic",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Q_source",
+    "truth": 55,
+    "notoriety": 55,
+    "evidence_for": [
+      {
+        "text": "The Two-Source Hypothesis - that Matthew and Luke each drew independently on Mark and a lost sayings source Q - is accepted by a majority of contemporary New Testament scholars.",
+        "source": "https://en.wikipedia.org/wiki/Q_source"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "A consistent minority of scholars argues Q never existed, holding instead that Luke used Matthew directly; no physical document has ever been recovered.",
+        "source": "https://en.wikipedia.org/wiki/Q_source"
+      }
+    ]
+  },
+  {
+    "id": "street-light-interference",
+    "sources": [
+      {
+        "title": "Street light interference phenomenon - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Street_light_interference_phenomenon",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Investigating street light interference: SLI - ASSAP",
+        "url": "https://www.assap.ac.uk/articles/detail/investigating-street-light-interference-sli",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Street_light_interference_phenomenon",
+    "notoriety": 40,
+    "evidence_against": [
+      {
+        "text": "SLI has never been demonstrated under controlled scientific conditions; claimants cannot reproduce the effect on demand, and researchers attribute reports to confirmation bias and the normal cycling behaviour of sodium-vapour lamps.",
+        "source": "https://en.wikipedia.org/wiki/Street_light_interference_phenomenon"
+      }
+    ]
+  },
+  {
+    "id": "obscure-video-games",
+    "sources": [
+      {
+        "title": "Sad Satan - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sad_Satan",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "A Horror Game Hidden in the Darkest Corners of the Internet - Kotaku",
+        "url": "https://kotaku.com/a-horror-game-hidden-in-the-darkest-corners-of-the-inte-1714980337",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sad_Satan",
+    "truth": 40,
+    "notoriety": 45,
+    "evidence_for": [
+      {
+        "text": "Sad Satan is a documented Windows game circulated in 2015 via a Tor hidden service; a later version was confirmed to contain child sexual abuse material and malware, establishing that extreme underground games do exist.",
+        "source": "https://en.wikipedia.org/wiki/Sad_Satan"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Investigators strongly suspected Sad Satan was a hoax ARG created by the YouTube channel owner to gain subscribers; its dark-web provenance was never independently verified.",
+        "source": "https://kotaku.com/a-horror-game-hidden-in-the-darkest-corners-of-the-inte-1714980337"
+      }
+    ]
+  },
+  {
+    "id": "npc-simulations",
+    "sources": [
+      {
+        "title": "Are We Living Among NPCs in a Simulated Matrix? - Medium",
+        "url": "https://medium.com/@C.Law./are-we-living-among-npcs-in-a-simulated-matrix-015fbb55295a",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Quantum physicists note that the many-worlds interpretation does not imply deliberately scripted NPC entities managed by an external AI; post-singularity population control through robotic shells or implants remains speculative with no supporting evidence.",
+        "source": "https://medium.com/@C.Law./are-we-living-among-npcs-in-a-simulated-matrix-015fbb55295a"
+      }
+    ]
+  },
+  {
+    "id": "layered-cake-theory",
+    "sources": [
+      {
+        "title": "Layer Cake Federalism - Center for the Study of Federalism",
+        "url": "https://federalism.org/encyclopedia/no-topic/layer-cake-federalism/",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Dual federalism - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dual_federalism",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Political science defines layer cake (dual) federalism as a system with clearly demarcated state vs. federal authority; mainstream scholarship treats the structural separation as real, not a facade for unified elite control.",
+        "source": "https://federalism.org/encyclopedia/no-topic/layer-cake-federalism/"
+      }
+    ]
+  },
+  {
+    "id": "iraq-stargates",
+    "sources": [
+      {
+        "title": "Iraqi stargate conspiracy theory - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Iraqi_stargate_conspiracy_theory",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Fact Check: Did U.S. invade Iraq to access ancient stargate? - Newsweek",
+        "url": "https://www.newsweek.com/us-invade-iraq-ancient-stargate-1766705",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Iraqi_stargate_conspiracy_theory",
+    "notoriety": 45,
+    "evidence_against": [
+      {
+        "text": "No physical, archaeological, or scientific evidence for any portal at the Ziggurat of Ur or elsewhere in Iraq; Sitchin's foundational Anunnaki claims have been rejected by Assyriologists and archaeologists as pseudoscience.",
+        "source": "https://en.wikipedia.org/wiki/Iraqi_stargate_conspiracy_theory"
+      }
+    ]
+  },
+  {
+    "id": "esoteric-recruitment",
+    "sources": [
+      {
+        "title": "Cicada 3301 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cicada_3301",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Mystery of Cicada 3301 - All That's Interesting",
+        "url": "https://allthatsinteresting.com/cicada-3301",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Cicada_3301",
+    "truth": 25,
+    "notoriety": 50,
+    "evidence_for": [
+      {
+        "text": "Cicada 3301 ran three verified cryptographic recruitment puzzles (2012-2014), using hidden digital trails to filter for cryptography, steganography, and philosophy skills - directly demonstrating that covert selective recruitment via hidden messages is real.",
+        "source": "https://en.wikipedia.org/wiki/Cicada_3301"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Cicada 3301's ultimate purpose remains unknown; it may be a private cryptography group rather than a classic secret society, and no confirmed occult or power-seeking agenda has been established.",
+        "source": "https://allthatsinteresting.com/cicada-3301"
+      }
+    ]
+  },
+  {
+    "id": "atom-bomb-never-created",
+    "sources": [
+      {
+        "title": "Nuclear weapons do exist - Full Fact",
+        "url": "https://fullfact.org/online/nuclear-weapons-are-real/",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "Hiroshima and Nagasaki were bombed in 1945, despite conspiracy theories - PolitiFact",
+        "url": "https://www.politifact.com/factchecks/2023/aug/14/facebook-posts/hiroshima-and-nagasaki-were-bombed-in-1945-despite/",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Full Fact and PolitiFact confirm nuclear weapons exist and were used at Hiroshima and Nagasaki; radiation injuries are inconsistent with conventional bombing, and the Manhattan Project has extensive archival documentation.",
+        "source": "https://fullfact.org/online/nuclear-weapons-are-real/"
+      }
+    ]
+  },
+  {
+    "id": "captivity-suburbs",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only"
+  },
+  {
+    "id": "multiple-christs-theory",
+    "sources": [
+      {
+        "title": "Christ myth theory - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Christ_myth_theory",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Jesus Mythicism 4: Jesus as an Amalgam of Many Figures - History for Atheists",
+        "url": "https://historyforatheists.com/2019/02/amalgam-jesus/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Christ_myth_theory",
+    "notoriety": 45,
+    "evidence_for": [
+      {
+        "text": "Scholars such as Robert Price argue in Deconstructing Jesus that the New Testament figure is a composite whose traits can be traced to multiple distinct historical individuals or earlier myth cycles.",
+        "source": "https://historyforatheists.com/2019/02/amalgam-jesus/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The overwhelming majority of historians accept that a historical Jesus existed; composite-figure and Christ myth variants carry little weight in mainstream New Testament scholarship.",
+        "source": "https://en.wikipedia.org/wiki/Christ_myth_theory"
+      }
+    ]
+  },
+  {
+    "id": "kali-yuga",
+    "sources": [
+      {
+        "title": "Kali Yuga - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kali_Yuga",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Kali Yuga - Britannica",
+        "url": "https://www.britannica.com/topic/Kali-Yuga",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kali_Yuga",
+    "notoriety": 55,
+    "evidence_for": [
+      {
+        "text": "Kali Yuga is a thoroughly documented Hindu cosmological concept in Puranic texts, describing the current age as one of moral decline, discord, and reduced virtue - lasting 432,000 years, beginning around 3102 BCE.",
+        "source": "https://en.wikipedia.org/wiki/Kali_Yuga"
+      }
+    ]
+  },
+  {
+    "id": "ai-in-a-box",
+    "sources": [
+      {
+        "title": "AI-box experiment - RationalWiki",
+        "url": "https://rationalwiki.org/wiki/AI-box_experiment",
+        "type": "debunker",
+        "stance": "documents"
+      },
+      {
+        "title": "AI Boxing (Containment) - LessWrong",
+        "url": "https://www.lesswrong.com/w/ai-boxing-containment",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "truth": 35,
+    "notoriety": 40,
+    "evidence_for": [
+      {
+        "text": "Eliezer Yudkowsky conducted five AI-box experiments, winning two out of five by convincing gatekeepers to release the AI through text conversation alone, demonstrating that persuasion-based containment escape is plausible.",
+        "source": "https://rationalwiki.org/wiki/AI-box_experiment"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Critics note the experiments were unscientific (outcomes kept secret, no replication) and roleplaying as a superintelligent AI is not equivalent to a real one; containment failure under actual superintelligence remains theoretical.",
+        "source": "https://rationalwiki.org/wiki/AI-box_experiment"
+      }
+    ]
+  },
+  {
+    "id": "valley-of-headless-men",
+    "sources": [
+      {
+        "title": "Valley of Headless Men: Mysterious Decapitations in Nahanni Valley - Ancient Origins",
+        "url": "https://www.ancient-origins.net/unexplained-phenomena/nahanni-valley-0016177",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "The Beheadings of Nahanni National Park - Unsolved Canadian Mysteries",
+        "url": "https://unsolvedcanadianmysteries.ca/blog/2-the-beheadings-of-nahanni-national-park/",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Multiple confirmed deaths in the Nahanni Valley since 1905 - including the McLeod brothers (1908), Martin Jorgenson (1917), and an Ontario miner (1945) - all found decapitated in remote, inaccessible terrain.",
+        "source": "https://www.ancient-origins.net/unexplained-phenomena/nahanni-valley-0016177"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "RCMP files attributed the deaths to treacherous terrain, unpredictable rivers, severe winters, and likely human violence rather than cryptids or supernatural causes.",
+        "source": "https://unsolvedcanadianmysteries.ca/blog/2-the-beheadings-of-nahanni-national-park/"
+      }
+    ]
+  },
+  {
+    "id": "morphogenic-field",
+    "sources": [
+      {
+        "title": "Rupert Sheldrake - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rupert_Sheldrake",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Morphic Resonance: Research and Papers - Sheldrake.org",
+        "url": "https://www.sheldrake.org/research/morphic-resonance",
+        "type": "lore",
+        "stance": "supports"
+      },
+      {
+        "title": "Facing biology's open questions: Sheldrake's hypothesis turns 40 - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33751607/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Rupert_Sheldrake",
+    "notoriety": 35,
+    "evidence_for": [
+      {
+        "text": "Sheldrake's morphic resonance proposes that organisms inherit collective memory through non-local fields; he has published books and papers, and the hypothesis has been discussed (critically) in peer-reviewed venues.",
+        "source": "https://pubmed.ncbi.nlm.nih.gov/33751607/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The majority of the scientific community has dismissed morphic resonance; unlike electromagnetic fields, no measurable laws or reproducible experiments have confirmed its existence.",
+        "source": "https://en.wikipedia.org/wiki/Rupert_Sheldrake"
+      }
+    ]
+  },
+  {
+    "id": "flatland-ufo-theory",
+    "sources": [
+      {
+        "title": "Interdimensional UFO hypothesis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Interdimensional_UFO_hypothesis",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Carl Sagan's Flatland Theory Finds New Life as Lawmakers Float Interdimensional Explanation for UFOs - USA Herald",
+        "url": "https://usaherald.com/carl-sagans-flatland-theory-finds-new-life-as-lawmakers-float-interdimensional-explanation-for-ufos/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Interdimensional_UFO_hypothesis",
+    "notoriety": 35,
+    "evidence_for": [
+      {
+        "text": "Ufologists Meade Layne, John Keel, J. Allen Hynek, and Jacques Vallee formally advanced the interdimensional hypothesis as a structured alternative to the extraterrestrial hypothesis; US lawmakers have publicly floated it as a UAP explanation.",
+        "source": "https://en.wikipedia.org/wiki/Interdimensional_UFO_hypothesis"
+      }
+    ]
+  },
+  {
+    "id": "aetherius-society",
+    "sources": [
+      {
+        "title": "Aetherius Society - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aetherius_Society",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "The Aetherius Society - Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aetherius-society",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Aetherius_Society",
+    "notoriety": 45,
+    "evidence_for": [
+      {
+        "text": "The Aetherius Society is a documented new religious movement founded in 1955 by George King, syncretically combining theosophy, New Age, and UFO religion beliefs around Cosmic Masters including Jesus and Buddha said to originate from other planets.",
+        "source": "https://en.wikipedia.org/wiki/Aetherius_Society"
+      }
+    ]
+  },
+  {
+    "id": "aztec-theogony",
+    "sources": [
+      {
+        "title": "Comparative mythology - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Comparative_mythology",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Aztec religion - Britannica",
+        "url": "https://www.britannica.com/topic/Aztec-religion",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Comparative_mythology",
+    "truth": 25,
+    "notoriety": 35,
+    "evidence_for": [
+      {
+        "text": "Comparative mythology is a legitimate academic field; Aztec cosmology includes flood narratives, creation sacrifice, and divine pantheons with structural parallels to Mesopotamian, Hindu, and Near Eastern traditions.",
+        "source": "https://en.wikipedia.org/wiki/Comparative_mythology"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Mainstream scholars attribute cross-cultural religious parallels to universal cognitive archetypes and independent cultural evolution, not shared alien sources or deliberate ancient transmission.",
+        "source": "https://www.britannica.com/topic/Aztec-religion"
+      }
+    ]
+  },
+  {
+    "id": "hyper-sigils",
+    "sources": [
+      {
+        "title": "Art as Magic, Magic as Art: The Hypersigils of Grant Morrison - TeeVeeTropes",
+        "url": "https://teeveetropesdotcom.wordpress.com/2014/02/27/art-as-magic-magic-as-art-the-hypersigils-of-grant-morrison/",
+        "type": "lore",
+        "stance": "supports"
+      },
+      {
+        "title": "Pop Magic! - Pastelegram",
+        "url": "https://pastelegram.org/e/127",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "evidence_for": [
+      {
+        "text": "Comics writer Grant Morrison coined 'hypersigil' to describe long-form narrative art (e.g. The Invisibles) intended to function as extended chaos-magic workings; Morrison reported real-life effects mirroring events in the comic.",
+        "source": "https://teeveetropesdotcom.wordpress.com/2014/02/27/art-as-magic-magic-as-art-the-hypersigils-of-grant-morrison/"
+      }
+    ]
+  },
+  {
+    "id": "wavering-divinity",
+    "sources": [
+      {
+        "title": "The Supposedly Pristine Amazon Rainforest Was Actually Shaped By Humans - Smithsonian Magazine",
+        "url": "https://www.smithsonianmag.com/science-nature/pristine-untouched-amazonian-rainforest-was-actually-shaped-humans-180962378/",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "A new hypothesis for the origin of Amazonian Dark Earths - NCBI PMC",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7782733/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Archaeological and soil-science research confirms significant ancient human reshaping of the Amazon via terra preta and geoglyphs - but through practical agriculture and engineering, not supernatural divine potency.",
+        "source": "https://www.smithsonianmag.com/science-nature/pristine-untouched-amazonian-rainforest-was-actually-shaped-humans-180962378/"
+      }
+    ]
+  },
+  {
+    "id": "pendulum-people-perpetual-power-prevention",
+    "sources": [
+      {
+        "title": "Free energy suppression conspiracy theory - Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Free_energy_suppression_conspiracy_theory",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Perpetual motion - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Perpetual_motion",
+        "type": "wikipedia",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.m.wikipedia.org/wiki/Free_energy_suppression_conspiracy_theory",
+    "notoriety": 20,
+    "evidence_against": [
+      {
+        "text": "Thermodynamic laws (conservation of energy and entropy increase) make perpetual motion physically impossible; free energy suppression theories lack any verified mechanism or credible insider testimony.",
+        "source": "https://en.wikipedia.org/wiki/Perpetual_motion"
+      }
+    ]
+  },
+  {
+    "id": "pro-war-buddhism",
+    "sources": [
+      {
+        "title": "Militant Buddhism is on the march in South-East Asia - The Conversation",
+        "url": "https://theconversation.com/militant-buddhism-is-on-the-march-in-south-east-asia-where-did-it-come-from-86632",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "In Myanmar, Buddhist Monks Preach Nationalism - Foreign Policy",
+        "url": "https://foreignpolicy.com/2021/02/16/myanmar-rohingya-coup-buddhists-protest/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "Militant Monks Fuel Government Terror in Myanmar - Jamestown Foundation",
+        "url": "https://jamestown.org/militant-monks-fuel-government-terror-in-myanmar/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "truth": 60,
+    "notoriety": 45,
+    "evidence_for": [
+      {
+        "text": "The 969 Movement and MaBaTha organization in Myanmar, led by monks including Ashin Wirathu, openly embraced Buddhist nationalist militarism, providing ideological cover for anti-Rohingya ethnic cleansing; documented across Myanmar, Sri Lanka, and Thailand.",
+        "source": "https://theconversation.com/militant-buddhism-is-on-the-march-in-south-east-asia-where-did-it-come-from-86632"
+      }
+    ]
+  },
+  {
+    "id": "memetic-spiritual-entities",
+    "sources": [
+      {
+        "title": "The Noosphere: Teilhard de Chardin and the Thinking Earth - Thalira",
+        "url": "https://thalira.com/blogs/quantum-codex/noosphere-meaning-teilhard",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The noosphere as developed by Teilhard de Chardin describes a philosophical layer of collective human thought, not literal autonomous entities; astral projection as a communication mechanism has no scientific evidence.",
+        "source": "https://thalira.com/blogs/quantum-codex/noosphere-meaning-teilhard"
+      }
+    ]
+  },
+  {
+    "id": "sleep-deprivation-lifestyle",
+    "sources": [
+      {
+        "title": "The Common Effects of Sleep Deprivation on Human Long-Term Memory and Cognitive Control - NCBI PMC",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9201256/",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Effects of sleep deprivation on cognition - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/B9780444537027000075",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "truth": 35,
+    "notoriety": 25,
+    "evidence_for": [
+      {
+        "text": "Peer-reviewed research confirms sleep deprivation degrades prefrontal cortex function, reducing inhibitory control, decision-making, emotional regulation, and cognitive flexibility - consistent with regression toward reactive, less reasoned behaviour.",
+        "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9201256/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "While cognitive impairment from sleep deprivation is well-documented, the 'primal mind takeover' framing is not a scientific construct; no research identifies a discrete primal mind that assumes dominance during sleep loss.",
+        "source": "https://www.sciencedirect.com/science/article/abs/pii/B9780444537027000075"
+      }
+    ]
+  },
+  {
+    "id": "cryptid-labor",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only"
+  },
+  {
+    "id": "post-apocalyptic-stargate-travel",
+    "sources": [
+      {
+        "title": "The Stargate Conspiracy - Lynn Picknett and Clive Prince (Goodreads)",
+        "url": "https://www.goodreads.com/book/show/1077024.The_Stargate_Conspiracy",
+        "type": "book",
+        "stance": "supports"
+      },
+      {
+        "title": "Iraqi stargate conspiracy theory - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Iraqi_stargate_conspiracy_theory",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "No evidence exists for stargate technology; the Iraqi stargate theory, the closest documented variant, has been debunked by archaeologists who found no physical evidence at Mesopotamian sites.",
+        "source": "https://en.wikipedia.org/wiki/Iraqi_stargate_conspiracy_theory"
+      }
+    ]
+  },
+  {
+    "id": "physical-projection",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only"
+  },
+  {
+    "id": "transcendent-leyline-creation",
+    "sources": [
+      {
+        "title": "Ley line - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ley_line",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ley_line",
+    "evidence_against": [
+      {
+        "text": "Archaeologists regard ley lines as pseudoarchaeology; earth energy running through them has never been scientifically verified, and the original Watkins alignment thesis was based on coincidental geographic patterning.",
+        "source": "https://en.wikipedia.org/wiki/Ley_line"
+      }
+    ]
+  },
+  {
+    "id": "mountaintop-esotericism",
+    "sources": [
+      {
+        "title": "Sacred mountains - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sacred_mountains",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Nature worship: Mountains - Britannica",
+        "url": "https://www.britannica.com/topic/nature-worship/Mountains",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sacred_mountains",
+    "truth": 15,
+    "notoriety": 25,
+    "evidence_for": [
+      {
+        "text": "Mountains are universally treated as sacred sites across Buddhism, Hinduism, Indigenous traditions, and Abrahamic religions, with documented pilgrimage traditions attributing spiritual power to high-altitude locations (Kailash, Sinai, Fuji, Everest).",
+        "source": "https://en.wikipedia.org/wiki/Sacred_mountains"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The specific claim that dimensional boundaries weaken at altitude has no scientific basis; religious experiences at altitude are better explained by hypoxia, isolation, and psychological priming.",
+        "source": "https://www.britannica.com/topic/nature-worship/Mountains"
+      }
+    ]
+  },
+  {
+    "id": "valley-of-lost-candles",
+    "sources": [],
+    "research_note": "no external coverage found; iceberg-chart lore only. No credible source connects Valley of the Dolls film props to hauntings or deaths."
+  },
+  {
+    "id": "christian-reincarnation-perpetuation",
+    "sources": [
+      {
+        "title": "Reincarnation - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Reincarnation",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "What does the Bible say about reincarnation? - GotQuestions",
+        "url": "https://www.gotquestions.org/reincarnation.html",
+        "type": "debunker",
+        "stance": "debunks"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Reincarnation",
+    "evidence_against": [
+      {
+        "text": "Mainstream Christian theology explicitly rejects reincarnation, citing Hebrews 9:27; the concept has been condemned as incompatible with Christian soteriology by Catholic, Protestant, and Orthodox traditions alike.",
+        "source": "https://www.gotquestions.org/reincarnation.html"
+      }
+    ]
+  },
+  {
+    "id": "quantum-universe-hacking",
+    "sources": [
+      {
+        "title": "Many-worlds interpretation - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Many-worlds_interpretation",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "How to Quantum Jumping? - Sylvia Salow",
+        "url": "https://sylviasalow.com/2019/06/04/quantum-jumping-there-are-infinite-versions-of-you/",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Many-worlds_interpretation",
+    "evidence_against": [
+      {
+        "text": "Quantum physicists confirm that quantum branching operates only at subatomic scales; no mechanism exists for macroscopic universe-jumping or importing alternate-self entities into this reality.",
+        "source": "https://en.wikipedia.org/wiki/Many-worlds_interpretation"
+      }
+    ]
+  },
+  {
+    "id": "dark-prophecies",
+    "sources": [
+      {
+        "title": "Dark matter - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dark_matter",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Dark energy and the fate of the universe - phys.org",
+        "url": "https://phys.org/news/2012-07-dark-energy-fate-universe.html",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Dark matter and dark energy are scientific constructs describing observed gravitational and expansion effects; no evidence suggests they encode prophetic, fate-enforcing, or consciousness-suppressing functions.",
+        "source": "https://en.wikipedia.org/wiki/Dark_matter"
+      }
+    ]
+  },
+  {
+    "id": "field-trauma",
+    "sources": [
+      {
+        "title": "Collective Trauma and the Social Construction of Meaning - NCBI PMC",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6095989/",
+        "type": "academic",
+        "stance": "documents"
+      },
+      {
+        "title": "Collective memory: between individual systems of consciousness and social systems - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10603192/",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "truth": 15,
+    "notoriety": 20,
+    "evidence_for": [
+      {
+        "text": "Peer-reviewed research confirms that mass traumas create widespread shared memory structures that propagate across populations through social channels faster than institutional narratives can fully manage.",
+        "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6095989/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Collective trauma does not imprint a physical 'field consciousness'; shared false memories propagate through social and media channels, not through non-local consciousness fields.",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10603192/"
+      }
+    ]
+  },
+  {
+    "id": "deep-space-tech",
+    "sources": [
+      {
+        "title": "Examining Technologies Attributed to Extraterrestrial Origins - New Space Economy",
+        "url": "https://newspaceeconomy.ca/2025/09/12/examining-technologies-attributed-to-extraterrestrial-origins/",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "No physical evidence supports reverse-engineering of alien technology; mainstream historians of technology document continuous, well-sourced human innovation chains for all major post-WWII technological advances.",
+        "source": "https://newspaceeconomy.ca/2025/09/12/examining-technologies-attributed-to-extraterrestrial-origins/"
+      }
+    ]
+  },
+  {
+    "id": "memetic-black-magic",
+    "sources": [
+      {
+        "title": "Chaos magic - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chaos_magic",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Chaos Magick - Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/chaos-magick",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Chaos_magic",
+    "evidence_for": [
+      {
+        "text": "Chaos magic, documented in academic and practitioner literature, treats belief as a tool and includes formal frameworks for demonic or entity-based workings understood as psychological or egregoric phenomena.",
+        "source": "https://en.wikipedia.org/wiki/Chaos_magic"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Chaos magicians generally hold that demons have no objective existence and all magical effects are products of the subconscious; no controlled study has verified bidirectional supernatural power exchange.",
+        "source": "https://en.wikipedia.org/wiki/Chaos_magic"
+      }
+    ]
+  },
+  {
+    "id": "agarthan-geopolitics",
+    "sources": [
+      {
+        "title": "Exploration Mysteries: Agartha - ExplorerWeb",
+        "url": "https://explorersweb.com/exploration-mysteries-agartha/",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Hollow Earth Theory: The Subterranean Civilization of Agartha - Gaia",
+        "url": "https://www.gaia.com/article/hollow-earth-theory-is-the-subterranean-civilization-of-agartha-real",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Seismic data maps Earth's interior as solid mantle, liquid outer core, and solid inner core with no cavities large enough to support civilizations or tectonic-control technology.",
+        "source": "https://explorersweb.com/exploration-mysteries-agartha/"
+      }
+    ]
+  },
+  {
+    "id": "micro-auras",
+    "sources": [
+      {
+        "title": "Aura (paranormal) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aura_(paranormal)",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Aura_(paranormal)",
+    "evidence_against": [
+      {
+        "text": "Controlled experiments have consistently failed to demonstrate that individuals can detect auras at above-chance rates; scientific studies do not confirm aura perception or its physical health effects.",
+        "source": "https://en.wikipedia.org/wiki/Aura_(paranormal)"
+      }
+    ]
+  },
+  {
+    "id": "lunar-shadow-temples",
+    "sources": [
+      {
+        "title": "Over 200 Newly Discovered Structures on the Far Side of the Moon Suggest Recent Activity - The Debrief",
+        "url": "https://thedebrief.org/over-200-newly-discovered-structures-on-the-far-side-of-the-moon-suggest-recent-activity/",
+        "type": "news",
+        "stance": "documents"
+      },
+      {
+        "title": "7 Mysterious Structures Spotted on the Far Side of the Moon - Science News Today",
+        "url": "https://www.sciencenewstoday.org/7-mysterious-structures-spotted-on-the-far-side-of-the-moon",
+        "type": "news",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "All anomalous structures on the lunar far side have been explained as natural geological formations; angular appearances result from low sun angles, pixel resolution, and impact fragmentation - not artificial construction.",
+        "source": "https://www.sciencenewstoday.org/7-mysterious-structures-spotted-on-the-far-side-of-the-moon"
+      }
+    ]
+  },
+  {
+    "id": "earthly-aura",
+    "sources": [
+      {
+        "title": "Mother Earth is Alive and Conscious: Earth Aura, Chakras, Ley Lines - InnerSelf",
+        "url": "https://innerself.com/articles/living/science-a-technology/8891-mother-earth-alive-conscious-aura-chakras-ley-lines.html",
+        "type": "lore",
+        "stance": "supports"
+      },
+      {
+        "title": "Planetary consciousness - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Planetary_consciousness",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Planetary_consciousness",
+    "evidence_against": [
+      {
+        "text": "No scientific instrument has detected a planetary aura distinct from Earth's magnetosphere; the idea that aliens monitor such a field rather than making direct contact has no evidentiary basis.",
+        "source": "https://en.wikipedia.org/wiki/Planetary_consciousness"
+      }
+    ]
+  },
+  {
+    "id": "demonic-plants",
+    "sources": [
+      {
+        "title": "Plants Associated with Witches, Wickedness, & the Devil - Jacki Kellum",
+        "url": "https://jackikellum.com/plants-associated-with-witches-wickedness-the-devil/",
+        "type": "lore",
+        "stance": "documents"
+      },
+      {
+        "title": "Why are plants named after witches and devils in north-western Europe? - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S037887412400103X",
+        "type": "academic",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Academic research shows plant names invoking witches and devils functioned as cultural warnings about toxicity; no biological mechanism for biomagically or demonically engineered plant creation has been described.",
+        "source": "https://www.sciencedirect.com/science/article/pii/S037887412400103X"
+      }
+    ]
+  },
+  {
+    "id": "leyline-survival-mechanisms",
+    "sources": [
+      {
+        "title": "Ley line - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ley_line",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ley_line",
+    "evidence_against": [
+      {
+        "text": "Ley lines have no demonstrated physical existence; the concept originated from amateur archaeological observations about landscape alignments and was later mystified by New Age writers without supporting evidence.",
+        "source": "https://en.wikipedia.org/wiki/Ley_line"
+      }
+    ]
+  },
+  {
+    "id": "malerei-diespirale-the-spiral",
+    "sources": [
+      {
+        "title": "The Spiral Is The Symbol Of Life And Death - Hundertwasser.at",
+        "url": "https://www.hundertwasser.at/english/oeuvre/malerei/malerei_diespirale.php",
+        "type": "archive",
+        "stance": "documents"
+      },
+      {
+        "title": "Malerei Diespirale: The Spiral in Art and its Metaphysical Significance - Wondergressive",
+        "url": "https://wondergressive.com/2023/08/05/malerei-diespirale-the-spiral-in-art-and-its-metaphysical-significance/",
+        "type": "lore",
+        "stance": "supports"
+      }
+    ],
+    "truth": 20,
+    "notoriety": 25,
+    "evidence_for": [
+      {
+        "text": "Austrian artist Friedensreich Hundertwasser wrote and painted extensively about spirals as symbols of life and death, explicitly tying the vegetative spiral to fate and cosmic meaning in his documented manifesto texts.",
+        "source": "https://www.hundertwasser.at/english/oeuvre/malerei/malerei_diespirale.php"
+      }
+    ]
+  },
+  {
+    "id": "chaos-banking",
+    "sources": [
+      {
+        "title": "Chaos Banking - Iceberg Database",
+        "url": "https://icebergdb.com/chaos-banking",
+        "type": "lore",
+        "stance": "documents"
+      }
+    ],
+    "notoriety": 15,
+    "evidence_for": [
+      {
+        "text": "IcebergDB documents Chaos Banking as a Level 4 conspiracy theory referencing Nick Land's philosophical speculation that Planck moments of everyday interactions constitute temporal currency for a future posthuman AI economy.",
+        "source": "https://icebergdb.com/chaos-banking"
+      }
+    ]
+  }
+]

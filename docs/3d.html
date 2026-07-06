@@ -21,14 +21,33 @@
   .hud{position:fixed;z-index:5}
   .panel{background:var(--panel);backdrop-filter:blur(9px);border:1px solid var(--line);
     border-radius:12px;box-shadow:0 8px 30px rgba(0,0,0,.45)}
+  /* movable/resizable window chrome (drag bar, collapse, resize handle) */
+  .wbar{display:flex;align-items:center;gap:8px;padding:8px 12px;cursor:grab;user-select:none;touch-action:none;
+    border-bottom:1px solid var(--line);flex:none}
+  .wbar:active{cursor:grabbing}
+  .wbar .grip{color:var(--dim2);font-size:13px;letter-spacing:-1px}
+  .wbar b{font-size:10px;text-transform:uppercase;letter-spacing:1.1px;color:var(--dim);font-weight:650}
+  .wbar .sp{flex:1}
+  .wmini{border:1px solid var(--line);background:transparent;color:var(--dim);border-radius:6px;cursor:pointer;padding:0;
+    width:24px;height:24px;font-size:14px;line-height:1;display:flex;align-items:center;justify-content:center;flex:none;touch-action:none}
+  .wmini:hover{color:var(--txt);border-color:rgba(255,255,255,.25)}
+  .wbody{padding:12px 14px;overflow:auto;flex:1 1 auto;min-height:0}
+  .wrsz{position:absolute;right:2px;bottom:2px;width:22px;height:22px;cursor:nwse-resize;z-index:2;touch-action:none;
+    background:linear-gradient(135deg,transparent 0 45%,rgba(255,255,255,.28) 45% 58%,transparent 58% 68%,rgba(255,255,255,.28) 68% 80%,transparent 80%)}
+  .collapsed .wbody,.collapsed .bd{display:none}
+  .panel.collapsed{height:auto!important;max-height:none!important}
+  @media(max-width:680px){.wrsz{width:30px;height:30px}}
   #title{top:14px;left:16px;max-width:350px}
+  #title .wbar{background:transparent;border-bottom:none;padding:2px 2px 4px}
+  #title .wbody{padding:0}
   #title h1{margin:0;font-size:15px;letter-spacing:.3px;font-weight:650}
   #title p{margin:3px 0 0;color:var(--dim);font-size:11.5px}
   #nav{margin-top:8px;display:flex;gap:6px}
   #nav a{font-size:11px;padding:3px 10px;border:1px solid var(--line);border-radius:20px;
     color:var(--dim);text-decoration:none}
   #nav a.on{background:var(--accent);color:#04130f;border-color:var(--accent);font-weight:600}
-  #controls{top:14px;right:16px;width:236px;padding:13px 14px;max-height:92vh;overflow:auto}
+  #controls{top:14px;right:16px;width:236px;max-height:92vh}
+  #controls,#legend{display:flex;flex-direction:column;overflow:hidden}
   #controls h2{margin:10px 0 7px;font-size:11px;text-transform:uppercase;letter-spacing:1.1px;color:var(--dim)}
   #controls h2:first-child{margin-top:0}
   .seg{display:flex;flex-wrap:wrap;gap:5px}
@@ -48,8 +67,8 @@
   #results div{padding:4px 7px;border-radius:6px;cursor:pointer;color:var(--dim);
     white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
   #results div:hover{background:rgba(255,255,255,.06);color:var(--txt)}
-  #card{bottom:14px;left:16px;width:340px;padding:15px 16px;display:none;max-height:64vh;overflow:auto}
-  #card.show{display:block}
+  #card{bottom:14px;left:16px;width:340px;display:none;max-height:64vh;overflow:hidden;flex-direction:column}
+  #card.show{display:flex}
   #card h3{margin:0 0 2px;font-size:15px;font-weight:650}
   #card .sub{color:var(--dim);font-size:11px;margin-bottom:9px}
   #card .desc{color:#c7cbde;font-size:12px;max-height:120px;overflow:auto;margin-bottom:10px}
@@ -68,7 +87,7 @@
   #panelToggle{display:none;position:fixed;z-index:9;top:44px;right:12px;width:44px;height:44px;
     border-radius:50%;border:1px solid var(--line);background:var(--panel);color:var(--accent);
     font-size:18px;align-items:center;justify-content:center;cursor:pointer}
-  #legend{bottom:14px;right:16px;width:236px;padding:11px 13px;max-height:40vh;overflow:auto}
+  #legend{bottom:14px;right:16px;width:236px;max-height:40vh}
   #legend h2{margin:0 0 6px;font-size:11px;text-transform:uppercase;letter-spacing:1.1px;color:var(--dim)}
   .lg{display:flex;align-items:center;gap:7px;margin:3px 0;font-size:11.5px;color:var(--dim)}
   .sw{width:11px;height:11px;border-radius:3px;flex:none}
@@ -103,12 +122,17 @@
 <div id="labels"></div>
 
 <div id="title" class="hud">
-  <h1>🕳️ The Conspiracy Atlas · 3D</h1>
-  <p>Fly through 1000+ conspiracy theories laid out by semantic similarity (gemini-embedding-2). Tap a star to trace its closest theories; remap the X/Y/Z axes — try Truth / Impact / Notoriety — to regroup the cloud.</p>
-  <div id="nav"><a href="index.html">2D map</a><a href="3d.html" class="on">3D flythrough</a><a href="classic.html">Graph &amp; timeline</a></div>
+  <div class="wbar"><span class="grip">⠿</span><span class="sp"></span><button class="wmini" id="titleMini">–</button></div>
+  <div class="wbody">
+    <h1>🕳️ The Conspiracy Atlas · 3D</h1>
+    <p>Fly through 1000+ conspiracy theories laid out by semantic similarity (gemini-embedding-2). Tap a star to trace its closest theories; remap the X/Y/Z axes — try Truth / Impact / Notoriety — to regroup the cloud.</p>
+    <div id="nav"><a href="index.html">2D map</a><a href="3d.html" class="on">3D flythrough</a><a href="classic.html">Graph &amp; timeline</a></div>
+  </div>
 </div>
 
 <div id="controls" class="hud panel">
+  <div class="wbar"><span class="grip">⠿</span><b>Controls</b><span class="sp"></span><button class="wmini" id="controlsMini">–</button></div>
+  <div class="wbody">
   <h2>Color by</h2>
   <div class="seg" id="colorModes">
     <button data-m="genre" class="on">Genre</button>
@@ -139,22 +163,32 @@
   <h2>Find a theory</h2>
   <input id="search" placeholder="e.g. Watergate, MKUltra…" autocomplete="off">
   <div id="results"></div>
+  </div>
+  <div class="wrsz"></div>
 </div>
 
 <div id="legend" class="hud panel">
-  <h2 id="legendTitle">Genre</h2>
-  <div id="legendBody"></div>
+  <div class="wbar"><span class="grip">⠿</span><b>Legend</b><span class="sp"></span><button class="wmini" id="legendMini">–</button></div>
+  <div class="wbody">
+    <h2 id="legendTitle">Genre</h2>
+    <div id="legendBody"></div>
+  </div>
+  <div class="wrsz"></div>
 </div>
 
 <div id="card" class="hud panel">
-  <h3 id="cTitle"></h3>
-  <div class="sub" id="cSub"></div>
-  <div id="cPills"></div>
-  <div class="desc" id="cDesc"></div>
-  <div id="cBars"></div>
-  <h4>Nearest neighbors (semantic)</h4>
-  <div id="nbrs"></div>
-  <div style="margin-top:8px"><a class="src" id="cLink" target="_blank" rel="noopener" style="display:none">Wikipedia ↗</a></div>
+  <div class="wbar"><span class="grip">⠿</span><b>Detail</b><span class="sp"></span><button class="wmini" id="cardMini">–</button></div>
+  <div class="wbody">
+    <h3 id="cTitle"></h3>
+    <div class="sub" id="cSub"></div>
+    <div id="cPills"></div>
+    <div class="desc" id="cDesc"></div>
+    <div id="cBars"></div>
+    <h4>Nearest neighbors (semantic)</h4>
+    <div id="nbrs"></div>
+    <div id="cSrcs" style="margin-top:8px"></div>
+  </div>
+  <div class="wrsz"></div>
 </div>
 
 <button id="panelToggle" aria-label="Toggle controls">☰</button>
@@ -165,7 +199,7 @@
 import * as THREE from 'three';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 
-const DATA_URL='data.json?v=3';
+const DATA_URL='data.json?v=4';
 const hexRGB = h=>{const n=parseInt(h.slice(1),16);return [(n>>16&255)/255,(n>>8&255)/255,(n&255)/255];};
 const SCALE = 60;
 const isTouch = matchMedia('(pointer:coarse)').matches;
@@ -422,8 +456,12 @@ function selectTheory(i){
   const nb=document.getElementById('nbrs'); nb.innerHTML='';
   for(const j of NN[i]){const div=document.createElement('div'); div.textContent='→ '+T[j].name;
     div.onclick=()=>{selectTheory(j); flyTo(j);}; nb.appendChild(div);}
-  const link=document.getElementById('cLink');
-  if(t.wikipedia){ link.href=t.wikipedia; link.style.display='inline'; } else link.style.display='none';
+  const srcs=(t.sources||[]).slice();
+  if(t.wikipedia && !srcs.some(s=>s.url===t.wikipedia)) srcs.unshift({title:'Wikipedia',url:t.wikipedia,type:'wikipedia'});
+  document.getElementById('cSrcs').innerHTML = srcs.length ?
+    `<h4>Sources (${srcs.length})</h4>`+srcs.map(s=>
+      `<div style="padding:2px 0"><a class="src" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title||s.url)} ↗</a>`+
+      (s.type?` <span style="color:var(--dim);font-size:10px">${esc(s.type)}</span>`:'')+`</div>`).join('') : '';
   updateSelEdges(); buildSelLabels();
 }
 function deselect(){ sel=-1; document.getElementById('card').classList.remove('show');
@@ -541,6 +579,72 @@ function animate(){
 function resize(){ camera.aspect=innerWidth/innerHeight; camera.updateProjectionMatrix();
   renderer.setSize(innerWidth,innerHeight); }
 addEventListener('resize',resize); resize();
+</script>
+
+<script>
+// ---- movable / resizable / collapsible HUD windows (mouse + touch) ----
+(function(){
+  let zTop=50;
+  const imp=(p,k,v)=>p.style.setProperty(k,v,'important');
+  function freeze(p){
+    const r=p.getBoundingClientRect();
+    imp(p,'position','fixed'); imp(p,'left',r.left+'px'); imp(p,'top',r.top+'px');
+    imp(p,'right','auto'); imp(p,'bottom','auto'); imp(p,'width',r.width+'px'); imp(p,'transform','none');
+    p.classList.add('freed');
+  }
+  const raise=p=>imp(p,'z-index',(++zTop));
+  function drag(p,handle){
+    if(!handle) return; let sx=0,sy=0,ox=0,oy=0,on=false;
+    handle.addEventListener('pointerdown',e=>{
+      if(e.target.closest('button,input,select,a,textarea,.close,.wrsz')) return;
+      on=true; freeze(p); raise(p);
+      const r=p.getBoundingClientRect(); ox=r.left; oy=r.top; sx=e.clientX; sy=e.clientY;
+      handle.setPointerCapture(e.pointerId); e.stopPropagation();
+    });
+    handle.addEventListener('pointermove',e=>{ if(!on) return; e.stopPropagation();
+      let nx=Math.max(4,Math.min(innerWidth-p.offsetWidth-4, ox+(e.clientX-sx)));
+      let ny=Math.max(4,Math.min(innerHeight-p.offsetHeight-4, oy+(e.clientY-sy)));
+      imp(p,'left',nx+'px'); imp(p,'top',ny+'px');
+    });
+    const end=e=>{ if(on){ on=false; e.stopPropagation(); } };
+    handle.addEventListener('pointerup',end); handle.addEventListener('pointercancel',end);
+  }
+  function resize(p,grip,minW,minH){
+    if(!grip) return; let sx=0,sy=0,ow=0,oh=0,on=false;
+    grip.addEventListener('pointerdown',e=>{
+      on=true; freeze(p); raise(p);
+      const r=p.getBoundingClientRect(); ow=r.width; oh=r.height; sx=e.clientX; sy=e.clientY;
+      grip.setPointerCapture(e.pointerId); e.stopPropagation(); e.preventDefault();
+    });
+    grip.addEventListener('pointermove',e=>{ if(!on) return; e.stopPropagation();
+      const nw=Math.max(minW,Math.min(innerWidth-8, ow+(e.clientX-sx)));
+      const nh=Math.max(minH,Math.min(innerHeight-8, oh+(e.clientY-sy)));
+      imp(p,'width',nw+'px'); imp(p,'height',nh+'px'); imp(p,'max-height',nh+'px');
+    });
+    const end=e=>{ if(on){ on=false; e.stopPropagation(); } };
+    grip.addEventListener('pointerup',end); grip.addEventListener('pointercancel',end);
+  }
+  function collapse(p,btn){
+    if(!btn) return;
+    btn.addEventListener('pointerdown',e=>e.stopPropagation());
+    btn.addEventListener('click',e=>{ e.stopPropagation();
+      const c=p.classList.toggle('collapsed'); btn.textContent=c?'+':'–';
+      p.style.removeProperty('height'); p.style.removeProperty('max-height'); });
+  }
+  const $=id=>document.getElementById(id);
+  const controls=$('controls'), legend=$('legend'), card=$('card'), title=$('title');
+  drag(controls, controls.querySelector('.wbar'));
+  drag(legend, legend.querySelector('.wbar'));
+  drag(title, title.querySelector('.wbar'));
+  drag(card, card.querySelector('.wbar'));
+  resize(controls, controls.querySelector('.wrsz'), 190,150);
+  resize(legend, legend.querySelector('.wrsz'), 170,110);
+  resize(card, card.querySelector('.wrsz'), 240,180);
+  collapse(controls, $('controlsMini'));
+  collapse(legend, $('legendMini'));
+  collapse(title, $('titleMini'));
+  collapse(card, $('cardMini'));
+})();
 </script>
 </body>
 </html>
