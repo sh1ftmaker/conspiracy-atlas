@@ -1,0 +1,259 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>The Conspiracy Atlas — List</title>
+<style>
+  :root{
+    --bg:#07080e; --panel:rgba(15,17,27,.86); --line:rgba(255,255,255,.09);
+    --txt:#e8eaf3; --dim:#9aa1bb; --accent:#7cf2d6;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--txt);
+    font:13px/1.45 ui-sans-serif,system-ui,Segoe UI,Roboto,Helvetica,Arial;
+    -webkit-text-size-adjust:100%}
+
+  #hdr{position:sticky;top:0;z-index:40;background:rgba(7,8,14,.92);backdrop-filter:blur(9px);
+    border-bottom:1px solid var(--line);padding:10px 18px}
+  #hdr .top{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+  #hdr h1{margin:0;font-size:15px;font-weight:650;letter-spacing:.3px;white-space:nowrap}
+  #pagenav{display:flex;gap:6px;flex-wrap:wrap}
+  #pagenav a{font-size:10.5px;padding:3px 10px;border:1px solid var(--line);border-radius:20px;
+    color:var(--dim);text-decoration:none;white-space:nowrap}
+  #pagenav a.on{background:var(--accent);color:#04130f;border-color:var(--accent);font-weight:600}
+  #pagenav a:hover:not(.on){color:var(--txt);border-color:rgba(255,255,255,.25)}
+  .tools{display:flex;align-items:center;gap:8px;margin-top:9px;flex-wrap:wrap}
+  #q{width:230px;padding:6px 10px;background:rgba(0,0,0,.32);border:1px solid var(--line);
+    border-radius:7px;color:var(--txt);font-size:12px;outline:none}
+  #q:focus{border-color:var(--accent)}
+  .tools select{padding:6px 8px;background:#0c0f1a;border:1px solid var(--line);border-radius:7px;
+    color:var(--txt);font-size:12px;outline:none;max-width:180px}
+  .tools label.ck{display:flex;align-items:center;gap:5px;color:var(--dim);font-size:11.5px;cursor:pointer;white-space:nowrap}
+  .tools input[type=checkbox]{accent-color:var(--accent)}
+  #count{color:var(--dim);font-size:11px;margin-left:auto;white-space:nowrap}
+
+  #wrap{max-width:1180px;margin:0 auto;padding:14px 14px 60px;overflow-x:auto}
+  table{width:100%;border-collapse:collapse;min-width:760px}
+  thead th{position:sticky;top:0;text-align:left;font-size:10px;text-transform:uppercase;letter-spacing:1px;
+    color:var(--dim);padding:8px 10px;border-bottom:1px solid var(--line);cursor:pointer;user-select:none;
+    background:var(--bg);white-space:nowrap;z-index:2}
+  thead th:hover{color:var(--txt)}
+  thead th .arr{color:var(--accent);font-size:9px;margin-left:3px}
+  tbody tr.row{cursor:pointer;transition:background .1s}
+  tbody tr.row:hover{background:rgba(255,255,255,.04)}
+  tbody tr.row.open{background:rgba(124,242,214,.05)}
+  td{padding:7px 10px;border-bottom:1px solid rgba(255,255,255,.045);font-size:12.5px;vertical-align:middle}
+  td.name{font-weight:600;max-width:340px}
+  td.name .al{display:block;color:var(--dim);font-size:10.5px;font-weight:400;
+    white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  td.num{font-variant-numeric:tabular-nums;white-space:nowrap}
+  .gpill{display:inline-block;padding:2px 8px;border-radius:20px;font-size:10.5px;white-space:nowrap}
+  .tcell{display:flex;align-items:center;gap:7px;min-width:118px}
+  .tbar{flex:1;height:6px;border-radius:4px;background:rgba(255,255,255,.08);overflow:hidden;min-width:44px}
+  .tbar i{display:block;height:100%;border-radius:4px}
+  .tval{width:26px;text-align:right;font-variant-numeric:tabular-nums;font-weight:650}
+  .lv{display:inline-block;width:26px;text-align:center;border-radius:6px;font-size:10.5px;
+    font-weight:700;padding:2px 0;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12)}
+
+  tr.detail td{background:rgba(0,0,0,.25);padding:14px 18px;border-bottom:1px solid var(--line)}
+  .dgrid{display:grid;grid-template-columns:1.4fr 1fr;gap:6px 26px}
+  @media(max-width:820px){.dgrid{grid-template-columns:1fr}}
+  .desc{color:#c7cbde;font-size:12.5px;margin:2px 0 8px}
+  h4.sec{margin:10px 0 5px;font-size:10.5px;text-transform:uppercase;letter-spacing:1px;color:var(--dim)}
+  ul.ev{margin:0 0 4px;padding:0;list-style:none}
+  ul.ev li{position:relative;padding:3px 0 3px 18px;font-size:12px;color:#c7cbde}
+  ul.ev li::before{position:absolute;left:0;top:2px;font-weight:700}
+  ul.ev.for li::before{content:"✓";color:#4ade80}
+  ul.ev.against li::before{content:"✗";color:#f87171}
+  a.src{color:var(--accent);text-decoration:none;font-size:11.5px}
+  .metric{margin:7px 0}
+  .metric .ml{display:flex;justify-content:space-between;font-size:10.5px;color:var(--dim);margin-bottom:3px}
+  .metric .mv{color:var(--txt);font-weight:650;font-variant-numeric:tabular-nums}
+  .track{height:7px;border-radius:5px;background:rgba(255,255,255,.08);overflow:hidden}
+  .fill{height:100%;border-radius:5px}
+
+  #loading{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;z-index:120;
+    background:var(--bg);flex-direction:column;gap:14px}
+  #loading .spin{width:34px;height:34px;border:3px solid rgba(255,255,255,.12);
+    border-top-color:var(--accent);border-radius:50%;animation:s 1s linear infinite}
+  @keyframes s{to{transform:rotate(360deg)}}
+  @media(max-width:680px){
+    #q{flex:1;width:auto}
+    #count{width:100%;margin-left:0}
+  }
+</style>
+</head>
+<body>
+
+<header id="hdr">
+  <div class="top">
+    <h1>📋 The Conspiracy Atlas · List</h1>
+    <nav id="pagenav">
+      <a href="index.html">3D flythrough</a><a href="2d.html">2D map</a><a href="classic.html">Graph &amp; timeline</a><a href="iceberg.html">Iceberg</a><a href="list.html" class="on">List</a>
+    </nav>
+  </div>
+  <div class="tools">
+    <input id="q" placeholder="search name, alias, summary…" autocomplete="off">
+    <select id="genreSel"><option value="">all genres</option></select>
+    <select id="statusSel"><option value="">all truth levels</option></select>
+    <label class="ck"><input type="checkbox" id="srcOnly"> sourced only</label>
+    <span id="count"></span>
+  </div>
+</header>
+
+<div id="wrap">
+  <table>
+    <thead><tr id="headRow"></tr></thead>
+    <tbody id="tb"></tbody>
+  </table>
+</div>
+
+<div id="loading"><div class="spin"></div><div>tabulating the plots…</div></div>
+
+<script>
+const DATA_URL='data.json?v=5';
+const esc=s=>(s||'').replace(/[&<>]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[m]));
+function statusCol(tr){return tr>=91?'#4ade80':tr>=76?'#86efac':tr>=56?'#bef264':tr>=31?'#fbbf24':tr>=11?'#fb923c':'#f87171';}
+const fmtYear=y=>y<0?(-y)+' BC':y;
+
+/* same level assignment as iceberg.html — keeps the two views consistent */
+function assignLevels(T){
+  const lvl=new Array(T.length); const low=[];
+  T.forEach((t,i)=>{
+    if(t.truth>=91)lvl[i]=1; else if(t.truth>=76)lvl[i]=2; else if(t.truth>=56)lvl[i]=3;
+    else if(t.truth>=41)lvl[i]=4; else if(t.truth>=31)lvl[i]=5; else low.push(i);
+  });
+  low.sort((a,b)=>T[b].notoriety-T[a].notoriety || T[a].name.localeCompare(T[b].name));
+  const n=low.length||1;
+  low.forEach((idx,r)=>{lvl[idx]=6+Math.min(4,Math.floor(r*5/n));});
+  return lvl;
+}
+
+const COLS=[
+  {k:'name',  label:'Theory',    get:t=>t.name.toLowerCase(), asc:true},
+  {k:'genre', label:'Genre',     get:t=>t.genre, asc:true},
+  {k:'year',  label:'Year',      get:t=>t.year, asc:true},
+  {k:'truth', label:'Truth',     get:t=>t.truth, asc:false},
+  {k:'impact',label:'Impact',    get:t=>t.impact, asc:false},
+  {k:'notoriety',label:'Notoriety',get:t=>t.notoriety, asc:false},
+  {k:'level', label:'Iceberg',   get:t=>t._lvl, asc:true},
+  {k:'srcs',  label:'Sources',   get:t=>(t.sources||[]).length+(t.wikipedia?1:0), asc:false},
+];
+
+let T=[],META,GEN=[],idx={};
+let sortK='truth', sortAsc=false, openId=null;
+const gc=k=>{const g=GEN.find(x=>x.key===k);return g?g.color:'#888';};
+const glbl=k=>{const g=GEN.find(x=>x.key===k);return g?g.label:k;};
+function statusOf(tr){for(const s of META.truth_scale){if(tr>=s.min&&tr<=s.max)return s;}return{label:'?',min:0};}
+
+fetch(DATA_URL).then(r=>r.json()).then(d=>{
+  T=d.theories;META=d.meta;GEN=META.genres;
+  T.forEach((t,i)=>idx[t.id]=i);
+  const lv=assignLevels(T);
+  T.forEach((t,i)=>t._lvl=lv[i]);
+  buildUI(); render();
+  document.getElementById('loading').style.display='none';
+}).catch(e=>{document.getElementById('loading').innerHTML='<div>failed to load data.json<br><small>'+e+'</small></div>';});
+
+function buildUI(){
+  // header cells
+  const hr=document.getElementById('headRow');
+  COLS.forEach(c=>{
+    const th=document.createElement('th');th.dataset.k=c.k;th.innerHTML=esc(c.label)+'<span class="arr"></span>';
+    th.onclick=()=>{ if(sortK===c.k)sortAsc=!sortAsc; else {sortK=c.k;sortAsc=c.asc;} render(); };
+    hr.appendChild(th);
+  });
+  // genre filter
+  const gs=document.getElementById('genreSel');
+  GEN.filter(g=>META.by_genre[g.key]).forEach(g=>{
+    const o=document.createElement('option');o.value=g.key;o.textContent=glbl(g.key);gs.appendChild(o);});
+  // truth-status filter
+  const ss=document.getElementById('statusSel');
+  META.truth_scale.slice().sort((a,b)=>b.min-a.min).forEach(s=>{
+    const o=document.createElement('option');o.value=s.label;o.textContent=`${s.label} (${s.min}–${s.max})`;ss.appendChild(o);});
+  document.getElementById('q').oninput=render;
+  gs.onchange=render; ss.onchange=render;
+  document.getElementById('srcOnly').onchange=render;
+}
+
+function filtered(){
+  const q=document.getElementById('q').value.trim().toLowerCase();
+  const g=document.getElementById('genreSel').value;
+  const st=document.getElementById('statusSel').value;
+  const so=document.getElementById('srcOnly').checked;
+  return T.filter(t=>{
+    if(g && t.genre!==g)return false;
+    if(st && statusOf(t.truth).label!==st)return false;
+    if(so && !(t.wikipedia||(t.sources&&t.sources.length)))return false;
+    if(q && !(t.name.toLowerCase().includes(q)||(t.aliases||[]).some(a=>a.toLowerCase().includes(q))||(t.summary||'').toLowerCase().includes(q)))return false;
+    return true;
+  });
+}
+
+function render(){
+  const col=COLS.find(c=>c.k===sortK);
+  const rows=filtered().sort((a,b)=>{
+    const va=col.get(a),vb=col.get(b);
+    const c=va<vb?-1:va>vb?1:0;
+    return (sortAsc?c:-c)||a.name.localeCompare(b.name);
+  });
+  // header arrows
+  document.querySelectorAll('#headRow th').forEach(th=>{
+    th.querySelector('.arr').textContent=th.dataset.k===sortK?(sortAsc?'▲':'▼'):'';});
+  document.getElementById('count').textContent=`${rows.length} / ${T.length} theories`;
+
+  const tb=document.getElementById('tb');
+  const html=rows.map(t=>{
+    const g=gc(t.genre),sc=statusCol(t.truth);
+    const nsrc=(t.sources||[]).length+((t.wikipedia&&!(t.sources||[]).some(s=>s.url===t.wikipedia))?1:0);
+    return `<tr class="row" data-id="${esc(t.id)}">
+      <td class="name">${esc(t.name)}${t.aliases&&t.aliases.length?`<span class="al">${esc(t.aliases.join(' · '))}</span>`:''}</td>
+      <td><span class="gpill" style="background:${g}22;color:${g};border:1px solid ${g}55">${esc(glbl(t.genre))}</span></td>
+      <td class="num">${fmtYear(t.year)}</td>
+      <td><div class="tcell"><span class="tval" style="color:${sc}">${t.truth}</span><span class="tbar"><i style="width:${t.truth}%;background:${sc}"></i></span></div></td>
+      <td class="num">${t.impact}</td>
+      <td class="num">${t.notoriety}</td>
+      <td><span class="lv">${t._lvl}</span></td>
+      <td class="num">${nsrc}</td>
+    </tr>`;
+  }).join('');
+  tb.innerHTML=html;
+  openId=null;
+  tb.querySelectorAll('tr.row').forEach(tr=>tr.onclick=()=>toggleDetail(tr));
+}
+
+function bar(label,val,c){
+  return `<div class="metric"><div class="ml"><span>${label}</span><span class="mv">${val}<span style="color:var(--dim)">/100</span></span></div>
+  <div class="track"><div class="fill" style="width:${val}%;background:${c}"></div></div></div>`;
+}
+function toggleDetail(tr){
+  const id=tr.dataset.id;
+  const existing=document.querySelector('tr.detail');
+  const wasOpen=openId===id;
+  if(existing)existing.remove();
+  document.querySelectorAll('tr.row.open').forEach(r=>r.classList.remove('open'));
+  openId=null;
+  if(wasOpen)return;
+  const t=T[idx[id]];if(!t)return;
+  openId=id; tr.classList.add('open');
+  const evLi=x=>{const txt=typeof x==='string'?x:(x.text||''),su=typeof x==='object'&&x?x.source:null;
+    return `<li>${esc(txt)}${su?` <a class="src" href="${esc(su)}" target="_blank" rel="noopener" title="source">↗</a>`:''}</li>`;};
+  let ev='';
+  if(t.evidence_for&&t.evidence_for.length)ev+=`<h4 class="sec">Evidence / claims for</h4><ul class="ev for">${t.evidence_for.map(evLi).join('')}</ul>`;
+  if(t.evidence_against&&t.evidence_against.length)ev+=`<h4 class="sec">Evidence against</h4><ul class="ev against">${t.evidence_against.map(evLi).join('')}</ul>`;
+  const srcs=(t.sources||[]).slice();
+  if(t.wikipedia && !srcs.some(x=>x.url===t.wikipedia))srcs.unshift({title:'Wikipedia',url:t.wikipedia,type:'wikipedia'});
+  const srcHtml=srcs.length?`<h4 class="sec">Sources (${srcs.length})</h4>`+srcs.map(x=>
+    `<div style="padding:2px 0"><a class="src" href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title||x.url)} ↗</a>`+
+    (x.type?` <span style="color:var(--dim);font-size:10px">${esc(x.type)}</span>`:'')+`</div>`).join(''):'';
+  const dtr=document.createElement('tr');dtr.className='detail';
+  dtr.innerHTML=`<td colspan="${COLS.length}"><div class="dgrid">
+    <div><div class="desc">${esc(t.summary||'')}</div>${ev}</div>
+    <div>${bar('How true',t.truth,statusCol(t.truth))}${bar('Impact if true',t.impact,'#60a5fa')}${bar('Notoriety',t.notoriety,'#a855f7')}${srcHtml}</div>
+  </div></td>`;
+  tr.after(dtr);
+}
+</script>
+</body>
+</html>

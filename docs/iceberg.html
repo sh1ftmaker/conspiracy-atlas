@@ -1,0 +1,341 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>The Conspiracy Atlas — Iceberg</title>
+<style>
+  :root{
+    --bg:#05070f; --panel:rgba(15,17,27,.86); --line:rgba(255,255,255,.09);
+    --txt:#e8eaf3; --dim:#9aa1bb; --accent:#7cf2d6;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:var(--bg);color:var(--txt);
+    font:13px/1.45 ui-sans-serif,system-ui,Segoe UI,Roboto,Helvetica,Arial;
+    -webkit-text-size-adjust:100%}
+
+  /* ---------- sticky header ---------- */
+  #hdr{position:sticky;top:0;z-index:40;background:rgba(5,7,15,.88);backdrop-filter:blur(9px);
+    border-bottom:1px solid var(--line);padding:10px 18px}
+  #hdr .top{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+  #hdr h1{margin:0;font-size:15px;font-weight:650;letter-spacing:.3px;white-space:nowrap}
+  #pagenav{display:flex;gap:6px;flex-wrap:wrap}
+  #pagenav a{font-size:10.5px;padding:3px 10px;border:1px solid var(--line);border-radius:20px;
+    color:var(--dim);text-decoration:none;white-space:nowrap}
+  #pagenav a.on{background:var(--accent);color:#04130f;border-color:var(--accent);font-weight:600}
+  #pagenav a:hover:not(.on){color:var(--txt);border-color:rgba(255,255,255,.25)}
+  #hdr .tools{display:flex;align-items:center;gap:8px;margin-left:auto;flex-wrap:wrap}
+  #q{width:210px;padding:6px 10px;background:rgba(0,0,0,.32);border:1px solid var(--line);
+    border-radius:7px;color:var(--txt);font-size:12px;outline:none}
+  #q:focus{border-color:var(--accent)}
+  #genreSel{padding:6px 8px;background:#0c0f1a;border:1px solid var(--line);border-radius:7px;
+    color:var(--txt);font-size:12px;outline:none;max-width:170px}
+  #count{color:var(--dim);font-size:11px;white-space:nowrap}
+  /* level jump rail */
+  #rail{display:flex;gap:4px;margin-top:8px;flex-wrap:wrap}
+  #rail a{font-size:10px;color:var(--dim);text-decoration:none;border:1px solid var(--line);
+    border-radius:6px;padding:2px 8px;white-space:nowrap}
+  #rail a:hover{color:var(--accent);border-color:rgba(124,242,214,.4)}
+
+  /* ---------- intro / sky ---------- */
+  #sky{position:relative;padding:38px 18px 8px;text-align:center;overflow:hidden;
+    background:
+      radial-gradient(1.5px 1.5px at 12% 30%, rgba(255,255,255,.7), transparent 60%),
+      radial-gradient(1px 1px at 28% 62%, rgba(255,255,255,.5), transparent 60%),
+      radial-gradient(1.5px 1.5px at 44% 22%, rgba(255,255,255,.6), transparent 60%),
+      radial-gradient(1px 1px at 58% 48%, rgba(255,255,255,.45), transparent 60%),
+      radial-gradient(1.8px 1.8px at 71% 28%, rgba(255,255,255,.7), transparent 60%),
+      radial-gradient(1px 1px at 84% 58%, rgba(255,255,255,.5), transparent 60%),
+      radial-gradient(1.2px 1.2px at 93% 18%, rgba(255,255,255,.6), transparent 60%),
+      linear-gradient(180deg,#04060d 0%,#071022 78%,#0a1a33 100%)}
+  #sky h2{margin:0;font-size:26px;font-weight:800;letter-spacing:.5px}
+  #sky p{margin:8px auto 0;max-width:640px;color:var(--dim);font-size:12.5px}
+  #sky .moon{position:absolute;top:26px;right:9%;width:46px;height:46px;border-radius:50%;
+    background:radial-gradient(circle at 35% 35%, #f4f6fb, #b9c2d8 70%);
+    box-shadow:0 0 34px 8px rgba(220,230,255,.18);opacity:.9}
+
+  /* ---------- level sections ---------- */
+  .level{position:relative;padding:26px 18px 34px 86px;border-top:1px solid rgba(255,255,255,.04)}
+  .level .depth{position:absolute;left:14px;top:28px;width:62px;text-align:right;
+    font-size:10px;color:rgba(255,255,255,.32);font-variant-numeric:tabular-nums;line-height:1.3}
+  .level .depth b{display:block;font-size:15px;color:rgba(255,255,255,.5);font-weight:700}
+  .lvhead{max-width:1180px;margin:0 auto 4px}
+  .lvhead h3{margin:0;font-size:17px;font-weight:750;letter-spacing:.4px;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+  .lvhead h3 .n{color:var(--dim);font-size:11px;font-weight:500}
+  .lvhead .sub{color:var(--dim);font-size:11.5px;margin-top:2px}
+  .chips{max-width:1180px;margin:14px auto 0;display:flex;flex-wrap:wrap;gap:6px}
+  .chip{padding:3px 10px;border-radius:14px;cursor:pointer;font-size:11.5px;line-height:1.5;
+    background:rgba(255,255,255,.045);border:1px solid rgba(255,255,255,.13);color:#dde1ef;
+    transition:.12s;user-select:none}
+  .chip:hover{background:rgba(255,255,255,.11);color:#fff;transform:translateY(-1px)}
+  .chip.big{font-size:13px;font-weight:650;padding:4px 12px}
+  .chip.med{font-size:12.5px;font-weight:550}
+  .chip.hide{display:none}
+  .level.empty .chips::after{content:"no matches at this depth";color:rgba(255,255,255,.22);font-size:11px}
+
+  /* waterline */
+  #waterline{position:relative;height:34px;overflow:hidden;
+    background:linear-gradient(180deg,#0a1a33 0%,#0d2b4d 100%)}
+  #waterline .wave{position:absolute;inset:0;
+    background:repeating-linear-gradient(90deg,rgba(160,220,255,.35) 0 40px,rgba(160,220,255,.06) 40px 80px);
+    height:2px;top:8px;animation:wsh 9s linear infinite}
+  @keyframes wsh{from{transform:translateX(0)}to{transform:translateX(80px)}}
+  #waterline .tag{position:absolute;top:11px;left:50%;transform:translateX(-50%);
+    color:rgba(190,225,255,.75);font-size:10px;letter-spacing:2.5px;text-transform:uppercase}
+
+  /* iceberg silhouette above/below water */
+  .berg{position:absolute;right:4%;pointer-events:none;opacity:.10;z-index:0}
+  .level .lvhead,.level .chips{position:relative;z-index:1}
+
+  /* footer */
+  #foot{padding:40px 18px 60px;text-align:center;color:rgba(255,255,255,.28);font-size:11px;
+    background:#010204}
+  #foot a{color:rgba(124,242,214,.6);text-decoration:none}
+
+  /* ---------- modal ---------- */
+  #ov{position:fixed;inset:0;z-index:99;display:none;align-items:center;justify-content:center;
+    background:rgba(4,5,10,.72);backdrop-filter:blur(3px);padding:16px}
+  #ov.show{display:flex}
+  #dlg{background:var(--panel);border:1px solid var(--line);border-radius:14px;
+    box-shadow:0 24px 70px rgba(0,0,0,.62);width:100%;max-width:460px;max-height:calc(100vh - 32px);
+    display:flex;flex-direction:column}
+  #dhd{display:flex;align-items:flex-start;gap:10px;padding:14px 16px 10px;border-bottom:1px solid var(--line);flex:none}
+  #dhd h3{margin:0;font-size:16px;font-weight:700;flex:1}
+  #dx{cursor:pointer;color:var(--dim);font-size:22px;line-height:1;flex:none}
+  #dx:hover{color:var(--txt)}
+  #dbd{padding:12px 16px 16px;overflow:auto;flex:1;min-height:0;font-size:12.5px}
+  .sub{color:var(--dim);font-size:11px;margin-bottom:8px}
+  .pill{display:inline-block;padding:2px 8px;border-radius:20px;font-size:10.5px;margin:0 4px 6px 0}
+  .desc{color:#c7cbde;font-size:12.5px;margin:4px 0 8px}
+  h4.sec{margin:10px 0 5px;font-size:10.5px;text-transform:uppercase;letter-spacing:1px;color:var(--dim)}
+  ul.ev{margin:0 0 4px;padding:0;list-style:none}
+  ul.ev li{position:relative;padding:3px 0 3px 18px;font-size:12px;color:#c7cbde}
+  ul.ev li::before{position:absolute;left:0;top:2px;font-weight:700}
+  ul.ev.for li::before{content:"✓";color:#4ade80}
+  ul.ev.against li::before{content:"✗";color:#f87171}
+  a.src{color:var(--accent);text-decoration:none;font-size:11.5px}
+  .metric{margin:7px 0}
+  .metric .ml{display:flex;justify-content:space-between;font-size:10.5px;color:var(--dim);margin-bottom:3px}
+  .metric .mv{color:var(--txt);font-weight:650;font-variant-numeric:tabular-nums}
+  .track{height:7px;border-radius:5px;background:rgba(255,255,255,.08);overflow:hidden}
+  .fill{height:100%;border-radius:5px}
+  .nbr{padding:3px 6px;border-radius:6px;cursor:pointer;color:var(--accent);font-size:11.5px}
+  .nbr:hover{background:rgba(124,242,214,.1)}
+  #loading{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;z-index:120;
+    background:var(--bg);flex-direction:column;gap:14px}
+  #loading .spin{width:34px;height:34px;border:3px solid rgba(255,255,255,.12);
+    border-top-color:var(--accent);border-radius:50%;animation:s 1s linear infinite}
+  @keyframes s{to{transform:rotate(360deg)}}
+
+  @media(max-width:680px){
+    #rail{display:none}
+    .level{padding-left:18px;padding-right:14px}
+    .level .depth{position:static;width:auto;text-align:left;margin-bottom:6px}
+    .level .depth b{display:inline;font-size:11px;margin-right:6px}
+    #q{width:100%;flex:1}
+    #hdr .tools{width:100%;margin-left:0}
+    #sky h2{font-size:20px}
+    .berg{display:none}
+  }
+</style>
+</head>
+<body>
+
+<header id="hdr">
+  <div class="top">
+    <h1>🧊 The Conspiracy Iceberg</h1>
+    <nav id="pagenav">
+      <a href="index.html">3D flythrough</a><a href="2d.html">2D map</a><a href="classic.html">Graph &amp; timeline</a><a href="iceberg.html" class="on">Iceberg</a><a href="list.html">List</a>
+    </nav>
+    <div class="tools">
+      <input id="q" placeholder="search the iceberg…" autocomplete="off">
+      <select id="genreSel"><option value="">all genres</option></select>
+      <span id="count"></span>
+    </div>
+  </div>
+  <div id="rail"></div>
+</header>
+
+<section id="sky">
+  <div class="moon"></div>
+  <h2>How deep are you willing to go?</h2>
+  <p>Every theory in the atlas, sorted into ten levels. The tip of the iceberg is documented
+     history — declassified, adjudicated, admitted. Each level down demands a little more
+     suspension of disbelief, until the water gets very dark indeed. Click any entry to read
+     its evidence and sources.</p>
+</section>
+
+<div id="levels"></div>
+
+<footer id="foot">
+  You've reached the bottom. <a href="index.html">Return to the surface ↑</a>
+</footer>
+
+<div id="ov"><div id="dlg" role="dialog" aria-modal="true">
+  <div id="dhd"><h3 id="dTitle"></h3><span id="dx" title="close">×</span></div>
+  <div id="dbd"></div>
+</div></div>
+
+<div id="loading"><div class="spin"></div><div>lowering the sonar…</div></div>
+
+<script>
+const DATA_URL='data.json?v=5';
+const esc=s=>(s||'').replace(/[&<>]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[m]));
+const pill=(t,c)=>`<span class="pill" style="background:${c}22;color:${c};border:1px solid ${c}55">${esc(t)}</span>`;
+function statusCol(tr){return tr>=91?'#4ade80':tr>=76?'#86efac':tr>=56?'#bef264':tr>=31?'#fbbf24':tr>=11?'#fb923c':'#f87171';}
+const fmtYear=y=>y<0?(-y)+' BC':y;
+
+/* ten levels of descent: title, blurb, depth label, background top→bottom colors */
+const LEVELS=[
+ {t:"The Tip — Above the Waterline", s:"Documented history. Declassified files, court judgments, official admissions — no belief required. If you're new here, start with these.", d:"0 m", bg:["#0a1a33","#0e2038"]},
+ {t:"The Waterline", s:"Substantiated — largely borne out by documents, testimony and admissions, with edges still under water.", d:"−10 m", bg:["#0d2b4d","#0a2440"]},
+ {t:"Shallow Waters", s:"Plausible — real anomalies and incomplete records. Reasonable people disagree.", d:"−50 m", bg:["#0a2440","#081d36"]},
+ {t:"The Twilight Zone", s:"Contested — a few genuine threads wrapped in a lot of conjecture.", d:"−200 m", bg:["#081d36","#07172c"]},
+ {t:"The Thermocline", s:"The evidence thins out fast below this line. Pattern-matching does most of the work.", d:"−500 m", bg:["#07172c","#051222"]},
+ {t:"The Midnight Zone", s:"The famous myths. You've heard of them — they just didn't hold up.", d:"−1,000 m", bg:["#051222","#040d19"]},
+ {t:"The Deep", s:"The internet's basement: niche lore, pet theories, forum legends.", d:"−2,000 m", bg:["#040d19","#030910"]},
+ {t:"The Abyssal Plain", s:"Full suspension of disbelief required past this point.", d:"−4,000 m", bg:["#030910","#02060b"]},
+ {t:"The Trench", s:"Reality is optional down here.", d:"−6,000 m", bg:["#02060b","#010407"]},
+ {t:"The Hadal Zone", s:"Rock bottom. Beyond evidence, beyond notoriety, beyond the map.", d:"−11,000 m", bg:["#010407","#010204"]},
+];
+
+/* level assignment: 1-5 pinned to the truth rubric; the low-truth mass (≤30)
+   descends by notoriety, so famous myths sit above obscure deep-lore. */
+function assignLevels(T){
+  const lvl=new Array(T.length); const low=[];
+  T.forEach((t,i)=>{
+    if(t.truth>=91)lvl[i]=0; else if(t.truth>=76)lvl[i]=1; else if(t.truth>=56)lvl[i]=2;
+    else if(t.truth>=41)lvl[i]=3; else if(t.truth>=31)lvl[i]=4; else low.push(i);
+  });
+  low.sort((a,b)=>T[b].notoriety-T[a].notoriety || T[a].name.localeCompare(T[b].name));
+  const n=low.length||1;
+  low.forEach((idx,r)=>{lvl[idx]=5+Math.min(4,Math.floor(r*5/n));});
+  return lvl;
+}
+
+let T=[],META,GEN=[],idx={},NNi;
+const gc=k=>{const g=GEN.find(x=>x.key===k);return g?g.color:'#888';};
+const glbl=k=>{const g=GEN.find(x=>x.key===k);return g?g.label:k;};
+
+fetch(DATA_URL).then(r=>r.json()).then(d=>{
+  T=d.theories;META=d.meta;GEN=META.genres;
+  T.forEach((t,i)=>idx[t.id]=i);
+  NNi=T.map(t=>(t.nn||[]).map(id=>idx[id]).filter(j=>j!=null));
+  build();
+  document.getElementById('loading').style.display='none';
+}).catch(e=>{document.getElementById('loading').innerHTML='<div>failed to load data.json<br><small>'+e+'</small></div>';});
+
+function build(){
+  const lvl=assignLevels(T);
+  const groups=LEVELS.map(()=>[]);
+  T.forEach((t,i)=>groups[lvl[i]].push(i));
+  groups.forEach(g=>g.sort((a,b)=>T[b].notoriety-T[a].notoriety || T[a].name.localeCompare(T[b].name)));
+
+  // genre filter options
+  const gs=document.getElementById('genreSel');
+  GEN.filter(g=>META.by_genre[g.key]).forEach(g=>{
+    const o=document.createElement('option');o.value=g.key;o.textContent=glbl(g.key);gs.appendChild(o);});
+
+  const box=document.getElementById('levels');
+  const rail=document.getElementById('rail');
+  const berg=`<svg class="berg" width="220" height="300" viewBox="0 0 220 300" style="top:-40px">
+    <polygon points="95,10 150,55 205,105 175,150 120,140 60,150 25,95 60,45" fill="#dfe9f7"/>
+    <polygon points="60,150 120,140 175,150 190,210 140,290 90,260 45,215" fill="#9fb8d8"/>
+  </svg>`;
+  LEVELS.forEach((L,k)=>{
+    const sec=document.createElement('section');
+    sec.className='level';sec.id='lv'+(k+1);
+    sec.style.background=`linear-gradient(180deg,${L.bg[0]},${L.bg[1]})`;
+    sec.innerHTML=(k===0?berg:'')+
+      `<div class="depth"><b>${k+1}</b>${L.d}</div>
+       <div class="lvhead"><h3>${esc(L.t)} <span class="n" id="lvn${k}"></span></h3>
+       <div class="sub">${esc(L.s)}</div></div>
+       <div class="chips" id="lvc${k}"></div>`;
+    box.appendChild(sec);
+    if(k===0){ // the sea starts here
+      const wl=document.createElement('div');wl.id='waterline';
+      wl.innerHTML='<div class="wave"></div><div class="tag">sea level</div>';
+      box.appendChild(wl);
+    }
+    const chips=sec.querySelector('.chips');
+    for(const i of groups[k]){
+      const t=T[i];
+      const c=document.createElement('span');
+      c.className='chip'+(t.notoriety>=70?' big':t.notoriety>=45?' med':'');
+      c.textContent=t.name;
+      c.style.borderColor=gc(t.genre)+'59';
+      c.dataset.i=i;
+      c.onclick=()=>openDetail(i);
+      chips.appendChild(c);
+    }
+    const a=document.createElement('a');a.href='#lv'+(k+1);
+    a.textContent=(k+1)+' · '+L.t.replace(/ —.*/,'');rail.appendChild(a);
+  });
+  updateCounts();
+  document.getElementById('q').oninput=applyFilter;
+  document.getElementById('genreSel').onchange=applyFilter;
+}
+
+function applyFilter(){
+  const q=document.getElementById('q').value.trim().toLowerCase();
+  const g=document.getElementById('genreSel').value;
+  document.querySelectorAll('.chip').forEach(c=>{
+    const t=T[+c.dataset.i];
+    const okQ=!q || t.name.toLowerCase().includes(q) || (t.aliases||[]).some(a=>a.toLowerCase().includes(q));
+    const okG=!g || t.genre===g;
+    c.classList.toggle('hide', !(okQ&&okG));
+  });
+  updateCounts();
+}
+function updateCounts(){
+  let tot=0;
+  LEVELS.forEach((L,k)=>{
+    const sec=document.getElementById('lv'+(k+1));
+    const vis=sec.querySelectorAll('.chip:not(.hide)').length;
+    const all=sec.querySelectorAll('.chip').length;
+    tot+=vis;
+    document.getElementById('lvn'+k).textContent=vis===all?`${all} theories`:`${vis} / ${all}`;
+    sec.classList.toggle('empty',vis===0);
+  });
+  document.getElementById('count').textContent=`${tot} / ${T.length} shown`;
+}
+
+/* ---------- detail modal ---------- */
+const ov=document.getElementById('ov');
+function bar(label,val,col){
+  return `<div class="metric"><div class="ml"><span>${label}</span><span class="mv">${val}<span style="color:var(--dim)">/100</span></span></div>
+  <div class="track"><div class="fill" style="width:${val}%;background:${col}"></div></div></div>`;
+}
+function statusOf(tr){for(const s of META.truth_scale){if(tr>=s.min&&tr<=s.max)return s;}return{label:'?'};}
+function openDetail(i){
+  const t=T[i],s=statusOf(t.truth);
+  document.getElementById('dTitle').textContent=t.name;
+  const evLi=x=>{const txt=typeof x==='string'?x:(x.text||''),su=typeof x==='object'&&x?x.source:null;
+    return `<li>${esc(txt)}${su?` <a class="src" href="${esc(su)}" target="_blank" rel="noopener" title="source">↗</a>`:''}</li>`;};
+  let ev='';
+  if(t.evidence_for&&t.evidence_for.length)ev+=`<h4 class="sec">Evidence / claims for</h4><ul class="ev for">${t.evidence_for.map(evLi).join('')}</ul>`;
+  if(t.evidence_against&&t.evidence_against.length)ev+=`<h4 class="sec">Evidence against</h4><ul class="ev against">${t.evidence_against.map(evLi).join('')}</ul>`;
+  const srcs=(t.sources||[]).slice();
+  if(t.wikipedia && !srcs.some(x=>x.url===t.wikipedia))srcs.unshift({title:'Wikipedia',url:t.wikipedia,type:'wikipedia'});
+  const srcHtml=srcs.length?`<h4 class="sec">Sources (${srcs.length})</h4>`+srcs.map(x=>
+    `<div style="padding:2px 0"><a class="src" href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title||x.url)} ↗</a>`+
+    (x.type?` <span style="color:var(--dim);font-size:10px">${esc(x.type)}</span>`:'')+`</div>`).join(''):'';
+  const nb=NNi[i].map(j=>`<div class="nbr" data-j="${j}">→ ${esc(T[j].name)}</div>`).join('');
+  document.getElementById('dbd').innerHTML=
+    `<div class="sub">${esc(glbl(t.genre))} · ${fmtYear(t.year)}</div>`+
+    pill(glbl(t.genre),gc(t.genre))+pill(s.label,statusCol(t.truth))+
+    `<div class="desc">${esc(t.summary||'')}</div>`+
+    bar('How true',t.truth,statusCol(t.truth))+bar('Impact if true',t.impact,'#60a5fa')+bar('Notoriety',t.notoriety,'#a855f7')+
+    ev+srcHtml+
+    (nb?`<h4 class="sec">Nearest neighbors (semantic)</h4>${nb}`:'');
+  document.getElementById('dbd').querySelectorAll('.nbr').forEach(el=>el.onclick=()=>openDetail(+el.dataset.j));
+  document.getElementById('dbd').scrollTop=0;
+  ov.classList.add('show');
+}
+document.getElementById('dx').onclick=()=>ov.classList.remove('show');
+ov.addEventListener('click',e=>{if(e.target===ov)ov.classList.remove('show');});
+addEventListener('keydown',e=>{if(e.key==='Escape')ov.classList.remove('show');});
+</script>
+</body>
+</html>
