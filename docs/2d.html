@@ -1,0 +1,838 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover" />
+<title>The Conspiracy Atlas — semantic map</title>
+<meta name="description" content="1000+ conspiracy theories embedded with gemini-embedding-2 and laid out by semantic similarity — theories with similar claims, actors or themes cluster together." />
+<style>
+  :root{
+    --bg:#07080e; --panel:rgba(15,17,27,.86); --line:rgba(255,255,255,.09);
+    --txt:#e8eaf3; --dim:#9aa1bb; --dim2:#6b7291; --accent:#7cf2d6; --for:#4ade80; --against:#f87171;
+    --shadow:0 10px 40px rgba(0,0,0,.5);
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%;background:var(--bg);color:var(--txt);
+    font:13px/1.5 ui-sans-serif,system-ui,"Segoe UI",Roboto,Helvetica,Arial;overscroll-behavior:none;-webkit-text-size-adjust:100%}
+  #stage{position:fixed;inset:0;touch-action:none}
+  canvas{position:absolute;inset:0;display:block}
+  #gl{z-index:1;touch-action:none;-webkit-user-select:none;user-select:none;-webkit-tap-highlight-color:transparent}
+  #fx{z-index:3;pointer-events:none}
+  /* slow animated gradient screen-blended over the darkness (below labels/HUD) */
+  #bgfx{position:absolute;inset:0;z-index:2;overflow:hidden;pointer-events:none;mix-blend-mode:screen}
+  #bgfx::before,#bgfx::after{content:"";position:absolute;inset:-50%;will-change:transform;
+    background:
+      radial-gradient(42% 36% at 30% 40%, rgba(38,48,112,.30), transparent 62%),
+      radial-gradient(36% 42% at 72% 66%, rgba(14,86,88,.22), transparent 62%),
+      radial-gradient(30% 30% at 56% 24%, rgba(86,32,112,.17), transparent 62%);
+    animation:bgdrift 85s linear infinite}
+  #bgfx::after{animation-duration:127s;animation-direction:reverse;opacity:.75;
+    background:
+      radial-gradient(46% 40% at 62% 72%, rgba(24,40,98,.22), transparent 62%),
+      radial-gradient(32% 36% at 24% 28%, rgba(10,72,82,.19), transparent 62%)}
+  @keyframes bgdrift{from{transform:rotate(0turn)}to{transform:rotate(1turn)}}
+  @media (prefers-reduced-motion: reduce){#bgfx::before,#bgfx::after{animation:none}}
+  .hud{position:fixed;z-index:5}
+  .panel{background:var(--panel);backdrop-filter:blur(10px);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow)}
+  /* movable/resizable window chrome (drag bar, collapse, resize handle) */
+  .wbar{display:flex;align-items:center;gap:8px;padding:8px 12px;cursor:grab;user-select:none;touch-action:none;
+    border-bottom:1px solid var(--line);flex:none}
+  .wbar:active{cursor:grabbing}
+  .wbar .grip{color:var(--dim2);font-size:13px;letter-spacing:-1px}
+  .wbar b{font-size:10px;text-transform:uppercase;letter-spacing:1.1px;color:var(--dim);font-weight:650}
+  .wbar .sp{flex:1}
+  .wmini{border:1px solid var(--line);background:transparent;color:var(--dim);border-radius:6px;cursor:pointer;padding:0;
+    width:24px;height:24px;font-size:14px;line-height:1;display:flex;align-items:center;justify-content:center;flex:none;touch-action:none}
+  .wmini:hover{color:var(--txt);border-color:rgba(255,255,255,.25)}
+  .wbody{padding:12px 14px;overflow:auto;flex:1 1 auto;min-height:0}
+  .wrsz{position:absolute;right:2px;bottom:2px;width:22px;height:22px;cursor:nwse-resize;z-index:2;touch-action:none;
+    background:linear-gradient(135deg,transparent 0 45%,rgba(255,255,255,.28) 45% 58%,transparent 58% 68%,rgba(255,255,255,.28) 68% 80%,transparent 80%)}
+  .collapsed .wbody,.collapsed .bd{display:none}
+  .panel.collapsed{height:auto!important;max-height:none!important}
+  @media(max-width:760px){.wrsz{width:30px;height:30px}}
+  #title{top:14px;left:16px;max-width:380px}
+  #title .wbar{background:transparent;border-bottom:none;padding:2px 2px 4px}
+  #title .wbody{padding:0}
+  #title h1{margin:0;font-size:15.5px;font-weight:700;letter-spacing:.2px}
+  #title p{margin:3px 0 0;color:var(--dim);font-size:11.5px}
+  #title .badge{display:inline-block;margin-top:7px;padding:2px 8px;border:1px solid var(--line);
+    border-radius:20px;color:var(--accent);font-size:10.5px;letter-spacing:.3px}
+  #pagenav{margin-top:8px;display:flex;gap:6px}
+  #pagenav a{font-size:10.5px;padding:3px 10px;border:1px solid var(--line);border-radius:20px;color:var(--dim);text-decoration:none}
+  #pagenav a.on{background:var(--accent);color:#04130f;border-color:var(--accent);font-weight:600}
+  #controls{top:14px;right:16px;width:236px}
+  #controls,#legend{display:flex;flex-direction:column;overflow:hidden}
+  #controls h2{margin:12px 0 7px;font-size:10px;text-transform:uppercase;letter-spacing:1.3px;color:var(--dim2)}
+  #controls h2:first-child{margin-top:0}
+  .seg{display:flex;flex-wrap:wrap;gap:5px}
+  .seg button{flex:1 1 auto;min-width:54px;padding:5px 6px;border:1px solid var(--line);
+    background:transparent;color:var(--dim);border-radius:7px;cursor:pointer;font-size:11px;transition:.12s}
+  .seg button:hover{color:var(--txt);border-color:rgba(255,255,255,.22)}
+  .seg button.on{background:var(--accent);color:#04130f;border-color:var(--accent);font-weight:600}
+  .row{display:flex;align-items:center;gap:8px;margin:7px 0;color:var(--dim);font-size:11.5px}
+  .row input[type=range]{flex:1;accent-color:var(--accent)}
+  #search{width:100%;padding:8px 10px;background:rgba(0,0,0,.32);border:1px solid var(--line);border-radius:9px;
+    color:var(--txt);font-size:12.5px;outline:none}
+  #search:focus{border-color:var(--accent)}
+  #results{margin-top:6px;max-height:160px;overflow:auto}
+  #results div{padding:4px 8px;border-radius:6px;cursor:pointer;color:var(--dim);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  #results div:hover{background:rgba(255,255,255,.06);color:var(--txt)}
+  #legend{bottom:14px;right:16px;width:236px;max-height:42vh}
+  #legend h2{margin:0 0 8px;font-size:10px;text-transform:uppercase;letter-spacing:1.3px;color:var(--dim2)}
+  .lg{display:flex;align-items:center;gap:8px;margin:3px 0;font-size:11.5px;color:var(--dim);cursor:pointer;padding:2px 4px;border-radius:6px}
+  .lg:hover{background:rgba(255,255,255,.05)}
+  .lg.off{opacity:.32}
+  .sw{width:11px;height:11px;border-radius:3px;flex:none;box-shadow:0 0 0 1px rgba(255,255,255,.12)}
+  .bar{height:9px;border-radius:5px;margin:5px 0 2px}
+  /* ---- detail card ---- */
+  #card{top:14px;left:16px;width:350px;max-height:calc(100vh - 32px);padding:0;display:none;overflow:hidden;flex-direction:column}
+  #card.show{display:flex}
+  #card .hd{padding:13px 16px 11px;border-bottom:1px solid var(--line);flex:none;display:flex;align-items:flex-start;gap:8px;cursor:grab;user-select:none;touch-action:none}
+  #card .hd:active{cursor:grabbing}
+  #card .hd .grip{color:var(--dim2);font-size:13px;margin-top:2px;flex:none}
+  #card .htxt{flex:1;min-width:0}
+  #card h3{margin:0;font-size:16px;font-weight:700;line-height:1.25}
+  #card .sub{color:var(--dim);font-size:11px;margin-top:4px;display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+  #card .bd{padding:13px 16px 16px;overflow:auto;flex:1;min-height:0}
+  .pill{display:inline-block;padding:2px 9px;border-radius:20px;font-size:10.5px;font-weight:600}
+  .metric{margin:9px 0}
+  .metric .ml{display:flex;justify-content:space-between;font-size:10.5px;color:var(--dim);margin-bottom:3px}
+  .metric .mv{color:var(--txt);font-weight:650;font-variant-numeric:tabular-nums}
+  .track{height:7px;border-radius:5px;background:rgba(255,255,255,.08);overflow:hidden}
+  .fill{height:100%;border-radius:5px}
+  #card .summary{color:#cdd2e6;font-size:12.5px;margin:12px 0}
+  #card h4{margin:14px 0 6px;font-size:10px;text-transform:uppercase;letter-spacing:1.1px;color:var(--dim2)}
+  ul.ev{margin:0;padding:0;list-style:none}
+  ul.ev li{position:relative;padding:3px 0 3px 18px;font-size:12px;color:#c7ccde}
+  ul.ev li::before{position:absolute;left:0;top:2px;font-weight:700}
+  ul.ev.for li::before{content:"✓";color:var(--for)}
+  ul.ev.against li::before{content:"✗";color:var(--against)}
+  #nbrs div{padding:3px 6px;border-radius:6px;cursor:pointer;color:var(--accent);font-size:11.5px}
+  #nbrs div:hover{background:rgba(124,242,214,.1)}
+  a.src{color:var(--accent);text-decoration:none;font-size:11.5px}
+  .close{cursor:pointer;color:var(--dim);font-size:18px;line-height:1;flex:none}
+  .close:hover{color:var(--txt)}
+  #tip{position:fixed;z-index:9;pointer-events:none;display:none;max-width:250px;padding:8px 11px;
+    background:rgba(8,9,15,.96);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow)}
+  #tip b{font-size:12.5px}
+  #tip p{margin:3px 0 0;color:var(--dim);font-size:10.5px}
+  #loading{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;z-index:20;background:var(--bg);flex-direction:column;gap:15px}
+  #loading .spin{width:34px;height:34px;border:3px solid rgba(255,255,255,.12);border-top-color:var(--accent);border-radius:50%;animation:s 1s linear infinite}
+  @keyframes s{to{transform:rotate(360deg)}}
+  .hint{position:fixed;bottom:14px;left:50%;transform:translateX(-50%);z-index:5;color:var(--dim);
+    font-size:11px;background:var(--panel);padding:5px 12px;border-radius:20px;border:1px solid var(--line)}
+  @media (max-width:760px){
+    #title{top:8px;left:10px;right:118px;max-width:none}
+    #title h1{font-size:13px}
+    #title p{display:none}
+    #pagenav{position:fixed;top:8px;right:10px;margin:0;z-index:8}
+    #controls{top:auto;bottom:8px;left:8px;right:8px;width:auto;max-height:44vh}
+    #controls #results{max-height:90px}
+    #legend{left:8px;right:auto;bottom:auto;top:86px;width:auto;max-width:58vw;max-height:36vh}
+    #legend .lg{font-size:10.5px;margin:2px 0}
+    #card{left:8px;right:8px;top:auto;bottom:8px;width:auto;max-height:54vh}
+    .hint{display:none}
+    #tip{display:none!important}
+  }
+  @media (max-width:760px) and (orientation:landscape){
+    #controls{max-height:64vh;width:46vw;right:auto}
+    #card{left:auto;right:8px;width:46vw;max-height:80vh}
+  }
+</style>
+</head>
+<body>
+<div id="stage">
+  <canvas id="gl"></canvas>
+  <div id="bgfx"></div>
+  <canvas id="fx"></canvas>
+</div>
+
+<div id="title" class="hud">
+  <div class="wbar"><span class="grip">⠿</span><span class="sp"></span><button class="wmini" id="titleMini">–</button></div>
+  <div class="wbody">
+    <h1>🕳️ The Conspiracy Atlas</h1>
+    <p>1000+ conspiracy theories embedded with <b style="color:var(--accent)">gemini-embedding-2</b> and laid out by semantic similarity — similar claims, actors and themes cluster together, regardless of genre or truth.</p>
+    <span class="badge" id="modelBadge">embedding: …</span>
+    <nav id="pagenav"><a href="index.html">3D flythrough</a><a href="2d.html" class="on">2D map</a></nav>
+  </div>
+</div>
+
+<div id="controls" class="hud panel">
+  <div class="wbar"><span class="grip">⠿</span><b>Controls</b><span class="sp"></span><button class="wmini" id="controlsMini">–</button></div>
+  <div class="wbody">
+    <h2>Color by</h2>
+    <div class="seg" id="colorModes">
+      <button data-m="genre" class="on">Genre</button>
+      <button data-m="truth">Truth status</button>
+    </div>
+    <h2>Size by</h2>
+    <div class="seg" id="sizeModes">
+      <button data-s="pop" class="on">Notoriety</button>
+      <button data-s="flat">Uniform</button>
+    </div>
+    <div class="row"><span>Glow</span><input id="glow" type="range" min="0" max="100" value="60"></div>
+    <h2 style="margin-top:10px">Find a theory</h2>
+    <input id="search" placeholder="search…" autocomplete="off">
+    <div id="results"></div>
+  </div>
+  <div class="wrsz"></div>
+</div>
+
+<div id="legend" class="hud panel">
+  <div class="wbar"><span class="grip">⠿</span><b>Legend</b><span class="sp"></span><button class="wmini" id="legendMini">–</button></div>
+  <div class="wbody">
+    <h2 id="legendTitle">Genre</h2>
+    <div id="legendBody"></div>
+  </div>
+  <div class="wrsz"></div>
+</div>
+
+<div id="card" class="hud panel">
+  <div class="hd"><span class="grip">⠿</span><div class="htxt"><h3 id="cTitle"></h3><div class="sub" id="cSub"></div></div><button class="wmini" id="cardMini">–</button><span class="close" id="cClose">×</span></div>
+  <div class="bd" id="cBody"></div>
+  <div class="wrsz"></div>
+</div>
+
+<div id="tip"></div>
+<div class="hint" id="hint">drag / pinch to explore · scroll to zoom · click a point to trace its meaning</div>
+<div id="loading"><div class="spin"></div><div>assembling the atlas…</div></div>
+
+<script>
+const esc=s=>(s||'').replace(/[&<>]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[m]));
+const hexRGB=h=>{const n=parseInt(h.slice(1),16);return [(n>>16&255)/255,(n>>8&255)/255,(n&255)/255];};
+
+// ---- anonymous crowdsource submission config (feature stays dark until these are set) ----
+const INTAKE_URL='https://conspiracy-atlas-intake.sh1ftmaker.workers.dev';    // set after worker deploy, e.g. https://intake.example.workers.dev
+const TURNSTILE_KEY=''; // Cloudflare Turnstile site key (optional; omit to skip bot widget)
+
+let T=[], META, GEN=[], byId={};
+let N=0, POS, COL, SIZE, NN;
+let view={s:0.9, tx:0, ty:0};
+let colorMode="genre", sizeMode="pop", glow=0.6, sel=-1, hover=-1;
+let dpr=Math.min(window.devicePixelRatio||1, 2);
+
+const glc=document.getElementById('gl'), fxc=document.getElementById('fx');
+const gl=glc.getContext('webgl2',{antialias:true,premultipliedAlpha:false});
+const fx=fxc.getContext('2d');
+
+function statusOf(tr){for(const s of META.truth_scale){if(tr>=s.min&&tr<=s.max)return s;}return{label:'?'};}
+const gc=k=>{const g=GEN.find(x=>x.key===k);return g?g.color:'#888';};
+const gl_=k=>{const g=GEN.find(x=>x.key===k);return g?g.label:k;};
+function statusCol(tr){return tr>=91?'#4ade80':tr>=76?'#86efac':tr>=56?'#bef264':tr>=31?'#fbbf24':tr>=11?'#fb923c':'#f87171';}
+
+// ---------- load ----------
+fetch('data.json?v=4').then(r=>r.json()).then(d=>{
+  T=d.theories; META=d.meta; GEN=META.genres;
+  T.forEach(t=>byId[t.id]=t);
+  N=T.length;
+  POS=new Float32Array(N*2); COL=new Float32Array(N*3); SIZE=new Float32Array(N);
+  NN=new Array(N);
+  for(let i=0;i<N;i++){ const t=T[i];
+    POS[i*2]=(t.ex||0)/60; POS[i*2+1]=(t.ey||0)/60;
+    NN[i]=(t.nn||[]).map(id=>T.indexOf(byId[id])).filter(j=>j>=0);
+  }
+  document.getElementById('modelBadge').textContent='embedding: '+(META.embed_model||'gemini-embedding-2');
+  buildGrid(); initGL(); recomputeColors(); recomputeSizes(); buildLegend();
+  document.getElementById('search').placeholder=`search ${N} theories…`;
+  document.getElementById('loading').style.display='none';
+  resize(); requestAnimationFrame(loop);
+  setTimeout(()=>{document.getElementById('hint').style.opacity=0;},6000);
+}).catch(e=>{document.getElementById('loading').innerHTML='<div>failed to load data.json<br><small>'+e+'</small></div>';});
+
+// ---------- spatial grid for picking ----------
+let GRID;
+function buildGrid(){
+  const cells=64; GRID={cells,minx:-1.5,miny:-1.5,span:3.0,map:new Map()};
+  for(let i=0;i<N;i++){
+    const cx=Math.floor((POS[i*2]-GRID.minx)/GRID.span*cells);
+    const cy=Math.floor((POS[i*2+1]-GRID.miny)/GRID.span*cells);
+    const k=cx*cells+cy; let a=GRID.map.get(k); if(!a){a=[];GRID.map.set(k,a);} a.push(i);
+  }
+}
+function pick(wx,wy,rad){
+  const {cells,minx,miny,span}=GRID;
+  const cx=Math.floor((wx-minx)/span*cells), cy=Math.floor((wy-miny)/span*cells);
+  let best=-1,bd=rad*rad;
+  for(let dx=-1;dx<=1;dx++)for(let dy=-1;dy<=1;dy++){
+    const a=GRID.map.get((cx+dx)*cells+(cy+dy)); if(!a)continue;
+    for(const i of a){const ddx=POS[i*2]-wx,ddy=POS[i*2+1]-wy,d=ddx*ddx+ddy*ddy;
+      if(d<bd){bd=d;best=i;}}
+  }
+  return best;
+}
+
+// ---------- colors / sizes ----------
+function recomputeColors(){
+  for(let i=0;i<N;i++){
+    const t=T[i]; let c;
+    if(colorMode==="genre") c=hexRGB(gc(t.genre));
+    else c=hexRGB(statusCol(t.truth));
+    COL[i*3]=c[0];COL[i*3+1]=c[1];COL[i*3+2]=c[2];
+  }
+  if(glBuf.col){ gl.bindBuffer(gl.ARRAY_BUFFER,glBuf.col); gl.bufferData(gl.ARRAY_BUFFER,COL,gl.DYNAMIC_DRAW); }
+  buildLegend();
+}
+function recomputeSizes(){
+  for(let i=0;i<N;i++){
+    if(sizeMode==="pop") SIZE[i]=2.2+3.2*Math.sqrt(T[i].notoriety)/10;
+    else SIZE[i]=3.0;
+  }
+  if(glBuf.sz){ gl.bindBuffer(gl.ARRAY_BUFFER,glBuf.sz); gl.bufferData(gl.ARRAY_BUFFER,SIZE,gl.DYNAMIC_DRAW); }
+}
+
+// ---------- WebGL ----------
+let prog, glBuf={};
+function initGL(){
+  const vs=`#version 300 es
+  in vec2 aPos; in vec3 aCol; in float aSz;
+  uniform vec2 uScale; uniform vec2 uTrans; uniform float uPx; uniform int uSel;
+  out vec3 vCol; out float vHi;
+  void main(){
+    vec2 p=aPos*uScale+uTrans;
+    gl_Position=vec4(p,0.,1.);
+    float boost=(gl_VertexID==uSel)?2.6:1.0;
+    gl_PointSize=aSz*uPx*boost;
+    vCol=aCol; vHi=boost;
+  }`;
+  const fsr=`#version 300 es
+  precision mediump float; in vec3 vCol; in float vHi; out vec4 o;
+  uniform float uGlow;
+  void main(){
+    vec2 d=gl_PointCoord-vec2(.5); float r=length(d);
+    if(r>.5) discard;
+    float core=smoothstep(.5,.0,r);
+    float a=core*(.55+.45*uGlow);
+    vec3 c=vCol*(0.7+0.6*core);
+    if(vHi>1.5){ c=mix(c,vec3(1.),.35); a=max(a,.9); }
+    o=vec4(c,a);
+  }`;
+  prog=link(vs,fsr);
+  glBuf.pos=mkbuf(POS); glBuf.col=mkbuf(COL); glBuf.sz=mkbuf(SIZE);
+  gl.enable(gl.BLEND); gl.blendFunc(gl.SRC_ALPHA, gl.ONE);
+}
+function mkbuf(arr){const b=gl.createBuffer();gl.bindBuffer(gl.ARRAY_BUFFER,b);
+  gl.bufferData(gl.ARRAY_BUFFER,arr,gl.DYNAMIC_DRAW);return b;}
+function link(vs,fs){
+  const c=(t,s)=>{const sh=gl.createShader(t);gl.shaderSource(sh,s);gl.compileShader(sh);
+    if(!gl.getShaderParameter(sh,gl.COMPILE_STATUS))throw gl.getShaderInfoLog(sh);return sh;};
+  const p=gl.createProgram();gl.attachShader(p,c(gl.VERTEX_SHADER,vs));
+  gl.attachShader(p,c(gl.FRAGMENT_SHADER,fs));gl.linkProgram(p);
+  if(!gl.getProgramParameter(p,gl.LINK_STATUS))throw gl.getProgramInfoLog(p);return p;}
+
+function draw(){
+  gl.viewport(0,0,glc.width,glc.height);
+  gl.clearColor(0.027,0.031,0.055,1); gl.clear(gl.COLOR_BUFFER_BIT);
+  gl.useProgram(prog);
+  bind('aPos',glBuf.pos,2); bind('aCol',glBuf.col,3); bind('aSz',glBuf.sz,1);
+  const ar=glc.width/glc.height;
+  gl.uniform2f(u('uScale'), view.s/(ar>1?ar:1), view.s*(ar<1?ar:1));
+  gl.uniform2f(u('uTrans'), view.tx, view.ty);
+  gl.uniform1f(u('uPx'), dpr);
+  gl.uniform1f(u('uGlow'), glow);
+  gl.uniform1i(u('uSel'), sel);
+  gl.drawArrays(gl.POINTS,0,N);
+}
+function bind(name,buf,size){const l=gl.getAttribLocation(prog,name);
+  gl.bindBuffer(gl.ARRAY_BUFFER,buf);gl.enableVertexAttribArray(l);
+  gl.vertexAttribPointer(l,size,gl.FLOAT,false,0,0);}
+function u(n){return gl.getUniformLocation(prog,n);}
+
+// ---------- overlay (selection lines, labels) ----------
+function world2screen(wx,wy){
+  const ar=glc.width/glc.height;
+  const sx=(wx*view.s/(ar>1?ar:1)+view.tx), sy=(wy*view.s*(ar<1?ar:1)+view.ty);
+  return [ (sx*0.5+0.5)*fxc.width/dpr, (0.5-sy*0.5)*fxc.height/dpr ];
+}
+function drawFX(){
+  fx.clearRect(0,0,fxc.width,fxc.height); fx.save(); fx.scale(dpr,dpr);
+  if(sel>=0){
+    const [sxX,sxY]=world2screen(POS[sel*2],POS[sel*2+1]);
+    fx.lineWidth=1;
+    for(const j of NN[sel]){
+      const [x,y]=world2screen(POS[j*2],POS[j*2+1]);
+      fx.strokeStyle='rgba(124,242,214,.45)'; fx.beginPath();
+      fx.moveTo(sxX,sxY); fx.lineTo(x,y); fx.stroke();
+      label(x,y,T[j].name,'rgba(231,233,243,.92)');
+    }
+    fx.fillStyle='#fff'; fx.beginPath(); fx.arc(sxX,sxY,5,0,7); fx.fill();
+    label(sxX,sxY-2,T[sel].name,'#7cf2d6',true);
+  }
+  fx.restore();
+}
+function label(x,y,t,col,big){
+  fx.font=(big?'600 13px':'12px')+' ui-sans-serif,system-ui';
+  const w=fx.measureText(t).width;
+  fx.fillStyle='rgba(6,7,13,.7)'; fx.fillRect(x+7,y-9,w+8,16);
+  fx.fillStyle=col; fx.fillText(t,x+11,y+3);
+}
+
+// ---------- render loop ----------
+let dirty=true;
+function loop(){ if(dirty){ draw(); dirty=false; } drawFX(); requestAnimationFrame(loop); }
+function invalidate(){dirty=true;}
+
+// ---------- interaction ----------
+let drag=null;
+glc.addEventListener('mousedown',e=>{drag={x:e.clientX,y:e.clientY,tx:view.tx,ty:view.ty,moved:0};});
+window.addEventListener('mouseup',e=>{
+  if(drag&&drag.moved<4){ const i=pickAt(e.clientX,e.clientY); if(i>=0) selectTheory(i); else deselect(); }
+  drag=null;
+});
+window.addEventListener('mousemove',e=>{
+  if(drag){
+    drag.moved+=Math.abs(e.movementX)+Math.abs(e.movementY);
+    view.tx=drag.tx+(e.clientX-drag.x)/(fxc.width/dpr)*2;
+    view.ty=drag.ty-(e.clientY-drag.y)/(fxc.height/dpr)*2;
+    invalidate();
+  } else { const i=pickAt(e.clientX,e.clientY); hoverTheory(i,e.clientX,e.clientY); }
+});
+function zoomAt(px,py,f){
+  const r=glc.getBoundingClientRect();
+  const cx=((px-r.left)/r.width*2-1);
+  const cy=-((py-r.top)/r.height*2-1);
+  view.tx=cx-(cx-view.tx)*f; view.ty=cy-(cy-view.ty)*f;
+  view.s*=f;
+}
+function panByPx(dx,dy){
+  view.tx += dx/(fxc.width/dpr)*2;
+  view.ty -= dy/(fxc.height/dpr)*2;
+}
+glc.addEventListener('wheel',e=>{e.preventDefault();
+  zoomAt(e.clientX, e.clientY, Math.exp(-e.deltaY*0.0012)); invalidate();
+},{passive:false});
+
+// touch: 1-finger pan, 2-finger pinch-zoom, tap to select
+let tch=null;
+const tDist=(a,b)=>Math.hypot(a.clientX-b.clientX, a.clientY-b.clientY);
+const tMid =(a,b)=>({x:(a.clientX+b.clientX)/2, y:(a.clientY+b.clientY)/2});
+glc.addEventListener('touchstart',e=>{
+  e.preventDefault(); document.getElementById('tip').style.display='none';
+  if(e.touches.length===1){
+    const t=e.touches[0];
+    tch={mode:'pan', sx:t.clientX, sy:t.clientY, px:t.clientX, py:t.clientY, moved:0, t0:Date.now()};
+  } else {
+    const m=tMid(e.touches[0],e.touches[1]);
+    tch={mode:'pinch', dist:tDist(e.touches[0],e.touches[1]), mx:m.x, my:m.y};
+  }
+},{passive:false});
+glc.addEventListener('touchmove',e=>{
+  e.preventDefault(); if(!tch)return;
+  if(tch.mode==='pinch' && e.touches.length>=2){
+    const a=e.touches[0], b=e.touches[1], d=tDist(a,b), m=tMid(a,b);
+    if(tch.dist>0) zoomAt(m.x, m.y, d/tch.dist);
+    panByPx(m.x-tch.mx, m.y-tch.my);
+    tch.dist=d; tch.mx=m.x; tch.my=m.y; invalidate();
+  } else if(tch.mode==='pan' && e.touches.length===1){
+    const t=e.touches[0];
+    panByPx(t.clientX-tch.px, t.clientY-tch.py);
+    tch.moved+=Math.abs(t.clientX-tch.px)+Math.abs(t.clientY-tch.py);
+    tch.px=t.clientX; tch.py=t.clientY; invalidate();
+  }
+},{passive:false});
+glc.addEventListener('touchend',e=>{
+  e.preventDefault();
+  if(tch && tch.mode==='pan' && tch.moved<12 && Date.now()-tch.t0<500){
+    const i=pickAt(tch.sx, tch.sy); if(i>=0) selectTheory(i); else deselect();
+  }
+  if(e.touches.length===1){
+    const t=e.touches[0];
+    tch={mode:'pan', sx:t.clientX, sy:t.clientY, px:t.clientX, py:t.clientY, moved:99, t0:Date.now()};
+  } else if(e.touches.length===0){ tch=null; }
+},{passive:false});
+glc.addEventListener('touchcancel',()=>{tch=null;},{passive:false});
+
+function screen2world(px,py){
+  const r=glc.getBoundingClientRect(); const ar=glc.width/glc.height;
+  let sx=((px-r.left)/r.width*2-1), sy=-((py-r.top)/r.height*2-1);
+  const wx=(sx-view.tx)/(view.s/(ar>1?ar:1));
+  const wy=(sy-view.ty)/(view.s*(ar<1?ar:1));
+  return [wx,wy];
+}
+function pickAt(px,py){const [wx,wy]=screen2world(px,py); return pick(wx,wy, 0.025/view.s + 0.008);}
+
+const tip=document.getElementById('tip');
+function hoverTheory(i,px,py){
+  hover=i;
+  if(i<0){tip.style.display='none';glc.style.cursor='grab';return;}
+  glc.style.cursor='pointer';
+  const t=T[i], s=statusOf(t.truth);
+  tip.innerHTML=`<b>${esc(t.name)}</b><p style="color:${gc(t.genre)}">${esc(gl_(t.genre))} · ${t.year}</p>`+
+    `<p>truth <b style="color:var(--txt)">${t.truth}</b> · impact <b style="color:var(--txt)">${t.impact}</b> · ${s.label}</p>`;
+  tip.style.display='block';
+  const w=tip.offsetWidth,h=tip.offsetHeight;
+  tip.style.left=Math.min(px+14, innerWidth-w-8)+'px';
+  tip.style.top=Math.min(py+14, innerHeight-h-8)+'px';
+}
+
+function evLi(x){
+  const txt=typeof x==='string'?x:(x.text||''), su=typeof x==='object'&&x?x.source:null;
+  return `<li>${esc(txt)}${su?` <a class="src" href="${esc(su)}" target="_blank" rel="noopener" title="source">↗</a>`:''}</li>`;
+}
+function bar(label,val,col){
+  return `<div class="metric"><div class="ml"><span>${label}</span><span class="mv">${val}<span style="color:var(--dim2)">/100</span></span></div>
+  <div class="track"><div class="fill" style="width:${val}%;background:${col}"></div></div></div>`;
+}
+function selectTheory(i){
+  sel=i; invalidate();
+  const t=T[i], s=statusOf(t.truth);
+  const card=document.getElementById('card'); card.classList.add('show'); document.getElementById('cBody').scrollTop=0;
+  document.getElementById('cTitle').textContent=t.name;
+  document.getElementById('cSub').innerHTML=
+    `<span class="pill" style="background:${gc(t.genre)}22;color:${gc(t.genre)};border:1px solid ${gc(t.genre)}55">${esc(gl_(t.genre))}</span>`+
+    `<span class="pill" style="background:${statusCol(t.truth)}22;color:${statusCol(t.truth)};border:1px solid ${statusCol(t.truth)}55">${s.label}</span>`+
+    `<span style="color:var(--dim2)">${t.year}</span>`;
+  let h='';
+  h+=`<div class="summary">${esc(t.summary)}</div>`;
+  h+=bar('How true',t.truth,statusCol(t.truth));
+  h+=bar('Impact if true',t.impact,'#60a5fa');
+  h+=bar('Notoriety',t.notoriety,'#a855f7');
+  if(t.evidence_for&&t.evidence_for.length){ h+=`<h4>Evidence / claims for</h4><ul class="ev for">${t.evidence_for.map(evLi).join('')}</ul>`; }
+  if(t.evidence_against&&t.evidence_against.length){ h+=`<h4>Evidence against</h4><ul class="ev against">${t.evidence_against.map(evLi).join('')}</ul>`; }
+  h+=`<h4>Nearest neighbors (semantic)</h4><div id="nbrs"></div>`;
+  const srcs=(t.sources||[]).slice();
+  if(t.wikipedia && !srcs.some(s=>s.url===t.wikipedia)) srcs.unshift({title:'Wikipedia',url:t.wikipedia,type:'wikipedia',stance:'documents'});
+  if(srcs.length){
+    h+=`<h4>Sources (${srcs.length})</h4>`+srcs.map(s=>
+      `<div style="padding:2px 0"><a class="src" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title||s.url)} ↗</a>`+
+      (s.type?` <span style="color:var(--dim2);font-size:10px">${esc(s.type)}${s.stance&&s.stance!=='documents'?' · '+esc(s.stance):''}</span>`:'')+`</div>`).join('');
+  } else if(t.research_note){
+    h+=`<h4>Sources</h4><div style="color:var(--dim2);font-size:11px">${esc(t.research_note)}</div>`;
+  }
+  if(INTAKE_URL) h+=`<div style="margin-top:16px"><button type="button" class="sg-pill" id="sgEdit">✏️ Suggest an edit</button></div>`;
+  document.getElementById('cBody').innerHTML=h;
+  const eb=document.getElementById('sgEdit'); if(eb) eb.onclick=()=>SUGGEST.open('edit',t);
+  const nb=document.getElementById('nbrs');
+  for(const j of NN[i]){ const div=document.createElement('div');
+    div.textContent='→ '+T[j].name;
+    div.onclick=()=>{selectTheory(j); flyTo(j);}; nb.appendChild(div); }
+}
+function deselect(){sel=-1;document.getElementById('card').classList.remove('show');invalidate();}
+document.getElementById('cClose').onclick=deselect;
+function flyTo(i){
+  const tx0=view.tx,ty0=view.ty, ar=glc.width/glc.height;
+  const tgx=-POS[i*2]*(view.s/(ar>1?ar:1)), tgy=-POS[i*2+1]*(view.s*(ar<1?ar:1));
+  let t=0; (function an(){t+=0.08; const k=t<1?1-Math.pow(1-t,3):1;
+    view.tx=tx0+(tgx-tx0)*k; view.ty=ty0+(tgy-ty0)*k; invalidate();
+    if(t<1)requestAnimationFrame(an);})();
+}
+
+// ---------- controls ----------
+document.querySelectorAll('#colorModes button').forEach(b=>b.onclick=()=>{
+  document.querySelectorAll('#colorModes button').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on'); colorMode=b.dataset.m; recomputeColors(); invalidate();
+});
+document.querySelectorAll('#sizeModes button').forEach(b=>b.onclick=()=>{
+  document.querySelectorAll('#sizeModes button').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on'); sizeMode=b.dataset.s; recomputeSizes(); invalidate();
+});
+document.getElementById('glow').oninput=e=>{glow=e.target.value/100; invalidate();};
+
+const search=document.getElementById('search'), results=document.getElementById('results');
+search.oninput=()=>{
+  const q=search.value.trim().toLowerCase(); results.innerHTML='';
+  if(!q)return;
+  let hits=[]; for(let i=0;i<N&&hits.length<40;i++){
+    const t=T[i]; if(t.name.toLowerCase().includes(q)||(t.aliases||[]).some(a=>a.toLowerCase().includes(q))) hits.push(i);
+  }
+  hits.sort((a,b)=>T[b].notoriety-T[a].notoriety);
+  for(const i of hits.slice(0,30)){ const d=document.createElement('div');
+    d.innerHTML=`<span class="sw" style="display:inline-block;width:8px;height:8px;border-radius:2px;background:${gc(T[i].genre)};margin-right:6px"></span>${esc(T[i].name)}`;
+    d.onclick=()=>{selectTheory(i);flyTo(i);}; results.appendChild(d); }
+};
+
+// ---------- legend ----------
+function buildLegend(){
+  const t=document.getElementById('legendTitle'), b=document.getElementById('legendBody');
+  if(colorMode==='genre'){ t.textContent='Genre';
+    b.innerHTML=GEN.filter(g=>META.by_genre[g.key]).map(g=>
+      `<div class="lg"><span class="sw" style="background:${g.color}"></span>${esc(g.label)}<span style="margin-left:auto;color:var(--dim2)">${META.by_genre[g.key]}</span></div>`).join('');
+  } else { t.textContent='Truth status';
+    const order=['Confirmed','Substantiated','Plausible','Contested','Fringe','Debunked'];
+    const col={Confirmed:'#4ade80',Substantiated:'#86efac',Plausible:'#bef264',Contested:'#fbbf24',Fringe:'#fb923c',Debunked:'#f87171'};
+    b.innerHTML=order.filter(k=>META.by_status[k]).map(k=>
+      `<div class="lg"><span class="sw" style="background:${col[k]}"></span>${k}<span style="margin-left:auto;color:var(--dim2)">${META.by_status[k]}</span></div>`).join('');
+  }
+}
+
+// ---------- resize ----------
+function resize(){
+  const w=innerWidth,h=innerHeight;
+  for(const c of [glc,fxc]){c.width=w*dpr;c.height=h*dpr;c.style.width=w+'px';c.style.height=h+'px';}
+  invalidate();
+}
+window.addEventListener('resize',resize);
+window.addEventListener('keydown',e=>{if(e.key==='Escape')deselect();});
+</script>
+
+<script>
+// ---- movable / resizable / collapsible HUD windows (mouse + touch) ----
+(function(){
+  let zTop=50;
+  const imp=(p,k,v)=>p.style.setProperty(k,v,'important');
+  function freeze(p){
+    const r=p.getBoundingClientRect();
+    imp(p,'position','fixed'); imp(p,'left',r.left+'px'); imp(p,'top',r.top+'px');
+    imp(p,'right','auto'); imp(p,'bottom','auto'); imp(p,'width',r.width+'px'); imp(p,'transform','none');
+    p.classList.add('freed');
+  }
+  const raise=p=>imp(p,'z-index',(++zTop));
+  function drag(p,handle){
+    if(!handle) return; let sx=0,sy=0,ox=0,oy=0,on=false;
+    handle.addEventListener('pointerdown',e=>{
+      if(e.target.closest('button,input,select,a,textarea,.close,.wrsz')) return;
+      on=true; freeze(p); raise(p);
+      const r=p.getBoundingClientRect(); ox=r.left; oy=r.top; sx=e.clientX; sy=e.clientY;
+      handle.setPointerCapture(e.pointerId); e.stopPropagation();
+    });
+    handle.addEventListener('pointermove',e=>{ if(!on) return; e.stopPropagation();
+      let nx=Math.max(4,Math.min(innerWidth-p.offsetWidth-4, ox+(e.clientX-sx)));
+      let ny=Math.max(4,Math.min(innerHeight-p.offsetHeight-4, oy+(e.clientY-sy)));
+      imp(p,'left',nx+'px'); imp(p,'top',ny+'px');
+    });
+    const end=e=>{ if(on){ on=false; e.stopPropagation(); } };
+    handle.addEventListener('pointerup',end); handle.addEventListener('pointercancel',end);
+  }
+  function resize(p,grip,minW,minH){
+    if(!grip) return; let sx=0,sy=0,ow=0,oh=0,on=false;
+    grip.addEventListener('pointerdown',e=>{
+      on=true; freeze(p); raise(p);
+      const r=p.getBoundingClientRect(); ow=r.width; oh=r.height; sx=e.clientX; sy=e.clientY;
+      grip.setPointerCapture(e.pointerId); e.stopPropagation(); e.preventDefault();
+    });
+    grip.addEventListener('pointermove',e=>{ if(!on) return; e.stopPropagation();
+      const nw=Math.max(minW,Math.min(innerWidth-8, ow+(e.clientX-sx)));
+      const nh=Math.max(minH,Math.min(innerHeight-8, oh+(e.clientY-sy)));
+      imp(p,'width',nw+'px'); imp(p,'height',nh+'px'); imp(p,'max-height',nh+'px');
+    });
+    const end=e=>{ if(on){ on=false; e.stopPropagation(); } };
+    grip.addEventListener('pointerup',end); grip.addEventListener('pointercancel',end);
+  }
+  function collapse(p,btn){
+    if(!btn) return;
+    btn.addEventListener('pointerdown',e=>e.stopPropagation());
+    btn.addEventListener('click',e=>{ e.stopPropagation();
+      const c=p.classList.toggle('collapsed'); btn.textContent=c?'+':'–';
+      p.style.removeProperty('height'); p.style.removeProperty('max-height'); });
+  }
+  const $=id=>document.getElementById(id);
+  const controls=$('controls'), legend=$('legend'), card=$('card'), title=$('title');
+  drag(controls, controls.querySelector('.wbar'));
+  drag(legend, legend.querySelector('.wbar'));
+  drag(title, title.querySelector('.wbar'));
+  drag(card, card.querySelector('.hd'));
+  resize(controls, controls.querySelector('.wrsz'), 190,150);
+  resize(legend, legend.querySelector('.wrsz'), 170,110);
+  resize(card, card.querySelector('.wrsz'), 240,180);
+  collapse(controls, $('controlsMini'));
+  collapse(legend, $('legendMini'));
+  collapse(title, $('titleMini'));
+  collapse(card, $('cardMini'));
+})();
+</script>
+
+<script>
+// ============================================================
+//  Anonymous crowdsource submission UI (self-contained)
+//  POSTs {kind, theory_id?, payload, turnstile, website, elapsedMs}
+//  to INTAKE_URL + "/submit". Dark (no buttons) until INTAKE_URL is set.
+// ============================================================
+const SUGGEST = (function(){
+  const ENABLED = !!INTAKE_URL;
+  let ov, hd, bd, ft, curKind='new', curTheory=null, openedAt=0, tsToken='', cssDone=false;
+  const $ = s => ov.querySelector(s);
+
+  function injectCSS(){
+    if(cssDone) return; cssDone=true;
+    const css=`
+.sg-ov{position:fixed;inset:0;z-index:99999;display:none;align-items:center;justify-content:center;background:rgba(4,5,10,.72);backdrop-filter:blur(3px);padding:16px}
+.sg-ov.show{display:flex}
+.sg-dlg{background:var(--panel);border:1px solid var(--line);border-radius:14px;box-shadow:0 24px 70px rgba(0,0,0,.62);width:100%;max-width:420px;max-height:calc(100vh - 32px);display:flex;flex-direction:column;color:var(--txt)}
+.sg-hd{display:flex;align-items:flex-start;gap:10px;padding:14px 16px 11px;border-bottom:1px solid var(--line);flex:none}
+.sg-hd h3{margin:0;font-size:15px;font-weight:700;flex:1}
+.sg-x{cursor:pointer;color:var(--dim);font-size:20px;line-height:1;flex:none}
+.sg-x:hover{color:var(--txt)}
+.sg-bd{padding:14px 16px 16px;overflow:auto;flex:1;min-height:0;font-size:12.5px}
+.sg-bd label{display:block;font-size:10px;text-transform:uppercase;letter-spacing:.9px;color:var(--dim);margin:12px 0 4px;font-weight:650}
+.sg-bd>label:first-child{margin-top:0}
+.sg-bd input[type=text],.sg-bd input[type=number],.sg-bd input[type=url],.sg-bd textarea,.sg-bd select{width:100%;padding:8px 10px;background:rgba(0,0,0,.32);border:1px solid var(--line);border-radius:8px;color:var(--txt);font:inherit;font-size:12.5px;outline:none;margin-bottom:2px}
+.sg-src{margin-bottom:6px!important}
+.sg-bd input:focus,.sg-bd textarea:focus,.sg-bd select:focus{border-color:var(--accent)}
+.sg-bd textarea{resize:vertical;min-height:62px;line-height:1.45}
+.sg-add{color:var(--accent);font-size:11px;cursor:pointer;display:inline-block;margin-top:2px;text-decoration:underline;opacity:.85}
+.sg-add:hover{opacity:1}
+.sg-disc{display:flex;align-items:center;gap:8px;margin:14px 0 2px;cursor:pointer;font-size:12px;color:var(--dim);text-transform:none;letter-spacing:0;font-weight:500}
+.sg-disc input{width:auto!important;margin:0}
+.sg-num{font-variant-numeric:tabular-nums;color:var(--txt);font-size:11px}
+.sg-cur{color:var(--dim2,#6b7291);font-size:10px}
+.sg-row{display:flex;align-items:center;gap:8px;margin:2px 0 6px}
+.sg-row input[type=range]{flex:1;accent-color:var(--accent)}
+.sg-ft{padding:12px 16px;border-top:1px solid var(--line);display:flex;gap:10px;flex:none}
+.sg-btn{flex:1;padding:9px 14px;border-radius:9px;border:1px solid var(--accent);background:var(--accent);color:#04130f;font-weight:650;font-size:13px;cursor:pointer}
+.sg-btn:disabled{opacity:.55;cursor:default}
+.sg-err{color:#f87171;font-size:11.5px;margin-top:10px;min-height:1px}
+.sg-hp{position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden}
+.sg-ok{text-align:center;padding:14px 4px;font-size:12.5px}
+.sg-ok .n{color:var(--accent);font-weight:700;font-size:16px}
+.sg-pill{display:inline-flex;align-items:center;gap:5px;padding:4px 11px;border:1px solid var(--line);border-radius:20px;background:transparent;color:var(--accent);font-size:11px;cursor:pointer;font-family:inherit}
+.sg-pill:hover{border-color:var(--accent)}
+@media(max-width:760px){.sg-ov{align-items:flex-end;padding:0}.sg-dlg{max-width:none;border-radius:16px 16px 0 0;max-height:90vh}}`;
+    const st=document.createElement('style'); st.textContent=css; document.head.appendChild(st);
+  }
+
+  function build(){
+    if(ov) return;
+    injectCSS();
+    ov=document.createElement('div'); ov.className='sg-ov';
+    ov.innerHTML=`<div class="sg-dlg" role="dialog" aria-modal="true" aria-label="suggestion form">`+
+      `<div class="sg-hd"><h3></h3><span class="sg-x" id="sg-close" title="close">×</span></div>`+
+      `<div class="sg-bd"></div>`+
+      `<div class="sg-ft"><button class="sg-btn" id="sg-submit" type="button">Submit</button></div></div>`;
+    document.body.appendChild(ov);
+    hd=ov.querySelector('.sg-hd'); bd=ov.querySelector('.sg-bd'); ft=ov.querySelector('.sg-ft');
+    // keep pointer/touch/wheel from leaking to the canvas & HUD underneath
+    ['pointerdown','pointerup','pointermove','mousedown','mouseup','mousemove','click','dblclick','wheel','touchstart','touchmove','touchend','contextmenu']
+      .forEach(ev=>ov.addEventListener(ev,e=>e.stopPropagation(),{passive:false}));
+    ov.addEventListener('click',e=>{ if(e.target===ov) close(); });
+    $('#sg-close').onclick=close;
+    $('#sg-submit').onclick=submit;
+    window.addEventListener('keydown',e=>{ if(ov.classList.contains('show') && e.key==='Escape'){ e.stopImmediatePropagation(); e.preventDefault(); close(); } }, true);
+  }
+
+  const genreOpts=()=>GEN.map(g=>`<option value="${esc(g.key)}">${esc(g.label)}</option>`).join('');
+
+  function formNew(){
+    return `<label>Name of the theory *</label>
+<input type="text" id="sg-name" maxlength="120" autocomplete="off" placeholder="e.g. Operation Northwoods">
+<label>The claim *</label>
+<textarea id="sg-claim" maxlength="2000" placeholder="1–3 neutral sentences stating what the theory actually claims — plainly, without editorializing."></textarea>
+<label>Genre</label>
+<select id="sg-genre"><option value="">— pick a genre —</option>${genreOpts()}</select>
+<label>Year</label>
+<input type="number" id="sg-year" placeholder="e.g. 1962">
+<label>Source URLs</label>
+<div id="sg-srcs"><input type="url" class="sg-src" placeholder="https://…"><input type="url" class="sg-src" placeholder="https://…"><input type="url" class="sg-src" placeholder="https://…"></div>
+<span class="sg-add" id="sg-addsrc">+ add another source</span>
+<label>Evidence points</label>
+<textarea id="sg-ev" placeholder="One claim or piece of evidence per line."></textarea>
+<label>Note (optional)</label>
+<textarea id="sg-note" placeholder="Anything else for the curators — context, caveats, why it belongs."></textarea>
+<div class="sg-err" id="sg-err"></div>`;
+  }
+  function slider(k,label,val){
+    return `<div style="margin:10px 0 2px"><div style="display:flex;justify-content:space-between;font-size:11px;color:var(--dim)"><span>${label}</span><span class="sg-num"><b id="sg-${k}v">${val}</b>/100 &nbsp;<span class="sg-cur">(current: ${val})</span></span></div>
+<div class="sg-row"><input type="range" min="0" max="100" value="${val}" id="sg-${k}" data-orig="${val}"></div></div>`;
+  }
+  function formEdit(t){
+    return `<div style="color:var(--dim);font-size:11px">Suggesting an edit to</div>
+<div style="font-weight:700;font-size:14px;margin:2px 0 4px">${esc(t.name)}</div>
+<label>What should change? *</label>
+<textarea id="sg-changes" maxlength="2000" placeholder="Describe the correction or addition — a wrong date, a missing source, a mischaracterized claim…"></textarea>
+<label class="sg-disc"><input type="checkbox" id="sg-scoreToggle"> Propose score changes</label>
+<div id="sg-scores" style="display:none">${slider('truth','How true',t.truth)}${slider('impact','Impact if true',t.impact)}${slider('notoriety','Notoriety',t.notoriety)}</div>
+<label>Rationale (optional)</label>
+<textarea id="sg-rat" maxlength="2000" placeholder="Why? Cite reasoning or evidence."></textarea>
+<label>Source URLs</label>
+<div id="sg-srcs"><input type="url" class="sg-src" placeholder="https://…"><input type="url" class="sg-src" placeholder="https://…"><input type="url" class="sg-src" placeholder="https://…"></div>
+<div class="sg-err" id="sg-err"></div>`;
+  }
+
+  function wireForm(){
+    const addBtn=$('#sg-addsrc');
+    if(addBtn) addBtn.onclick=()=>{ const box=$('#sg-srcs');
+      if(box.querySelectorAll('.sg-src').length>=6) return;
+      const i=document.createElement('input'); i.type='url'; i.className='sg-src'; i.placeholder='https://…'; box.appendChild(i);
+      if(box.querySelectorAll('.sg-src').length>=6) addBtn.style.display='none'; };
+    const tog=$('#sg-scoreToggle');
+    if(tog) tog.onchange=()=>{ $('#sg-scores').style.display=tog.checked?'':'none'; };
+    ['truth','impact','notoriety'].forEach(k=>{ const r=$('#sg-'+k);
+      if(r) r.oninput=()=>{ $('#sg-'+k+'v').textContent=r.value; }; });
+  }
+
+  const tval=s=>{ const el=$(s); return el?el.value.trim():''; };
+  const numVal=s=>{ const v=parseInt(($(s)||{}).value,10); return Number.isFinite(v)?v:null; };
+  const collectSrcs=()=>[].slice.call(ov.querySelectorAll('.sg-src')).map(i=>i.value.trim()).filter(Boolean);
+  const collectLines=s=>(($(s)||{}).value||'').split('\n').map(x=>x.trim()).filter(Boolean);
+
+  async function submit(){
+    const err=$('#sg-err'); if(err) err.textContent='';
+    const kind=curKind; let payload, theory_id;
+    if(kind==='new'){
+      const name=tval('#sg-name'), claim=tval('#sg-claim');
+      if(name.length<3){ err.textContent='Please enter a name (at least 3 characters).'; return; }
+      if(claim.length<20){ err.textContent='Please describe the claim (at least 20 characters).'; return; }
+      payload={ name, claim, genre:tval('#sg-genre')||null, year:numVal('#sg-year'),
+        sources:collectSrcs(), evidence:collectLines('#sg-ev'), note:tval('#sg-note')||null };
+    } else {
+      theory_id=curTheory.id;
+      const changes=tval('#sg-changes'); const scores={}; let proposed=false;
+      if($('#sg-scoreToggle') && $('#sg-scoreToggle').checked){
+        ['truth','impact','notoriety'].forEach(k=>{ const el=$('#sg-'+k);
+          if(el && +el.value!==+el.dataset.orig){ scores[k]=+el.value; proposed=true; } });
+      }
+      if(changes.length<10 && !proposed){ err.textContent='Describe the change (10+ chars) or propose a score change.'; return; }
+      payload=Object.assign({ changes:changes||null, rationale:tval('#sg-rat')||null, sources:collectSrcs() }, scores);
+    }
+    const body={ kind, payload, website:tval('.sg-hp'), elapsedMs:Date.now()-openedAt, turnstile:tsToken||'' };
+    if(theory_id) body.theory_id=theory_id;
+    const btn=$('#sg-submit'), old=btn.textContent; btn.disabled=true; btn.textContent='sending…';
+    try{
+      const r=await fetch(INTAKE_URL.replace(/\/+$/,'')+'/submit',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
+      const d=await r.json().catch(()=>({}));
+      if(r.ok && d && d.ok){ success(d.id); }
+      else { err.textContent=(d && d.error) ? d.error : ('Something went wrong ('+r.status+').'); btn.disabled=false; btn.textContent=old; }
+    }catch(e){ err.textContent='Network error — could not reach the server. Please try again.'; btn.disabled=false; btn.textContent=old; }
+  }
+
+  function success(id){
+    bd.innerHTML=`<div class="sg-ok"><p>Received as suggestion <span class="n">#${esc(String(id))}</span>.</p>
+<p style="color:var(--dim);margin-top:8px">Save this number — check back later; accepted suggestions get merged into the atlas.</p>
+<p style="margin-top:14px"><span class="sg-add" id="sg-again">submit another</span></p></div>`;
+    ft.style.display='none';
+    $('#sg-again').onclick=()=>open(curKind, curTheory);
+  }
+
+  function ensureTurnstile(){
+    if(!TURNSTILE_KEY) return;
+    const cont=$('#sg-ts'); if(!cont) return;
+    const render=()=>{ try{ window.turnstile.render(cont,{sitekey:TURNSTILE_KEY, callback:t=>{tsToken=t;}, 'error-callback':()=>{tsToken='';}}); }catch(e){} };
+    if(window.turnstile && window.turnstile.render){ render(); return; }
+    if(!document.getElementById('sg-ts-js')){
+      const s=document.createElement('script'); s.id='sg-ts-js'; s.async=true; s.defer=true;
+      s.src='https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit';
+      s.onload=render; document.head.appendChild(s);
+    } else { let n=0; const iv=setInterval(()=>{ if(window.turnstile&&window.turnstile.render){ clearInterval(iv); render(); } else if(++n>50) clearInterval(iv); },200); }
+  }
+
+  function open(kind, theory){
+    if(!ENABLED) return;
+    build();
+    curKind=kind; curTheory=theory||null; tsToken='';
+    hd.querySelector('h3').textContent = kind==='new'?'➕ Suggest a theory':'✏️ Suggest an edit';
+    bd.innerHTML = (kind==='new'?formNew():formEdit(theory))
+      + `<input class="sg-hp" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">`
+      + `<div id="sg-ts" style="margin-top:12px"></div>`;
+    ft.style.display='flex';
+    const sb=$('#sg-submit'); sb.disabled=false; sb.textContent = kind==='new'?'Submit theory':'Submit edit';
+    wireForm();
+    ov.classList.add('show'); openedAt=Date.now();
+    ensureTurnstile();
+    setTimeout(()=>{ const f=bd.querySelector('input:not(.sg-hp),textarea'); if(f) f.focus(); },40);
+  }
+  function close(){ if(ov) ov.classList.remove('show'); }
+
+  if(ENABLED) injectCSS();
+  return { open, on:ENABLED };
+})();
+
+// wire the "Suggest a theory" pill (only when the feature is live)
+if(SUGGEST.on){
+  const nav=document.getElementById('pagenav');
+  const b=document.createElement('button');
+  b.type='button'; b.className='sg-pill'; b.id='sgNew'; b.textContent='➕ Suggest a theory';
+  b.style.marginTop='8px';
+  nav.insertAdjacentElement('afterend', b);
+  b.onclick=()=>SUGGEST.open('new');
+}
+</script>
+</body>
+</html>

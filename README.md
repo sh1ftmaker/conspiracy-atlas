@@ -3,25 +3,24 @@
 An interactive atlas of 1000+ conspiracy theories. Two views, both fed by the same
 dataset:
 
-- **[2D semantic map](https://sh1ftmaker.github.io/conspiracy-atlas/)** (`docs/index.html`)
+- **[3D flythrough](https://sh1ftmaker.github.io/conspiracy-atlas/)** (`docs/index.html`, front page)
+  — fly (WASD + mouse-look) or orbit through the semantic point cloud in 3D;
+  remap the X/Y/Z axes (Semantic / Truth / Impact / Notoriety / Year) and watch
+  the cloud morph between layouts.
+- **[2D semantic map](https://sh1ftmaker.github.io/conspiracy-atlas/2d.html)** (`docs/2d.html`)
   — a WebGL point-cloud laid out by semantic similarity (embedded with
   **gemini-embedding-2**, UMAP-projected): theories with similar claims, actors or
   themes cluster together regardless of genre or truth. Pan/pinch/zoom, click a
   point to trace its nearest neighbors in full embedding space.
-- **[3D flythrough](https://sh1ftmaker.github.io/conspiracy-atlas/3d.html)** (`docs/3d.html`)
-  — fly (WASD + mouse-look) or orbit through the semantic point cloud in 3D;
-  remap the X/Y/Z axes (Semantic / Truth / Impact / Notoriety / Year) and watch
-  the cloud morph between layouts.
-- **[Graph & timeline](https://sh1ftmaker.github.io/conspiracy-atlas/classic.html)** (`docs/classic.html`)
-  — the tabbed Three.js scene: Truth × Impact scatter, a **load-bearing
-  dependency graph** (which theories require other theories to be true), a
-  formulation-year Timeline, and the Semantic space.
+- [Graph & timeline](https://sh1ftmaker.github.io/conspiracy-atlas/classic.html) (`docs/classic.html`,
+  unlisted) — the tabbed Three.js scene: Truth × Impact scatter, load-bearing
+  dependency graph, formulation-year Timeline, Semantic space.
 
 ## What's here
 
-- `docs/index.html` — 2D WebGL semantic map (front page)
-- `docs/3d.html` — 3D Three.js flythrough of the semantic cloud (fly/orbit, remappable axes)
-- `docs/classic.html` — tabbed Three.js views (scatter / graph / timeline / semantic space)
+- `docs/index.html` — 3D Three.js flythrough of the semantic cloud (front page)
+- `docs/2d.html` — 2D WebGL semantic map
+- `docs/classic.html` — tabbed Three.js views (scatter / graph / timeline / semantic space, unlisted)
 - `docs/data.json` — built dataset incl. embedding coordinates (generated, do not hand-edit)
 - `data/theories.seed.json` — hand-authored anchor theories (evidence-scored)
 - `data/enriched/batch_*.json` — subagent-researched theories, same schema
