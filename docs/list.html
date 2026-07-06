@@ -27,9 +27,19 @@
   #q{width:230px;padding:6px 10px;background:rgba(0,0,0,.32);border:1px solid var(--line);
     border-radius:7px;color:var(--txt);font-size:12px;outline:none}
   #q:focus{border-color:var(--accent)}
-  .tools input[type=number]{width:78px;padding:6px 8px;background:rgba(0,0,0,.32);border:1px solid var(--line);
-    border-radius:7px;color:var(--txt);font-size:12px;outline:none}
-  .tools input[type=number]:focus{border-color:var(--accent)}
+    .dr{position:relative;height:24px;flex:1;min-width:120px}
+  .dr .track{position:absolute;top:50%;transform:translateY(-50%);height:4px;left:0;right:0;border-radius:2px;background:rgba(255,255,255,.12)}
+  .dr .fillbar{position:absolute;top:50%;transform:translateY(-50%);height:4px;border-radius:2px;background:var(--accent);opacity:.55}
+  .dr input[type=range]{position:absolute;left:0;right:0;top:50%;transform:translateY(-50%);width:100%;margin:0;height:20px;
+    -webkit-appearance:none;appearance:none;background:none;pointer-events:none;outline:none}
+  .dr input[type=range]::-webkit-slider-runnable-track{background:none;border:none}
+  .dr input[type=range]::-moz-range-track{background:none;border:none}
+  .dr input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;appearance:none;width:13px;height:13px;border-radius:50%;
+    background:var(--accent);cursor:pointer;pointer-events:auto;border:none;box-shadow:0 0 0 2px rgba(0,0,0,.4)}
+  .dr input[type=range]::-moz-range-thumb{width:13px;height:13px;border-radius:50%;background:var(--accent);
+    cursor:pointer;pointer-events:auto;border:none;box-shadow:0 0 0 2px rgba(0,0,0,.4)}
+  .yrbox{display:flex;align-items:center;gap:7px;min-width:200px;flex:0 1 260px}
+  .yrbox .yl{color:var(--dim);font-size:11px;white-space:nowrap;font-variant-numeric:tabular-nums}
   .tools select{padding:6px 8px;background:#0c0f1a;border:1px solid var(--line);border-radius:7px;
     color:var(--txt);font-size:12px;outline:none;max-width:180px}
   .tools label.ck{display:flex;align-items:center;gap:5px;color:var(--dim);font-size:11.5px;cursor:pointer;white-space:nowrap}
@@ -144,8 +154,7 @@
     <select id="genreSel"><option value="">all genres</option></select>
     <select id="statusSel"><option value="">all truth levels</option></select>
     <select id="lvlSel"><option value="">all iceberg levels</option></select>
-    <input id="fY0" type="number" placeholder="year from" title="year from">
-    <input id="fY1" type="number" placeholder="year to" title="year to">
+    <span class="yrbox"><span class="yl">year</span><span class="dr" id="fYear"></span><span class="yl" id="fYlab">all time</span></span>
     <label class="ck"><input type="checkbox" id="srcOnly"> sourced only</label>
     <label class="ck"><input type="checkbox" id="steelOnly"> steelman only</label>
     <div id="mSort" class="msort">
@@ -242,10 +251,40 @@ function buildUI(){
   document.getElementById('srcOnly').onchange=render;
   document.getElementById('steelOnly').onchange=render;
   lv.onchange=render;
-  document.getElementById('fY0').oninput=render;
-  document.getElementById('fY1').oninput=render;
+  mkYearSlider(document.getElementById('fYear'), document.getElementById('fYlab'),
+    [...new Set(T.map(t=>t.year))].sort((x,y)=>x-y));
 }
 
+
+// dual-handle year slider over the distinct years present in the data
+let YR={lo:null,hi:null};
+function mkYearSlider(box,lab,years){
+  // logarithmic in "years before present": slider travel is proportional to
+  // log(age), so the data-dense recent past gets most of the resolution and
+  // antiquity compresses into the left end
+  const yMin=years[0], yMax=years[years.length-1];
+  const S=240, ageMax=Math.max(2, yMax+1-yMin);
+  const yearAt=p=>{
+    if(p<=0) return yMin;
+    if(p>=S) return yMax;
+    const age=Math.pow(ageMax, 1-p/S);          // ageMax .. 1, log-spaced
+    return Math.min(yMax, Math.max(yMin, Math.round(yMax+1-age)));
+  };
+  box.innerHTML=`<div class="track"></div><div class="fillbar"></div>
+    <input type="range" min="0" max="${S}" value="0" step="1" aria-label="year from">
+    <input type="range" min="0" max="${S}" value="${S}" step="1" aria-label="year to">`;
+  const inp=box.querySelectorAll('input'), fill=box.querySelector('.fillbar');
+  const fy=y=>y<0?(-y)+' BC':y;
+  function upd(){
+    let a=+inp[0].value,b=+inp[1].value; if(a>b)[a,b]=[b,a];
+    fill.style.left=(a/S*100)+'%'; fill.style.right=(100-b/S*100)+'%';
+    const full=(a===0&&b===S);
+    YR.lo=a===0?null:yearAt(a); YR.hi=b===S?null:yearAt(b);
+    lab.textContent=full?'all time':(fy(yearAt(a))+' \u2013 '+fy(yearAt(b)));
+    render();
+  }
+  inp[0].oninput=upd; inp[1].oninput=upd; upd();
+}
 function filtered(){
   const q=document.getElementById('q').value.trim().toLowerCase();
   const g=document.getElementById('genreSel').value;
@@ -253,15 +292,15 @@ function filtered(){
   const so=document.getElementById('srcOnly').checked;
   const steel=document.getElementById('steelOnly').checked;
   const lv=document.getElementById('lvlSel').value;
-  const y0=parseInt(document.getElementById('fY0').value,10), y1=parseInt(document.getElementById('fY1').value,10);
+
   return T.filter(t=>{
     if(g && t.genre!==g)return false;
     if(st && statusOf(t.truth).label!==st)return false;
     if(so && !(t.wikipedia||(t.sources&&t.sources.length)))return false;
     if(steel && !t.steelman)return false;
     if(lv && t._lvl!==+lv)return false;
-    if(!isNaN(y0) && t.year<y0)return false;
-    if(!isNaN(y1) && t.year>y1)return false;
+    if(YR.lo!=null && t.year<YR.lo)return false;
+    if(YR.hi!=null && t.year>YR.hi)return false;
     if(q && !(t.name.toLowerCase().includes(q)||(t.aliases||[]).some(a=>a.toLowerCase().includes(q))||(t.summary||'').toLowerCase().includes(q)))return false;
     return true;
   });
