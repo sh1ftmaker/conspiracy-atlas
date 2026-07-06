@@ -199,8 +199,8 @@
 
   <h2>Navigation</h2>
   <div class="seg" id="navModes">
-    <button data-n="fly" class="on">Fly</button>
-    <button data-n="orbit">Orbit</button>
+    <button data-n="fly">Fly</button>
+    <button data-n="orbit" class="on">Orbit</button>
   </div>
   <div class="row"><span>Speed</span><input id="speed" type="range" min="4" max="160" value="36"></div>
   <div class="row"><span>Glow</span><input id="glow" type="range" min="20" max="100" value="60"></div>
@@ -513,7 +513,7 @@ function buildControls(){
   fly.movementSpeed=36;
   orbit=new OrbitControls(camera, renderer.domElement);
   orbit.enableDamping=true; orbit.dampingFactor=0.08; orbit.enablePan=true;
-  setNav(isTouch?'orbit':'fly');
+  setNav('orbit');
 }
 function setNav(n){
   if(n==='fly'){ controls=fly; fly.enabled=true; orbit.enabled=false; }
