@@ -238,7 +238,7 @@ const isMobile=()=>innerWidth<=760;
 const SCALE=60;
 // ---- anonymous crowdsource submission config (feature stays dark until these are set) ----
 const INTAKE_URL='https://conspiracy-atlas-intake.sh1ftmaker.workers.dev';    // set after worker deploy, e.g. https://intake.example.workers.dev
-const TURNSTILE_KEY=''; // Cloudflare Turnstile site key (optional; omit to skip bot widget)
+const TURNSTILE_KEY='0x4AAAAAADwTCPdKa2lBXF9N'; // Cloudflare Turnstile site key (optional; omit to skip bot widget)
 
 fetch('data.json?v=4').then(r=>r.json()).then(d=>{
   DATA=d; T=d.theories; META=d.meta; GEN=META.genres;
