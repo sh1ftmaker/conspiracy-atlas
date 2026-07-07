@@ -215,11 +215,19 @@
 
     <section id="impact">
       <h2>Impact — how much would it matter</h2>
-      <p>Impact measures consequence <i>if the claim were true</i> (which is why a false theory can still
-      have high impact). Three factors — how many people are affected (<b>scale</b>), how badly
-      (<b>severity</b>), and how much of the institutional order is implicated (<b>reach</b>) — each 0–5, are
-      combined as a geometric mean so a claim must matter on all three dimensions to rank high:</p>
-      <div class="formula">Impact = 20 · ( scale · severity · reach )<sup>1/3</sup></div>
+      <p><b>Magnitude</b> measures the consequence <i>if the claim were true</i>: how many people are
+      affected (<b>scale</b>), how badly (<b>severity</b>), and how much of the institutional order is
+      implicated (<b>reach</b>) — each 0–5, combined as a geometric mean so a claim must matter on all three
+      dimensions to rank high, then gently recurved onto a <span id="c_ibm">28</span>–100 scale:</p>
+      <div class="formula">magnitude = recurve ( scale · severity · reach )<sup>1/3</sup></div>
+      <p>But magnitude alone rewards <em>scope</em> over substance — a baseless extinction fantasy maxes every
+      factor, while a proven cover-up scores only mid. So magnitude is <b>tempered by plausibility</b>: the
+      theory’s own Truth (or, for frameworks, Plausibility) score pulls it down, so a claim can’t top the
+      Impact axis on imagined stakes it hasn’t earned. The temper is a bounded nudge — it never fully crushes
+      a genuine high-stakes claim, nor lifts one — so proven world-changers rise to the top and apocalyptic
+      speculation settles into the middle rather than dominating it:</p>
+      <div class="formula">Impact = magnitude · [ 1 − <span id="c_ibl">0.60</span> ·
+        ( 1 − (Truth/100)<sup><span id="c_ipw">0.34</span></sup> ) ]</div>
     </section>
 
     <section id="noto">
@@ -274,7 +282,7 @@
   </main>
 
 <script>
-fetch('data.json?v=13').then(r=>r.json()).then(d=>{
+fetch('data.json?v=14').then(r=>r.json()).then(d=>{
   const M=d.meta, C=M.score_constants||{};
   const set=(id,v)=>{const e=document.getElementById(id); if(e&&v!=null) e.textContent=v;};
   // live constants
@@ -282,6 +290,7 @@ fetch('data.json?v=13').then(r=>r.json()).then(d=>{
   set('c_imp',C.impossible_prior); set('c_evcap',C.ev_cap);
   set('c_self',C.self_denial_discount!=null?Math.round(C.self_denial_discount*100)+'%':null);
   set('c_ceil',C.frame_ceiling); set('c_ceil2',C.frame_ceiling);
+  set('c_ibm',C.impact_base_min); set('c_ibl',C.impact_truth_blend); set('c_ipw',C.impact_truth_pow);
   set('c_noff',C.noto_log_off); set('c_ndiv',C.noto_log_div); set('c_pvbl',C.noto_pv_blend);
   // bias table
   const bt=document.querySelector('#biasTable tbody');

@@ -19,8 +19,12 @@ Truth  — Bayesian log-odds:  truth = 100 * sigma(prior + evidence - leak)
             skipped once a documents-grade source (bias>=4) exists. Implements
             the recency discount: silence is only evidence given time * heads.
 
-Impact — geometric mean of annotated 0-5 factors (consequences if true):
-  impact = 20 * (scale * severity * reach)^(1/3), factors floored at 0.5.
+Impact — consequence-if-true magnitude, tempered by plausibility:
+  magnitude = geometric mean of annotated 0-5 factors (scale*severity*reach),
+    floored at 0.5, gently recurved to lift the low pile and spread the middle.
+  impact = magnitude * temper, where temper folds in the claim's own truth/
+    plausibility so an apocalyptic-but-baseless theory can't outrank a proven
+    world-changer. The blend nudges (bounded below), it does not dominate.
 
 Notoriety — measured attention:
   notoriety = 100 * (log10(annual wikipedia pageviews) - 1.5) / 5.5, clamped;
@@ -63,6 +67,15 @@ DEFAULTS = {
     "leak_p": 4e-6, "leak_t_max": 60, "leak_cap": 2.5, "leak_proof_bias": 4,
     "now_year": 2026,
     "impact_gain": 20.0, "impact_floor": 0.5,
+    # ---- Impact = consequence-if-true magnitude, tempered by plausibility ----
+    # magnitude: geometric mean of scale/sev/reach (0-5), recurved (gamma<1 lifts
+    # the low pile that all snaps to the floor) and mapped to ~impact_base_min..100.
+    # temper: the record's own truth/plausibility (0-100) pulls magnitude down so
+    # scope-fantasies (max magnitude, ~zero truth) can't top the axis. blend=weight
+    # of the discount (bounded below by 1-blend so a real high-stakes claim isn't
+    # crushed); pow shapes how sharply low plausibility bites.
+    "impact_recurve": 0.52, "impact_base_min": 28.0,
+    "impact_truth_blend": 0.60, "impact_truth_pow": 0.34,
     "noto_log_off": 1.5, "noto_log_div": 5.5, "noto_tier_band": 20,
     # measured pageviews are blended toward the tier anchor (soft, not hard-clamped)
     # so scores spread continuously instead of piling at the band edges.
@@ -216,10 +229,17 @@ def frame_terms(t, f, C):
     return round(ped, 2), round(coh, 2), round(par, 2), src_terms, round(logit, 2), plaus
 
 
-def impact_of(f, C):
+def impact_of(f, plaus, C):
+    """Impact = consequence-if-true magnitude, tempered by plausibility.
+    Returns (impact, magnitude, temper) so the UI can show the breakdown."""
     fl = C["impact_floor"]
-    g = (max(fl, f["scale"]) * max(fl, f["sev"]) * max(fl, f["reach"])) ** (1 / 3)
-    return int(round(C["impact_gain"] * g))
+    mag = (max(fl, f["scale"]) * max(fl, f["sev"]) * max(fl, f["reach"])) ** (1 / 3)  # 0.5..5
+    mn = ((mag - fl) / (5 - fl)) ** C["impact_recurve"]          # concave lift of the low pile
+    magnitude = C["impact_base_min"] + (100 - C["impact_base_min"]) * mn
+    p = max(0.0, min(1.0, plaus / 100.0))
+    temper = (1 - C["impact_truth_blend"]) + C["impact_truth_blend"] * (p ** C["impact_truth_pow"])
+    imp = max(1, min(100, int(round(magnitude * temper))))
+    return imp, int(round(magnitude)), round(temper, 2)
 
 
 def noto_of(f, views, reach, C):
@@ -252,29 +272,33 @@ def score_theory(t, f, views, reach, C):
     """Attach computed scores + transparent breakdown to theory dict t.
     Frame records (metaphysical frameworks) use the plausibility axis; all
     others use the historical Bayesian truth axis."""
-    imp = impact_of(f, C)
     noto = noto_of(f, views, reach, C)
     t["truth_manual"], t["impact_manual"], t["notoriety_manual"] = t["truth"], t["impact"], t["notoriety"]
-    t["impact"], t["notoriety"] = imp, noto
+    t["notoriety"] = noto
     if f.get("frame"):
         ped, coh, par, srcs, logit, plaus = frame_terms(t, f, C)
         t["truth"] = plaus
         t["truth_kind"] = "frame"
+        imp, imag, itmp = impact_of(f, plaus, C)   # a well-pedigreed metaphysics tempers less
+        t["impact"] = imp
         t["score"] = {
             "kind": "frame", "cls": f["cls"],
             "ped": [f.get("ped", 2), ped], "coh": [f.get("coh", 2), coh], "par": [f.get("par", 2), par],
             "src": srcs, "logit": logit, "ceiling": C["frame_ceiling"],
-            "if": [f["scale"], f["sev"], f["reach"]], "pv": views, "reach": reach, "att": f.get("att"),
+            "if": [f["scale"], f["sev"], f["reach"]], "imag": imag, "itmp": itmp,
+            "pv": views, "reach": reach, "att": f.get("att"),
         }
         return
     prior, mmo, ev, leak, logit, truth = truth_terms(t, f, C)
     t["truth"] = truth
     t["truth_kind"] = "fact"
+    imp, imag, itmp = impact_of(f, truth, C)       # expected impact: magnitude tempered by truth
+    t["impact"] = imp
     t["score"] = {
         "kind": "fact", "cls": f["cls"], "imp": bool(f.get("imp")),
         "prior": prior, "mmo": mmo,
         "ev": ev, "leak": leak, "logit": logit,
-        "if": [f["scale"], f["sev"], f["reach"]],
+        "if": [f["scale"], f["sev"], f["reach"]], "imag": imag, "itmp": itmp,
         "pv": views, "reach": reach, "att": f.get("att"),
     }
 

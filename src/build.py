@@ -350,6 +350,7 @@ out = {
             ("prior_clamp", "impossible_prior", "mmo_min", "mmo_max", "mmo_floor",
              "self_denial_discount", "stance_strength", "ev_cap",
              "prose_w", "leak_p", "leak_cap", "impact_gain",
+             "impact_recurve", "impact_base_min", "impact_truth_blend", "impact_truth_pow",
              "noto_log_off", "noto_log_div", "noto_tier_band",
              "noto_pv_blend", "noto_pv_band", "att_ladder",
              "ped_map", "coh_map", "par_map", "frame_ceiling",

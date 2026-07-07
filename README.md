@@ -35,7 +35,9 @@ the full derivation is on the [methodology page](https://sh1ftmaker.github.io/co
 - **Plausibility** (metaphysical frameworks — idealism, simulation theory, pantheism) —
   a separate violet axis scored on pedigree + coherence + parsimony, capped short of
   certainty, because a model of reality can never be *proven*.
-- **Impact** — geometric mean of scale × severity × reach (consequence if true).
+- **Impact** — consequence if true (geometric mean of scale × severity × reach), then
+  *tempered by plausibility*: the claim's own Truth score pulls the magnitude down, so an
+  apocalyptic-but-baseless theory can't outrank a proven world-changer.
 - **Notoriety** — measured cultural footprint: Wikipedia pageviews where an article exists,
   otherwise a researched web-footprint score (Reddit / YouTube / news / search volume) on a
   calibrated reach scale, since most conspiracy theories will never have a Wikipedia article.
@@ -94,5 +96,5 @@ cache string in the `docs/*.html` files whenever the data changes.
 ## A note
 
 Cataloguing a theory — including hateful or racist ones, documented as such with the
-evidence against them — is not an endorsement. A high Impact score reflects what *would*
-change if a claim were true, not a claim that it is.
+evidence against them — is not an endorsement. A high Impact score reflects how much *would*
+change if a claim were true (tempered by how plausible it is), never a claim that it *is*.
