@@ -1,0 +1,834 @@
+[
+ {
+  "id": "agenda-21",
+  "sources": [
+   {
+    "title": "Agenda 21 — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Agenda_21",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "area-51-aliens",
+  "sources": [
+   {
+    "title": "Area 51 — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Area_51",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "bermuda-triangle",
+  "sources": [
+   {
+    "title": "Bermuda Triangle — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Bermuda_Triangle",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "bielefeld-conspiracy",
+  "sources": [
+   {
+    "title": "Bielefeld conspiracy — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Bielefeld_conspiracy",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "big-pharma",
+  "sources": [
+   {
+    "title": "Big Pharma — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Big_Pharma",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "bilderberg-world-govt",
+  "sources": [
+   {
+    "title": "Bilderberg Group — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Bilderberg_Group",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "bill-gates-population-control",
+  "sources": [
+   {
+    "title": "Bill Gates — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Bill_Gates",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "black-knight-satellite",
+  "sources": [
+   {
+    "title": "Black Knight satellite — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Black_Knight_satellite",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "bohemian-grove",
+  "sources": [
+   {
+    "title": "Bohemian Grove — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Bohemian_Grove",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "chemtrails",
+  "sources": [
+   {
+    "title": "Chemtrails — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Chemtrails",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "clinton-body-count",
+  "sources": [
+   {
+    "title": "Clinton body count — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Clinton_body_count",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "crisis-actors",
+  "sources": [
+   {
+    "title": "Crisis actor — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Crisis_actor",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "cultural-marxism",
+  "sources": [
+   {
+    "title": "Cultural Marxism — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Cultural_Marxism",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Frankfurt School — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Frankfurt_School",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "dag-hammarskjold",
+  "sources": [
+   {
+    "title": "Dag Hammarskjöld — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Dag_Hammarskj%C3%B6ld",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "deep-state",
+  "sources": [
+   {
+    "title": "Deep state — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Deep_state",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "denver-airport-conspiracy",
+  "sources": [
+   {
+    "title": "Denver Airport conspiracy theories — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Denver_Airport_conspiracy_theories",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "dyaltov-pass",
+  "sources": [
+   {
+    "title": "Dyatlov Pass — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Dyatlov_Pass",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "eurabia",
+  "sources": [
+   {
+    "title": "Eurabia — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Eurabia",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "false-flag-propagation",
+  "sources": [
+   {
+    "title": "False flag operation — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/False_flag_operation",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "federal-reserve-cabal",
+  "sources": [
+   {
+    "title": "Federal Reserve — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Federal_Reserve",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "fema-camps",
+  "sources": [
+   {
+    "title": "FEMA concentration camps — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/FEMA_concentration_camps",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "flat-earth",
+  "sources": [
+   {
+    "title": "Flat Earth — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Flat_Earth",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "fluoride-mind-control",
+  "sources": [
+   {
+    "title": "Water fluoridation — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Water_fluoridation",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "freemasons",
+  "sources": [
+   {
+    "title": "Freemason — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Freemason",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "georgia-guidestones",
+  "sources": [
+   {
+    "title": "Georgia Guidestones — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Georgia_Guidestones",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "great-replacement",
+  "sources": [
+   {
+    "title": "The Great Replacement — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/The_Great_Replacement",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "White genocide — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/White_genocide",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "greater-israel-expansion-plan",
+  "sources": [
+   {
+    "title": "Greater Israel — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Greater_Israel",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "hollow-earth",
+  "sources": [
+   {
+    "title": "Hollow Earth — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Hollow_Earth",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "hollow-moon",
+  "sources": [
+   {
+    "title": "Hollow Moon — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Hollow_Moon",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "holocaust-denial",
+  "sources": [
+   {
+    "title": "Holocaust denial — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Holocaust_denial",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "illuminati",
+  "sources": [
+   {
+    "title": "Illuminati — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Illuminati",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "jesus-bloodline",
+  "sources": [
+   {
+    "title": "The Holy Blood and the Holy Grail — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/The_Holy_Blood_and_the_Holy_Grail",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "jfk-assassination",
+  "sources": [
+   {
+    "title": "John F. Kennedy assassination conspiracy theories — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/John_F._Kennedy_assassination_conspiracy_theories",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "kol-007-shootdown",
+  "sources": [
+   {
+    "title": "Korean Air Lines Flight 007 — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Korean_Air_Lines_Flight_007",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "kurt-cobain-murder",
+  "sources": [
+   {
+    "title": "Kurt Cobain murder conspiracy theories — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Kurt_Cobain_murder_conspiracy_theories",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "las-vegas-shooting",
+  "sources": [
+   {
+    "title": "2017 Las Vegas shooting — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/2017_Las_Vegas_shooting",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "love-jihad",
+  "sources": [
+   {
+    "title": "Love jihad — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Love_jihad",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "majestic-12",
+  "sources": [
+   {
+    "title": "Majestic 12 — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Majestic_12",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "mandela-effect",
+  "sources": [
+   {
+    "title": "Mandela effect — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Mandela_effect",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "marilyn-monroe",
+  "sources": [
+   {
+    "title": "Marilyn Monroe — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Marilyn_Monroe",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "men-in-black",
+  "sources": [
+   {
+    "title": "Men in black — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Men_in_black",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "mh17-coverup",
+  "sources": [
+   {
+    "title": "Malaysia Airlines Flight 17 — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Malaysia_Airlines_Flight_17",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "mh370-disappearance",
+  "sources": [
+   {
+    "title": "Malaysia Airlines Flight 370 — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Malaysia_Airlines_Flight_370",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "mkultra",
+  "sources": [
+   {
+    "title": "MKULTRA — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/MKULTRA",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "monsanto",
+  "sources": [
+   {
+    "title": "Monsanto — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Monsanto",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "montauk-project",
+  "sources": [
+   {
+    "title": "Montauk project — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Montauk_project",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "moon-landing-hoax",
+  "sources": [
+   {
+    "title": "Moon landing hoax — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Moon_landing_hoax",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "morgellons-disease",
+  "sources": [
+   {
+    "title": "Morgellons disease — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Morgellons_disease",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "new-world-order",
+  "sources": [
+   {
+    "title": "New World Order — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/New_World_Order",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "The New World Order (book) — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/The_New_World_Order_%28book%29",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "nostradamus",
+  "sources": [
+   {
+    "title": "Nostradamus — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Nostradamus",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "nsa-mass-surveillance",
+  "sources": [
+   {
+    "title": "NSA — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/NSA",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "operation-fast-and-furious",
+  "sources": [
+   {
+    "title": "Operation Fast and Furious — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Operation_Fast_and_Furious",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "paul-is-dead",
+  "sources": [
+   {
+    "title": "Paul is dead — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Paul_is_dead",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "philadelphia-experiment",
+  "sources": [
+   {
+    "title": "Philadelphia Experiment — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Philadelphia_Experiment",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "pizzagate",
+  "sources": [
+   {
+    "title": "Pizzagate — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Pizzagate",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "predictive-programming",
+  "sources": [
+   {
+    "title": "Predictive programming — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Predictive_programming",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "project-blue-beam",
+  "sources": [
+   {
+    "title": "Project Blue Beam — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Project_Blue_Beam",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "qanon",
+  "sources": [
+   {
+    "title": "QAnon — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/QAnon",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "report-from-iron-mountain",
+  "sources": [
+   {
+    "title": "Report from Iron Mountain — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Report_from_Iron_Mountain",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "reptilians",
+  "sources": [
+   {
+    "title": "Reptilians — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Reptilians",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "rfid-mark-of-the-beast",
+  "sources": [
+   {
+    "title": "Microchip implant — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Microchip_implant",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "rothschild-banking",
+  "sources": [
+   {
+    "title": "Rothschild family — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Rothschild_family",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "seth-rich-murder",
+  "sources": [
+   {
+    "title": "Murder of Seth Rich — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Murder_of_Seth_Rich",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "shakespeare-authorship",
+  "sources": [
+   {
+    "title": "Shakespeare authorship — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Shakespeare_authorship",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "skull-and-bones",
+  "sources": [
+   {
+    "title": "Skull and Bones — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Skull_and_Bones",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "soros-puppet-master",
+  "sources": [
+   {
+    "title": "George Soros — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/George_Soros",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "targeted-individuals",
+  "sources": [
+   {
+    "title": "Targeted Individuals — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Targeted_Individuals",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "tesla-free-energy",
+  "sources": [
+   {
+    "title": "Free energy suppression — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Free_energy_suppression",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "timecube",
+  "sources": [
+   {
+    "title": "Time Cube — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Time_Cube",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "titanic-olympic-switch",
+  "sources": [
+   {
+    "title": "RMS Titanic — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/RMS_Titanic",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "tri-lateral-commission",
+  "sources": [
+   {
+    "title": "Trilateral Commission — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Trilateral_Commission",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "twa-flight-800-missile",
+  "sources": [
+   {
+    "title": "TWA Flight 800 — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/TWA_Flight_800",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "ufo-coverup",
+  "sources": [
+   {
+    "title": "Unidentified flying object — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Unidentified_flying_object",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "zog",
+  "sources": [
+   {
+    "title": "Zionist Occupied Government — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Zionist_Occupied_Government",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ }
+]

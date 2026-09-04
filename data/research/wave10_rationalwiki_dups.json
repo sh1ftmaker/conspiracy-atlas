@@ -1,0 +1,765 @@
+[
+ {
+  "id": "23-enigma",
+  "sources": [
+   {
+    "title": "23 — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/23",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "5g-covid",
+  "sources": [
+   {
+    "title": "5G — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/5G",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "911-inside-job",
+  "sources": [
+   {
+    "title": "Loose Change — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Loose_Change",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "admiral-byrd",
+  "sources": [
+   {
+    "title": "New Swabia — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/New_Swabia",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "amelia-earhart-japan",
+  "sources": [
+   {
+    "title": "Amelia Earhart — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Amelia_Earhart",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "big-pharma-suppression",
+  "sources": [
+   {
+    "title": "Barry Lynes — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Barry_Lynes",
+    "type": "debunker",
+    "stance": "supports"
+   },
+   {
+    "title": "Tetrasil — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Tetrasil",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "cern-black-hole",
+  "sources": [
+   {
+    "title": "CERN — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/CERN",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "cia-crack-contra",
+  "sources": [
+   {
+    "title": "Gary Webb — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Gary_Webb",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "clinton-body-count",
+  "sources": [
+   {
+    "title": "Vince Foster — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Vince_Foster",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Longroom — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Longroom",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "crisis-actors",
+  "sources": [
+   {
+    "title": "ISIS beheading conspiracy theories — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/ISIS_beheading_conspiracy_theories",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "cultural-marxism",
+  "sources": [
+   {
+    "title": "Sexual Bolshevism — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Sexual_Bolshevism",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "depopulation-funds",
+  "sources": [
+   {
+    "title": "Depopulation conspiracy theory — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Depopulation_conspiracy_theory",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "diana-assassination",
+  "sources": [
+   {
+    "title": "Princess Diana — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Princess_Diana",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "epstein-killed",
+  "sources": [
+   {
+    "title": "Jeffrey Epstein — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Jeffrey_Epstein",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "federal-reserve-cabal",
+  "sources": [
+   {
+    "title": "Debt slavery — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Debt_slavery",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "fema-camps",
+  "sources": [
+   {
+    "title": "Northcom — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Northcom",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Guillotine — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Guillotine",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "flat-earth",
+  "sources": [
+   {
+    "title": "Flat Earth debunks - Astronautics — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Flat_Earth_debunks_-_Astronautics",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Foucault's pendulum — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Foucault%27s_pendulum",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Flat Earth debunks - Celestial mechanics — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Flat_Earth_debunks_-_Celestial_mechanics",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Flat Earth debunks - The Earth — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Flat_Earth_debunks_-_The_Earth",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "fwd-7",
+  "sources": [
+   {
+    "title": "7 July 2005 London bombings — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/7_July_2005_London_bombings",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "gmo",
+  "sources": [
+   {
+    "title": "GMO A Go Go — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/GMO_A_Go_Go",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "great-replacement",
+  "sources": [
+   {
+    "title": "Genocídio branco — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Genoc%C3%ADdio_branco",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Anti-racist is a code word for anti-white — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Anti-racist_is_a_code_word_for_anti-white",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "great-reset",
+  "sources": [
+   {
+    "title": "World Economic Forum — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/World_Economic_Forum",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "haarp-weather",
+  "sources": [
+   {
+    "title": "HAARP — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/HAARP",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Extremely low frequency — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Extremely_low_frequency",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "hiv-aids-bioweapon",
+  "sources": [
+   {
+    "title": "Alan Cantwell — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Alan_Cantwell",
+    "type": "debunker",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "hollow-moon",
+  "sources": [
+   {
+    "title": "Who Built the Moon? — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Who_Built_the_Moon%3F",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "illuminati",
+  "sources": [
+   {
+    "title": "Svali — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Svali",
+    "type": "debunker",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "jesus-bloodline",
+  "sources": [
+   {
+    "title": "Knights Templar — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Knights_Templar",
+    "type": "debunker",
+    "stance": "documents"
+   },
+   {
+    "title": "Priory of Sion — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Priory_of_Sion",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "jfk-assassination",
+  "sources": [
+   {
+    "title": "Lee Harvey Oswald — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Lee_Harvey_Oswald",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "john-lennon-assassination-conspiracy",
+  "sources": [
+   {
+    "title": "The Catcher in the Rye — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/The_Catcher_in_the_Rye",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "kali-yuga",
+  "sources": [
+   {
+    "title": "Yuga — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Yuga",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "kubrick-filmed-moon-landing",
+  "sources": [
+   {
+    "title": "Stanley Kubrick — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Stanley_Kubrick",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "lincoln-assassination-broader-conspiracy",
+  "sources": [
+   {
+    "title": "Lincoln assassination conspiracy theories — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Lincoln_assassination_conspiracy_theories",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "lyme-disease-bioweapon",
+  "sources": [
+   {
+    "title": "Lyme disease — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Lyme_disease",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "madeleine-mccann-theories",
+  "sources": [
+   {
+    "title": "Madeleine McCann — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Madeleine_McCann",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "mars-face-cydonia",
+  "sources": [
+   {
+    "title": "Hale crater — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Hale_crater",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "mlk-assassination",
+  "sources": [
+   {
+    "title": "Martin Luther King assassination conspiracies — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Martin_Luther_King_assassination_conspiracies",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "moon-landing-hoax",
+  "sources": [
+   {
+    "title": "Space travel hoax — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Space_travel_hoax",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Conspiracy Theory: Did We Land on the Moon? — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Conspiracy_Theory%3A_Did_We_Land_on_the_Moon%3F",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "new-world-order",
+  "sources": [
+   {
+    "title": "One world government — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/One_world_government",
+    "type": "debunker",
+    "stance": "documents"
+   },
+   {
+    "title": "Nuevo Orden Mundial — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Nuevo_Orden_Mundial",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "nibiru-planet-x",
+  "sources": [
+   {
+    "title": "Comet Elenin — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Comet_Elenin",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "CW Leonis — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/CW_Leonis",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "north-american-union",
+  "sources": [
+   {
+    "title": "NAFTA Superhighway — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/NAFTA_Superhighway",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "obama-birther",
+  "sources": [
+   {
+    "title": "Obama citizenship denial — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Obama_citizenship_denial",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "oklahoma-city-second-bomb",
+  "sources": [
+   {
+    "title": "Timothy McVeigh — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Timothy_McVeigh",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "olof-palme-assassination",
+  "sources": [
+   {
+    "title": "Olof Palme — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Olof_Palme",
+    "type": "debunker",
+    "stance": "documents"
+   }
+  ]
+ },
+ {
+  "id": "pearl-harbor-foreknowledge",
+  "sources": [
+   {
+    "title": "Pearl Harbor conspiracy theory — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Pearl_Harbor_conspiracy_theory",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "protocols-elders-zion",
+  "sources": [
+   {
+    "title": "The Protocols of the Learned Elders of Zion — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/The_Protocols_of_the_Learned_Elders_of_Zion",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "International Jewish conspiracy — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/International_Jewish_conspiracy",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "qanon",
+  "sources": [
+   {
+    "title": "Pád Kabaly — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/P%C3%A1d_Kabaly",
+    "type": "debunker",
+    "stance": "supports"
+   },
+   {
+    "title": "Q: The Plan To Save The World — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Q%3A_The_Plan_To_Save_The_World",
+    "type": "debunker",
+    "stance": "supports"
+   },
+   {
+    "title": "QAnon map dissection — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/QAnon_map_dissection",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "rfid-mark-of-the-beast",
+  "sources": [
+   {
+    "title": "RFID — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/RFID",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "sandy-hook-hoax",
+  "sources": [
+   {
+    "title": "Sandy Hook massacre — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Sandy_Hook_massacre",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "secret-space-program",
+  "sources": [
+   {
+    "title": "David Wilcock — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/David_Wilcock",
+    "type": "debunker",
+    "stance": "supports"
+   }
+  ]
+ },
+ {
+  "id": "simulation-theory",
+  "sources": [
+   {
+    "title": "Simulated reality — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Simulated_reality",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "soy-spraying-weaponized-soy",
+  "sources": [
+   {
+    "title": "Soy boy — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Soy_boy",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Soy boy (português) — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Soy_boy_%28portugu%C3%AAs%29",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "stop-the-steal",
+  "sources": [
+   {
+    "title": "Voter fraud — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Voter_fraud",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "2020 United States presidential election — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/2020_United_States_presidential_election",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "tartaria-mud-flood",
+  "sources": [
+   {
+    "title": "Mud flood — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Mud_flood",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "tesla-free-energy",
+  "sources": [
+   {
+    "title": "Nikola Tesla — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Nikola_Tesla",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Scalar wave — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Scalar_wave",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "the-black-pope-prophecy",
+  "sources": [
+   {
+    "title": "Prophecy of the Popes — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Prophecy_of_the_Popes",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "the-missing-cosmonauts",
+  "sources": [
+   {
+    "title": "Lost cosmonauts — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Lost_cosmonauts",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "there-are-no-forests",
+  "sources": [
+   {
+    "title": "Ancient giant silicon-based tree hypothesis — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Ancient_giant_silicon-based_tree_hypothesis",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "tupac-shakur-alive",
+  "sources": [
+   {
+    "title": "Tupac Shakur — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Tupac_Shakur",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "ufo-coverup",
+  "sources": [
+   {
+    "title": "The Brookings Report — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/The_Brookings_Report",
+    "type": "debunker",
+    "stance": "debunks"
+   },
+   {
+    "title": "Blue Planet Project — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Blue_Planet_Project",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ },
+ {
+  "id": "warming-pause-climategate",
+  "sources": [
+   {
+    "title": "Climategate — RationalWiki",
+    "url": "https://rationalwiki.org/wiki/Climategate",
+    "type": "debunker",
+    "stance": "debunks"
+   }
+  ]
+ }
+]
