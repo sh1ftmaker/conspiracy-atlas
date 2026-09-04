@@ -1,0 +1,183 @@
+[
+  {
+    "id": "area-51-aliens",
+    "sources": [
+      {
+        "title": "Area 51 – Declassified Documents",
+        "url": "https://www.theblackvault.com/documentarchive/area-51/",
+        "type": "archive",
+        "stance": "debunks"
+      },
+      {
+        "title": "CIA Overhead Reconnaissance: The U-2 and OXCART Programs, 1954–1974",
+        "url": "https://documents.theblackvault.com/documents/ufos/Area51Admission.pdf",
+        "type": "government",
+        "stance": "debunks"
+      }
+    ]
+  },
+  {
+    "id": "bigfoot-cover-up",
+    "sources": [
+      {
+        "title": "FBI Files: Bigfoot & Sasquatch",
+        "url": "https://www.theblackvault.com/documentarchive/fbi-files-bigfoot-sasquatch/",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "1975 Environmental Atlas for Washington – Sasquatch / Bigfoot References",
+        "url": "https://www.theblackvault.com/documentarchive/1975-environmental-atlas-washington-sasquatch-bigfoot-references/",
+        "type": "government",
+        "stance": "documents"
+      }
+    ],
+    "evidence_for": [
+      "A 1975 Washington state environmental atlas cited an FBI hair analysis concluding the submitted sample did not match any known human or animal, though the FBI's own released FOIA file (obtained 2017-2019) could not locate that specific test result and only documents a separate analysis identifying submitted hair as from the deer family"
+    ]
+  },
+  {
+    "id": "cattle-mutilation",
+    "sources": [
+      {
+        "title": "Cattle Mutilation in Naselle, Washington – August 29, 2017",
+        "url": "https://www.theblackvault.com/casefiles/cattle-mutilation-in-naselle-washington-august-29-2017/",
+        "type": "archive",
+        "stance": "debunks"
+      },
+      {
+        "title": "Identification of Black Particulates found near a Bovine Excision Site (Colorado, March 8, 2009)",
+        "url": "https://www.theblackvault.com/casefiles/identification-black-particulates-found-near-bovine-excision-site-colorado-march-8-2009/",
+        "type": "archive",
+        "stance": "debunks"
+      },
+      {
+        "title": "Analysis of Samples Related to a Bison Mutilation in Saskatchewan, Canada (Discovered March 13, 2008)",
+        "url": "https://www.theblackvault.com/casefiles/analysis-samples-related-bison-mutilation-saskatchewan-canada-discovered-march-13-2008/",
+        "type": "archive",
+        "stance": "supports"
+      }
+    ],
+    "evidence_for": [
+      "Lab analysis of a 2008 Saskatchewan bison mutilation case found an unidentified tryptophan metabolite (3-hydroxyanthranilic acid) in the animal's hair, which the analyst suggested could indicate sedation before death, paralleling a similar Utah case."
+    ],
+    "evidence_against": [
+      "A 2017 Naselle, Washington case, investigated via a public-records request for police files, found a bullet wound and was closed as a human shooting and mutilation rather than an unexplained phenomenon.",
+      "Laboratory analysis of unusual black particulates at a 2009 Colorado mutilation site identified them simply as coal, not an unknown substance."
+    ]
+  },
+  {
+    "id": "haarp-weather",
+    "sources": [
+      {
+        "title": "The High Frequency Active Auroral Research Program (HAARP) (Black Vault Document Archive)",
+        "url": "https://www.theblackvault.com/documentarchive/the-high-frequency-active-auroral-research-program-haarp/",
+        "type": "archive",
+        "stance": "debunks"
+      },
+      {
+        "title": "Environmental Impact Statement, Volume 1: Proposed High Frequency Active Auroral Research Program (July 1993)",
+        "url": "https://documents.theblackvault.com/documents/haarp/ADA267641.pdf",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "FBI Files: High-frequency Active Auroral Research Program (HAARP)",
+        "url": "https://documents2.theblackvault.com/documents/fbifiles/HAARP-FBI1.pdf",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "A Summary of the U.S. Navy Program and FY 1967 Progress in Weather Modification and Control",
+        "url": "https://www.theblackvault.com/documentarchive/a-summary-of-the-u-s-navy-program-and-fy-1967-progress-in-weather-modification-and-control-1967/",
+        "type": "archive",
+        "stance": "supports"
+      }
+    ],
+    "evidence_against": [
+      "The Black Vault's declassified HAARP archive — environmental impact statements, ionospheric-research papers, and FBI files spanning 1990–2008 — documents only ionospheric radio-science experiments (imaging, plasma studies, radar astronomy); none describe weather-control or earthquake-triggering objectives."
+    ]
+  },
+  {
+    "id": "majestic-12",
+    "sources": [
+      {
+        "title": "FBI File: Majestic-12",
+        "url": "https://www.theblackvault.com/documentarchive/majestic-12/",
+        "type": "government",
+        "stance": "debunks"
+      },
+      {
+        "title": "FBI Files: The Paranormal Collection",
+        "url": "https://www.theblackvault.com/documentarchive/fbi-files-the-paranormal-collection/",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "Federal Bureau of Investigation (FBI) Files on Stanton Friedman",
+        "url": "https://www.theblackvault.com/documentarchive/federal-bureau-of-investigation-fbi-files-on-stanton-friedman/",
+        "type": "government",
+        "stance": "documents"
+      }
+    ],
+    "evidence_against": [
+      "The FBI's own file on the alleged MJ-12 memo concluded the document was 'bogus,' and separate FBI files on alleged MJ-12 members show multiple requested records were destroyed rather than confirming the group's existence"
+    ]
+  },
+  {
+    "id": "new-world-order",
+    "sources": [
+      {
+        "title": "New World Order (Black Vault Document Archive)",
+        "url": "https://www.theblackvault.com/documentarchive/new-world-order/",
+        "type": "archive",
+        "stance": "documents"
+      },
+      {
+        "title": "An Analysis of the 'New World Order' and Its Implications for U.S. National Strategy",
+        "url": "https://documents2.theblackvault.com/documents/dtic/ADA283285.pdf",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "Bush's New World Order: The Meaning Behind the Words",
+        "url": "https://documents.theblackvault.com/documents/nwo/ADA398504.pdf",
+        "type": "government",
+        "stance": "documents"
+      }
+    ]
+  },
+  {
+    "id": "ufo-coverup",
+    "sources": [
+      {
+        "title": "The \"Guy Hottel\" Memo and the Crashed Flying Saucers of New Mexico, March 22, 1950",
+        "url": "https://www.theblackvault.com/documentarchive/the-guy-hottel-memo-and-the-crashed-flying-saucers-of-new-mexico-march-22-1950/",
+        "type": "government",
+        "stance": "supports"
+      },
+      {
+        "title": "CIA's Role in the Study of UFOs, 1947-90",
+        "url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "AATIP Memo Unveiled After FOIA Battle: DoD Inconsistencies Exposed",
+        "url": "https://www.theblackvault.com/documentarchive/aatip-memo-unveiled-after-foia-battle-dod-inconsistencies-exposed/",
+        "type": "government",
+        "stance": "supports"
+      },
+      {
+        "title": "Petition, UFOs, White House and Lies",
+        "url": "https://www.theblackvault.com/casefiles/petition-ufos-white-house-and-lies/",
+        "type": "archive",
+        "stance": "supports"
+      }
+    ],
+    "evidence_for": [
+      "A declassified 1950 FBI memo (the 'Guy Hottel memo') relayed a third-hand claim that three recovered 'flying saucers' near New Mexico each held three small humanoid bodies, though the FBI stated it never verified the report",
+      "A 2024 FOIA release showed the DoD had denied any records existed on a 2017 draft AATIP policy memo in 2021, then released that same memo in 2024 without explanation"
+    ]
+  }
+]

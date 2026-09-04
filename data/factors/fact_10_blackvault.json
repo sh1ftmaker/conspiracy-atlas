@@ -1,0 +1,22 @@
+[
+  {
+    "id": "stargate-project",
+    "cls": "paranormal-occult",
+    "imp": true,
+    "nlog": 1,
+    "scale": 2,
+    "sev": 1,
+    "reach": 2,
+    "att": 3
+  },
+  {
+    "id": "project-blue-book",
+    "cls": "hidden-policy",
+    "imp": false,
+    "nlog": 3,
+    "scale": 3,
+    "sev": 3,
+    "reach": 3,
+    "att": 4
+  }
+]

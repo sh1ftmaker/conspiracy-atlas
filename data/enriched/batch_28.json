@@ -1,0 +1,171 @@
+[
+  {
+    "id": "stargate-project",
+    "name": "Stargate Project",
+    "aliases": [
+      "Project Star Gate",
+      "Star Gate",
+      "CIA Remote Viewing Program",
+      "Grill Flame",
+      "Sun Streak",
+      "Center Lane",
+      "SRI Remote Viewing Program"
+    ],
+    "genre": "espionage",
+    "year": 1972,
+    "truth": 18,
+    "impact": 68,
+    "notoriety": 60,
+    "summary": "From 1972 to 1995 the CIA, DIA, and US Army secretly funded research (first at Stanford Research Institute, later at Fort Meade under names like Grill Flame, Center Lane, and Sun Streak, unified as 'Star Gate') into whether self-described psychics could 'remote view' distant or hidden targets for intelligence purposes. Proponents, including some program veterans and researchers, maintain it occasionally produced accurate, useful information; a 1995 CIA-commissioned evaluation concluded the results never rose to actionable intelligence and the program was shut down.",
+    "evidence_for": [
+      "The program ran continuously for roughly two decades across multiple agencies (CIA, DIA, INSCOM), which proponents cite as evidence officials believed it delivered enough value to keep funding it.",
+      {
+        "text": "SRI researchers documented remote-viewing sessions on ambitious targets, including a 1973 attempt to psychically describe the planet Jupiter ahead of the Pioneer 10 flyby and a 1984 session targeting Mars exploration, which proponents cite as examples of detailed, checkable target descriptions.",
+        "source": "https://www.theblackvault.com/documentarchive/an-experimental-psychic-probe-of-the-planet-jupiter-1973/"
+      },
+      "Statistician Dr. Jessica Utts, one of the two outside reviewers on the 1995 evaluation panel, concluded the pooled laboratory data showed a statistically significant effect beyond chance and that psychic functioning had been 'well established' by the experiments, even while agreeing the operational (spying) use case was weak.",
+      {
+        "text": "SRI physicist Hal Puthoff publicly defended the program's experimental results against skeptic James Randi, arguing critics misrepresented the methodology and findings.",
+        "source": "https://www.theblackvault.com/documentarchive/stargate-collection-hal-puthoff-responds-to-james-randis-book-the-magic-of-uri-geller/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "The CIA-commissioned 1995 evaluation by the American Institutes for Research concluded remote-viewing reports were too vague, general, and inconsistent to have provided useful, actionable intelligence, and recommended the program be terminated.",
+        "source": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf"
+      },
+      "The evaluation's other outside reviewer, psychologist Dr. Raymond Hyman, argued the same laboratory data reflected methodological flaws (poor blinding, subjective judging, possible sensory or informational leakage) rather than genuine psychic ability, disputing Utts's statistical conclusion.",
+      "No remote-viewing-derived report was ever confirmed by the CIA to have supplied specific, accurate intelligence that could not have been obtained through conventional means.",
+      "Mainstream physics has no known mechanism by which a person's mind could acquire information about a distant or shielded target independent of normal sensory channels, making the core claimed ability inconsistent with established science."
+    ],
+    "related": [
+      "mkultra",
+      "project-blue-book"
+    ],
+    "sources": [
+      {
+        "title": "The Stargate Collection – CIA Program on Remote Viewing",
+        "url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/",
+        "type": "archive",
+        "stance": "documents"
+      },
+      {
+        "title": "Parapsychology in Intelligence: A Personal Review and Conclusions, by Dr. Kenneth A. Kress, Studies in Intelligence, Winter 1977",
+        "url": "https://www.theblackvault.com/documentarchive/parapsychology-in-intelligence-a-personal-review-and-conclusions-by-dr-kenneth-a-kress-studies-in-intelligence-winter-1977/",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "An Experimental Psychic Probe of the Planet Jupiter, 1973",
+        "url": "https://www.theblackvault.com/documentarchive/an-experimental-psychic-probe-of-the-planet-jupiter-1973/",
+        "type": "government",
+        "stance": "supports"
+      },
+      {
+        "title": "Once SECRET Project Star Gate / Remote Viewing Presentation, Date Unknown",
+        "url": "https://www.theblackvault.com/documentarchive/once-secret-project-star-gate-remote-viewing-presentation-date-unknown/",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "Stargate Collection: Mars Exploration, May 22, 1984",
+        "url": "https://www.theblackvault.com/documentarchive/stargate-collection-mars-exploration-may-22-1984/",
+        "type": "government",
+        "stance": "supports"
+      },
+      {
+        "title": "Stargate Collection: Hal Puthoff Responds to James Randi's Book 'The Magic of Uri Geller'",
+        "url": "https://www.theblackvault.com/documentarchive/stargate-collection-hal-puthoff-responds-to-james-randis-book-the-magic-of-uri-geller/",
+        "type": "government",
+        "stance": "supports"
+      },
+      {
+        "title": "An Evaluation of Remote Viewing: Research and Applications (American Institutes for Research, 1995)",
+        "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf",
+        "type": "government",
+        "stance": "debunks"
+      }
+    ],
+    "research_note": "Confirmed no existing atlas entry (grepped 'remote-viewing|stargate' across data/theories.seed.json and data/enriched/batch_*.json; only hits were the unrelated sci-fi entries 'iraq-stargates' and 'post-apocalyptic-stargate-travel'). Researched via Black Vault's Remote Viewing and Parapsychology category pages (theblackvault.com/documentarchive/category/the-fringe/remote-viewing/ and /parapsychology/), which link the CIA's own ~89,901-page Stargate document collection plus individual primary documents (1973 Jupiter probe transcript, 1984 Mars session, Puthoff-vs-Randi rebuttal, an undated Star Gate briefing) and the 1977 CIA Studies in Intelligence article by program historian Kenneth Kress. The 1995 AIR evaluation itself is not hosted on Black Vault; it was located via web search and verified live (HTTP 200) at the National Security Archive (George Washington University) mirror of the declassified CIA report, and its split Utts/Hyman conclusion is reflected in both evidence_for and evidence_against. All cited URLs were fetched/HEAD-checked and returned HTTP 200."
+  },
+  {
+    "id": "project-blue-book",
+    "name": "Project Blue Book Cover Story",
+    "aliases": [
+      "Blue Book PR Cover",
+      "USAF UFO Debunking Program"
+    ],
+    "genre": "extraterrestrial",
+    "year": 1952,
+    "truth": 45,
+    "impact": 55,
+    "notoriety": 58,
+    "summary": "Project Blue Book (1952-1969), the U.S. Air Force's public UFO investigation program, is alleged to have functioned mainly as a public-relations operation to debunk and downplay sightings — following the CIA-convened 1953 Robertson Panel's explicit recommendation to 'debunk' UFO reports through mass media — while a separate, more serious classified investigation (partly tied to protecting programs like the U-2) continued out of public view.",
+    "evidence_for": [
+      "The 1953 Robertson Panel formally recommended the Air Force 'debunk' UFO reports and use mass media, advertising, business clubs, schools, and even the Disney corporation to reduce public interest in the subject.",
+      "The CIA's own declassified history of the program states the Air Force made 'misleading and deceptive statements to the public' about sightings that were in fact classified U-2 and other high-altitude reconnaissance flights, which it says accounted for over half of UFO reports from the late 1950s through the 1960s.",
+      "Blue Book's own chief scientific consultant, Dr. J. Allen Hynek, later said 'the entire Blue Book operation was a foul-up,' criticizing its data collection as inadequate for genuine scientific investigation.",
+      "The July 1952 Washington, D.C. radar-and-visual UFO wave over National Airport and the Capitol was publicly attributed to 'temperature inversions,' an explanation researchers have long disputed given the multiple confirmed radar/visual correlations and interceptor scrambles.",
+      "Recovered Blue Book staff desk files (the 'Desks of Project Blue Book' collection) show declining staff and resources by the late 1960s, with internal correspondence describing case files being reorganized into binders to make press requests 'friendlier' rather than expanding actual investigation.",
+      "701 of the 12,618 cases Blue Book studied remained formally 'unidentified' when the project closed in December 1969."
+    ],
+    "evidence_against": [
+      "Blue Book's own archived case material (organized into categories like balloons, aircraft, satellites, and celestial phenomena) shows the large majority of the 12,618 reports were resolved to mundane, verifiable causes rather than suppressed.",
+      "The 1966-68 Condon Committee, an independent University of Colorado scientific panel commissioned to review the program, found no evidence of extraordinary phenomena in Blue Book's files, providing external (non-Air Force) corroboration for the mundane explanations.",
+      "The widely reported March 1968 'cigar-shaped UFO with windows' wave, generating over 400 pages of reports across at least seven states, was identified as reentry debris from the Soviet Zond IV probe/booster; UFO debunker Donald Menzel used the case to argue it showed ordinary misperception, not government deception.",
+      "The National Archives states Blue Book's records contain no mention of the 1947 Roswell incident, undercutting claims that the program was a front built to hide recovered alien material."
+    ],
+    "related": [
+      "ufo-coverup",
+      "majestic-12",
+      "roswell",
+      "pentagon-uap-disclosure",
+      "stargate-project"
+    ],
+    "sources": [
+      {
+        "title": "Desks of Project Blue Book Collection",
+        "url": "https://www.theblackvault.com/casefiles/desks-project-blue-book/",
+        "type": "archive",
+        "stance": "documents"
+      },
+      {
+        "title": "CIA's Role in the Study of UFOs, 1947-90",
+        "url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/",
+        "type": "government",
+        "stance": "supports"
+      },
+      {
+        "title": "Project Blue Book Records (July 18, 1969)",
+        "url": "https://www.theblackvault.com/casefiles/wp-content/uploads/2018/01/pbb-records.pdf",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "Project BLUE BOOK - Unidentified Flying Objects",
+        "url": "https://www.archives.gov/research/military/air-force/ufos",
+        "type": "government",
+        "stance": "debunks"
+      },
+      {
+        "title": "Project Blue Book — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Project_Blue_Book",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "How the U.S. Air Force Investigated UFOs During the Cold War",
+        "url": "https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago",
+        "type": "news",
+        "stance": "supports"
+      },
+      {
+        "title": "Stories of Zond IV: The Dog in the Nighttime, a Strange Fatigue",
+        "url": "https://www.davidhalperin.net/stories-of-zond-iv-the-dog-in-the-nighttime-a-strange-fatigue/",
+        "type": "academic",
+        "stance": "debunks"
+      }
+    ],
+    "research_note": "Researched via The Black Vault's 'Desks of Project Blue Book' case-file collection (recovered staff/Hynek correspondence, discovered 2013 in a Fairborn, OH garage) and its hosted CIA document 'CIA's Role in the Study of UFOs, 1947-90', cross-checked against the National Archives Blue Book fact sheet, Wikipedia, a History.com retrospective, and David Halperin's analysis of the 1968 Zond IV case. Black Vault's UFO Phenomena and CIA Collection categories had no dedicated page-level document specifically titled around the Washington D.C. 1952 incident or Zond IV beyond what the CIA history article covers, so those two case facts are corroborated via Wikipedia/History.com/Halperin rather than a Black Vault primary scan of that exact event. No prior atlas entry existed for Blue Book itself (only passing mentions inside majestic-12); this record is scoped specifically to the Blue Book program's alleged dual PR/hidden-investigation structure (1952-1969), distinct from ufo-coverup (general modern cover-up claim), majestic-12 (alleged 1947 committee, mostly discredited via forged memos) and roswell/roswell-alien-autopsy (1947 crash-retrieval claims)."
+  }
+]
