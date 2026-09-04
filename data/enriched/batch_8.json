@@ -121,7 +121,9 @@
   {
     "id": "new-world-order",
     "name": "New World Order",
-    "aliases": [],
+    "aliases": [
+      "Nuevo Orden Mundial"
+    ],
     "genre": "government",
     "year": 1995,
     "truth": 25,
@@ -614,7 +616,9 @@
   {
     "id": "admiral-byrd",
     "name": "Admiral Byrd",
-    "aliases": [],
+    "aliases": [
+      "New Swabia"
+    ],
     "genre": "government",
     "year": 1995,
     "truth": 25,

@@ -381,7 +381,8 @@
     "id": "new-world-order",
     "name": "New World Order",
     "aliases": [
-      "NWO"
+      "NWO",
+      "Nuevo Orden Mundial"
     ],
     "genre": "new-world-order",
     "year": 1990,
@@ -577,7 +578,10 @@
   {
     "id": "protocols-elders-zion",
     "name": "Protocols of the Elders of Zion",
-    "aliases": [],
+    "aliases": [
+      "The Protocols of the Learned Elders of Zion",
+      "International Jewish Conspiracy"
+    ],
     "genre": "ethnic-religious",
     "year": 1903,
     "truth": 1,
@@ -909,7 +913,8 @@
     "id": "moon-landing-hoax",
     "name": "Moon Landing Hoax",
     "aliases": [
-      "Apollo hoax"
+      "Apollo hoax",
+      "Space Travel Hoax"
     ],
     "genre": "science-tech",
     "year": 1976,
@@ -1579,7 +1584,8 @@
     "id": "simulation-theory",
     "name": "Simulation Hypothesis",
     "aliases": [
-      "we live in a simulation"
+      "we live in a simulation",
+      "Simulated reality"
     ],
     "genre": "science-tech",
     "year": 2003,

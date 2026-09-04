@@ -444,7 +444,9 @@
   {
     "id": "the-black-pope-prophecy",
     "name": "The Black Pope Prophecy",
-    "aliases": [],
+    "aliases": [
+      "Prophecy of the Popes"
+    ],
     "genre": "religion-occult",
     "year": 1590,
     "truth": 15,

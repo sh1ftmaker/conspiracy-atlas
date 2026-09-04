@@ -257,7 +257,9 @@
   {
     "id": "depopulation-funds",
     "name": "Depopulation Funds",
-    "aliases": [],
+    "aliases": [
+      "Depopulation Conspiracy Theory"
+    ],
     "genre": "new-world-order",
     "year": 1995,
     "truth": 12,
