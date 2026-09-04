@@ -1,0 +1,650 @@
+[
+ {
+  "id": "1960-election-stolen",
+  "means": 3,
+  "motive": 3,
+  "opp": 3
+ },
+ {
+  "id": "2004-election-fraud-ohio",
+  "means": 3,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "a440-432hz-conspiracy",
+  "means": 2,
+  "motive": 1,
+  "opp": 2
+ },
+ {
+  "id": "abortion-black-genocide",
+  "means": 1,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "acorn-voter-fraud",
+  "means": 1,
+  "motive": 1,
+  "opp": 2
+ },
+ {
+  "id": "adrenochrome-harvesting",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "alien-abduction-phenomenon",
+  "means": 2,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "armenian-genocide-denial",
+  "means": 3,
+  "motive": 4,
+  "opp": 3
+ },
+ {
+  "id": "aurora-black-project-aircraft",
+  "means": 4,
+  "motive": 3,
+  "opp": 4
+ },
+ {
+  "id": "backmasking-satanic-messages",
+  "means": 3,
+  "motive": 1,
+  "opp": 3
+ },
+ {
+  "id": "beale-ciphers-treasure",
+  "means": 2,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "benghazi-conspiracy-theories",
+  "means": 3,
+  "motive": 3,
+  "opp": 3
+ },
+ {
+  "id": "bermeja-island-cia-conspiracy",
+  "means": 2,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "black-helicopters",
+  "means": 1,
+  "motive": 2,
+  "opp": 1
+ },
+ {
+  "id": "cdc-whistleblower-coverup",
+  "means": 3,
+  "motive": 3,
+  "opp": 3
+ },
+ {
+  "id": "cholesterol-statin-denial",
+  "means": 2,
+  "motive": 3,
+  "opp": 2
+ },
+ {
+  "id": "christ-myth-astrotheology",
+  "means": 1,
+  "motive": 2,
+  "opp": 1
+ },
+ {
+  "id": "clinton-uranium-one",
+  "means": 3,
+  "motive": 3,
+  "opp": 2
+ },
+ {
+  "id": "cloward-piven-strategy",
+  "means": 1,
+  "motive": 2,
+  "opp": 1
+ },
+ {
+  "id": "codex-alimentarius-control",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "coming-race-war",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "common-purpose-shadow-elite",
+  "means": 2,
+  "motive": 1,
+  "opp": 2
+ },
+ {
+  "id": "creeping-sharia",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "dc-street-design-occult",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "dinosaur-denialism",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "dnc-2016-primary-rigging",
+  "means": 3,
+  "motive": 3,
+  "opp": 3
+ },
+ {
+  "id": "dollar-bill-911-symbolism",
+  "means": 0,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "dulce-base",
+  "means": 1,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "e978-obamacare-guillotine",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "eisenhower-communist-agent",
+  "means": 2,
+  "motive": 1,
+  "opp": 2
+ },
+ {
+  "id": "elsagate",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "eo13603-slave-labor",
+  "means": 2,
+  "motive": 1,
+  "opp": 2
+ },
+ {
+  "id": "ethnic-bioweapons-programs",
+  "means": 2,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "eu-antichrist-beast-empire",
+  "means": 0,
+  "motive": 0,
+  "opp": 1
+ },
+ {
+  "id": "falun-gong-organ-harvesting",
+  "means": 4,
+  "motive": 3,
+  "opp": 4
+ },
+ {
+  "id": "fort-knox-gold-missing",
+  "means": 3,
+  "motive": 2,
+  "opp": 3
+ },
+ {
+  "id": "franklin-prophecy",
+  "means": 0,
+  "motive": 0,
+  "opp": 0
+ },
+ {
+  "id": "frazzledrip",
+  "means": 0,
+  "motive": 1,
+  "opp": 0
+ },
+ {
+  "id": "gender-ideology-conspiracy",
+  "means": 1,
+  "motive": 1,
+  "opp": 2
+ },
+ {
+  "id": "guerrilla-skepticism-wikipedia-conspiracy",
+  "means": 3,
+  "motive": 2,
+  "opp": 3
+ },
+ {
+  "id": "gwen-towers-mind-control",
+  "means": 0,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "hellstorm-german-genocide",
+  "means": 2,
+  "motive": 3,
+  "opp": 2
+ },
+ {
+  "id": "hemp-suppression-conspiracy",
+  "means": 3,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "hess-assassinated",
+  "means": 3,
+  "motive": 2,
+  "opp": 3
+ },
+ {
+  "id": "hess-body-double",
+  "means": 2,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "hindu-genocide-conspiracy",
+  "means": 1,
+  "motive": 1,
+  "opp": 2
+ },
+ {
+  "id": "homosexual-agenda-conspiracy",
+  "means": 1,
+  "motive": 1,
+  "opp": 2
+ },
+ {
+  "id": "hunter-biden-laptop-corruption",
+  "means": 3,
+  "motive": 2,
+  "opp": 3
+ },
+ {
+  "id": "income-tax-denial-tax-protester",
+  "means": 1,
+  "motive": 1,
+  "opp": 2
+ },
+ {
+  "id": "jack-the-ripper-royal-masonic-coverup",
+  "means": 2,
+  "motive": 2,
+  "opp": 1
+ },
+ {
+  "id": "jade-helm-15",
+  "means": 2,
+  "motive": 1,
+  "opp": 2
+ },
+ {
+  "id": "jesuit-black-pope-conspiracy",
+  "means": 1,
+  "motive": 2,
+  "opp": 1
+ },
+ {
+  "id": "kosher-tax-conspiracy",
+  "means": 0,
+  "motive": 0,
+  "opp": 0
+ },
+ {
+  "id": "liberal-media-bias",
+  "means": 2,
+  "motive": 3,
+  "opp": 4
+ },
+ {
+  "id": "lindbergh-baby-kidnapping-conspiracy",
+  "means": 2,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "lucifer-telescope-vatican",
+  "means": 1,
+  "motive": 2,
+  "opp": 1
+ },
+ {
+  "id": "lunar-anomalies-artificial-structures",
+  "means": 1,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "lusitania-false-flag",
+  "means": 3,
+  "motive": 3,
+  "opp": 3
+ },
+ {
+  "id": "mars-landing-hoax",
+  "means": 1,
+  "motive": 2,
+  "opp": 1
+ },
+ {
+  "id": "med-beds",
+  "means": 1,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "michael-hastings-assassination",
+  "means": 2,
+  "motive": 3,
+  "opp": 2
+ },
+ {
+  "id": "mossad-911-foreknowledge",
+  "means": 1,
+  "motive": 1,
+  "opp": 2
+ },
+ {
+  "id": "munich-shooting-false-flag",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "muslim-brotherhood-civilizational-jihad",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "national-sunday-law",
+  "means": 0,
+  "motive": 1,
+  "opp": 0
+ },
+ {
+  "id": "north-american-union",
+  "means": 2,
+  "motive": 2,
+  "opp": 1
+ },
+ {
+  "id": "norway-spiral",
+  "means": 2,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "november-3-seattle-nuclear-attack",
+  "means": 0,
+  "motive": 0,
+  "opp": 0
+ },
+ {
+  "id": "november-4-antifa-civil-war",
+  "means": 0,
+  "motive": 1,
+  "opp": 0
+ },
+ {
+  "id": "nuclear-energy-denial",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "obamacare-death-panels",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "one-world-religion",
+  "means": 1,
+  "motive": 2,
+  "opp": 1
+ },
+ {
+  "id": "oreo-satanic-templar-logo",
+  "means": 0,
+  "motive": 0,
+  "opp": 1
+ },
+ {
+  "id": "orlando-nightclub-shooting-false-flag",
+  "means": 0,
+  "motive": 1,
+  "opp": 0
+ },
+ {
+  "id": "oslo-attacks-false-flag",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "pacte-de-famine",
+  "means": 3,
+  "motive": 2,
+  "opp": 3
+ },
+ {
+  "id": "polybius-arcade-game",
+  "means": 0,
+  "motive": 2,
+  "opp": 1
+ },
+ {
+  "id": "pow-mia-left-behind",
+  "means": 3,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "protochronism",
+  "means": 2,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "rasputin-mi6-assassination",
+  "means": 3,
+  "motive": 3,
+  "opp": 3
+ },
+ {
+  "id": "red-mercury-doomsday-weapon",
+  "means": 0,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "rockefeller-conspiracy-theories",
+  "means": 3,
+  "motive": 2,
+  "opp": 3
+ },
+ {
+  "id": "roman-piso-theory",
+  "means": 2,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "ruby-ridge-cover-up",
+  "means": 3,
+  "motive": 2,
+  "opp": 3
+ },
+ {
+  "id": "satanic-panic-dnd",
+  "means": 0,
+  "motive": 0,
+  "opp": 1
+ },
+ {
+  "id": "satanic-ritual-abuse-panic",
+  "means": 1,
+  "motive": 1,
+  "opp": 2
+ },
+ {
+  "id": "scandinavian-ghost-rockets",
+  "means": 2,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "secular-humanist-conspiracy",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "silent-weapons-for-quiet-wars",
+  "means": 2,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "sky-sounds-hum-phenomenon",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "south-african-white-genocide",
+  "means": 1,
+  "motive": 2,
+  "opp": 1
+ },
+ {
+  "id": "spear-of-destiny-hitler-occult",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "stab-in-the-back-legend",
+  "means": 0,
+  "motive": 0,
+  "opp": 0
+ },
+ {
+  "id": "statue-of-liberty-masonic-symbolism",
+  "means": 2,
+  "motive": 1,
+  "opp": 3
+ },
+ {
+  "id": "steele-dossier-trump-russia",
+  "means": 4,
+  "motive": 3,
+  "opp": 3
+ },
+ {
+  "id": "stellar-metamorphosis",
+  "means": 0,
+  "motive": 1,
+  "opp": 0
+ },
+ {
+  "id": "sydney-siege-false-flag",
+  "means": 0,
+  "motive": 1,
+  "opp": 0
+ },
+ {
+  "id": "toxoplasma-mind-control",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "transvestigation",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "uss-liberty-deliberate-attack",
+  "means": 4,
+  "motive": 3,
+  "opp": 4
+ },
+ {
+  "id": "vatican-created-islam-nazism-communism",
+  "means": 1,
+  "motive": 2,
+  "opp": 1
+ },
+ {
+  "id": "war-on-christmas",
+  "means": 1,
+  "motive": 2,
+  "opp": 2
+ },
+ {
+  "id": "wellstone-assassination",
+  "means": 1,
+  "motive": 2,
+  "opp": 1
+ },
+ {
+  "id": "who-iaea-conspiracy",
+  "means": 2,
+  "motive": 2,
+  "opp": 3
+ },
+ {
+  "id": "whole-language-conspiracy",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "woolwich-attack-false-flag",
+  "means": 1,
+  "motive": 1,
+  "opp": 1
+ },
+ {
+  "id": "yuri-gagarin-death-conspiracy",
+  "means": 3,
+  "motive": 2,
+  "opp": 3
+ },
+ {
+  "id": "zeeman-crater-alien-base",
+  "means": 2,
+  "motive": 2,
+  "opp": 2
+ }
+]

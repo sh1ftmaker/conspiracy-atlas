@@ -1,0 +1,1082 @@
+[
+ {
+  "id": "1960-election-stolen",
+  "cls": "election-rigging",
+  "imp": false,
+  "nlog": 2,
+  "scale": 3,
+  "sev": 2,
+  "reach": 3,
+  "att": 3
+ },
+ {
+  "id": "2004-election-fraud-ohio",
+  "cls": "election-rigging",
+  "imp": false,
+  "nlog": 2,
+  "scale": 2,
+  "sev": 2,
+  "reach": 3,
+  "att": 3
+ },
+ {
+  "id": "a440-432hz-conspiracy",
+  "cls": "influence-psyop",
+  "imp": false,
+  "nlog": 1,
+  "scale": 4,
+  "sev": 1,
+  "reach": 3,
+  "att": 2
+ },
+ {
+  "id": "abortion-black-genocide",
+  "cls": "depopulation-harm",
+  "imp": false,
+  "nlog": 2,
+  "scale": 3,
+  "sev": 4,
+  "reach": 4,
+  "att": 3
+ },
+ {
+  "id": "acorn-voter-fraud",
+  "cls": "election-rigging",
+  "imp": false,
+  "nlog": 2,
+  "scale": 3,
+  "sev": 3,
+  "reach": 3,
+  "att": 3
+ },
+ {
+  "id": "adrenochrome-harvesting",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 3,
+  "scale": 3,
+  "sev": 4,
+  "reach": 2,
+  "att": 4
+ },
+ {
+  "id": "alien-abduction-phenomenon",
+  "cls": "alien",
+  "imp": false,
+  "nlog": 0,
+  "scale": 2,
+  "sev": 2,
+  "reach": 1,
+  "att": 4
+ },
+ {
+  "id": "armenian-genocide-denial",
+  "cls": "fabricated-history",
+  "imp": false,
+  "nlog": 3,
+  "scale": 3,
+  "sev": 4,
+  "reach": 3,
+  "att": 3
+ },
+ {
+  "id": "aurora-black-project-aircraft",
+  "cls": "hidden-policy",
+  "imp": false,
+  "nlog": 2,
+  "scale": 1,
+  "sev": 1,
+  "reach": 1,
+  "att": 3
+ },
+ {
+  "id": "backmasking-satanic-messages",
+  "cls": "paranormal-occult",
+  "imp": false,
+  "nlog": 1,
+  "scale": 2,
+  "sev": 2,
+  "reach": 2,
+  "att": 3
+ },
+ {
+  "id": "beale-ciphers-treasure",
+  "cls": "hidden-policy",
+  "imp": false,
+  "nlog": 1,
+  "scale": 0,
+  "sev": 1,
+  "reach": 1,
+  "att": 3
+ },
+ {
+  "id": "benghazi-conspiracy-theories",
+  "cls": "hidden-policy",
+  "imp": false,
+  "nlog": 2,
+  "scale": 2,
+  "sev": 3,
+  "reach": 1,
+  "att": 4
+ },
+ {
+  "id": "bermeja-island-cia-conspiracy",
+  "cls": "hidden-policy",
+  "imp": false,
+  "nlog": 2,
+  "scale": 1,
+  "sev": 2,
+  "reach": 1,
+  "att": 2
+ },
+ {
+  "id": "black-helicopters",
+  "cls": "hidden-policy",
+  "imp": false,
+  "nlog": 3,
+  "scale": 3,
+  "sev": 3,
+  "reach": 3,
+  "att": 3
+ },
+ {
+  "id": "cdc-whistleblower-coverup",
+  "cls": "suppressed-science",
+  "imp": false,
+  "nlog": 1,
+  "scale": 3,
+  "sev": 4,
+  "reach": 3,
+  "att": 3
+ },
+ {
+  "id": "cholesterol-statin-denial",
+  "cls": "suppressed-science",
+  "imp": false,
+  "nlog": 3,
+  "scale": 4,
+  "sev": 3,
+  "reach": 3,
+  "att": 2
+ },
+ {
+  "id": "christ-myth-astrotheology",
+  "cls": "fabricated-history",
+  "imp": false,
+  "nlog": 1,
+  "scale": 5,
+  "sev": 1,
+  "reach": 4,
+  "att": 4
+ },
+ {
+  "id": "clinton-uranium-one",
+  "cls": "corporate-collusion",
+  "imp": false,
+  "nlog": 2,
+  "scale": 2,
+  "sev": 3,
+  "reach": 1,
+  "att": 4
+ },
+ {
+  "id": "cloward-piven-strategy",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 2,
+  "scale": 4,
+  "sev": 3,
+  "reach": 4,
+  "att": 3
+ },
+ {
+  "id": "codex-alimentarius-control",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 3,
+  "scale": 4,
+  "sev": 2,
+  "reach": 4,
+  "att": 2
+ },
+ {
+  "id": "coming-race-war",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 3,
+  "scale": 4,
+  "sev": 4,
+  "reach": 4,
+  "att": 3
+ },
+ {
+  "id": "common-purpose-shadow-elite",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 2,
+  "scale": 2,
+  "sev": 3,
+  "reach": 2,
+  "att": 2
+ },
+ {
+  "id": "creeping-sharia",
+  "cls": "hidden-policy",
+  "imp": false,
+  "nlog": 2,
+  "scale": 3,
+  "sev": 3,
+  "reach": 3,
+  "att": 3
+ },
+ {
+  "id": "dc-street-design-occult",
+  "cls": "paranormal-occult",
+  "imp": true,
+  "nlog": 1,
+  "scale": 1,
+  "sev": 2,
+  "reach": 1,
+  "att": 2
+ },
+ {
+  "id": "dinosaur-denialism",
+  "cls": "fabricated-history",
+  "imp": false,
+  "nlog": 5,
+  "scale": 3,
+  "sev": 0,
+  "reach": 2,
+  "att": 2
+ },
+ {
+  "id": "dnc-2016-primary-rigging",
+  "cls": "election-rigging",
+  "imp": false,
+  "nlog": 2,
+  "scale": 3,
+  "sev": 2,
+  "reach": 3,
+  "att": 4
+ },
+ {
+  "id": "dollar-bill-911-symbolism",
+  "cls": "false-flag",
+  "imp": false,
+  "nlog": 1,
+  "scale": 2,
+  "sev": 3,
+  "reach": 3,
+  "att": 2
+ },
+ {
+  "id": "dulce-base",
+  "cls": "alien",
+  "imp": false,
+  "nlog": 2,
+  "scale": 3,
+  "sev": 4,
+  "reach": 2,
+  "att": 3
+ },
+ {
+  "id": "e978-obamacare-guillotine",
+  "cls": "hidden-policy",
+  "imp": false,
+  "nlog": 1,
+  "scale": 3,
+  "sev": 5,
+  "reach": 3,
+  "att": 1
+ },
+ {
+  "id": "eisenhower-communist-agent",
+  "cls": "identity-secret",
+  "imp": false,
+  "nlog": 1,
+  "scale": 4,
+  "sev": 4,
+  "reach": 2,
+  "att": 3
+ },
+ {
+  "id": "elsagate",
+  "cls": "influence-psyop",
+  "imp": false,
+  "nlog": 2,
+  "scale": 3,
+  "sev": 3,
+  "reach": 3,
+  "att": 4
+ },
+ {
+  "id": "eo13603-slave-labor",
+  "cls": "hidden-policy",
+  "imp": false,
+  "nlog": 2,
+  "scale": 3,
+  "sev": 4,
+  "reach": 3,
+  "att": 2
+ },
+ {
+  "id": "ethnic-bioweapons-programs",
+  "cls": "depopulation-harm",
+  "imp": false,
+  "nlog": 2,
+  "scale": 5,
+  "sev": 5,
+  "reach": 4,
+  "att": 2
+ },
+ {
+  "id": "eu-antichrist-beast-empire",
+  "cls": "paranormal-occult",
+  "imp": true,
+  "nlog": 0,
+  "scale": 4,
+  "sev": 4,
+  "reach": 4,
+  "att": 3
+ },
+ {
+  "id": "falun-gong-organ-harvesting",
+  "cls": "depopulation-harm",
+  "imp": false,
+  "nlog": 3,
+  "scale": 2,
+  "sev": 5,
+  "reach": 2,
+  "att": 3
+ },
+ {
+  "id": "fort-knox-gold-missing",
+  "cls": "hidden-policy",
+  "imp": false,
+  "nlog": 2,
+  "scale": 2,
+  "sev": 3,
+  "reach": 1,
+  "att": 3
+ },
+ {
+  "id": "franklin-prophecy",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 2,
+  "scale": 4,
+  "sev": 3,
+  "reach": 4,
+  "att": 2
+ },
+ {
+  "id": "frazzledrip",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 1,
+  "scale": 0,
+  "sev": 4,
+  "reach": 1,
+  "att": 2
+ },
+ {
+  "id": "gender-ideology-conspiracy",
+  "cls": "influence-psyop",
+  "imp": false,
+  "nlog": 3,
+  "scale": 4,
+  "sev": 2,
+  "reach": 4,
+  "att": 4
+ },
+ {
+  "id": "guerrilla-skepticism-wikipedia-conspiracy",
+  "cls": "influence-psyop",
+  "imp": false,
+  "nlog": 1,
+  "scale": 2,
+  "sev": 1,
+  "reach": 2,
+  "att": 2
+ },
+ {
+  "id": "gwen-towers-mind-control",
+  "cls": "experiment-public",
+  "imp": false,
+  "nlog": 2,
+  "scale": 3,
+  "sev": 2,
+  "reach": 2,
+  "att": 2
+ },
+ {
+  "id": "hellstorm-german-genocide",
+  "cls": "fabricated-history",
+  "imp": false,
+  "nlog": 3,
+  "scale": 3,
+  "sev": 4,
+  "reach": 3,
+  "att": 2
+ },
+ {
+  "id": "hemp-suppression-conspiracy",
+  "cls": "corporate-collusion",
+  "imp": false,
+  "nlog": 2,
+  "scale": 3,
+  "sev": 3,
+  "reach": 3,
+  "att": 3
+ },
+ {
+  "id": "hess-assassinated",
+  "cls": "assassination",
+  "imp": false,
+  "nlog": 1,
+  "scale": 0,
+  "sev": 1,
+  "reach": 1,
+  "att": 1
+ },
+ {
+  "id": "hess-body-double",
+  "cls": "identity-secret",
+  "imp": false,
+  "nlog": 1,
+  "scale": 1,
+  "sev": 2,
+  "reach": 1,
+  "att": 1
+ },
+ {
+  "id": "hindu-genocide-conspiracy",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 2,
+  "scale": 3,
+  "sev": 3,
+  "reach": 3,
+  "att": 2
+ },
+ {
+  "id": "homosexual-agenda-conspiracy",
+  "cls": "influence-psyop",
+  "imp": false,
+  "nlog": 2,
+  "scale": 3,
+  "sev": 2,
+  "reach": 3,
+  "att": 4
+ },
+ {
+  "id": "hunter-biden-laptop-corruption",
+  "cls": "corporate-collusion",
+  "imp": false,
+  "nlog": 2,
+  "scale": 2,
+  "sev": 3,
+  "reach": 2,
+  "att": 4
+ },
+ {
+  "id": "income-tax-denial-tax-protester",
+  "cls": "hidden-policy",
+  "imp": false,
+  "nlog": 4,
+  "scale": 3,
+  "sev": 2,
+  "reach": 4,
+  "att": 3
+ },
+ {
+  "id": "jack-the-ripper-royal-masonic-coverup",
+  "cls": "identity-secret",
+  "imp": false,
+  "nlog": 2,
+  "scale": 0,
+  "sev": 2,
+  "reach": 1,
+  "att": 3
+ },
+ {
+  "id": "jade-helm-15",
+  "cls": "hidden-policy",
+  "imp": false,
+  "nlog": 3,
+  "scale": 4,
+  "sev": 3,
+  "reach": 4,
+  "att": 4
+ },
+ {
+  "id": "jesuit-black-pope-conspiracy",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 4,
+  "scale": 5,
+  "sev": 4,
+  "reach": 4,
+  "att": 2
+ },
+ {
+  "id": "kosher-tax-conspiracy",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 2,
+  "scale": 2,
+  "sev": 1,
+  "reach": 3,
+  "att": 2
+ },
+ {
+  "id": "liberal-media-bias",
+  "cls": "influence-psyop",
+  "imp": false,
+  "nlog": 3,
+  "scale": 3,
+  "sev": 1,
+  "reach": 4,
+  "att": 4
+ },
+ {
+  "id": "lindbergh-baby-kidnapping-conspiracy",
+  "cls": "assassination",
+  "imp": false,
+  "nlog": 1,
+  "scale": 0,
+  "sev": 2,
+  "reach": 1,
+  "att": 4
+ },
+ {
+  "id": "lucifer-telescope-vatican",
+  "cls": "alien",
+  "imp": false,
+  "nlog": 1,
+  "scale": 4,
+  "sev": 1,
+  "reach": 3,
+  "att": 2
+ },
+ {
+  "id": "lunar-anomalies-artificial-structures",
+  "cls": "alien",
+  "imp": false,
+  "nlog": 3,
+  "scale": 5,
+  "sev": 0,
+  "reach": 1,
+  "att": 2
+ },
+ {
+  "id": "lusitania-false-flag",
+  "cls": "false-flag",
+  "imp": false,
+  "nlog": 1,
+  "scale": 3,
+  "sev": 3,
+  "reach": 3,
+  "att": 2
+ },
+ {
+  "id": "mars-landing-hoax",
+  "cls": "fabricated-history",
+  "imp": false,
+  "nlog": 4,
+  "scale": 4,
+  "sev": 0,
+  "reach": 2,
+  "att": 2
+ },
+ {
+  "id": "med-beds",
+  "cls": "suppressed-science",
+  "imp": true,
+  "nlog": 2,
+  "scale": 4,
+  "sev": 1,
+  "reach": 2,
+  "att": 2
+ },
+ {
+  "id": "michael-hastings-assassination",
+  "cls": "assassination",
+  "imp": false,
+  "nlog": 1,
+  "scale": 0,
+  "sev": 1,
+  "reach": 2,
+  "att": 3
+ },
+ {
+  "id": "mossad-911-foreknowledge",
+  "cls": "false-flag",
+  "imp": false,
+  "nlog": 2,
+  "scale": 3,
+  "sev": 4,
+  "reach": 3,
+  "att": 3
+ },
+ {
+  "id": "munich-shooting-false-flag",
+  "cls": "false-flag",
+  "imp": false,
+  "nlog": 1,
+  "scale": 1,
+  "sev": 3,
+  "reach": 1,
+  "att": 1
+ },
+ {
+  "id": "muslim-brotherhood-civilizational-jihad",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 2,
+  "scale": 3,
+  "sev": 3,
+  "reach": 3,
+  "att": 2
+ },
+ {
+  "id": "national-sunday-law",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 1,
+  "scale": 3,
+  "sev": 3,
+  "reach": 4,
+  "att": 1
+ },
+ {
+  "id": "north-american-union",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 2,
+  "scale": 4,
+  "sev": 2,
+  "reach": 4,
+  "att": 3
+ },
+ {
+  "id": "norway-spiral",
+  "cls": "alien",
+  "imp": false,
+  "nlog": 2,
+  "scale": 0,
+  "sev": 1,
+  "reach": 1,
+  "att": 3
+ },
+ {
+  "id": "november-3-seattle-nuclear-attack",
+  "cls": "false-flag",
+  "imp": false,
+  "nlog": 2,
+  "scale": 1,
+  "sev": 5,
+  "reach": 3,
+  "att": 0
+ },
+ {
+  "id": "november-4-antifa-civil-war",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 1,
+  "scale": 3,
+  "sev": 4,
+  "reach": 3,
+  "att": 3
+ },
+ {
+  "id": "nuclear-energy-denial",
+  "cls": "fabricated-history",
+  "imp": false,
+  "nlog": 6,
+  "scale": 5,
+  "sev": 0,
+  "reach": 3,
+  "att": 1
+ },
+ {
+  "id": "obamacare-death-panels",
+  "cls": "hidden-policy",
+  "imp": false,
+  "nlog": 2,
+  "scale": 4,
+  "sev": 4,
+  "reach": 4,
+  "att": 4
+ },
+ {
+  "id": "one-world-religion",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 3,
+  "scale": 5,
+  "sev": 3,
+  "reach": 5,
+  "att": 2
+ },
+ {
+  "id": "oreo-satanic-templar-logo",
+  "cls": "paranormal-occult",
+  "imp": false,
+  "nlog": 0,
+  "scale": 0,
+  "sev": 0,
+  "reach": 0,
+  "att": 1
+ },
+ {
+  "id": "orlando-nightclub-shooting-false-flag",
+  "cls": "false-flag",
+  "imp": false,
+  "nlog": 2,
+  "scale": 1,
+  "sev": 2,
+  "reach": 2,
+  "att": 1
+ },
+ {
+  "id": "oslo-attacks-false-flag",
+  "cls": "false-flag",
+  "imp": false,
+  "nlog": 1,
+  "scale": 2,
+  "sev": 4,
+  "reach": 3,
+  "att": 2
+ },
+ {
+  "id": "pacte-de-famine",
+  "cls": "corporate-collusion",
+  "imp": false,
+  "nlog": 1,
+  "scale": 2,
+  "sev": 4,
+  "reach": 4,
+  "att": 2
+ },
+ {
+  "id": "polybius-arcade-game",
+  "cls": "experiment-public",
+  "imp": false,
+  "nlog": 1,
+  "scale": 0,
+  "sev": 3,
+  "reach": 1,
+  "att": 3
+ },
+ {
+  "id": "pow-mia-left-behind",
+  "cls": "hidden-policy",
+  "imp": false,
+  "nlog": 2,
+  "scale": 1,
+  "sev": 4,
+  "reach": 2,
+  "att": 4
+ },
+ {
+  "id": "protochronism",
+  "cls": "fabricated-history",
+  "imp": false,
+  "nlog": 2,
+  "scale": 3,
+  "sev": 0,
+  "reach": 1,
+  "att": 1
+ },
+ {
+  "id": "rasputin-mi6-assassination",
+  "cls": "assassination",
+  "imp": false,
+  "nlog": 1,
+  "scale": 0,
+  "sev": 1,
+  "reach": 2,
+  "att": 2
+ },
+ {
+  "id": "red-mercury-doomsday-weapon",
+  "cls": "suppressed-science",
+  "imp": true,
+  "nlog": 1,
+  "scale": 3,
+  "sev": 5,
+  "reach": 1,
+  "att": 3
+ },
+ {
+  "id": "rockefeller-conspiracy-theories",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 3,
+  "scale": 5,
+  "sev": 3,
+  "reach": 4,
+  "att": 3
+ },
+ {
+  "id": "roman-piso-theory",
+  "cls": "fabricated-history",
+  "imp": false,
+  "nlog": 1,
+  "scale": 5,
+  "sev": 1,
+  "reach": 4,
+  "att": 1
+ },
+ {
+  "id": "ruby-ridge-cover-up",
+  "cls": "hidden-policy",
+  "imp": false,
+  "nlog": 1,
+  "scale": 0,
+  "sev": 4,
+  "reach": 2,
+  "att": 3
+ },
+ {
+  "id": "satanic-panic-dnd",
+  "cls": "paranormal-occult",
+  "imp": false,
+  "nlog": 0,
+  "scale": 2,
+  "sev": 3,
+  "reach": 2,
+  "att": 3
+ },
+ {
+  "id": "satanic-ritual-abuse-panic",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 3,
+  "scale": 3,
+  "sev": 4,
+  "reach": 3,
+  "att": 4
+ },
+ {
+  "id": "scandinavian-ghost-rockets",
+  "cls": "alien",
+  "imp": false,
+  "nlog": 2,
+  "scale": 2,
+  "sev": 1,
+  "reach": 2,
+  "att": 2
+ },
+ {
+  "id": "secular-humanist-conspiracy",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 3,
+  "scale": 3,
+  "sev": 3,
+  "reach": 3,
+  "att": 2
+ },
+ {
+  "id": "silent-weapons-for-quiet-wars",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 1,
+  "scale": 4,
+  "sev": 3,
+  "reach": 4,
+  "att": 3
+ },
+ {
+  "id": "sky-sounds-hum-phenomenon",
+  "cls": "experiment-public",
+  "imp": false,
+  "nlog": 2,
+  "scale": 3,
+  "sev": 2,
+  "reach": 2,
+  "att": 2
+ },
+ {
+  "id": "south-african-white-genocide",
+  "cls": "depopulation-harm",
+  "imp": false,
+  "nlog": 2,
+  "scale": 2,
+  "sev": 5,
+  "reach": 3,
+  "att": 4
+ },
+ {
+  "id": "spear-of-destiny-hitler-occult",
+  "cls": "paranormal-occult",
+  "imp": true,
+  "nlog": 0,
+  "scale": 2,
+  "sev": 1,
+  "reach": 1,
+  "att": 2
+ },
+ {
+  "id": "stab-in-the-back-legend",
+  "cls": "fabricated-history",
+  "imp": false,
+  "nlog": 2,
+  "scale": 2,
+  "sev": 3,
+  "reach": 3,
+  "att": 3
+ },
+ {
+  "id": "statue-of-liberty-masonic-symbolism",
+  "cls": "paranormal-occult",
+  "imp": false,
+  "nlog": 0,
+  "scale": 1,
+  "sev": 1,
+  "reach": 1,
+  "att": 2
+ },
+ {
+  "id": "steele-dossier-trump-russia",
+  "cls": "election-rigging",
+  "imp": false,
+  "nlog": 2,
+  "scale": 4,
+  "sev": 4,
+  "reach": 3,
+  "att": 5
+ },
+ {
+  "id": "stellar-metamorphosis",
+  "cls": "suppressed-science",
+  "imp": true,
+  "nlog": 0,
+  "scale": 2,
+  "sev": 0,
+  "reach": 0,
+  "att": 1
+ },
+ {
+  "id": "sydney-siege-false-flag",
+  "cls": "false-flag",
+  "imp": false,
+  "nlog": 1,
+  "scale": 1,
+  "sev": 2,
+  "reach": 1,
+  "att": 2
+ },
+ {
+  "id": "toxoplasma-mind-control",
+  "cls": "experiment-public",
+  "imp": false,
+  "nlog": 3,
+  "scale": 4,
+  "sev": 2,
+  "reach": 3,
+  "att": 2
+ },
+ {
+  "id": "transvestigation",
+  "cls": "identity-secret",
+  "imp": false,
+  "nlog": 2,
+  "scale": 3,
+  "sev": 1,
+  "reach": 2,
+  "att": 3
+ },
+ {
+  "id": "uss-liberty-deliberate-attack",
+  "cls": "false-flag",
+  "imp": false,
+  "nlog": 1,
+  "scale": 2,
+  "sev": 4,
+  "reach": 2,
+  "att": 3
+ },
+ {
+  "id": "vatican-created-islam-nazism-communism",
+  "cls": "grand-control",
+  "imp": false,
+  "nlog": 1,
+  "scale": 5,
+  "sev": 5,
+  "reach": 4,
+  "att": 2
+ },
+ {
+  "id": "war-on-christmas",
+  "cls": "influence-psyop",
+  "imp": false,
+  "nlog": 2,
+  "scale": 1,
+  "sev": 1,
+  "reach": 2,
+  "att": 4
+ },
+ {
+  "id": "wellstone-assassination",
+  "cls": "assassination",
+  "imp": false,
+  "nlog": 1,
+  "scale": 0,
+  "sev": 1,
+  "reach": 2,
+  "att": 2
+ },
+ {
+  "id": "who-iaea-conspiracy",
+  "cls": "regulatory-capture",
+  "imp": false,
+  "nlog": 2,
+  "scale": 3,
+  "sev": 3,
+  "reach": 2,
+  "att": 1
+ },
+ {
+  "id": "whole-language-conspiracy",
+  "cls": "influence-psyop",
+  "imp": false,
+  "nlog": 1,
+  "scale": 2,
+  "sev": 1,
+  "reach": 2,
+  "att": 1
+ },
+ {
+  "id": "woolwich-attack-false-flag",
+  "cls": "false-flag",
+  "imp": false,
+  "nlog": 1,
+  "scale": 1,
+  "sev": 3,
+  "reach": 2,
+  "att": 2
+ },
+ {
+  "id": "yuri-gagarin-death-conspiracy",
+  "cls": "assassination",
+  "imp": false,
+  "nlog": 1,
+  "scale": 0,
+  "sev": 2,
+  "reach": 2,
+  "att": 2
+ },
+ {
+  "id": "zeeman-crater-alien-base",
+  "cls": "alien",
+  "imp": false,
+  "nlog": 2,
+  "scale": 3,
+  "sev": 1,
+  "reach": 2,
+  "att": 1
+ }
+]

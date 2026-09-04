@@ -20,8 +20,10 @@ All four are static pages fed by one generated `docs/data.json`:
 | [List](https://sh1ftmaker.github.io/conspiracy-atlas/list.html) (`list.html`) | Sortable, filterable table. |
 | [Methodology](https://sh1ftmaker.github.io/conspiracy-atlas/methodology.html) (`methodology.html`) | How every score is computed. |
 
-Theories are embedded with **gemini-embedding-2** (Vertex AI) and UMAP-projected, so
-claims with similar actors, mechanisms or themes cluster together regardless of genre.
+Theories are embedded with **Qwen3-Embedding-0.6B** (locally, no API key — see
+`src/embed_local.py`; `src/embed_theories.py` remains as a Vertex AI alternative)
+and UMAP-projected, so claims with similar actors, mechanisms or themes cluster
+together regardless of genre.
 
 ## Scoring, in brief
 
@@ -62,7 +64,8 @@ src/
   build.py                merge + validate + score everything → docs/data.json
   score.py                the scoring engine (imported by build.py)
   calibrate.py            diff formula scores vs. editorial, print band migration
-  embed_theories.py       embed each theory with gemini-embedding-2 (Vertex AI)
+  embed_local.py          embed each theory locally with Qwen3-Embedding-0.6B (no API key)
+  embed_theories.py       embed each theory with gemini-embedding-2 (Vertex AI alternative)
   project_embed.py        UMAP-project embeddings → coords + neighbors in data.json
   fetch_pageviews.py      pull Wikipedia pageviews → data/pageviews.json
   taxonomy.json           genres + truth/frame/impact scale definitions
@@ -77,9 +80,11 @@ python -m http.server 8000 --directory docs                         # preview at
 ```
 
 `src/build.py` **drops** the embedding coordinates, so always re-run `project_embed.py`
-after a build. Re-embedding (`src/embed_theories.py --sa <service-account.json> --out
-out/embeddings.npz`) is only needed when a theory's name/summary/evidence changed — it
-requires a Vertex AI service-account JSON (never committed). Bump the `data.json?v=N`
+after a build. Re-embedding (`src/embed_local.py --out out/embeddings.npz` — local
+Qwen3-Embedding-0.6B, needs the torch + sentence-transformers + umap-learn venv, no API
+key) is only needed when a theory's name/summary/evidence changed or theories were added.
+`src/embed_theories.py --sa <service-account.json>` is the Vertex AI (gemini-embedding-2)
+alternative; never mix vectors from different models in one npz. Bump the `data.json?v=N`
 cache string in the `docs/*.html` files whenever the data changes.
 
 ## Extend it

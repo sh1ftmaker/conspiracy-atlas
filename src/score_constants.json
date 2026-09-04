@@ -8,6 +8,7 @@
  "mmo_min": -3.7,
  "mmo_max": -0.6,
  "mmo_floor": 0.5,
+ "self_denial_discount": 0.25,
  "stance_strength": {
   "proves": 4.0,
   "supports": 1.5,
@@ -34,9 +35,15 @@
  "now_year": 2026,
  "impact_gain": 20.0,
  "impact_floor": 0.5,
+ "impact_recurve": 0.52,
+ "impact_base_min": 28.0,
+ "impact_truth_blend": 0.6,
+ "impact_truth_pow": 0.34,
  "noto_log_off": 1.5,
  "noto_log_div": 5.5,
  "noto_tier_band": 20,
+ "noto_pv_blend": 0.8,
+ "noto_pv_band": 32,
  "att_ladder": [
   3,
   10,
@@ -78,63 +85,63 @@
   ],
   "experiment-public": [
    13,
-   50
+   54
   ],
   "false-flag": [
    7,
-   37
+   47
   ],
   "hidden-policy": [
    9,
-   89
+   103
   ],
   "corporate-collusion": [
    15,
-   60
+   64
   ],
   "influence-psyop": [
    4,
-   71
+   80
   ],
   "grand-control": [
    0,
-   89
+   109
   ],
   "assassination": [
    2,
-   37
+   43
   ],
   "alien": [
    0,
-   80
+   87
   ],
   "fabricated-history": [
    0,
-   94
+   104
   ],
   "depopulation-harm": [
    6,
-   55
+   59
   ],
   "suppressed-science": [
    0,
-   98
+   103
   ],
   "identity-secret": [
    0,
-   25
+   29
   ],
   "paranormal-occult": [
    0,
-   326
+   333
   ],
   "election-rigging": [
    0,
-   7
+   12
   ],
   "regulatory-capture": [
    0,
-   4
+   5
   ]
  },
  "bias_weights": {
