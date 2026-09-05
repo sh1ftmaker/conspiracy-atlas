@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1967-midair-ufo-near-misses",
+    "cls": "alien",
+    "imp": false,
+    "nlog": 1,
+    "scale": 1,
+    "sev": 1,
+    "reach": 1,
+    "att": 2
+  },
+  {
+    "id": "aguadilla-puerto-rico-uso",
+    "cls": "alien",
+    "imp": false,
+    "nlog": 2,
+    "scale": 1,
+    "sev": 1,
+    "reach": 2,
+    "att": 3
+  },
+  {
+    "id": "america-west-flight-564-ufo",
+    "cls": "alien",
+    "imp": false,
+    "nlog": 1,
+    "scale": 1,
+    "sev": 1,
+    "reach": 1,
+    "att": 2
+  },
+  {
+    "id": "condon-report-astronaut-omission",
+    "cls": "hidden-policy",
+    "imp": false,
+    "nlog": 1,
+    "scale": 2,
+    "sev": 2,
+    "reach": 2,
+    "att": 2
+  },
+  {
+    "id": "flatwoods-monster",
+    "cls": "alien",
+    "imp": false,
+    "nlog": 1,
+    "scale": 1,
+    "sev": 1,
+    "reach": 2,
+    "att": 3
+  },
+  {
+    "id": "jal-1628-alaska-ufo",
+    "cls": "alien",
+    "imp": false,
+    "nlog": 2,
+    "scale": 2,
+    "sev": 2,
+    "reach": 2,
+    "att": 3
+  },
+  {
+    "id": "kecksburg-ufo-incident",
+    "cls": "alien",
+    "imp": false,
+    "nlog": 1,
+    "scale": 2,
+    "sev": 2,
+    "reach": 2,
+    "att": 3
+  },
+  {
+    "id": "kubark-interrogation-manual",
+    "cls": "hidden-policy",
+    "imp": false,
+    "nlog": 3,
+    "scale": 4,
+    "sev": 4,
+    "reach": 4,
+    "att": 3
+  },
+  {
+    "id": "levelland-ufo-incident",
+    "cls": "alien",
+    "imp": false,
+    "nlog": 1,
+    "scale": 1,
+    "sev": 1,
+    "reach": 2,
+    "att": 3
+  },
+  {
+    "id": "ohare-airport-ufo-sighting",
+    "cls": "alien",
+    "imp": false,
+    "nlog": 1,
+    "scale": 1,
+    "sev": 1,
+    "reach": 2,
+    "att": 3
+  },
+  {
+    "id": "phoenix-lights",
+    "cls": "alien",
+    "imp": false,
+    "nlog": 2,
+    "scale": 2,
+    "sev": 2,
+    "reach": 3,
+    "att": 4
+  },
+  {
+    "id": "socorro-ufo-landing",
+    "cls": "alien",
+    "imp": false,
+    "nlog": 1,
+    "scale": 2,
+    "sev": 1,
+    "reach": 2,
+    "att": 4
+  },
+  {
+    "id": "suffern-three-mile-lake-ufo",
+    "cls": "alien",
+    "imp": false,
+    "nlog": 1,
+    "scale": 1,
+    "sev": 1,
+    "reach": 1,
+    "att": 1
+  },
+  {
+    "id": "tehran-1976-ufo-incident",
+    "cls": "alien",
+    "imp": false,
+    "nlog": 1,
+    "scale": 2,
+    "sev": 2,
+    "reach": 2,
+    "att": 3
+  }
+]

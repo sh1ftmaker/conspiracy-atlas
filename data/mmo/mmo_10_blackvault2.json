@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1967-midair-ufo-near-misses",
+    "means": 2,
+    "motive": 2,
+    "opp": 3
+  },
+  {
+    "id": "aguadilla-puerto-rico-uso",
+    "means": 2,
+    "motive": 2,
+    "opp": 3
+  },
+  {
+    "id": "america-west-flight-564-ufo",
+    "means": 3,
+    "motive": 3,
+    "opp": 3
+  },
+  {
+    "id": "condon-report-astronaut-omission",
+    "means": 3,
+    "motive": 3,
+    "opp": 4
+  },
+  {
+    "id": "flatwoods-monster",
+    "means": 2,
+    "motive": 1,
+    "opp": 2
+  },
+  {
+    "id": "jal-1628-alaska-ufo",
+    "means": 3,
+    "motive": 3,
+    "opp": 3
+  },
+  {
+    "id": "kecksburg-ufo-incident",
+    "means": 3,
+    "motive": 2,
+    "opp": 3
+  },
+  {
+    "id": "kubark-interrogation-manual",
+    "means": 4,
+    "motive": 4,
+    "opp": 4
+  },
+  {
+    "id": "levelland-ufo-incident",
+    "means": 3,
+    "motive": 3,
+    "opp": 3
+  },
+  {
+    "id": "ohare-airport-ufo-sighting",
+    "means": 3,
+    "motive": 2,
+    "opp": 3
+  },
+  {
+    "id": "phoenix-lights",
+    "means": 3,
+    "motive": 2,
+    "opp": 3
+  },
+  {
+    "id": "socorro-ufo-landing",
+    "means": 3,
+    "motive": 3,
+    "opp": 4
+  },
+  {
+    "id": "suffern-three-mile-lake-ufo",
+    "means": 2,
+    "motive": 1,
+    "opp": 1
+  },
+  {
+    "id": "tehran-1976-ufo-incident",
+    "means": 3,
+    "motive": 2,
+    "opp": 3
+  }
+]

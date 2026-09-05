@@ -1,0 +1,755 @@
+[
+  {
+    "id": "1967-midair-ufo-near-misses",
+    "name": "Two Dramatic Mid-Air UFO Near-Misses (1967)",
+    "aliases": [
+      "Lear Jet 23 UFO Near-Collision",
+      "Piper Twin Comanche Atlantic UFO Encounter",
+      "1967 New Mexico and Jacksonville UFO Near-Misses"
+    ],
+    "genre": "extraterrestrial",
+    "year": 1967,
+    "truth": 20,
+    "impact": 18,
+    "notoriety": 15,
+    "summary": "Two unconnected 1967 near-collisions between civilian aircraft and unidentified objects -- a Lear Jet 23 over southwest New Mexico and a Piper Twin Comanche over the Atlantic near Jacksonville -- were each radar-corroborated or multiply witnessed but went essentially uninvestigated, with pilots reporting ridicule from air traffic controllers and fear of losing their licenses if they spoke up.",
+    "evidence_for": [
+      "Albuquerque ATC radar reportedly confirmed a target 39 miles from the Lear Jet 23 during a 29-minute encounter at FL410 in January 1967, with the pilot describing the object filling roughly 75% of his windscreen at closest approach.",
+      "The October 27, 1967 Piper Twin Comanche encounter near Jacksonville was witnessed by three commercially-rated pilots and a passenger, who described a roughly 200-foot gray triangular object with six lights that forced an evasive descent.",
+      "Per the 2000 NARCAP report by Richard F. Haines, a National Airlines DC-8 captain refused to file a UFO report when radar controllers asked him to, and Jacksonville radar control reportedly met the Piper crew's report with ridicule, illustrating an institutional pattern discouraging pilot UFO reporting.",
+      "The Piper crew said they initially stayed silent out of fear of losing their pilot licenses, and a claimed corroborating sighting by a United B727 captain 535 miles away on the same date could not be located in any records."
+    ],
+    "evidence_against": [
+      "Neither incident produced physical evidence, photographs, or an official investigation record; the case rests entirely on pilot and controller recollections compiled decades later by a single UFO-research advocacy report.",
+      "No contemporaneous Project Blue Book or FAA case file has surfaced corroborating either encounter, and the 'no adequate explanation' framing comes from proponent-side analysis rather than an official inquiry."
+    ],
+    "related": [
+      "ufo-coverup",
+      "project-blue-book"
+    ],
+    "sources": [
+      {
+        "title": "Two Dramatic Mid-Air UFO Near Misses In 1967",
+        "url": "https://www.theblackvault.com/casefiles/two-dramatic-mid-air-ufo-near-misses-1967/",
+        "type": "archive",
+        "stance": "supports"
+      }
+    ],
+    "research_note": "Sourced solely from The Black Vault case-file write-up, itself citing an October 2000 NARCAP (National Aviation Reporting Center on Anomalous Phenomena) report by Richard F. Haines compiling pilot report forms decades after the events. No independent corroborating government document (Blue Book, FAA) was located; Black Vault URL verified live (HTTP 200) on 2026-09-04. Kept truth/impact/notoriety modest per the scouting lead's own moderate-confidence assessment -- no stronger corroboration found in this pass."
+  },
+  {
+    "id": "aguadilla-puerto-rico-uso",
+    "name": "Aguadilla, Puerto Rico CBP/Coast Guard UFO Video",
+    "aliases": [
+      "Aguadilla UFO Video",
+      "Aguadilla USO Incident"
+    ],
+    "genre": "extraterrestrial",
+    "year": 2013,
+    "truth": 20,
+    "impact": 20,
+    "notoriety": 35,
+    "summary": "On April 25, 2013, a U.S. Customs and Border Protection maritime patrol aircraft near Aguadilla, Puerto Rico recorded infrared footage of an object that appeared to change shape and submerge into the ocean; the footage became public only via an anonymous 2014 whistleblower letter alleging federal agents released it because the government 'was not interested in disclosing it,' and a later high-resolution re-upload was mysteriously removed from YouTube.",
+    "evidence_for": [
+      "A CBP DHC-8's L-3 MX-15 infrared camera recorded an object near Aguadilla airport changing from a horseshoe to a spherical shape while airport radar tracked it, with a second object appearing to emerge from the ocean before both apparently submerged.",
+      "An anonymous September 2014 letter to Black Vault, from a source claiming direct knowledge of the recording equipment and aircraft, vouched the footage was '100% real' and said they were 'remaining anonymous to avoid government reprisals' — a specific retaliation-fear claim, not just an unattributed leak.",
+      "A subsequent high-definition re-upload of the video was removed from YouTube without any official explanation, and no CBP or Coast Guard statement has ever confirmed or denied the incident on the record."
+    ],
+    "evidence_against": [
+      "In its 2024 Historical Record Report (Volume I), the Pentagon's All-domain Anomaly Resolution Office (AARO) officially assessed the footage as consistent with two heart-shaped sky lanterns or balloons drifting together, attributing the apparent splitting, high speed, and water entry to parallax, sensor limitations, and infrared temperature/background effects rather than a genuine anomaly.",
+      "Independent skeptical analysis on the Metabunk forum, including a detailed report by retired Argentine Air Force Commodore Ruben Lianza, matched the object's size, heart-shaped infrared signature, and motion to paired wedding sky lanterns released from a beach resort upwind of the airport, with wind-drift simulations reproducing the video's observed trajectory over land (not water).",
+      "The Scientific Coalition for UAP Studies has disputed AARO's lantern conclusion and submitted technical follow-up questions AARO has acknowledged but not yet answered, so the case remains formally contested rather than closed even among UAP researchers."
+    ],
+    "related": [
+      "ufo-coverup",
+      "pentagon-uap-disclosure",
+      "grusch-uap-crash-retrieval"
+    ],
+    "sources": [
+      {
+        "title": "Anonymous Letter Confirms Aguadilla, Puerto Rico Coast Guard UFO Video",
+        "url": "https://www.theblackvault.com/casefiles/anonymous-letter-confirms-aguadilla-puerto-rico-coast-guard-ufo-video/",
+        "type": "archive",
+        "stance": "supports"
+      },
+      {
+        "title": "Aguadilla Infrared Footage of 'UFOs' - Probably Hot Air Wedding Lanterns",
+        "url": "https://www.metabunk.org/threads/aguadilla-infrared-footage-of-ufos-probably-hot-air-wedding-lanterns.8952/",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "AARO Historical Record Report, Volume I (2024)",
+        "url": "https://commons.wikimedia.org/wiki/File:AARO_Historical_Record_Report_Volume_1_2024.pdf",
+        "type": "government",
+        "stance": "debunks"
+      }
+    ],
+    "research_note": "Drafted from a Black Vault scouting pass (E1_leads.md, group E1). Black Vault casefile URL verified HTTP 200 via curl (checked 2026-09-05). A credible skeptical explanation does exist for this case (paired sky lanterns) — independently proposed on Metabunk and later formally adopted by AARO's 2024 Historical Record Report — so evidence_against reflects a real, sourced counter-explanation rather than a placeholder. Note the Scientific Coalition for UAP Studies still disputes AARO's lantern conclusion, so the debunking is not universally accepted even among UAP investigators."
+  },
+  {
+    "id": "america-west-flight-564-ufo",
+    "name": "America West Airlines Flight 564 UFO Case (1995)",
+    "aliases": [
+      "Cactus 564 UFO Sighting",
+      "Bovina Texas UFO Incident"
+    ],
+    "genre": "extraterrestrial",
+    "year": 1995,
+    "truth": 20,
+    "impact": 15,
+    "notoriety": 20,
+    "summary": "On May 25, 1995, the crew of America West Flight 564, a Boeing 757 over Bovina, Texas, reported a 300-500-foot cigar-shaped object with sequenced strobing lights; NORAD's account of its own radar data reportedly shifted across three different explanations, and a claim of a second, physically-implausible-speed radar target was never officially confirmed or denied.",
+    "evidence_for": [
+      "Captain Eugene Tollefson and First Officer John Waller, plus a flight attendant, independently observed the object and its silhouette against lightning-lit clouds, estimating it at 300-500 feet long with eight strobing lights sequencing left to right.",
+      "Air traffic control contacted NORAD in real time; per the Black Vault account and independent investigator Walter N. Webb (UFO Research Coalition, who obtained FAA voice tapes via FOIA), NORAD's story moved from 'nothing on radar' to 'an unidentified return' to 'a small aircraft with a malfunctioning transponder.'",
+      "One controller separately alleged NORAD reported tracking an unrelated second target moving at 1,000-1,400 mph, an allegation never officially confirmed or denied.",
+      "Webb's independent investigation, cross-referenced by ufologist Patrick Gross's case archive, concluded no known object or conventional phenomenon accounted for the visual sighting despite checks with area military installations."
+    ],
+    "evidence_against": [
+      "The one concrete radar anomaly NORAD did explain -- an unidentified return -- was attributed to a small aircraft with a non-functioning transponder, a mundane explanation for at least part of the radar picture.",
+      "No named skeptical analysis specific to this case was found in this research pass; a 'meteorite' skeptical explanation appearing on aggregator sites (e.g. UFO Insight) refers to a different, unrelated 1990s sighting bundled on the same page, not to Flight 564 -- flagged here rather than invented."
+    ],
+    "related": [
+      "ufo-coverup",
+      "project-blue-book"
+    ],
+    "sources": [
+      {
+        "title": "America West Airlines Flight 564 UFO Case – May 25, 1995",
+        "url": "https://www.theblackvault.com/casefiles/america-west-airlines-flight-564-ufo-case/",
+        "type": "archive",
+        "stance": "supports"
+      },
+      {
+        "title": "UFOs at close sight: airliner encounter over Texas, USA, 1995",
+        "url": "https://ufology.patrickgross.org/htm/texas95.htm",
+        "type": "archive",
+        "stance": "documents"
+      }
+    ],
+    "research_note": "Black Vault case-file URL verified live (HTTP 200) on 2026-09-04. Cross-checked against Patrick Gross's independent ufology case archive, which corroborates the NORAD radar-explanation shift and states investigator Walter N. Webb found no conventional explanation. Searched specifically for a skeptical/debunking explanation (meteor, aircraft, atmospheric) per assignment; the only 'meteorite' skeptic claim found in search results (on ufoinsight.com) turned out on direct fetch to describe an unrelated Long Island sighting bundled on the same aggregator page, not Flight 564 -- no credible skeptical source specific to this case was found, so none is asserted."
+  },
+  {
+    "id": "condon-report-astronaut-omission",
+    "name": "Astronaut UFO Sightings Removed from the Condon Report",
+    "aliases": [
+      "Condon Report Missing Pages",
+      "DTIC Condon Report Omission",
+      "Missing McDivitt-Borman UFO Pages"
+    ],
+    "genre": "extraterrestrial",
+    "year": 2020,
+    "truth": 35,
+    "impact": 35,
+    "notoriety": 28,
+    "summary": "The 1968 Condon Report — the U.S. government-commissioned study that concluded UFOs did not merit further scientific investigation, prompting the Air Force to close Project Blue Book — was for over 50 years distributed by the Defense Technical Information Center (DTIC) missing 70 pages of Chapter 6 covering unexplained UFO sightings by Gemini astronauts James McDivitt and Frank Borman. A complete, unredacted copy surfaced at the National Technical Information Service (NTIS) only in June 2020.",
+    "evidence_for": [
+      "The DTIC-distributed version of the Condon Report (1,425 pages) was missing 70 pages of Chapter 6 covering astronaut UFO sightings, while a complete NTIS copy (1,496 pages) later surfaced with the section intact.",
+      "The missing chapter covered sightings by Gemini astronauts James McDivitt ('a cylindrical object with protuberance') and Frank Borman (an unidentified 'bogey'), cases the report itself concluded had no adequate explanation — the material most likely to undercut its own headline conclusion.",
+      "Black Vault founder John Greenewald Jr. located and published the complete NTIS copy in June 2020 (the recovered PDF's file metadata is dated June 26, 2020, corroborating the reported discovery date), after searching since December 2019 — meaning the omission went unnoticed in the report's official public-facing copy for over five decades."
+    ],
+    "evidence_against": [
+      "No document, memo, or admission has surfaced explaining who removed the pages or why; a mundane binding, scanning, or archiving error at DTIC — rather than deliberate suppression — has not been ruled out.",
+      "The Condon Report's core conclusion was independently reviewed and endorsed by a National Academy of Sciences panel chaired by astronomer Gerald M. Clemence, which found extraterrestrial explanations 'the least likely' and UFO research a low priority — suggesting that even if the pages were intentionally cut, the study's actual scientific verdict was not altered.",
+      "Only Black Vault has publicized or investigated the discrepancy; no mainstream outlet, historian, or other FOIA researcher has independently corroborated a deliberate-removal narrative over an innocent explanation."
+    ],
+    "related": [
+      "project-blue-book",
+      "ufo-coverup"
+    ],
+    "sources": [
+      {
+        "title": "Astronaut UFO Sightings Mysteriously Removed From Government UFO Study – Here They Are",
+        "url": "https://www.theblackvault.com/casefiles/astronaut-ufo-sightings-mysteriously-removed-from-government-ufo-study-here-they-are/",
+        "type": "archive",
+        "stance": "supports"
+      },
+      {
+        "title": "Astronaut UFO Sightings Mysteriously Removed From Government UFO Study – Document Archive",
+        "url": "https://www.theblackvault.com/documentarchive/astronaut-ufo-sightings-mysteriously-removed-from-government-ufo-study-here-they-are/",
+        "type": "archive",
+        "stance": "supports"
+      },
+      {
+        "title": "Missing Pages from the Condon Report (Ch. 6, astronaut sightings)",
+        "url": "https://documents2.theblackvault.com/documents/ntis/MissingPages-Condon.pdf",
+        "type": "government",
+        "stance": "supports"
+      },
+      {
+        "title": "Scientific Study of Unidentified Flying Objects — Complete NTIS Version",
+        "url": "https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "Scientific Study of Unidentified Flying Objects — Incomplete DTIC Version",
+        "url": "https://documents.theblackvault.com/documents/ufos/CondonReport-Full.pdf",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "Condon Report — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Condon_Report",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "research_note": "Drafted from a Black Vault scouting pass (E1_leads.md, group E1). All four Black Vault/document URLs return HTTP 200 (verified via curl -I with a browser-like User-Agent, checked 2026-09-05), and the two recovered NTIS PDFs carry a last-modified timestamp of 2020-06-26, corroborating the reported June 2020 discovery date. Wikipedia's Condon Report article added for mainstream context/balance: the report is widely credited as the study that ended serious US-government UFO research funding (leading directly to Project Blue Book's December 1969 closure), received praise from Science magazine at the time, was independently endorsed by a National Academy of Sciences review panel, but was also criticized by contemporaries J. Allen Hynek and James E. McDonald as poorly organized and incomplete in its own right."
+  },
+  {
+    "id": "flatwoods-monster",
+    "name": "Flatwoods Monster",
+    "aliases": [
+      "Braxton County Monster",
+      "Green Monster of Flatwoods"
+    ],
+    "genre": "extraterrestrial",
+    "year": 1952,
+    "truth": 10,
+    "impact": 15,
+    "notoriety": 32,
+    "summary": "On September 12, 1952, a group of boys and adults in Flatwoods, West Virginia reported a landed craft and a floating, roughly 10-foot entity with a glowing round head that emitted an oily, throat-irritating substance; National Guard personnel who investigated overnight collected samples of the residue that were reportedly sent off for analysis and never accounted for again.",
+    "evidence_for": [
+      "Multiple named witnesses (Kathleen May, her sons, several other local children, and National Guardsman Eugene Lemon) independently described a landed object and an unusually large, glowing-eyed entity emitting a foul odor that reportedly caused nausea and throat irritation",
+      {
+        "text": "A National Guard contingent under a Col. Leavitt spent the night at the site and collected samples of the oily residue, which per contemporary accounts were sent off for analysis and never publicly accounted for again",
+        "source": "https://www.theblackvault.com/casefiles/flatwoods-monster-ufo-event/"
+      },
+      "Researchers Frank Feschino and the late Stanton Friedman argued the barn-owl explanation cannot easily account for the entity's reported ~10-foot height and hovering/floating behavior"
+    ],
+    "evidence_against": [
+      {
+        "text": "Skeptic Joe Nickell's detailed 2000 reconstruction in Skeptical Inquirer (vol. 24, no. 6, pp. 15-19) concluded the bright light was most likely a meteor also seen that night across Maryland, Pennsylvania, and West Virginia; the pulsating red light was one of three nearby aircraft warning beacons; and the 'monster' was most likely a startled barn owl perched on a tree limb, with foliage and anxious perception accounting for the reported 'skirt' and glowing eyes",
+        "source": "https://en.wikipedia.org/wiki/Flatwoods_monster"
+      },
+      {
+        "text": "Reported 'skid marks' and gummy ground residue found the next day were later attributed by researcher Ryan Haupt to a local boy having driven his truck around the site, rather than to any craft landing",
+        "source": "https://en.wikipedia.org/wiki/Flatwoods_monster"
+      },
+      "No lab results, chain-of-custody records, or any archival trace of the National Guard's collected samples have ever surfaced; the 'cover-up' rests on a single secondhand claim that the samples were 'sent off never to be heard from again,' not a documented paper trail of denials or FOIA fights"
+    ],
+    "related": [
+      "roswell",
+      "ufo-coverup",
+      "project-blue-book"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/Flatwoods_monster",
+    "sources": [
+      {
+        "title": "Flatwoods Monster - UFO Event - The Black Vault Case Files",
+        "url": "https://www.theblackvault.com/casefiles/flatwoods-monster-ufo-event/",
+        "type": "archive",
+        "stance": "supports"
+      },
+      {
+        "title": "Flatwoods monster - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Flatwoods_monster",
+        "type": "wikipedia",
+        "stance": "debunks"
+      }
+    ],
+    "research_note": "Base write-up drawn from The Black Vault's case-file page (URL verified live, HTTP 200, fetched directly). This is a genuinely thinner case than the other 2026-09 Black Vault leads: the entire 'cover-up' allegation is one secondhand sentence about lost National Guard samples, with no FOIA fight, no document trail, and no institutional denial-then-reversal pattern to point to. Joe Nickell's barn-owl-plus-meteor explanation (Skeptical Inquirer, 2000) is a real, substantive, specific rebuttal, verified via the Wikipedia article's citation of it, and is one of the more thoroughly argued mundane explanations in ufology. Truth set near the debunked/fringe boundary (10) to reflect that combination: a real anomaly report, but a strong named skeptical account and essentially no surviving evidence trail for the cover-up claim itself."
+  },
+  {
+    "id": "jal-1628-alaska-ufo",
+    "name": "JAL Flight 1628 Alaska UFO Incident",
+    "aliases": [
+      "1986 Alaska UFO Incident",
+      "Terauchi UFO Sighting",
+      "Japan Air Lines Cargo Flight 1628"
+    ],
+    "genre": "extraterrestrial",
+    "year": 1986,
+    "truth": 30,
+    "impact": 30,
+    "notoriety": 45,
+    "summary": "On November 17, 1986, JAL Capt. Kenju Terauchi and his cargo-flight crew tracked unidentified objects, including a huge 'mothership,' by both radar and sight for roughly 50 minutes over Alaska, partly corroborated by FAA ground radar; the case became a conspiracy flashpoint after JAL reassigned Terauchi following media coverage, an FAA official alleged a CIA-directed secrecy briefing, and the FAA's later claim that case records had been destroyed was contradicted when over 1,500 pages of the file turned up at the National Archives.",
+    "evidence_for": [
+      "FAA ground radar at Elmendorf AFB briefly confirmed a 'primary target' near the aircraft, and a later review of the incident noted military radar had logged 'a flight of two' targets alongside the 747.",
+      "After Terauchi spoke to Japanese media about the sighting, JAL grounded him and reassigned him to a desk job in early 1987 (he was later quietly reinstated to flight status), a sequence critics read as retaliation rather than routine personnel action.",
+      "FAA Division Chief John Callahan alleged that a January 1987 briefing attended by CIA representatives and Reagan-administration officials concluded the event 'never happened' and instructed attendees to keep it secret; the claim is unconfirmed by other named witnesses.",
+      "The FAA told FOIA requesters in 2001 and 2009 that the case's roughly 107 pages of records had been destroyed, yet The Black Vault subsequently located over 1,500 pages of the same case file at the National Archives (Record Group 237, local identifier 1203, archival series 733667), directly contradicting the destruction claim."
+    ],
+    "evidence_against": [
+      {
+        "text": "Philip J. Klass concluded the crew most likely mistook the planets Jupiter and Mars, both unusually bright and low on the horizon that night, for the trailing lights and 'mothership.'",
+        "source": "https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628"
+      },
+      {
+        "text": "A later technical review attributed the paired radar return the crew read as a second UFO to a coincidental split radar image of their own 747, a known instrumentation artifact.",
+        "source": "https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628"
+      },
+      {
+        "text": "When investigators interviewed the crew separately in 1988, Klass found their individual accounts of the sighting had diverged substantially from the original 1986 report.",
+        "source": "https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628"
+      }
+    ],
+    "related": [
+      "project-blue-book",
+      "ufo-coverup",
+      "pentagon-uap-disclosure"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628",
+    "sources": [
+      {
+        "title": "The Vault Files: 1986 Alaska JAL Flight 1628",
+        "url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/",
+        "type": "archive",
+        "stance": "supports"
+      },
+      {
+        "title": "Japan Air Lines Cargo Flight 1628 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628",
+        "type": "wikipedia",
+        "stance": "debunks"
+      }
+    ],
+    "research_note": "Black Vault case-file page fetched and verified live (HTTP 200, 2026-09-04); it documents The Black Vault's own FOIA-driven discovery of the 1,500+ page file at NARA RG 237 contradicting the FAA's 'destroyed' claim. Skeptical Jupiter/split-radar-return explanation (Philip Klass) verified via the Wikipedia article, which also independently confirms Terauchi's reassignment and the Callahan CIA-briefing allegation."
+  },
+  {
+    "id": "kecksburg-ufo-incident",
+    "name": "Kecksburg UFO Incident",
+    "aliases": [
+      "Kecksburg Incident",
+      "Pennsylvania's Roswell",
+      "Kecksburg UFO Crash"
+    ],
+    "genre": "extraterrestrial",
+    "year": 1965,
+    "truth": 20,
+    "impact": 30,
+    "notoriety": 45,
+    "summary": "On December 9, 1965, a fireball crashed near Kecksburg, Pennsylvania; witnesses reported an acorn-shaped metallic object cordoned off and loaded onto a military flatbed, while officials denied anything crashed. The alleged cover-up centers on NASA's own admitted 'fragology' analysis file on the recovered fragments, which went missing and was never recovered despite a federal FOIA lawsuit.",
+    "evidence_for": [
+      {
+        "text": "NASA maintained a 'fragology' program that analyzed recovered space-debris fragments and internally concluded the Kecksburg material was of Soviet origin, but by 2005 admitted the specific analysis documents had been 'misplaced' since the 1980s.",
+        "source": "https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/"
+      },
+      {
+        "text": "Journalist Leslie Kean's 2003 FOIA lawsuit (Kean v. NASA) led a federal judge to criticize NASA's 'foot-dragging' and forced an exhaustive court-ordered search; NASA paid roughly $50,000 of Kean's legal fees, yet the core fragology files never surfaced and the National Archives confirmed it never received those boxes.",
+        "source": "https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/"
+      },
+      "Some local witnesses reported an acorn-shaped metallic object being recovered and loaded onto a covered military flatbed truck, directly contradicting fire chief Ed Myers's on-record statement that 'nothing crashed in those woods.'"
+    ],
+    "evidence_against": [
+      {
+        "text": "A 1967 astronomical study (Chamberlain & Krause, Journal of the Royal Astronomical Society of Canada) triangulated photographs taken from two Michigan locations and concluded the fireball was a meteor bolide descending at a steep angle, likely impacting the northwestern shore of Lake Erie rather than Kecksburg, PA.",
+        "source": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident"
+      },
+      {
+        "text": "NASA itself concluded the object's atmospheric trajectory was too steep to match a re-entering Kosmos 96 satellite, favoring the natural-meteor explanation over the popular Soviet-satellite theory.",
+        "source": "https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/"
+      },
+      "No physical fragment, official recovery record, or corroborating photograph of an 'acorn-shaped' craft has ever been produced; the missing-file narrative rests on a documented record-keeping failure rather than proof that a craft was actually recovered and analyzed."
+    ],
+    "related": [
+      "roswell",
+      "ufo-coverup",
+      "project-blue-book"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+    "sources": [
+      {
+        "title": "The Vault Files: The 1965 Kecksburg, Pennsylvania Crash",
+        "url": "https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/",
+        "type": "archive",
+        "stance": "supports"
+      },
+      {
+        "title": "Kecksburg UFO incident — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+        "type": "wikipedia",
+        "stance": "debunks"
+      }
+    ],
+    "research_note": "Black Vault case-file URL verified live (HTTP 200, fetched 2026-09-05) and content-checked against its own summary of the fragology-file disappearance and Kean v. NASA lawsuit. Balanced with the Wikipedia article (also verified live), which documents the 1967 Chamberlain & Krause astronomical triangulation (meteor bolide, Lake Erie impact zone) and NASA's own rejection of the Kosmos 96 satellite theory on trajectory grounds — both mainstream explanations are cited rather than presenting only the cover-up narrative. No fabricated URLs; only pages actually fetched are cited."
+  },
+  {
+    "id": "kubark-interrogation-manual",
+    "name": "CIA KUBARK Counterintelligence Interrogation Manual",
+    "aliases": [
+      "KUBARK Manual",
+      "CIA Torture Manual (1963)"
+    ],
+    "genre": "espionage",
+    "year": 1997,
+    "truth": 58,
+    "impact": 55,
+    "notoriety": 38,
+    "summary": "KUBARK is the CIA's July 1963 field manual for coercive counterintelligence interrogation of 'resistant sources,' describing techniques including sensory deprivation, isolation, sleep deprivation, threats, and electric shock. Long alleged to be the doctrinal root of interrogation methods later taught to allied Latin American intelligence services and used in post-9/11 CIA detention, the manual remains under active, contested declassification review more than six decades after it was written.",
+    "evidence_for": [
+      "The manual itself, as declassified, explicitly instructs on coercive techniques (sensory deprivation, isolation, sleep deprivation, threats, and two references to electric shock) for use against resistant interrogation subjects.",
+      "Seven related Army interrogation manuals drawing on the same doctrinal lineage were used from 1987-1991 to train military and intelligence personnel from Colombia, Ecuador, El Salvador, Guatemala, and Peru at the U.S. Army School of the Americas; members of Honduras's Battalion 3-16, implicated in disappearances and torture in the early 1980s, are reported to have used related methods.",
+      "The manual was first forced into partial public view only after a 1994 Baltimore Sun FOIA lawsuit over its Battalion 3-16 reporting, with the CIA finally releasing a heavily redacted version in January 1997 -- three decades after it was written.",
+      "A further CIA release obtained via appeal in July 2026 (after a May 2021 Mandatory Declassification Review filed by researcher John Greenewald and a February 2024 partial response) restored additional passages, including an internal Cold War-era estimate that 'as high as seventy percent' of Soviet defectors in the mid-to-late 1950s were suspected controlled double agents -- revealing part of the manual's original threat-model reasoning.",
+      "As of mid-2026 the CIA is still withholding material -- citing Executive Order 13526 Sections 3.3(h)(2) and 6.2(d) to redact 'organizational identifiers, operational procedures, and references to internal directives' -- meaning the agency is still actively deciding what the public may see of a 63-year-old document, decades after its core existence became known."
+    ],
+    "evidence_against": [
+      "The manual itself cautions against gratuitous physical coercion, advising that torture can backfire and that the threat of pain is often more effective than pain itself -- complicating a simple reading of the document as a straightforward 'torture how-to.'",
+      "There is no official U.S. government acknowledgment that KUBARK's specific 1963 doctrine was deliberately and directly exported as policy to Latin American services; the 1980s Spanish-language School of the Americas manuals are a related but separate set of documents, and the causal chain from the original KUBARK text to Battalion 3-16 field practices is inferential rather than a documented order.",
+      "The manual's most sensitive and newsworthy content (the coercive-technique catalog, the Battalion 3-16 connection) has already been public for nearly three decades since the 1997 release; the 2026 release chiefly restores administrative/directive citations and source-vetting rationale, not new evidence of physical abuse methods."
+    ],
+    "related": [
+      "mkultra"
+    ],
+    "sources": [
+      {
+        "title": "CIA Declassifies Additional Portions of 1963 KUBARK Manual After The Black Vault Appeal",
+        "url": "https://www.theblackvault.com/documentarchive/cia-declassifies-additional-portions-of-1963-kubark-manual-after-the-black-vault-appeal/",
+        "type": "archive",
+        "stance": "documents"
+      },
+      {
+        "title": "KUBARK Counterintelligence Interrogation - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/KUBARK",
+        "type": "wikipedia",
+        "stance": "documents"
+      },
+      {
+        "title": "Prisoner Abuse: Patterns from the Past (National Security Archive Electronic Briefing Book No. 122)",
+        "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB122/index.htm",
+        "type": "archive",
+        "stance": "documents"
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/KUBARK",
+    "research_note": "This is a genuine, ongoing FOIA-suppression story rather than a fringe theory: the manual's coercive-interrogation content and its downstream connection to Latin American training (School of the Americas manuals, Battalion 3-16) are well-documented historical fact (see Wikipedia and the National Security Archive's 2004 'Prisoner Abuse: Patterns from the Past' briefing book, which has hosted a scanned copy of the manual for two decades). What makes this a live atlas entry rather than closed history is the Black Vault-documented 2021-2026 Mandatory Declassification Review fight: John Greenewald's May 2021 MDR request, a limited February 2024 CIA response, a March 2024 appeal, and a further partial release in July 2026 that the CIA still qualifies with ongoing E.O. 13526 redactions. `year` is set to 1997 (the Baltimore Sun-forced first declassification, when the 'doctrinal root of exported torture' allegation became a matter of public record) rather than 1963 (the manual's drafting) or 2026 (the latest release), per the schema's 'first popularized' guidance. Truth is set in the upper end of the Plausible band given the manual's coercive content and the SOA/Battalion 3-16 link are independently well-documented, while impact/notoriety reflect a serious but not maximally famous (compared to e.g. MKUltra) episode."
+  },
+  {
+    "id": "levelland-ufo-incident",
+    "name": "Levelland UFO Incident",
+    "aliases": [
+      "Levelland Lights",
+      "1957 Levelland Sightings"
+    ],
+    "genre": "extraterrestrial",
+    "year": 1957,
+    "truth": 28,
+    "impact": 25,
+    "notoriety": 35,
+    "summary": "On the night of November 2-3, 1957, at least 8-10 independent witnesses near Levelland, Texas — including a sheriff, a fire chief, and a college student — reported a huge glowing/egg-shaped object that caused their vehicles' engines and headlights to fail on approach, with power restoring immediately once the object departed. Project Blue Book closed the case within days as 'ball lightning or St. Elmo's fire,' a conclusion its own scientific consultant and civilian investigators argued was scientifically implausible and rushed.",
+    "evidence_for": [
+      "Police logged 15 separate UFO calls in about a two-hour window, and at least 8-10 witnesses independently reported near-identical vehicle failures (dead engine, dead headlights) that resolved the instant the object left the area.",
+      "NICAP documented 8-9 direct witnesses to the close-range object, directly contradicting Blue Book's public claim that only three people saw it up close.",
+      "Blue Book's own scientific consultant, Dr. J. Allen Hynek, later wrote that combining a low-probability event (ball lightning) with the simultaneous appearance of a strange light 'is dubious at best,' and called the dismissal intellectually lazy.",
+      "University of Arizona physicist Dr. James E. McDonald told Congress in 1968 that Levelland was a 'famous case' showing physical vehicle-ignition effects could not be explained by the weather conditions present that night (no thunderstorm, only a trace of rain).",
+      "NICAP's contemporary assessment was that the Air Force's rapid, 7-hour-investigation explanation had 'all the earmarks of public relations utterances' rather than a genuine scientific inquiry."
+    ],
+    "evidence_against": [
+      "Project Blue Book's official investigation (USAF Press Release No. 1108-57) attributed the sightings and vehicle failures to 'weather phenomena of an electrical nature' — ball lightning or St. Elmo's fire — generated by regional storm activity.",
+      "Skeptic Dr. Donald Menzel argued the effects were explainable by a combination of genuine ball lightning and observer panic/hysteria, suggesting the first witness may have inadvertently stalled his own truck, with later reports driven by 'general excitement' rather than a real recurring object.",
+      "No wreckage, radar confirmation, or independent physical trace evidence was ever recovered; the case rests entirely on witness testimony and Blue Book's own case file, which remains officially closed as 'explained.'"
+    ],
+    "related": [
+      "project-blue-book",
+      "ufo-coverup",
+      "roswell"
+    ],
+    "sources": [
+      {
+        "title": "The Vault Files: The Levelland UFO Incident (1957)",
+        "url": "https://www.theblackvault.com/casefiles/the-vault-files-the-levelland-ufo-incident-1957/",
+        "type": "archive",
+        "stance": "documents"
+      },
+      {
+        "title": "Project Blue Book Case File: Levelland UFO Case, November 2-3, 1957",
+        "url": "https://documents2.theblackvault.com/documents/projectbluebook/projectbluebook-levellandufocase-november2-3-1957.pdf",
+        "type": "government",
+        "stance": "debunks"
+      },
+      {
+        "title": "NICAP: The UFO Evidence (1964)",
+        "url": "https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf",
+        "type": "archive",
+        "stance": "supports"
+      },
+      {
+        "title": "Levelland UFO case - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Levelland_UFO_case",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "research_note": "Black Vault case-file write-up verified live (200) and used as base narrative; Project Blue Book's own case-file PDF (hosted on Black Vault's document server) verified live and cited directly as the official 'ball lightning' conclusion source, giving a genuine government-document 'debunks' citation rather than relying only on the secondary write-up. NICAP's 1964 UFO Evidence report verified live and cited as the period rebuttal source (supports stance) for the claim that Blue Book undercounted witnesses and rushed its conclusion; Hynek's and McDonald's specific rebuttal quotes came from the Black Vault write-up itself, which sources them to Blue Book's own file and 1968 congressional testimony. Wikipedia article confirmed live as a neutral cross-reference."
+  },
+  {
+    "id": "ohare-airport-ufo-sighting",
+    "name": "O'Hare International Airport UFO Sighting",
+    "aliases": [
+      "Chicago O'Hare UFO sighting",
+      "United Flight 446 UFO sighting"
+    ],
+    "genre": "extraterrestrial",
+    "year": 2006,
+    "truth": 25,
+    "impact": 25,
+    "notoriety": 42,
+    "summary": "On November 7, 2006, roughly 10-12 United Airlines pilots, mechanics, and ground crew at Chicago O'Hare reported a silent, metallic disc hovering over Gate C17 before shooting upward and punching a hole in the overcast cloud ceiling; the FAA initially denied any investigation, then FOIA pressure forced it to admit related radio communications existed.",
+    "evidence_for": [
+      "Roughly 10-12 independent United Airlines employees (pilots, ramp workers, mechanics, supervisors) described the same silent, dark-gray disc-shaped object hovering 500-1,500 feet over Gate C17 for several minutes before ascending rapidly",
+      {
+        "text": "FAA spokeswoman Elizabeth Isham Cory initially told the Chicago Tribune the agency was 'not conducting any investigation,' but a subsequent FOIA request forced the FAA to acknowledge that recorded radio communications about the sighting existed",
+        "source": "https://www.theblackvault.com/casefiles/the-vault-files-2006-ohare-international-airport-ufo-sighting/"
+      },
+      "United Airlines publicly claimed no record of the incident existed even though its own managers had privately interviewed witnesses",
+      {
+        "text": "NARCAP's independent 155-page report (March 2007) found no radar confirmation but concluded the FAA's refusal to investigate was inappropriate given the safety implications of an unregistered object over a busy commercial airport",
+        "source": "https://www.theblackvault.com/casefiles/the-vault-files-2006-ohare-international-airport-ufo-sighting/"
+      }
+    ],
+    "evidence_against": [
+      {
+        "text": "Astronomer Mark Hammergren proposed the sighting was a 'hole-punch cloud' (fallstreak hole), where an aircraft passing through supercooled cloud droplets triggers ice-crystal formation that creates a self-clearing circular gap, which could account for both a disc-like shape and the hole left in the clouds",
+        "source": "https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting"
+      },
+      "No radar system, including FAA ground radar reviewed by NARCAP, detected any anomalous object in the monitored airspace at the time",
+      "No photographs or video of the object have ever surfaced despite the number of witnesses and the presence of an airport full of travelers with cameras"
+    ],
+    "related": [
+      "ufo-coverup",
+      "roswell",
+      "project-blue-book",
+      "pentagon-uap-disclosure"
+    ],
+    "depends_on": [],
+    "wikipedia": "https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting",
+    "sources": [
+      {
+        "title": "The Vault Files: 2006 O'Hare International Airport UFO Sighting",
+        "url": "https://www.theblackvault.com/casefiles/the-vault-files-2006-ohare-international-airport-ufo-sighting/",
+        "type": "archive",
+        "stance": "supports"
+      },
+      {
+        "title": "2006 O'Hare International Airport UFO sighting - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "research_note": "Base write-up drawn from The Black Vault's case-file page (URL verified live, HTTP 200, fetched directly). The FAA-denial-then-FOIA-reversal sequence and NARCAP's 155-page independent report are both corroborated on that page. Skeptical counter-explanation (Mark Hammergren's hole-punch/fallstreak-cloud theory) verified via the Wikipedia article on the incident and cross-checked against web search results citing his 2013 Chicago Tribune interview; no paywall-free primary Tribune URL could be located, so Wikipedia is cited as the source for that claim instead. Truth kept in the fringe band: institutional secrecy/reversal is well documented, but there is a live, physically mundane explanation on record and no radar, photo, or video corroboration."
+  },
+  {
+    "id": "phoenix-lights",
+    "name": "Phoenix Lights",
+    "aliases": [
+      "Phoenix Lights Incident",
+      "1997 Arizona Lights"
+    ],
+    "genre": "extraterrestrial",
+    "year": 1997,
+    "truth": 25,
+    "impact": 35,
+    "notoriety": 60,
+    "summary": "On the night of March 13, 1997, thousands of witnesses across Arizona, Nevada, and Sonora, Mexico reported a mile-plus-wide triangular formation of lights and a separate series of stationary lights over Phoenix, including then-Governor Fife Symington, who later called the object 'otherworldly.' The Air Force attributed the stationary lights to flares dropped during a training exercise, but FOIA responses from the bases involved have been cited as contradicting parts of that official account.",
+    "evidence_for": [
+      {
+        "text": "Thousands of witnesses across a roughly 300-mile stretch of Arizona, Nevada, and Sonora — including sitting Governor Fife Symington, who personally witnessed the event and called it 'otherworldly' — described a mile-plus-wide, silent triangular formation, distinct from the separate, later flare-drop lights over Phoenix.",
+        "source": "https://www.theblackvault.com/documentarchive/the-phoenix-lights-incident-march-13th-1997/"
+      },
+      {
+        "text": "A 2013 FOIA response obtained by The Black Vault has Luke Air Force Base 'dismissing' that flares were dropped by units associated with that base, while a separate Davis-Monthan Air Force Base FOIA response states relevant evidence 'has been destroyed,' complicating the paper trail behind the official flare explanation.",
+        "source": "https://www.theblackvault.com/documentarchive/the-phoenix-lights-incident-march-13th-1997/"
+      },
+      "Multiple witnesses described the triangular object as blocking out stars and moving as a single rigid structure, which they say is inconsistent with a loose formation of individual aircraft running lights."
+    ],
+    "evidence_against": [
+      {
+        "text": "The Air Force's official account treats the two sightings as separate events: a formation of A-10 aircraft flying with steady, non-blinking formation lights around 8:00 p.m. (since military aircraft are exempt from FAA blinking-light rules), and Maryland Air National Guard A-10s dropping slow-falling LUU-2B/B illumination flares over the Barry Goldwater Range around 10:00 p.m.",
+        "source": "https://en.wikipedia.org/wiki/Phoenix_Lights"
+      },
+      {
+        "text": "Lt. Col. Ed Jones of the Maryland Air National Guard publicly confirmed in 2007 that he had piloted one of the aircraft that dropped flares that night, and analysis of LUU-2B/B flare luminosity at the observed 50-70 mile distance falls within the brightness range witnesses reported.",
+        "source": "https://en.wikipedia.org/wiki/Phoenix_Lights"
+      },
+      "Amateur astronomer Mitch Stanley independently observed the high-altitude lights through a 10-inch telescope and reported they resolved clearly into individual airplanes flying in formation rather than a single solid craft."
+    ],
+    "related": [
+      "ufo-coverup",
+      "pentagon-uap-disclosure",
+      "project-blue-book"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Phoenix_Lights",
+    "sources": [
+      {
+        "title": "The Phoenix Lights Incident, March 13th, 1997",
+        "url": "https://www.theblackvault.com/documentarchive/the-phoenix-lights-incident-march-13th-1997/",
+        "type": "archive",
+        "stance": "supports"
+      },
+      {
+        "title": "Phoenix Lights — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Phoenix_Lights",
+        "type": "wikipedia",
+        "stance": "debunks"
+      }
+    ],
+    "research_note": "Black Vault documentarchive URL verified live (HTTP 200, fetched 2026-09-05) and content-checked, including its cited Luke AFB and Davis-Monthan AFB FOIA responses. Balanced with the Wikipedia article (also verified live), which documents the Air Force's Operation Snowbird flare-drop explanation, Lt. Col. Ed Jones's 2007 on-record confirmation he flew one of the flare-dropping aircraft, and amateur astronomer Mitch Stanley's telescope observation resolving the lights into individual planes. No fabricated URLs; only pages actually fetched are cited."
+  },
+  {
+    "id": "socorro-ufo-landing",
+    "name": "Socorro UFO Landing (Lonnie Zamora Incident)",
+    "aliases": [
+      "Lonnie Zamora Incident",
+      "Socorro UFO Incident"
+    ],
+    "genre": "extraterrestrial",
+    "year": 1964,
+    "truth": 35,
+    "impact": 30,
+    "notoriety": 45,
+    "summary": "On April 24, 1964, Socorro, New Mexico police sergeant Lonnie Zamora — described by an FBI assessment as 'not given to fantasy' — reported a landed egg-shaped craft with two small humanoid figures and a red insignia, leaving scorched vegetation and four ground indentations. It is one of the rare Project Blue Book cases officially closed as 'Unidentified,' but an Army captain ordered witnesses to keep the insignia detail out of the press, a Public Health Service chemist who found unexplained compounds at the site was reportedly gagged with her notes confiscated, and a 2018 cache of Blue Book documents (the Rob Mercer Collection) contained investigator notes and Zamora's original insignia sketch that are absent from the public National Archives file.",
+    "evidence_for": [
+      "Project Blue Book, after a full investigation, officially rated the case 'UNIDENTIFIED' — one of only a small number of its roughly 12,000+ cases to receive that designation rather than an explained/insufficient-data closure.",
+      "An FBI assessment (May 8, 1964) described Zamora as 'well regarded as a sober, industrious, and conscientious officer and not given to fantasy,' and investigators found no evidence of a hoax: no pranksters' footprints and no residue consistent with conventional pyrotechnics.",
+      "Army Captain Richard T. Holder, on-scene that evening from White Sands Proving Grounds, instructed witnesses not to discuss the red insignia symbol with the press, a directive that later caused conflicting published versions of the symbol after Hynek independently described a different version on the radio.",
+      "A Public Health Service chemist who examined melted sand and burned vegetation at the site on April 25 reportedly found unidentifiable organic compounds, but was 'gagged by Air Force personnel, who took her notes and told her not to discuss it,' and no lab results were ever publicly released.",
+      "A cache of Blue Book documents (the 2018 Rob Mercer / 'Desks of Project Blue Book' Collection) contains investigator notes and Zamora's original insignia sketch — item numbers the Black Vault identifies as 'not included in the National Archives version' of the case file — indicating the public record was incomplete."
+    ],
+    "evidence_against": [
+      "Skeptic Philip J. Klass and, later, UFO researcher Anthony Bragalia separately advanced a student-hoax theory: a 1968 letter from New Mexico Tech president Stirling Colgate to Linus Pauling states Colgate 'knows' the incident was a hoax by a student who has since left, and one professor recalled a student researcher decades later locating a hoax participant who confirmed a role without giving details (Robert Sheaffer, 'Famous Socorro \"UFO Landing\" a Student Prank?', Skeptical Inquirer, March/April 2010).",
+      "Klass separately theorized the case was collusion involving Zamora, the mayor, and local boosters to draw tourism attention to Socorro, and criticized the asymmetry of the ground 'pad prints' as inconsistent with any real landing-gear design.",
+      "A separate conventional-explanation theory holds Zamora witnessed a classified test of a lunar-landing device (a Surveyor-program test article) by White Sands Missile Range personnel operating near Socorro that day; skeptics of this theory in turn note Zamora reported no helicopter (which period lunar-lander tests required to lift/carry the article) and that the craft he described was smooth and egg-shaped rather than the spindly, truss-legged lunar-lander test rigs of the era.",
+      "No hoax participant has ever come forward publicly or been definitively identified, and the mechanism for how a landing craft, humanoids, scorched vegetation, and unexplained soil chemistry could all be faked in the few minutes before a second officer arrived on scene has never been fully explained by proponents of the hoax theory either."
+    ],
+    "related": [
+      "project-blue-book",
+      "ufo-coverup",
+      "roswell"
+    ],
+    "sources": [
+      {
+        "title": "The Vault Files: The Socorro UFO Landing Incident, April 24, 1964",
+        "url": "https://www.theblackvault.com/casefiles/the-vault-files-the-socorro-ufo-landing-incident-april-24-1964/",
+        "type": "archive",
+        "stance": "documents"
+      },
+      {
+        "title": "Project Blue Book Case File: Socorro, New Mexico, April 24, 1964",
+        "url": "https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Socorro-NewMexico-04-24-1964.pdf",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "Desks of Project Blue Book: Socorro, New Mexico UFO Landing, 24 April 1964 (Rob Mercer Collection)",
+        "url": "https://www.theblackvault.com/casefiles/desks-project-blue-book-socorro-new-mexico-ufo-landing-24-april-1964/",
+        "type": "archive",
+        "stance": "supports"
+      },
+      {
+        "title": "FBI Files on the Socorro UFO Landing, April 24, 1964",
+        "url": "https://www.theblackvault.com/documentarchive/fbi-files-on-the-socorro-ufo-landing-april-24-1964/",
+        "type": "government",
+        "stance": "documents"
+      },
+      {
+        "title": "Robert Sheaffer, 'Famous Socorro \"UFO Landing\" a Student Prank?' (Psychic Vibrations column), Skeptical Inquirer, March/April 2010",
+        "url": "https://skepticalinquirer.org/wp-content/uploads/sites/29/2010/03/p25.pdf",
+        "type": "debunker",
+        "stance": "debunks"
+      },
+      {
+        "title": "Lonnie Zamora incident - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lonnie_Zamora_incident",
+        "type": "wikipedia",
+        "stance": "documents"
+      }
+    ],
+    "research_note": "Black Vault case-file write-up verified live (200) and used as base narrative. Verified and added the actual Project Blue Book Socorro case-file PDF (government-hosted document, distinct from the secondary write-up) and the separate Black Vault documentarchive FBI-files page for a second primary-government citation. For balance, sourced and verified (via browser-UA fetch + pdftotext, since default curl UA was blocked with 403 by Cloudflare) the actual Robert Sheaffer 'Psychic Vibrations' column in Skeptical Inquirer (Mar/Apr 2010), which lays out Philip Klass's and Anthony Bragalia's competing student-hoax / town-boosterism hoax theories with named sources (Stirling Colgate's 1968 letter to Linus Pauling). Also checked the lunar-lander/Surveyor test-article theory (David E. Thomas, New Mexicans for Science and Reason): the primary nmsr.org/socorro.htm page returns a live 404 today (site restructured; no Wayback capture found either, so not cited directly as a standalone source to avoid citing a dead link), but the theory and its specific rebuttal (no helicopter reported; craft shape mismatch vs. spindly lunar-lander test rigs) are corroborated by the already-cited, live Wikipedia article, so it is included in evidence_against without a separate broken URL. Wikipedia article confirmed live."
+  },
+  {
+    "id": "suffern-three-mile-lake-ufo",
+    "name": "Suffern Three Mile Lake Incident",
+    "aliases": [
+      "Bracebridge Ontario UFO Incident",
+      "Robert Suffern UFO Sighting"
+    ],
+    "genre": "extraterrestrial",
+    "year": 1975,
+    "truth": 10,
+    "impact": 10,
+    "notoriety": 15,
+    "summary": "On October 7, 1975, Ontario carpenter Robert Suffern reported a landed oval UFO and a 4.5-foot humanoid on a gravel road near Three Mile Lake, Bracebridge, Canada. Five days later, Suffern said he received middle-of-the-night phone calls from men identifying themselves as U.S. military officers 'from the White House' asking for details of the sighting.",
+    "evidence_for": [
+      "Suffern's sighting was corroborated the same night by his sister and by two independent witness groups (including a schoolteacher) who separately reported unusual lights over the area.",
+      "CUFOS director J. Allen Hynek dispatched physical-trace investigator Henry McKay to the site within two days; McKay found skid marks at the reported landing spot and described Suffern as a straightforward, credible witness.",
+      "The account is more specific than a typical crank call: it names two distinct callers ('Lt. Colin Hunter' and 'Lt. Col. Waters') across two nights, and Suffern says a callback number was provided and used, rather than resting on a single unreturned contact."
+    ],
+    "evidence_against": [
+      "The 'White House' identities and phone number were never independently verified against actual U.S. government personnel or switchboard records; no confirmation of any such officer or call has ever come from the White House, the Pentagon, or Canadian authorities.",
+      "The only physical trace evidence recovered was non-diagnostic skid marks, consistent with mundane explanations (a parked vehicle, animal activity, a staged prank) and does not by itself confirm a landed craft.",
+      "There is no radar, photographic, or documentary evidence corroborating the object's appearance or the humanoid figure; the entire case rests on one primary witness's uncorroborated account of both the sighting and the subsequent calls."
+    ],
+    "related": [
+      "ufo-coverup"
+    ],
+    "sources": [
+      {
+        "title": "Suffern Three Mile Lake Incident: UFO Lands On Road, White House Reportedly Calls",
+        "url": "https://www.theblackvault.com/casefiles/suffern-three-mile-lake-incident-ufo-lands-road-white-house-reportedly-calls/",
+        "type": "archive",
+        "stance": "documents"
+      }
+    ],
+    "research_note": "Flagged by the scouting agent as the weakest lead of this project (gut estimate truth ~10). The sighting itself has modest corroboration (sister, two other witness groups, a CUFOS-dispatched investigator who found skid marks), but the core hook of this theory -- that callers identifying themselves as U.S. military officers 'from the White House' phoned a Canadian civilian witness within days of the event -- is entirely uncorroborated: no independently verified callback number, no confirmed government identity, no institutional record of any such contact. Physical trace evidence was thin (skid marks only). Included per the brief's note that it offers a distinct 'government contacted the witness directly' flavor of claim not covered by the atlas's existing FOIA-paper-trail-style UFO entries, but truth/impact were kept low to reflect how little of the case is actually verifiable beyond the sighting report itself."
+  },
+  {
+    "id": "tehran-1976-ufo-incident",
+    "name": "1976 Tehran UFO Incident",
+    "aliases": [
+      "Iranian F-4 UFO Intercept",
+      "1976 Iran Incident"
+    ],
+    "genre": "extraterrestrial",
+    "year": 1976,
+    "truth": 35,
+    "impact": 35,
+    "notoriety": 45,
+    "summary": "Two Imperial Iranian Air Force F-4 Phantom jets scrambled to intercept a bright UFO over Tehran on September 19, 1976, and both suffered instrument, weapons, and communications failures on approach, with the pilots' visual sightings independently corroborated by ground radar and tower personnel; the U.S. Defense Intelligence Agency's own declassified 1977 report called it 'a classic' case, but no official U.S. or Iranian explanation or follow-up documentation was ever issued.",
+    "evidence_for": [
+      "The DIA's declassified 1977 Intelligence Information Report rated the case 'an outstanding report... a classic which meets all the criteria necessary for a valid study of the UFO phenomenon,' citing multiple reliable witnesses including an Air Force general and trained pilots.",
+      "Ground radar and tower personnel independently corroborated the pilots' visual sightings of the object.",
+      "Both F-4s reported instrument, communications, and weapons-system failures specifically when closing to intercept the object, and the second aircraft's crew reported a smaller object detaching from and rejoining the main craft.",
+      "The DIA report promised 'more information will be forwarded when it becomes available,' but no subsequent official follow-up ever surfaced, and Iranian military files on the case reportedly remain sealed or lost, particularly after the 1979 revolution."
+    ],
+    "evidence_against": [
+      {
+        "text": "Philip J. Klass and James Oberg concluded the initial bright light was most likely the planet Jupiter, which was exceptionally bright that week and positioned along the direction the F-4s were vectored to fly.",
+        "source": "https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident"
+      },
+      {
+        "text": "Skeptics attributed the reported instrument failures to a documented history of electrical problems in the lead F-4, which had been repaired only a month earlier, combined with pilot fatigue and stress.",
+        "source": "https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident"
+      },
+      {
+        "text": "The night coincided with several active meteor showers, and a beeping transponder-like signal picked up during the incident was traced to an unrelated C-141 aircraft with a known history of ejecting emergency beacons during turbulence.",
+        "source": "https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident"
+      }
+    ],
+    "related": [
+      "project-blue-book",
+      "ufo-coverup",
+      "pentagon-uap-disclosure"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident",
+    "sources": [
+      {
+        "title": "The Vault Files: 1976 Iran Incident",
+        "url": "https://www.theblackvault.com/casefiles/the-1976-iran-incident/",
+        "type": "archive",
+        "stance": "supports"
+      },
+      {
+        "title": "1976 Tehran UFO incident - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident",
+        "type": "wikipedia",
+        "stance": "debunks"
+      }
+    ],
+    "research_note": "Black Vault case-file page fetched and verified live (HTTP 200, 2026-09-04); its account is drawn from the DIA's own declassified 1977 IIR. Skeptical Jupiter/equipment-failure/meteor-shower explanation (Philip Klass, James Oberg, Brian Dunning, Martin Bridgstock) verified via the Wikipedia article, which also confirms the DIA report language and lack of any subsequent official U.S. or Iranian statement."
+  }
+]
